@@ -1,0 +1,5806 @@
+PRINTING TRACE FOR NEXT DOC: 
+
+Sentence: 
+
+<DOC id="APW_ENG_20100803.0092" type="story" > <HEADLINE> Inquest to begin into secret bomb experiment death </HEADLINE> <DATELINE> LONDON 2010-08-03 05:10:39 UTC </DATELINE> <TEXT> <P> A long-awaited investigation into the death of a British scientist killed during secret U.K.-U.S. experiments to build homemade bombs likely to be used by terrorists is scheduled to begin Tuesday.
+
+TOKEN TYPE: <DOC id="APW_ENG_20100803.0092" type="story" >	O
+TOKEN TYPE: <HEADLINE>	O
+TOKEN TYPE: Inquest	MISC
+TOKEN TYPE: to	O
+TOKEN TYPE: begin	O
+TOKEN TYPE: into	O
+TOKEN TYPE: secret	O
+TOKEN TYPE: bomb	O
+TOKEN TYPE: experiment	O
+TOKEN TYPE: death	O
+TOKEN TYPE: </HEADLINE>	O
+TOKEN TYPE: <DATELINE>	O
+TOKEN TYPE: LONDON	LOCATION
+TOKEN TYPE: 2010-08-03	TIME
+TOKEN TYPE: 05:10:39	TIME
+TOKEN TYPE: UTC	O
+TOKEN TYPE: </DATELINE>	O
+TOKEN TYPE: <TEXT>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: A	O
+TOKEN TYPE: long-awaited	O
+TOKEN TYPE: investigation	O
+TOKEN TYPE: into	O
+TOKEN TYPE: the	O
+TOKEN TYPE: death	O
+TOKEN TYPE: of	O
+TOKEN TYPE: a	O
+TOKEN TYPE: British	MISC
+TOKEN TYPE: scientist	O
+TOKEN TYPE: killed	O
+TOKEN TYPE: during	O
+TOKEN TYPE: secret	O
+TOKEN TYPE: U.K.-U.S.	O
+TOKEN TYPE: experiments	O
+TOKEN TYPE: to	O
+TOKEN TYPE: build	O
+TOKEN TYPE: homemade	O
+TOKEN TYPE: bombs	O
+TOKEN TYPE: likely	O
+TOKEN TYPE: to	O
+TOKEN TYPE: be	O
+TOKEN TYPE: used	O
+TOKEN TYPE: by	O
+TOKEN TYPE: terrorists	O
+TOKEN TYPE: is	O
+TOKEN TYPE: scheduled	O
+TOKEN TYPE: to	O
+TOKEN TYPE: begin	O
+TOKEN TYPE: Tuesday	DATE
+TOKEN TYPE: .	O
+Arguments:
+
+Inquest
+LONDON
+British
+Tuesday
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Coroner Peter Dean will open an inquest into the death of Terry Jupp, who died in 2002 during weapons tests on a remote island used as a military facility off England's eastern coast.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Coroner	O
+TOKEN TYPE: Peter	PERSON
+TOKEN TYPE: Dean	PERSON
+TOKEN TYPE: will	O
+TOKEN TYPE: open	O
+TOKEN TYPE: an	O
+TOKEN TYPE: inquest	O
+TOKEN TYPE: into	O
+TOKEN TYPE: the	O
+TOKEN TYPE: death	O
+TOKEN TYPE: of	O
+TOKEN TYPE: Terry	PERSON
+TOKEN TYPE: Jupp	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: who	O
+TOKEN TYPE: died	O
+TOKEN TYPE: in	O
+TOKEN TYPE: 2002	DATE
+TOKEN TYPE: during	O
+TOKEN TYPE: weapons	O
+TOKEN TYPE: tests	O
+TOKEN TYPE: on	O
+TOKEN TYPE: a	O
+TOKEN TYPE: remote	O
+TOKEN TYPE: island	O
+TOKEN TYPE: used	O
+TOKEN TYPE: as	O
+TOKEN TYPE: a	O
+TOKEN TYPE: military	O
+TOKEN TYPE: facility	O
+TOKEN TYPE: off	O
+TOKEN TYPE: England	LOCATION
+TOKEN TYPE: 's	O
+TOKEN TYPE: eastern	O
+TOKEN TYPE: coast	O
+TOKEN TYPE: .	O
+Arguments:
+
+Peter Dean
+Terry Jupp
+2002
+England
+
+Argument Pairs from Model:
+
+Peter Dean	17	27, 2002	91	95
+Terry Jupp	67	77, 2002	91	95
+
+Argument Pairs from Model:
+
+Peter Dean	17	27, England	168	175
+Terry Jupp	67	77, England	168	175
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Peter Dean	17	27, Terry Jupp	67	77
+Terry Jupp	67	77, Peter Dean	17	27
+
+Sentence: 
+
+</P> <P> Jupp, 46, worked for the military's forensic explosive laboratory and suffered severe burns when a crude bomb spontaneously exploded during the tests on Aug. 14, 2002.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Jupp	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: 46	NUMBER
+TOKEN TYPE: ,	O
+TOKEN TYPE: worked	O
+TOKEN TYPE: for	O
+TOKEN TYPE: the	O
+TOKEN TYPE: military	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: forensic	O
+TOKEN TYPE: explosive	O
+TOKEN TYPE: laboratory	O
+TOKEN TYPE: and	O
+TOKEN TYPE: suffered	O
+TOKEN TYPE: severe	O
+TOKEN TYPE: burns	O
+TOKEN TYPE: when	O
+TOKEN TYPE: a	O
+TOKEN TYPE: crude	O
+TOKEN TYPE: bomb	O
+TOKEN TYPE: spontaneously	O
+TOKEN TYPE: exploded	O
+TOKEN TYPE: during	O
+TOKEN TYPE: the	O
+TOKEN TYPE: tests	O
+TOKEN TYPE: on	O
+TOKEN TYPE: Aug.	DATE
+TOKEN TYPE: 14	DATE
+TOKEN TYPE: ,	DATE
+TOKEN TYPE: 2002	DATE
+TOKEN TYPE: .	O
+Arguments:
+
+Jupp
+46
+Aug. 14 , 2002
+
+Argument Pairs from Model:
+
+Jupp	9	13, Aug. 14 , 2002	162	175
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Jupp	9	13, 46	15	17
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+He died of his injuries six days later.
+
+TOKEN TYPE: He	O
+TOKEN TYPE: died	O
+TOKEN TYPE: of	O
+TOKEN TYPE: his	O
+TOKEN TYPE: injuries	O
+TOKEN TYPE: six	DATE
+TOKEN TYPE: days	DATE
+TOKEN TYPE: later	DATE
+TOKEN TYPE: .	O
+Arguments:
+
+six days later
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> The inquest into his death has been delayed for eight years over concerns about the sensitivity of evidence related to the team's classified experiments.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: The	O
+TOKEN TYPE: inquest	O
+TOKEN TYPE: into	O
+TOKEN TYPE: his	O
+TOKEN TYPE: death	O
+TOKEN TYPE: has	O
+TOKEN TYPE: been	O
+TOKEN TYPE: delayed	O
+TOKEN TYPE: for	O
+TOKEN TYPE: eight	DURATION
+TOKEN TYPE: years	NUMBER
+TOKEN TYPE: over	O
+TOKEN TYPE: concerns	O
+TOKEN TYPE: about	O
+TOKEN TYPE: the	O
+TOKEN TYPE: sensitivity	O
+TOKEN TYPE: of	O
+TOKEN TYPE: evidence	O
+TOKEN TYPE: related	O
+TOKEN TYPE: to	O
+TOKEN TYPE: the	O
+TOKEN TYPE: team	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: classified	O
+TOKEN TYPE: experiments	O
+TOKEN TYPE: .	O
+Arguments:
+
+years
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Two of Jupp's managers at the government's military science service -- the Defense, Scientific and Technology Laboratory -- were charged with manslaughter following an inquiry into the blast.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Two	NUMBER
+TOKEN TYPE: of	O
+TOKEN TYPE: Jupp	PERSON
+TOKEN TYPE: 's	O
+TOKEN TYPE: managers	O
+TOKEN TYPE: at	O
+TOKEN TYPE: the	O
+TOKEN TYPE: government	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: military	O
+TOKEN TYPE: science	O
+TOKEN TYPE: service	O
+TOKEN TYPE: --	O
+TOKEN TYPE: the	O
+TOKEN TYPE: Defense	ORGANIZATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: Scientific	O
+TOKEN TYPE: and	O
+TOKEN TYPE: Technology	O
+TOKEN TYPE: Laboratory	O
+TOKEN TYPE: --	O
+TOKEN TYPE: were	O
+TOKEN TYPE: charged	O
+TOKEN TYPE: with	O
+TOKEN TYPE: manslaughter	O
+TOKEN TYPE: following	O
+TOKEN TYPE: an	O
+TOKEN TYPE: inquiry	O
+TOKEN TYPE: into	O
+TOKEN TYPE: the	O
+TOKEN TYPE: blast	O
+TOKEN TYPE: .	O
+Arguments:
+
+Two
+Jupp
+Defense
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Jupp	16	20, Two	9	12
+
+Argument Pairs from Model:
+
+Jupp	16	20, Defense	84	91
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Both denied the allegation.
+
+TOKEN TYPE: Both	O
+TOKEN TYPE: denied	O
+TOKEN TYPE: the	O
+TOKEN TYPE: allegation	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Prosecutors withdrew a charge against scientist Maurice Marshall in 2007, but declined to disclose their reasons citing security concerns.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Prosecutors	O
+TOKEN TYPE: withdrew	O
+TOKEN TYPE: a	O
+TOKEN TYPE: charge	O
+TOKEN TYPE: against	O
+TOKEN TYPE: scientist	O
+TOKEN TYPE: Maurice	PERSON
+TOKEN TYPE: Marshall	PERSON
+TOKEN TYPE: in	O
+TOKEN TYPE: 2007	DATE
+TOKEN TYPE: ,	O
+TOKEN TYPE: but	O
+TOKEN TYPE: declined	O
+TOKEN TYPE: to	O
+TOKEN TYPE: disclose	O
+TOKEN TYPE: their	O
+TOKEN TYPE: reasons	O
+TOKEN TYPE: citing	O
+TOKEN TYPE: security	O
+TOKEN TYPE: concerns	O
+TOKEN TYPE: .	O
+Arguments:
+
+Maurice Marshall
+2007
+
+Argument Pairs from Model:
+
+Maurice Marshall	57	73, 2007	77	81
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Gareth Patterson, a prosecution lawyer, told a hearing at London's Old Bailey court in 2007 that the charge against Marshall had been withdrawn following a review of "the decision at a very high level."
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Gareth	PERSON
+TOKEN TYPE: Patterson	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: a	O
+TOKEN TYPE: prosecution	O
+TOKEN TYPE: lawyer	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: told	O
+TOKEN TYPE: a	O
+TOKEN TYPE: hearing	O
+TOKEN TYPE: at	O
+TOKEN TYPE: London	LOCATION
+TOKEN TYPE: 's	O
+TOKEN TYPE: Old	LOCATION
+TOKEN TYPE: Bailey	LOCATION
+TOKEN TYPE: court	O
+TOKEN TYPE: in	O
+TOKEN TYPE: 2007	DATE
+TOKEN TYPE: that	O
+TOKEN TYPE: the	O
+TOKEN TYPE: charge	O
+TOKEN TYPE: against	O
+TOKEN TYPE: Marshall	PERSON
+TOKEN TYPE: had	O
+TOKEN TYPE: been	O
+TOKEN TYPE: withdrawn	O
+TOKEN TYPE: following	O
+TOKEN TYPE: a	O
+TOKEN TYPE: review	O
+TOKEN TYPE: of	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: the	O
+TOKEN TYPE: decision	O
+TOKEN TYPE: at	O
+TOKEN TYPE: a	O
+TOKEN TYPE: very	O
+TOKEN TYPE: high	O
+TOKEN TYPE: level	O
+TOKEN TYPE: .	O
+TOKEN TYPE: ''	O
+Arguments:
+
+Gareth Patterson
+London
+Old Bailey
+2007
+Marshall
+
+Argument Pairs from Model:
+
+Gareth Patterson	9	25, 2007	96	100
+Marshall	125	133, 2007	96	100
+
+Argument Pairs from Model:
+
+Gareth Patterson	9	25, London	67	73
+Gareth Patterson	9	25, Old Bailey	76	86
+Marshall	125	133, London	67	73
+Marshall	125	133, Old Bailey	76	86
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Gareth Patterson	9	25, Marshall	125	133
+Marshall	125	133, Gareth Patterson	9	25
+
+Sentence: 
+
+</P> <P> "The difficulties of the sensitivities of this case are such that I cannot go into too much detail about the information in open court.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: The	O
+TOKEN TYPE: difficulties	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: sensitivities	O
+TOKEN TYPE: of	O
+TOKEN TYPE: this	O
+TOKEN TYPE: case	O
+TOKEN TYPE: are	O
+TOKEN TYPE: such	O
+TOKEN TYPE: that	O
+TOKEN TYPE: I	O
+TOKEN TYPE: can	O
+TOKEN TYPE: not	O
+TOKEN TYPE: go	O
+TOKEN TYPE: into	O
+TOKEN TYPE: too	O
+TOKEN TYPE: much	O
+TOKEN TYPE: detail	O
+TOKEN TYPE: about	O
+TOKEN TYPE: the	O
+TOKEN TYPE: information	O
+TOKEN TYPE: in	O
+TOKEN TYPE: open	O
+TOKEN TYPE: court	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+That information involves further evidence involving the results of a series of tests carried out by one of the prosecution witnesses," he told the court.
+
+TOKEN TYPE: That	O
+TOKEN TYPE: information	O
+TOKEN TYPE: involves	O
+TOKEN TYPE: further	O
+TOKEN TYPE: evidence	O
+TOKEN TYPE: involving	O
+TOKEN TYPE: the	O
+TOKEN TYPE: results	O
+TOKEN TYPE: of	O
+TOKEN TYPE: a	O
+TOKEN TYPE: series	O
+TOKEN TYPE: of	O
+TOKEN TYPE: tests	O
+TOKEN TYPE: carried	O
+TOKEN TYPE: out	O
+TOKEN TYPE: by	O
+TOKEN TYPE: one	NUMBER
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: prosecution	O
+TOKEN TYPE: witnesses	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: he	O
+TOKEN TYPE: told	O
+TOKEN TYPE: the	O
+TOKEN TYPE: court	O
+TOKEN TYPE: .	O
+Arguments:
+
+one
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Military scientist Robert Weighill was cleared of a similar charge in 2005, when a judge ruled there was insufficient evidence.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Military	O
+TOKEN TYPE: scientist	O
+TOKEN TYPE: Robert	PERSON
+TOKEN TYPE: Weighill	PERSON
+TOKEN TYPE: was	O
+TOKEN TYPE: cleared	O
+TOKEN TYPE: of	O
+TOKEN TYPE: a	O
+TOKEN TYPE: similar	O
+TOKEN TYPE: charge	O
+TOKEN TYPE: in	O
+TOKEN TYPE: 2005	DATE
+TOKEN TYPE: ,	O
+TOKEN TYPE: when	O
+TOKEN TYPE: a	O
+TOKEN TYPE: judge	O
+TOKEN TYPE: ruled	O
+TOKEN TYPE: there	O
+TOKEN TYPE: was	O
+TOKEN TYPE: insufficient	O
+TOKEN TYPE: evidence	O
+TOKEN TYPE: .	O
+Arguments:
+
+Robert Weighill
+2005
+
+Argument Pairs from Model:
+
+Robert Weighill	28	43, 2005	79	83
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Both Marshall and Weighill are expected to give evidence to the inquest hearing.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Both	O
+TOKEN TYPE: Marshall	PERSON
+TOKEN TYPE: and	O
+TOKEN TYPE: Weighill	PERSON
+TOKEN TYPE: are	O
+TOKEN TYPE: expected	O
+TOKEN TYPE: to	O
+TOKEN TYPE: give	O
+TOKEN TYPE: evidence	O
+TOKEN TYPE: to	O
+TOKEN TYPE: the	O
+TOKEN TYPE: inquest	O
+TOKEN TYPE: hearing	O
+TOKEN TYPE: .	O
+Arguments:
+
+Marshall
+Weighill
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Marshall	14	22, Weighill	27	35
+Weighill	27	35, Marshall	14	22
+
+Sentence: 
+
+</P> <P> Some parts of the inquest, to be heard before a jury at Southend Crown Court, about 40 miles (70 kilometers) east of London, will be held in private on national security grounds.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Some	O
+TOKEN TYPE: parts	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: inquest	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: to	O
+TOKEN TYPE: be	O
+TOKEN TYPE: heard	O
+TOKEN TYPE: before	O
+TOKEN TYPE: a	O
+TOKEN TYPE: jury	O
+TOKEN TYPE: at	O
+TOKEN TYPE: Southend	ORGANIZATION
+TOKEN TYPE: Crown	ORGANIZATION
+TOKEN TYPE: Court	ORGANIZATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: about	O
+TOKEN TYPE: 40	NUMBER
+TOKEN TYPE: miles	O
+TOKEN TYPE: -LRB-	O
+TOKEN TYPE: 70	NUMBER
+TOKEN TYPE: kilometers	O
+TOKEN TYPE: -RRB-	O
+TOKEN TYPE: east	O
+TOKEN TYPE: of	O
+TOKEN TYPE: London	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: will	O
+TOKEN TYPE: be	O
+TOKEN TYPE: held	O
+TOKEN TYPE: in	O
+TOKEN TYPE: private	O
+TOKEN TYPE: on	O
+TOKEN TYPE: national	O
+TOKEN TYPE: security	O
+TOKEN TYPE: grounds	O
+TOKEN TYPE: .	O
+Arguments:
+
+Southend Crown Court
+40
+70
+London
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Britain's Ministry of Defense said work has been carried out to censor some classified documents for use at the inquest, but denied it had contributed to the eight-year delay.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Britain	LOCATION
+TOKEN TYPE: 's	O
+TOKEN TYPE: Ministry	ORGANIZATION
+TOKEN TYPE: of	ORGANIZATION
+TOKEN TYPE: Defense	ORGANIZATION
+TOKEN TYPE: said	O
+TOKEN TYPE: work	O
+TOKEN TYPE: has	O
+TOKEN TYPE: been	O
+TOKEN TYPE: carried	O
+TOKEN TYPE: out	O
+TOKEN TYPE: to	O
+TOKEN TYPE: censor	O
+TOKEN TYPE: some	O
+TOKEN TYPE: classified	O
+TOKEN TYPE: documents	O
+TOKEN TYPE: for	O
+TOKEN TYPE: use	O
+TOKEN TYPE: at	O
+TOKEN TYPE: the	O
+TOKEN TYPE: inquest	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: but	O
+TOKEN TYPE: denied	O
+TOKEN TYPE: it	O
+TOKEN TYPE: had	O
+TOKEN TYPE: contributed	O
+TOKEN TYPE: to	O
+TOKEN TYPE: the	O
+TOKEN TYPE: eight-year	DURATION
+TOKEN TYPE: delay	O
+TOKEN TYPE: .	O
+Arguments:
+
+Britain
+Ministry of Defense
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> "The MOD has cooperated fully, decisions on when the inquest should take place are a matter for the coroner," a defense ministry spokesman said, speaking on condition of anonymity in line with policy.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: The	O
+TOKEN TYPE: MOD	O
+TOKEN TYPE: has	O
+TOKEN TYPE: cooperated	O
+TOKEN TYPE: fully	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: decisions	O
+TOKEN TYPE: on	O
+TOKEN TYPE: when	O
+TOKEN TYPE: the	O
+TOKEN TYPE: inquest	O
+TOKEN TYPE: should	O
+TOKEN TYPE: take	O
+TOKEN TYPE: place	O
+TOKEN TYPE: are	O
+TOKEN TYPE: a	O
+TOKEN TYPE: matter	O
+TOKEN TYPE: for	O
+TOKEN TYPE: the	O
+TOKEN TYPE: coroner	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: a	O
+TOKEN TYPE: defense	O
+TOKEN TYPE: ministry	O
+TOKEN TYPE: spokesman	O
+TOKEN TYPE: said	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: speaking	O
+TOKEN TYPE: on	O
+TOKEN TYPE: condition	O
+TOKEN TYPE: of	O
+TOKEN TYPE: anonymity	O
+TOKEN TYPE: in	O
+TOKEN TYPE: line	O
+TOKEN TYPE: with	O
+TOKEN TYPE: policy	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> The precise nature of experiments the scientists were conducting when Jupp died have never been explained, though the program is thought to have been a collaboration with the U.S. Los Alamos national laboratory in New Mexico.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: The	O
+TOKEN TYPE: precise	O
+TOKEN TYPE: nature	O
+TOKEN TYPE: of	O
+TOKEN TYPE: experiments	O
+TOKEN TYPE: the	O
+TOKEN TYPE: scientists	O
+TOKEN TYPE: were	O
+TOKEN TYPE: conducting	O
+TOKEN TYPE: when	O
+TOKEN TYPE: Jupp	PERSON
+TOKEN TYPE: died	O
+TOKEN TYPE: have	O
+TOKEN TYPE: never	O
+TOKEN TYPE: been	O
+TOKEN TYPE: explained	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: though	O
+TOKEN TYPE: the	O
+TOKEN TYPE: program	O
+TOKEN TYPE: is	O
+TOKEN TYPE: thought	O
+TOKEN TYPE: to	O
+TOKEN TYPE: have	O
+TOKEN TYPE: been	O
+TOKEN TYPE: a	O
+TOKEN TYPE: collaboration	O
+TOKEN TYPE: with	O
+TOKEN TYPE: the	O
+TOKEN TYPE: U.S.	LOCATION
+TOKEN TYPE: Los	LOCATION
+TOKEN TYPE: Alamos	LOCATION
+TOKEN TYPE: national	O
+TOKEN TYPE: laboratory	O
+TOKEN TYPE: in	O
+TOKEN TYPE: New	LOCATION
+TOKEN TYPE: Mexico	LOCATION
+TOKEN TYPE: .	O
+Arguments:
+
+Jupp
+U.S. Los Alamos
+New Mexico
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Jupp	79	83, U.S. Los Alamos	184	199
+Jupp	79	83, New Mexico	223	233
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Britain's defense ministry has denied claims the team was working on a program to test whether terrorists could build so called "dirty bombs," which use conventional explosives to scatter radiological material.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Britain	LOCATION
+TOKEN TYPE: 's	O
+TOKEN TYPE: defense	O
+TOKEN TYPE: ministry	O
+TOKEN TYPE: has	O
+TOKEN TYPE: denied	O
+TOKEN TYPE: claims	O
+TOKEN TYPE: the	O
+TOKEN TYPE: team	O
+TOKEN TYPE: was	O
+TOKEN TYPE: working	O
+TOKEN TYPE: on	O
+TOKEN TYPE: a	O
+TOKEN TYPE: program	O
+TOKEN TYPE: to	O
+TOKEN TYPE: test	O
+TOKEN TYPE: whether	O
+TOKEN TYPE: terrorists	O
+TOKEN TYPE: could	O
+TOKEN TYPE: build	O
+TOKEN TYPE: so	O
+TOKEN TYPE: called	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: dirty	O
+TOKEN TYPE: bombs	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: which	O
+TOKEN TYPE: use	O
+TOKEN TYPE: conventional	O
+TOKEN TYPE: explosives	O
+TOKEN TYPE: to	O
+TOKEN TYPE: scatter	O
+TOKEN TYPE: radiological	O
+TOKEN TYPE: material	O
+TOKEN TYPE: .	O
+Arguments:
+
+Britain
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> "There were no radiological tests involved," the defense ministry spokesman said.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: There	O
+TOKEN TYPE: were	O
+TOKEN TYPE: no	O
+TOKEN TYPE: radiological	O
+TOKEN TYPE: tests	O
+TOKEN TYPE: involved	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: the	O
+TOKEN TYPE: defense	O
+TOKEN TYPE: ministry	O
+TOKEN TYPE: spokesman	O
+TOKEN TYPE: said	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Part of the team's work involved attempts to construct bombs from widely available ingredients, including hydrogen peroxide.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Part	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: team	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: work	O
+TOKEN TYPE: involved	O
+TOKEN TYPE: attempts	O
+TOKEN TYPE: to	O
+TOKEN TYPE: construct	O
+TOKEN TYPE: bombs	O
+TOKEN TYPE: from	O
+TOKEN TYPE: widely	O
+TOKEN TYPE: available	O
+TOKEN TYPE: ingredients	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: including	O
+TOKEN TYPE: hydrogen	O
+TOKEN TYPE: peroxide	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Similar bombs were later used in the 2005 suicide attacks on London mass transit, which killed 52 commuters.
+
+TOKEN TYPE: Similar	O
+TOKEN TYPE: bombs	O
+TOKEN TYPE: were	O
+TOKEN TYPE: later	O
+TOKEN TYPE: used	O
+TOKEN TYPE: in	O
+TOKEN TYPE: the	O
+TOKEN TYPE: 2005	DATE
+TOKEN TYPE: suicide	O
+TOKEN TYPE: attacks	O
+TOKEN TYPE: on	O
+TOKEN TYPE: London	LOCATION
+TOKEN TYPE: mass	O
+TOKEN TYPE: transit	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: which	O
+TOKEN TYPE: killed	O
+TOKEN TYPE: 52	NUMBER
+TOKEN TYPE: commuters	O
+TOKEN TYPE: .	O
+Arguments:
+
+2005
+London
+52
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> The inquest hearing is expected to last up to four weeks.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: The	O
+TOKEN TYPE: inquest	O
+TOKEN TYPE: hearing	O
+TOKEN TYPE: is	O
+TOKEN TYPE: expected	O
+TOKEN TYPE: to	O
+TOKEN TYPE: last	DATE
+TOKEN TYPE: up	DATE
+TOKEN TYPE: to	DATE
+TOKEN TYPE: four	DATE
+TOKEN TYPE: weeks	DATE
+TOKEN TYPE: .	O
+Arguments:
+
+last up to four weeks
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> </TEXT> </DOC>
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: </TEXT>	O
+TOKEN TYPE: </DOC>	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+PRINTING TRACE FOR NEXT DOC: 
+
+Sentence: 
+
+<DOC id="WPB_ENG_20101028.0046" type="story"> <HEADLINE> Alessi, the Difference Between Everyday and Mundane </HEADLINE> <DATELINE> By Jura Koncius WASHINGTON POST-BLOOMBERG--10-28-10 1459ET </DATELINE> <TEXT> <P> The Alessi Store brings playful, affordable housewares to shoppers.
+
+TOKEN TYPE: <DOC id="WPB_ENG_20101028.0046" type="story">	O
+TOKEN TYPE: <HEADLINE>	O
+TOKEN TYPE: Alessi	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: the	O
+TOKEN TYPE: Difference	O
+TOKEN TYPE: Between	O
+TOKEN TYPE: Everyday	O
+TOKEN TYPE: and	O
+TOKEN TYPE: Mundane	O
+TOKEN TYPE: </HEADLINE>	O
+TOKEN TYPE: <DATELINE>	O
+TOKEN TYPE: By	O
+TOKEN TYPE: Jura	PERSON
+TOKEN TYPE: Koncius	PERSON
+TOKEN TYPE: WASHINGTON	LOCATION
+TOKEN TYPE: POST-BLOOMBERG	O
+TOKEN TYPE: --	O
+TOKEN TYPE: 10-28-10	DATE
+TOKEN TYPE: 1459ET	O
+TOKEN TYPE: </DATELINE>	O
+TOKEN TYPE: <TEXT>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: The	O
+TOKEN TYPE: Alessi	PERSON
+TOKEN TYPE: Store	PERSON
+TOKEN TYPE: brings	O
+TOKEN TYPE: playful	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: affordable	O
+TOKEN TYPE: housewares	O
+TOKEN TYPE: to	O
+TOKEN TYPE: shoppers	O
+TOKEN TYPE: .	O
+Arguments:
+
+Alessi
+Jura Koncius
+WASHINGTON
+10-28-10
+Alessi Store
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Alessi, an Italian company, is known for witty versions of everyday objects, from bottle openers to pasta cookers, designed by more than 200 noted architects and designers.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Alessi	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: an	O
+TOKEN TYPE: Italian	MISC
+TOKEN TYPE: company	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: is	O
+TOKEN TYPE: known	O
+TOKEN TYPE: for	O
+TOKEN TYPE: witty	O
+TOKEN TYPE: versions	O
+TOKEN TYPE: of	O
+TOKEN TYPE: everyday	O
+TOKEN TYPE: objects	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: from	O
+TOKEN TYPE: bottle	O
+TOKEN TYPE: openers	O
+TOKEN TYPE: to	O
+TOKEN TYPE: pasta	O
+TOKEN TYPE: cookers	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: designed	O
+TOKEN TYPE: by	O
+TOKEN TYPE: more	O
+TOKEN TYPE: than	O
+TOKEN TYPE: 200	NUMBER
+TOKEN TYPE: noted	O
+TOKEN TYPE: architects	O
+TOKEN TYPE: and	O
+TOKEN TYPE: designers	O
+TOKEN TYPE: .	O
+Arguments:
+
+Alessi
+Italian
+200
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Its seventh American store opened last week in Washington, joining stores in Chicago, Los Angeles, New York (two stores), Phoenix and San Francisco.
+
+TOKEN TYPE: Its	O
+TOKEN TYPE: seventh	ORDINAL
+TOKEN TYPE: American	MISC
+TOKEN TYPE: store	O
+TOKEN TYPE: opened	O
+TOKEN TYPE: last	DATE
+TOKEN TYPE: week	DATE
+TOKEN TYPE: in	O
+TOKEN TYPE: Washington	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: joining	O
+TOKEN TYPE: stores	O
+TOKEN TYPE: in	O
+TOKEN TYPE: Chicago	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: Los	LOCATION
+TOKEN TYPE: Angeles	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: New	LOCATION
+TOKEN TYPE: York	LOCATION
+TOKEN TYPE: -LRB-	O
+TOKEN TYPE: two	NUMBER
+TOKEN TYPE: stores	O
+TOKEN TYPE: -RRB-	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: Phoenix	LOCATION
+TOKEN TYPE: and	O
+TOKEN TYPE: San	LOCATION
+TOKEN TYPE: Francisco	LOCATION
+TOKEN TYPE: .	O
+Arguments:
+
+American
+last week
+Washington
+Chicago
+Los Angeles
+New York
+two
+Phoenix
+San Francisco
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Alessi was founded in 1921, and store shelves hold a history of familiar household items, such as the Dr. Skud fly swatter ($16) by French design superstar Philippe Starck.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Alessi	PERSON
+TOKEN TYPE: was	O
+TOKEN TYPE: founded	O
+TOKEN TYPE: in	O
+TOKEN TYPE: 1921	DATE
+TOKEN TYPE: ,	O
+TOKEN TYPE: and	O
+TOKEN TYPE: store	O
+TOKEN TYPE: shelves	O
+TOKEN TYPE: hold	O
+TOKEN TYPE: a	O
+TOKEN TYPE: history	O
+TOKEN TYPE: of	O
+TOKEN TYPE: familiar	O
+TOKEN TYPE: household	O
+TOKEN TYPE: items	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: such	O
+TOKEN TYPE: as	O
+TOKEN TYPE: the	O
+TOKEN TYPE: Dr.	O
+TOKEN TYPE: Skud	O
+TOKEN TYPE: fly	O
+TOKEN TYPE: swatter	O
+TOKEN TYPE: -LRB-	O
+TOKEN TYPE: $	MONEY
+TOKEN TYPE: 16	MONEY
+TOKEN TYPE: -RRB-	O
+TOKEN TYPE: by	O
+TOKEN TYPE: French	MISC
+TOKEN TYPE: design	O
+TOKEN TYPE: superstar	O
+TOKEN TYPE: Philippe	PERSON
+TOKEN TYPE: Starck	PERSON
+TOKEN TYPE: .	O
+Arguments:
+
+Alessi
+1921
+French
+Philippe Starck
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> "We like to think of them as items that make you smile," said Alessio Alessi, the chief executive officer and third generation to run the family firm.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: We	O
+TOKEN TYPE: like	O
+TOKEN TYPE: to	O
+TOKEN TYPE: think	O
+TOKEN TYPE: of	O
+TOKEN TYPE: them	O
+TOKEN TYPE: as	O
+TOKEN TYPE: items	O
+TOKEN TYPE: that	O
+TOKEN TYPE: make	O
+TOKEN TYPE: you	O
+TOKEN TYPE: smile	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: said	O
+TOKEN TYPE: Alessio	PERSON
+TOKEN TYPE: Alessi	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: the	O
+TOKEN TYPE: chief	O
+TOKEN TYPE: executive	O
+TOKEN TYPE: officer	O
+TOKEN TYPE: and	O
+TOKEN TYPE: third	ORDINAL
+TOKEN TYPE: generation	O
+TOKEN TYPE: to	O
+TOKEN TYPE: run	O
+TOKEN TYPE: the	O
+TOKEN TYPE: family	O
+TOKEN TYPE: firm	O
+TOKEN TYPE: .	O
+Arguments:
+
+Alessio Alessi
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+"Our business is function and emotion."
+
+TOKEN TYPE: ``	O
+TOKEN TYPE: Our	O
+TOKEN TYPE: business	O
+TOKEN TYPE: is	O
+TOKEN TYPE: function	O
+TOKEN TYPE: and	O
+TOKEN TYPE: emotion	O
+TOKEN TYPE: .	O
+TOKEN TYPE: ''	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Alessi designs perform ordinary tasks of modern life with a bit of extra style: You'll find cute sweater defuzzers, sushi trays and a stainless-steel nutcracker shaped like a squirrel.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Alessi	PERSON
+TOKEN TYPE: designs	O
+TOKEN TYPE: perform	O
+TOKEN TYPE: ordinary	O
+TOKEN TYPE: tasks	O
+TOKEN TYPE: of	O
+TOKEN TYPE: modern	O
+TOKEN TYPE: life	O
+TOKEN TYPE: with	O
+TOKEN TYPE: a	O
+TOKEN TYPE: bit	O
+TOKEN TYPE: of	O
+TOKEN TYPE: extra	O
+TOKEN TYPE: style	O
+TOKEN TYPE: :	O
+TOKEN TYPE: You	O
+TOKEN TYPE: 'll	O
+TOKEN TYPE: find	O
+TOKEN TYPE: cute	O
+TOKEN TYPE: sweater	O
+TOKEN TYPE: defuzzers	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: sushi	O
+TOKEN TYPE: trays	O
+TOKEN TYPE: and	O
+TOKEN TYPE: a	O
+TOKEN TYPE: stainless-steel	O
+TOKEN TYPE: nutcracker	O
+TOKEN TYPE: shaped	O
+TOKEN TYPE: like	O
+TOKEN TYPE: a	O
+TOKEN TYPE: squirrel	O
+TOKEN TYPE: .	O
+Arguments:
+
+Alessi
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Over the years, Alessi has created about 3,000 products.
+
+TOKEN TYPE: Over	O
+TOKEN TYPE: the	DURATION
+TOKEN TYPE: years	DURATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: Alessi	PERSON
+TOKEN TYPE: has	O
+TOKEN TYPE: created	O
+TOKEN TYPE: about	O
+TOKEN TYPE: 3,000	NUMBER
+TOKEN TYPE: products	O
+TOKEN TYPE: .	O
+Arguments:
+
+Alessi
+3,000
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Alessi pieces are part of many permanent museum collections of modern design.
+
+TOKEN TYPE: Alessi	PERSON
+TOKEN TYPE: pieces	O
+TOKEN TYPE: are	O
+TOKEN TYPE: part	O
+TOKEN TYPE: of	O
+TOKEN TYPE: many	O
+TOKEN TYPE: permanent	O
+TOKEN TYPE: museum	O
+TOKEN TYPE: collections	O
+TOKEN TYPE: of	O
+TOKEN TYPE: modern	O
+TOKEN TYPE: design	O
+TOKEN TYPE: .	O
+Arguments:
+
+Alessi
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> "I think it's like candy to the eye," said Deborah Kalkstein, who owns and operates the new Alessi Store in D.C. and owns Contemporaria, a shop that sells modern European furniture just down a cobblestone alley.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: I	O
+TOKEN TYPE: think	O
+TOKEN TYPE: it	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: like	O
+TOKEN TYPE: candy	O
+TOKEN TYPE: to	O
+TOKEN TYPE: the	O
+TOKEN TYPE: eye	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: said	O
+TOKEN TYPE: Deborah	PERSON
+TOKEN TYPE: Kalkstein	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: who	O
+TOKEN TYPE: owns	O
+TOKEN TYPE: and	O
+TOKEN TYPE: operates	O
+TOKEN TYPE: the	O
+TOKEN TYPE: new	O
+TOKEN TYPE: Alessi	ORGANIZATION
+TOKEN TYPE: Store	ORGANIZATION
+TOKEN TYPE: in	O
+TOKEN TYPE: D.C.	LOCATION
+TOKEN TYPE: and	O
+TOKEN TYPE: owns	O
+TOKEN TYPE: Contemporaria	ORGANIZATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: a	O
+TOKEN TYPE: shop	O
+TOKEN TYPE: that	O
+TOKEN TYPE: sells	O
+TOKEN TYPE: modern	O
+TOKEN TYPE: European	MISC
+TOKEN TYPE: furniture	O
+TOKEN TYPE: just	O
+TOKEN TYPE: down	O
+TOKEN TYPE: a	O
+TOKEN TYPE: cobblestone	O
+TOKEN TYPE: alley	O
+TOKEN TYPE: .	O
+Arguments:
+
+Deborah Kalkstein
+Alessi Store
+D.C.
+Contemporaria
+European
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Alessi Store	101	113, D.C.	117	121
+Contemporaria	131	144, D.C.	117	121
+
+Argument Pairs from Model:
+
+Alessi Store	101	113, Contemporaria	131	144
+Contemporaria	131	144, Alessi Store	101	113
+
+Argument Pairs from Model:
+
+Alessi Store	101	113, European	171	179
+Contemporaria	131	144, European	171	179
+
+Argument Pairs from Model:
+
+Alessi Store	101	113, Deborah Kalkstein	52	69
+Contemporaria	131	144, Deborah Kalkstein	52	69
+
+Sentence: 
+
+"For me the most exciting part is that there is a product for everyone, men and women, the old and the young, even for your dog," said Kalkstein, pointing out designer Miriam Mirri's fetching Lupita canine watering station in stainless steel topped with a white dog bone.
+
+TOKEN TYPE: ``	O
+TOKEN TYPE: For	O
+TOKEN TYPE: me	O
+TOKEN TYPE: the	O
+TOKEN TYPE: most	O
+TOKEN TYPE: exciting	O
+TOKEN TYPE: part	O
+TOKEN TYPE: is	O
+TOKEN TYPE: that	O
+TOKEN TYPE: there	O
+TOKEN TYPE: is	O
+TOKEN TYPE: a	O
+TOKEN TYPE: product	O
+TOKEN TYPE: for	O
+TOKEN TYPE: everyone	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: men	O
+TOKEN TYPE: and	O
+TOKEN TYPE: women	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: the	O
+TOKEN TYPE: old	O
+TOKEN TYPE: and	O
+TOKEN TYPE: the	O
+TOKEN TYPE: young	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: even	O
+TOKEN TYPE: for	O
+TOKEN TYPE: your	O
+TOKEN TYPE: dog	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: said	O
+TOKEN TYPE: Kalkstein	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: pointing	O
+TOKEN TYPE: out	O
+TOKEN TYPE: designer	O
+TOKEN TYPE: Miriam	PERSON
+TOKEN TYPE: Mirri	PERSON
+TOKEN TYPE: 's	O
+TOKEN TYPE: fetching	O
+TOKEN TYPE: Lupita	PERSON
+TOKEN TYPE: canine	O
+TOKEN TYPE: watering	O
+TOKEN TYPE: station	O
+TOKEN TYPE: in	O
+TOKEN TYPE: stainless	O
+TOKEN TYPE: steel	O
+TOKEN TYPE: topped	O
+TOKEN TYPE: with	O
+TOKEN TYPE: a	O
+TOKEN TYPE: white	O
+TOKEN TYPE: dog	O
+TOKEN TYPE: bone	O
+TOKEN TYPE: .	O
+Arguments:
+
+Kalkstein
+Miriam Mirri
+Lupita
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> - - - </P> <P> The 24 Hour Sentence Maker Wall Clock, designed by Marti Guix  for Alessi, $155.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: -	O
+TOKEN TYPE: -	O
+TOKEN TYPE: -	O
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: The	DURATION
+TOKEN TYPE: 24	DURATION
+TOKEN TYPE: Hour	DURATION
+TOKEN TYPE: Sentence	O
+TOKEN TYPE: Maker	O
+TOKEN TYPE: Wall	O
+TOKEN TYPE: Clock	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: designed	O
+TOKEN TYPE: by	O
+TOKEN TYPE: Marti	PERSON
+TOKEN TYPE: Guix	PERSON
+TOKEN TYPE: for	O
+TOKEN TYPE: Alessi	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: $	MONEY
+TOKEN TYPE: 155	MONEY
+TOKEN TYPE: .	O
+Arguments:
+
+Marti Guix
+Alessi
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> La Rosa fruit bowl, designed by LPWK and Emma Silvestris, $102 for the large size.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: La	O
+TOKEN TYPE: Rosa	O
+TOKEN TYPE: fruit	O
+TOKEN TYPE: bowl	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: designed	O
+TOKEN TYPE: by	O
+TOKEN TYPE: LPWK	ORGANIZATION
+TOKEN TYPE: and	O
+TOKEN TYPE: Emma	PERSON
+TOKEN TYPE: Silvestris	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: $	MONEY
+TOKEN TYPE: 102	MONEY
+TOKEN TYPE: for	O
+TOKEN TYPE: the	O
+TOKEN TYPE: large	O
+TOKEN TYPE: size	O
+TOKEN TYPE: .	O
+Arguments:
+
+LPWK
+Emma Silvestris
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+LPWK	41	45, Emma Silvestris	50	65
+
+Sentence: 
+
+</P> <P> Anna G. wine corkscrew, designed by Alessandro Mendini, $60.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Anna	PERSON
+TOKEN TYPE: G.	PERSON
+TOKEN TYPE: wine	O
+TOKEN TYPE: corkscrew	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: designed	O
+TOKEN TYPE: by	O
+TOKEN TYPE: Alessandro	PERSON
+TOKEN TYPE: Mendini	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: $	MONEY
+TOKEN TYPE: 60	MONEY
+TOKEN TYPE: .	O
+Arguments:
+
+Anna G.
+Alessandro Mendini
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> MySqueeze, a citrus juicer designed by Roland Kreiter, retailing for $67.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: MySqueeze	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: a	O
+TOKEN TYPE: citrus	O
+TOKEN TYPE: juicer	O
+TOKEN TYPE: designed	O
+TOKEN TYPE: by	O
+TOKEN TYPE: Roland	PERSON
+TOKEN TYPE: Kreiter	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: retailing	O
+TOKEN TYPE: for	O
+TOKEN TYPE: $	MONEY
+TOKEN TYPE: 67	MONEY
+TOKEN TYPE: .	O
+Arguments:
+
+Roland Kreiter
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> </TEXT> </DOC>
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: </TEXT>	O
+TOKEN TYPE: </DOC>	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+PRINTING TRACE FOR NEXT DOC: 
+
+Sentence: 
+
+<DOC id="NYT_ENG_20101109.0075" type="story" > <HEADLINE> THE HOLIDAY TURKEY STEPS OUT FOR A SMOKE IN TEXAS </HEADLINE> <DATELINE> TYLER, Texas </DATELINE> <TEXT> <P> Last week, Teresa Braziel bought her "first Greenberg of the season," a nine-pound turkey, nestled in a white cardboard box, printed with the slogan "The Holiday Aristocrat."
+
+TOKEN TYPE: <DOC id="NYT_ENG_20101109.0075" type="story" >	O
+TOKEN TYPE: <HEADLINE>	O
+TOKEN TYPE: THE	O
+TOKEN TYPE: HOLIDAY	O
+TOKEN TYPE: TURKEY	O
+TOKEN TYPE: STEPS	O
+TOKEN TYPE: OUT	O
+TOKEN TYPE: FOR	O
+TOKEN TYPE: A	O
+TOKEN TYPE: SMOKE	O
+TOKEN TYPE: IN	O
+TOKEN TYPE: TEXAS	LOCATION
+TOKEN TYPE: </HEADLINE>	O
+TOKEN TYPE: <DATELINE>	O
+TOKEN TYPE: TYLER	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: Texas	LOCATION
+TOKEN TYPE: </DATELINE>	O
+TOKEN TYPE: <TEXT>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Last	DATE
+TOKEN TYPE: week	DATE
+TOKEN TYPE: ,	O
+TOKEN TYPE: Teresa	PERSON
+TOKEN TYPE: Braziel	PERSON
+TOKEN TYPE: bought	O
+TOKEN TYPE: her	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: first	ORDINAL
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: season	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: a	O
+TOKEN TYPE: nine-pound	O
+TOKEN TYPE: turkey	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: nestled	O
+TOKEN TYPE: in	O
+TOKEN TYPE: a	O
+TOKEN TYPE: white	O
+TOKEN TYPE: cardboard	O
+TOKEN TYPE: box	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: printed	O
+TOKEN TYPE: with	O
+TOKEN TYPE: the	O
+TOKEN TYPE: slogan	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: The	O
+TOKEN TYPE: Holiday	O
+TOKEN TYPE: Aristocrat	O
+TOKEN TYPE: .	O
+TOKEN TYPE: ''	O
+Arguments:
+
+TEXAS
+TYLER
+Texas
+Last week
+Teresa Braziel
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Like many residents of this 100,000-person city in the piney woods of Texas near the Louisiana line, she claimed her spice-rubbed and hickory-burnished bird from the front counter at the Greenberg Smoked Turkey headquarters, a squat complex of interconnected cinder block and sheet metal buildings, shrouded in a seemingly perpetual shawl of gray-green smoke.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Like	O
+TOKEN TYPE: many	O
+TOKEN TYPE: residents	O
+TOKEN TYPE: of	O
+TOKEN TYPE: this	O
+TOKEN TYPE: 100,000-person	O
+TOKEN TYPE: city	O
+TOKEN TYPE: in	O
+TOKEN TYPE: the	O
+TOKEN TYPE: piney	O
+TOKEN TYPE: woods	O
+TOKEN TYPE: of	O
+TOKEN TYPE: Texas	LOCATION
+TOKEN TYPE: near	O
+TOKEN TYPE: the	O
+TOKEN TYPE: Louisiana	LOCATION
+TOKEN TYPE: line	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: she	O
+TOKEN TYPE: claimed	O
+TOKEN TYPE: her	O
+TOKEN TYPE: spice-rubbed	O
+TOKEN TYPE: and	O
+TOKEN TYPE: hickory-burnished	O
+TOKEN TYPE: bird	O
+TOKEN TYPE: from	O
+TOKEN TYPE: the	O
+TOKEN TYPE: front	O
+TOKEN TYPE: counter	O
+TOKEN TYPE: at	O
+TOKEN TYPE: the	O
+TOKEN TYPE: Greenberg	LOCATION
+TOKEN TYPE: Smoked	LOCATION
+TOKEN TYPE: Turkey	LOCATION
+TOKEN TYPE: headquarters	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: a	O
+TOKEN TYPE: squat	O
+TOKEN TYPE: complex	O
+TOKEN TYPE: of	O
+TOKEN TYPE: interconnected	O
+TOKEN TYPE: cinder	O
+TOKEN TYPE: block	O
+TOKEN TYPE: and	O
+TOKEN TYPE: sheet	O
+TOKEN TYPE: metal	O
+TOKEN TYPE: buildings	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: shrouded	O
+TOKEN TYPE: in	O
+TOKEN TYPE: a	O
+TOKEN TYPE: seemingly	O
+TOKEN TYPE: perpetual	O
+TOKEN TYPE: shawl	O
+TOKEN TYPE: of	O
+TOKEN TYPE: gray-green	O
+TOKEN TYPE: smoke	O
+TOKEN TYPE: .	O
+Arguments:
+
+Texas
+Louisiana
+Greenberg Smoked Turkey
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> "This is my nibbling turkey," Braziel said.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: This	O
+TOKEN TYPE: is	O
+TOKEN TYPE: my	O
+TOKEN TYPE: nibbling	O
+TOKEN TYPE: turkey	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: Braziel	PERSON
+TOKEN TYPE: said	O
+TOKEN TYPE: .	O
+Arguments:
+
+Braziel
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+"We'll eat on this one -- turkey and mustard with crackers, turkey salad, turkey chili -- while we get ready for the parties."
+
+TOKEN TYPE: ``	O
+TOKEN TYPE: We	O
+TOKEN TYPE: 'll	O
+TOKEN TYPE: eat	O
+TOKEN TYPE: on	O
+TOKEN TYPE: this	O
+TOKEN TYPE: one	NUMBER
+TOKEN TYPE: --	O
+TOKEN TYPE: turkey	O
+TOKEN TYPE: and	O
+TOKEN TYPE: mustard	O
+TOKEN TYPE: with	O
+TOKEN TYPE: crackers	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: turkey	LOCATION
+TOKEN TYPE: salad	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: turkey	LOCATION
+TOKEN TYPE: chili	O
+TOKEN TYPE: --	O
+TOKEN TYPE: while	O
+TOKEN TYPE: we	O
+TOKEN TYPE: get	O
+TOKEN TYPE: ready	O
+TOKEN TYPE: for	O
+TOKEN TYPE: the	O
+TOKEN TYPE: parties	O
+TOKEN TYPE: .	O
+TOKEN TYPE: ''	O
+Arguments:
+
+one
+turkey
+turkey
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> In the coming weeks, she will buy three more, for a holiday open house, for Thanksgiving and for Christmas.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: In	O
+TOKEN TYPE: the	DATE
+TOKEN TYPE: coming	DATE
+TOKEN TYPE: weeks	DATE
+TOKEN TYPE: ,	O
+TOKEN TYPE: she	O
+TOKEN TYPE: will	O
+TOKEN TYPE: buy	O
+TOKEN TYPE: three	NUMBER
+TOKEN TYPE: more	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: for	O
+TOKEN TYPE: a	O
+TOKEN TYPE: holiday	O
+TOKEN TYPE: open	O
+TOKEN TYPE: house	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: for	O
+TOKEN TYPE: Thanksgiving	O
+TOKEN TYPE: and	O
+TOKEN TYPE: for	O
+TOKEN TYPE: Christmas	DATE
+TOKEN TYPE: .	O
+Arguments:
+
+the coming weeks
+three
+Christmas
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+And she will ship another 20 to friends in Dallas, Houston and beyond.
+
+TOKEN TYPE: And	O
+TOKEN TYPE: she	O
+TOKEN TYPE: will	O
+TOKEN TYPE: ship	O
+TOKEN TYPE: another	O
+TOKEN TYPE: 20	NUMBER
+TOKEN TYPE: to	O
+TOKEN TYPE: friends	O
+TOKEN TYPE: in	O
+TOKEN TYPE: Dallas	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: Houston	LOCATION
+TOKEN TYPE: and	O
+TOKEN TYPE: beyond	O
+TOKEN TYPE: .	O
+Arguments:
+
+20
+Dallas
+Houston
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Greenberg Smoked Turkey, founded in 1938 by Samuel Isaac Greenberg and now run by his grandson, Sam Greenberg, will sell about 20,000 turkeys to walk-in customers this season, priced at a little more than $4 a pound.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Greenberg	LOCATION
+TOKEN TYPE: Smoked	LOCATION
+TOKEN TYPE: Turkey	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: founded	O
+TOKEN TYPE: in	O
+TOKEN TYPE: 1938	DATE
+TOKEN TYPE: by	O
+TOKEN TYPE: Samuel	PERSON
+TOKEN TYPE: Isaac	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: and	O
+TOKEN TYPE: now	DATE
+TOKEN TYPE: run	O
+TOKEN TYPE: by	O
+TOKEN TYPE: his	O
+TOKEN TYPE: grandson	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: Sam	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: will	O
+TOKEN TYPE: sell	O
+TOKEN TYPE: about	O
+TOKEN TYPE: 20,000	NUMBER
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: to	O
+TOKEN TYPE: walk-in	O
+TOKEN TYPE: customers	O
+TOKEN TYPE: this	O
+TOKEN TYPE: season	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: priced	O
+TOKEN TYPE: at	O
+TOKEN TYPE: a	O
+TOKEN TYPE: little	O
+TOKEN TYPE: more	O
+TOKEN TYPE: than	O
+TOKEN TYPE: $	MONEY
+TOKEN TYPE: 4	MONEY
+TOKEN TYPE: a	O
+TOKEN TYPE: pound	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg Smoked Turkey
+1938
+Samuel Isaac Greenberg
+now
+Sam Greenberg
+20,000
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Beginning on Monday of Thanksgiving week, a line will snake down the street and into the working class neighborhood that surrounds the plant.
+
+TOKEN TYPE: Beginning	O
+TOKEN TYPE: on	O
+TOKEN TYPE: Monday	DATE
+TOKEN TYPE: of	O
+TOKEN TYPE: Thanksgiving	O
+TOKEN TYPE: week	DURATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: a	O
+TOKEN TYPE: line	O
+TOKEN TYPE: will	O
+TOKEN TYPE: snake	O
+TOKEN TYPE: down	O
+TOKEN TYPE: the	O
+TOKEN TYPE: street	O
+TOKEN TYPE: and	O
+TOKEN TYPE: into	O
+TOKEN TYPE: the	O
+TOKEN TYPE: working	O
+TOKEN TYPE: class	O
+TOKEN TYPE: neighborhood	O
+TOKEN TYPE: that	O
+TOKEN TYPE: surrounds	O
+TOKEN TYPE: the	O
+TOKEN TYPE: plant	O
+TOKEN TYPE: .	O
+Arguments:
+
+Monday
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+In an attempt to alleviate parking squabbles, Greenberg employees will shuttle customers about in golf carts.
+
+TOKEN TYPE: In	O
+TOKEN TYPE: an	O
+TOKEN TYPE: attempt	O
+TOKEN TYPE: to	O
+TOKEN TYPE: alleviate	O
+TOKEN TYPE: parking	O
+TOKEN TYPE: squabbles	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: employees	O
+TOKEN TYPE: will	O
+TOKEN TYPE: shuttle	O
+TOKEN TYPE: customers	O
+TOKEN TYPE: about	O
+TOKEN TYPE: in	O
+TOKEN TYPE: golf	O
+TOKEN TYPE: carts	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> For an independent producer that has built a reputation on pit-cooked poultry and personalized service, that may seem like a lot of turkeys to smoke and a lot of logistics to manage.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: For	O
+TOKEN TYPE: an	O
+TOKEN TYPE: independent	O
+TOKEN TYPE: producer	O
+TOKEN TYPE: that	O
+TOKEN TYPE: has	O
+TOKEN TYPE: built	O
+TOKEN TYPE: a	O
+TOKEN TYPE: reputation	O
+TOKEN TYPE: on	O
+TOKEN TYPE: pit-cooked	O
+TOKEN TYPE: poultry	O
+TOKEN TYPE: and	O
+TOKEN TYPE: personalized	O
+TOKEN TYPE: service	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: that	O
+TOKEN TYPE: may	O
+TOKEN TYPE: seem	O
+TOKEN TYPE: like	O
+TOKEN TYPE: a	O
+TOKEN TYPE: lot	O
+TOKEN TYPE: of	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: to	O
+TOKEN TYPE: smoke	O
+TOKEN TYPE: and	O
+TOKEN TYPE: a	O
+TOKEN TYPE: lot	O
+TOKEN TYPE: of	O
+TOKEN TYPE: logistics	O
+TOKEN TYPE: to	O
+TOKEN TYPE: manage	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+But local sales are just the tip of the wing.
+
+TOKEN TYPE: But	O
+TOKEN TYPE: local	O
+TOKEN TYPE: sales	O
+TOKEN TYPE: are	O
+TOKEN TYPE: just	O
+TOKEN TYPE: the	O
+TOKEN TYPE: tip	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: wing	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> By the time Sam Greenberg closes for the holiday season on Dec. 24 and hands each of his 200 employees a free bird, more than 200,000 turkeys will have emerged from the company's 20 brick-lined, hardwood-fired pit houses.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: By	O
+TOKEN TYPE: the	O
+TOKEN TYPE: time	O
+TOKEN TYPE: Sam	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: closes	O
+TOKEN TYPE: for	O
+TOKEN TYPE: the	O
+TOKEN TYPE: holiday	O
+TOKEN TYPE: season	O
+TOKEN TYPE: on	O
+TOKEN TYPE: Dec.	DATE
+TOKEN TYPE: 24	DATE
+TOKEN TYPE: and	O
+TOKEN TYPE: hands	O
+TOKEN TYPE: each	O
+TOKEN TYPE: of	O
+TOKEN TYPE: his	O
+TOKEN TYPE: 200	NUMBER
+TOKEN TYPE: employees	O
+TOKEN TYPE: a	O
+TOKEN TYPE: free	O
+TOKEN TYPE: bird	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: more	O
+TOKEN TYPE: than	O
+TOKEN TYPE: 200,000	NUMBER
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: will	O
+TOKEN TYPE: have	O
+TOKEN TYPE: emerged	O
+TOKEN TYPE: from	O
+TOKEN TYPE: the	O
+TOKEN TYPE: company	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: 20	NUMBER
+TOKEN TYPE: brick-lined	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: hardwood-fired	O
+TOKEN TYPE: pit	O
+TOKEN TYPE: houses	O
+TOKEN TYPE: .	O
+Arguments:
+
+Sam Greenberg
+Dec. 24
+200
+200,000
+20
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Packed frozen, they thaw in transit and land two to three days later on doorsteps across the nation.
+
+TOKEN TYPE: Packed	O
+TOKEN TYPE: frozen	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: they	O
+TOKEN TYPE: thaw	O
+TOKEN TYPE: in	O
+TOKEN TYPE: transit	O
+TOKEN TYPE: and	O
+TOKEN TYPE: land	DATE
+TOKEN TYPE: two	DATE
+TOKEN TYPE: to	DATE
+TOKEN TYPE: three	DATE
+TOKEN TYPE: days	DATE
+TOKEN TYPE: later	DATE
+TOKEN TYPE: on	O
+TOKEN TYPE: doorsteps	O
+TOKEN TYPE: across	O
+TOKEN TYPE: the	O
+TOKEN TYPE: nation	O
+TOKEN TYPE: .	O
+Arguments:
+
+land two to three days later
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> From New York to California, customers -- some of whom claim three and four generations of patronage -- will build family meals around Greenberg turkeys that, thanks to a daylong swirl in smoke, deliver the succulence that evades most holiday cooks.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: From	O
+TOKEN TYPE: New	LOCATION
+TOKEN TYPE: York	LOCATION
+TOKEN TYPE: to	O
+TOKEN TYPE: California	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: customers	O
+TOKEN TYPE: --	O
+TOKEN TYPE: some	O
+TOKEN TYPE: of	O
+TOKEN TYPE: whom	O
+TOKEN TYPE: claim	O
+TOKEN TYPE: three	NUMBER
+TOKEN TYPE: and	O
+TOKEN TYPE: four	NUMBER
+TOKEN TYPE: generations	O
+TOKEN TYPE: of	O
+TOKEN TYPE: patronage	O
+TOKEN TYPE: --	O
+TOKEN TYPE: will	O
+TOKEN TYPE: build	O
+TOKEN TYPE: family	O
+TOKEN TYPE: meals	O
+TOKEN TYPE: around	O
+TOKEN TYPE: Greenberg	LOCATION
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: that	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: thanks	O
+TOKEN TYPE: to	O
+TOKEN TYPE: a	O
+TOKEN TYPE: daylong	O
+TOKEN TYPE: swirl	O
+TOKEN TYPE: in	O
+TOKEN TYPE: smoke	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: deliver	O
+TOKEN TYPE: the	O
+TOKEN TYPE: succulence	O
+TOKEN TYPE: that	O
+TOKEN TYPE: evades	O
+TOKEN TYPE: most	O
+TOKEN TYPE: holiday	O
+TOKEN TYPE: cooks	O
+TOKEN TYPE: .	O
+Arguments:
+
+New York
+California
+three
+four
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Samuel Isaac Greenberg was 17 in 1903 when he came to the United States as a Jewish immigrant from Poland.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Samuel	PERSON
+TOKEN TYPE: Isaac	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: was	O
+TOKEN TYPE: 17	NUMBER
+TOKEN TYPE: in	O
+TOKEN TYPE: 1903	DATE
+TOKEN TYPE: when	O
+TOKEN TYPE: he	O
+TOKEN TYPE: came	O
+TOKEN TYPE: to	O
+TOKEN TYPE: the	O
+TOKEN TYPE: United	LOCATION
+TOKEN TYPE: States	LOCATION
+TOKEN TYPE: as	O
+TOKEN TYPE: a	O
+TOKEN TYPE: Jewish	MISC
+TOKEN TYPE: immigrant	O
+TOKEN TYPE: from	O
+TOKEN TYPE: Poland	LOCATION
+TOKEN TYPE: .	O
+Arguments:
+
+Samuel Isaac Greenberg
+17
+1903
+United States
+Jewish
+Poland
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Disembarking in Galveston, Texas, he made his way north to Tyler at the invitation of the congregation Ahavath Achim.
+
+TOKEN TYPE: Disembarking	O
+TOKEN TYPE: in	O
+TOKEN TYPE: Galveston	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: Texas	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: he	O
+TOKEN TYPE: made	O
+TOKEN TYPE: his	O
+TOKEN TYPE: way	O
+TOKEN TYPE: north	O
+TOKEN TYPE: to	O
+TOKEN TYPE: Tyler	PERSON
+TOKEN TYPE: at	O
+TOKEN TYPE: the	O
+TOKEN TYPE: invitation	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: congregation	O
+TOKEN TYPE: Ahavath	MISC
+TOKEN TYPE: Achim	PERSON
+TOKEN TYPE: .	O
+Arguments:
+
+Galveston
+Texas
+Tyler
+Ahavath
+Achim
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+According to Hollace Ava Weiner, an author of the book "Lone Stars of David: The Jews of Texas," he was recruited to serve as a religious leader.
+
+TOKEN TYPE: According	O
+TOKEN TYPE: to	O
+TOKEN TYPE: Hollace	PERSON
+TOKEN TYPE: Ava	PERSON
+TOKEN TYPE: Weiner	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: an	O
+TOKEN TYPE: author	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: book	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: Lone	O
+TOKEN TYPE: Stars	O
+TOKEN TYPE: of	O
+TOKEN TYPE: David	O
+TOKEN TYPE: :	O
+TOKEN TYPE: The	O
+TOKEN TYPE: Jews	MISC
+TOKEN TYPE: of	O
+TOKEN TYPE: Texas	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: he	O
+TOKEN TYPE: was	O
+TOKEN TYPE: recruited	O
+TOKEN TYPE: to	O
+TOKEN TYPE: serve	O
+TOKEN TYPE: as	O
+TOKEN TYPE: a	O
+TOKEN TYPE: religious	O
+TOKEN TYPE: leader	O
+TOKEN TYPE: .	O
+Arguments:
+
+Hollace Ava Weiner
+Jews
+Texas
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> As the hazan, he led prayers and chanted from the Torah, Weiner said.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: As	O
+TOKEN TYPE: the	O
+TOKEN TYPE: hazan	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: he	O
+TOKEN TYPE: led	O
+TOKEN TYPE: prayers	O
+TOKEN TYPE: and	O
+TOKEN TYPE: chanted	O
+TOKEN TYPE: from	O
+TOKEN TYPE: the	O
+TOKEN TYPE: Torah	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: Weiner	PERSON
+TOKEN TYPE: said	O
+TOKEN TYPE: .	O
+Arguments:
+
+Weiner
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+As the mohel, he circumcised male babies.
+
+TOKEN TYPE: As	O
+TOKEN TYPE: the	O
+TOKEN TYPE: mohel	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: he	O
+TOKEN TYPE: circumcised	O
+TOKEN TYPE: male	O
+TOKEN TYPE: babies	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+And as the shochet, he butchered animals, including geese and turkeys, following Jewish rituals.
+
+TOKEN TYPE: And	O
+TOKEN TYPE: as	O
+TOKEN TYPE: the	O
+TOKEN TYPE: shochet	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: he	O
+TOKEN TYPE: butchered	O
+TOKEN TYPE: animals	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: including	O
+TOKEN TYPE: geese	O
+TOKEN TYPE: and	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: following	O
+TOKEN TYPE: Jewish	MISC
+TOKEN TYPE: rituals	O
+TOKEN TYPE: .	O
+Arguments:
+
+Jewish
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> By the 1930s, when Tyler boasted more than one shochet, Samuel Greenberg was selling smoked kosher turkeys to Jews and non-Jews alike.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: By	O
+TOKEN TYPE: the	DATE
+TOKEN TYPE: 1930s	DATE
+TOKEN TYPE: ,	O
+TOKEN TYPE: when	O
+TOKEN TYPE: Tyler	PERSON
+TOKEN TYPE: boasted	O
+TOKEN TYPE: more	O
+TOKEN TYPE: than	O
+TOKEN TYPE: one	NUMBER
+TOKEN TYPE: shochet	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: Samuel	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: was	O
+TOKEN TYPE: selling	O
+TOKEN TYPE: smoked	O
+TOKEN TYPE: kosher	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: to	O
+TOKEN TYPE: Jews	MISC
+TOKEN TYPE: and	O
+TOKEN TYPE: non-Jews	MISC
+TOKEN TYPE: alike	O
+TOKEN TYPE: .	O
+Arguments:
+
+the 1930s
+Tyler
+one
+Samuel Greenberg
+Jews
+non-Jews
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> He rubbed those birds with a spice mix attributed to his mother, Jennie.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: He	O
+TOKEN TYPE: rubbed	O
+TOKEN TYPE: those	O
+TOKEN TYPE: birds	O
+TOKEN TYPE: with	O
+TOKEN TYPE: a	O
+TOKEN TYPE: spice	O
+TOKEN TYPE: mix	O
+TOKEN TYPE: attributed	O
+TOKEN TYPE: to	O
+TOKEN TYPE: his	O
+TOKEN TYPE: mother	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: Jennie	PERSON
+TOKEN TYPE: .	O
+Arguments:
+
+Jennie
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Working in a metal shebang with a sand-covered floor, tucked in a back corner of his milking barn, Greenberg and Elva Cole, an African-American colleague who likely stoked the pits, hung the turkeys from a nested pair of ceiling-mounted wagon wheels and smoked them over hickory logs.
+
+TOKEN TYPE: Working	O
+TOKEN TYPE: in	O
+TOKEN TYPE: a	O
+TOKEN TYPE: metal	O
+TOKEN TYPE: shebang	O
+TOKEN TYPE: with	O
+TOKEN TYPE: a	O
+TOKEN TYPE: sand-covered	O
+TOKEN TYPE: floor	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: tucked	O
+TOKEN TYPE: in	O
+TOKEN TYPE: a	O
+TOKEN TYPE: back	O
+TOKEN TYPE: corner	O
+TOKEN TYPE: of	O
+TOKEN TYPE: his	O
+TOKEN TYPE: milking	O
+TOKEN TYPE: barn	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: and	O
+TOKEN TYPE: Elva	PERSON
+TOKEN TYPE: Cole	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: an	O
+TOKEN TYPE: African-American	MISC
+TOKEN TYPE: colleague	O
+TOKEN TYPE: who	O
+TOKEN TYPE: likely	O
+TOKEN TYPE: stoked	O
+TOKEN TYPE: the	O
+TOKEN TYPE: pits	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: hung	O
+TOKEN TYPE: the	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: from	O
+TOKEN TYPE: a	O
+TOKEN TYPE: nested	O
+TOKEN TYPE: pair	O
+TOKEN TYPE: of	O
+TOKEN TYPE: ceiling-mounted	O
+TOKEN TYPE: wagon	O
+TOKEN TYPE: wheels	O
+TOKEN TYPE: and	O
+TOKEN TYPE: smoked	O
+TOKEN TYPE: them	O
+TOKEN TYPE: over	O
+TOKEN TYPE: hickory	O
+TOKEN TYPE: logs	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+Elva Cole
+African-American
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Few records of the early days of the business remain.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Few	O
+TOKEN TYPE: records	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	DURATION
+TOKEN TYPE: early	DURATION
+TOKEN TYPE: days	DURATION
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: business	O
+TOKEN TYPE: remain	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+But every Greenberg tells the story of the six turkeys ordered in 1938 by a Dallas customer.
+
+TOKEN TYPE: But	O
+TOKEN TYPE: every	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: tells	O
+TOKEN TYPE: the	O
+TOKEN TYPE: story	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: six	NUMBER
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: ordered	O
+TOKEN TYPE: in	O
+TOKEN TYPE: 1938	DATE
+TOKEN TYPE: by	O
+TOKEN TYPE: a	O
+TOKEN TYPE: Dallas	LOCATION
+TOKEN TYPE: customer	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+six
+1938
+Dallas
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Purchases were traditionally picked up on the farm, so they had to figure out how to get the turkeys to Dallas, about 100 miles west.
+
+TOKEN TYPE: Purchases	O
+TOKEN TYPE: were	O
+TOKEN TYPE: traditionally	O
+TOKEN TYPE: picked	O
+TOKEN TYPE: up	O
+TOKEN TYPE: on	O
+TOKEN TYPE: the	O
+TOKEN TYPE: farm	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: so	O
+TOKEN TYPE: they	O
+TOKEN TYPE: had	O
+TOKEN TYPE: to	O
+TOKEN TYPE: figure	O
+TOKEN TYPE: out	O
+TOKEN TYPE: how	O
+TOKEN TYPE: to	O
+TOKEN TYPE: get	O
+TOKEN TYPE: the	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: to	O
+TOKEN TYPE: Dallas	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: about	O
+TOKEN TYPE: 100	NUMBER
+TOKEN TYPE: miles	O
+TOKEN TYPE: west	O
+TOKEN TYPE: .	O
+Arguments:
+
+Dallas
+100
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Zelick Greenberg, a son of Samuel, packed the turkeys in a candy store box, added straw for cushioning, and shipped them by rail from Tyler.
+
+TOKEN TYPE: Zelick	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: a	O
+TOKEN TYPE: son	O
+TOKEN TYPE: of	O
+TOKEN TYPE: Samuel	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: packed	O
+TOKEN TYPE: the	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: in	O
+TOKEN TYPE: a	O
+TOKEN TYPE: candy	O
+TOKEN TYPE: store	O
+TOKEN TYPE: box	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: added	O
+TOKEN TYPE: straw	O
+TOKEN TYPE: for	O
+TOKEN TYPE: cushioning	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: and	O
+TOKEN TYPE: shipped	O
+TOKEN TYPE: them	O
+TOKEN TYPE: by	O
+TOKEN TYPE: rail	O
+TOKEN TYPE: from	O
+TOKEN TYPE: Tyler	PERSON
+TOKEN TYPE: .	O
+Arguments:
+
+Zelick Greenberg
+Samuel
+Tyler
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Word of Samuel and Zelick Greenberg's work spread by mouth.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Word	O
+TOKEN TYPE: of	O
+TOKEN TYPE: Samuel	PERSON
+TOKEN TYPE: and	O
+TOKEN TYPE: Zelick	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: 's	O
+TOKEN TYPE: work	O
+TOKEN TYPE: spread	O
+TOKEN TYPE: by	O
+TOKEN TYPE: mouth	O
+TOKEN TYPE: .	O
+Arguments:
+
+Samuel
+Zelick Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+And by rail.
+
+TOKEN TYPE: And	O
+TOKEN TYPE: by	O
+TOKEN TYPE: rail	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+And soon by mail.
+
+TOKEN TYPE: And	O
+TOKEN TYPE: soon	O
+TOKEN TYPE: by	O
+TOKEN TYPE: mail	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+The birds that arrived on the other end were not typical smoked turkeys.
+
+TOKEN TYPE: The	O
+TOKEN TYPE: birds	O
+TOKEN TYPE: that	O
+TOKEN TYPE: arrived	O
+TOKEN TYPE: on	O
+TOKEN TYPE: the	O
+TOKEN TYPE: other	O
+TOKEN TYPE: end	O
+TOKEN TYPE: were	O
+TOKEN TYPE: not	O
+TOKEN TYPE: typical	O
+TOKEN TYPE: smoked	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+"What my father did was not a casual smoke," said Sam Greenberg, a ruddy-faced 52-year-old, who may never have met a stranger.
+
+TOKEN TYPE: ``	O
+TOKEN TYPE: What	O
+TOKEN TYPE: my	O
+TOKEN TYPE: father	O
+TOKEN TYPE: did	O
+TOKEN TYPE: was	O
+TOKEN TYPE: not	O
+TOKEN TYPE: a	O
+TOKEN TYPE: casual	O
+TOKEN TYPE: smoke	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: said	O
+TOKEN TYPE: Sam	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: a	O
+TOKEN TYPE: ruddy-faced	O
+TOKEN TYPE: 52-year-old	DURATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: who	O
+TOKEN TYPE: may	O
+TOKEN TYPE: never	O
+TOKEN TYPE: have	O
+TOKEN TYPE: met	O
+TOKEN TYPE: a	O
+TOKEN TYPE: stranger	O
+TOKEN TYPE: .	O
+Arguments:
+
+Sam Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> "Those turkeys weren't honey-colored, they were really, truly smoked," Greenberg said, his voice rising to a shout, as if an increase in volume could convey the intensity of the charred hickory fog that permeates his family's turkeys, rendering the birds a color best described as burnt umber with a black licorice wash.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: Those	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: were	O
+TOKEN TYPE: n't	O
+TOKEN TYPE: honey-colored	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: they	O
+TOKEN TYPE: were	O
+TOKEN TYPE: really	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: truly	O
+TOKEN TYPE: smoked	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: said	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: his	O
+TOKEN TYPE: voice	O
+TOKEN TYPE: rising	O
+TOKEN TYPE: to	O
+TOKEN TYPE: a	O
+TOKEN TYPE: shout	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: as	O
+TOKEN TYPE: if	O
+TOKEN TYPE: an	O
+TOKEN TYPE: increase	O
+TOKEN TYPE: in	O
+TOKEN TYPE: volume	O
+TOKEN TYPE: could	O
+TOKEN TYPE: convey	O
+TOKEN TYPE: the	O
+TOKEN TYPE: intensity	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: charred	O
+TOKEN TYPE: hickory	O
+TOKEN TYPE: fog	O
+TOKEN TYPE: that	O
+TOKEN TYPE: permeates	O
+TOKEN TYPE: his	O
+TOKEN TYPE: family	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: rendering	O
+TOKEN TYPE: the	O
+TOKEN TYPE: birds	O
+TOKEN TYPE: a	O
+TOKEN TYPE: color	O
+TOKEN TYPE: best	O
+TOKEN TYPE: described	O
+TOKEN TYPE: as	O
+TOKEN TYPE: burnt	O
+TOKEN TYPE: umber	O
+TOKEN TYPE: with	O
+TOKEN TYPE: a	O
+TOKEN TYPE: black	O
+TOKEN TYPE: licorice	O
+TOKEN TYPE: wash	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> "There is no magic here, just hard work," Greenberg said, as he stepped down into the rectangular shed where Tony Wallace, a 27-year veteran of the company, loaded hickory logs in one of the three rolling fire boxes that fuel each of the 20 pit houses.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: There	O
+TOKEN TYPE: is	O
+TOKEN TYPE: no	O
+TOKEN TYPE: magic	O
+TOKEN TYPE: here	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: just	O
+TOKEN TYPE: hard	O
+TOKEN TYPE: work	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: said	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: as	O
+TOKEN TYPE: he	O
+TOKEN TYPE: stepped	O
+TOKEN TYPE: down	O
+TOKEN TYPE: into	O
+TOKEN TYPE: the	O
+TOKEN TYPE: rectangular	O
+TOKEN TYPE: shed	O
+TOKEN TYPE: where	O
+TOKEN TYPE: Tony	PERSON
+TOKEN TYPE: Wallace	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: a	O
+TOKEN TYPE: 27-year	DURATION
+TOKEN TYPE: veteran	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: company	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: loaded	O
+TOKEN TYPE: hickory	O
+TOKEN TYPE: logs	O
+TOKEN TYPE: in	O
+TOKEN TYPE: one	NUMBER
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: three	NUMBER
+TOKEN TYPE: rolling	O
+TOKEN TYPE: fire	O
+TOKEN TYPE: boxes	O
+TOKEN TYPE: that	O
+TOKEN TYPE: fuel	O
+TOKEN TYPE: each	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: 20	NUMBER
+TOKEN TYPE: pit	O
+TOKEN TYPE: houses	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+Tony Wallace
+one
+three
+20
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> (A typical East Texas barbecue man must stoop to fire a pit with a long-handled shovel.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: -LRB-	O
+TOKEN TYPE: A	O
+TOKEN TYPE: typical	O
+TOKEN TYPE: East	O
+TOKEN TYPE: Texas	LOCATION
+TOKEN TYPE: barbecue	O
+TOKEN TYPE: man	O
+TOKEN TYPE: must	O
+TOKEN TYPE: stoop	O
+TOKEN TYPE: to	O
+TOKEN TYPE: fire	O
+TOKEN TYPE: a	O
+TOKEN TYPE: pit	O
+TOKEN TYPE: with	O
+TOKEN TYPE: a	O
+TOKEN TYPE: long-handled	O
+TOKEN TYPE: shovel	O
+TOKEN TYPE: .	O
+Arguments:
+
+Texas
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Here, pitmasters like Wallace push webbed iron conveyances, loaded with smoldering coals, back and forth on an ingenious track-mounted system devised in the 1950s by Zelick Greenberg.)
+
+TOKEN TYPE: Here	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: pitmasters	O
+TOKEN TYPE: like	O
+TOKEN TYPE: Wallace	PERSON
+TOKEN TYPE: push	O
+TOKEN TYPE: webbed	O
+TOKEN TYPE: iron	O
+TOKEN TYPE: conveyances	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: loaded	O
+TOKEN TYPE: with	O
+TOKEN TYPE: smoldering	O
+TOKEN TYPE: coals	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: back	O
+TOKEN TYPE: and	O
+TOKEN TYPE: forth	O
+TOKEN TYPE: on	O
+TOKEN TYPE: an	O
+TOKEN TYPE: ingenious	O
+TOKEN TYPE: track-mounted	O
+TOKEN TYPE: system	O
+TOKEN TYPE: devised	O
+TOKEN TYPE: in	O
+TOKEN TYPE: the	DATE
+TOKEN TYPE: 1950s	DATE
+TOKEN TYPE: by	O
+TOKEN TYPE: Zelick	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: .	O
+TOKEN TYPE: -RRB-	O
+Arguments:
+
+Wallace
+the 1950s
+Zelick Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Like many East Texas pitmasters, Wallace is African-American.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Like	O
+TOKEN TYPE: many	O
+TOKEN TYPE: East	O
+TOKEN TYPE: Texas	LOCATION
+TOKEN TYPE: pitmasters	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: Wallace	PERSON
+TOKEN TYPE: is	O
+TOKEN TYPE: African-American	MISC
+TOKEN TYPE: .	O
+Arguments:
+
+Texas
+Wallace
+African-American
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+And like many who work at Greenberg, he is a seasonal employee.
+
+TOKEN TYPE: And	O
+TOKEN TYPE: like	O
+TOKEN TYPE: many	O
+TOKEN TYPE: who	O
+TOKEN TYPE: work	O
+TOKEN TYPE: at	O
+TOKEN TYPE: Greenberg	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: he	O
+TOKEN TYPE: is	O
+TOKEN TYPE: a	O
+TOKEN TYPE: seasonal	O
+TOKEN TYPE: employee	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+During the nine months when the pits are not in regular use, he does carpentry work.
+
+TOKEN TYPE: During	O
+TOKEN TYPE: the	DURATION
+TOKEN TYPE: nine	DURATION
+TOKEN TYPE: months	NUMBER
+TOKEN TYPE: when	O
+TOKEN TYPE: the	O
+TOKEN TYPE: pits	O
+TOKEN TYPE: are	O
+TOKEN TYPE: not	O
+TOKEN TYPE: in	O
+TOKEN TYPE: regular	O
+TOKEN TYPE: use	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: he	O
+TOKEN TYPE: does	O
+TOKEN TYPE: carpentry	O
+TOKEN TYPE: work	O
+TOKEN TYPE: .	O
+Arguments:
+
+months
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Ray Wallace, his brother, an eight-year veteran, drives a dump truck in the off-season.
+
+TOKEN TYPE: Ray	PERSON
+TOKEN TYPE: Wallace	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: his	O
+TOKEN TYPE: brother	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: an	O
+TOKEN TYPE: eight-year	DURATION
+TOKEN TYPE: veteran	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: drives	O
+TOKEN TYPE: a	O
+TOKEN TYPE: dump	O
+TOKEN TYPE: truck	O
+TOKEN TYPE: in	O
+TOKEN TYPE: the	O
+TOKEN TYPE: off-season	O
+TOKEN TYPE: .	O
+Arguments:
+
+Ray Wallace
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> In Tyler, jobs with Greenberg are hard won.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: In	O
+TOKEN TYPE: Tyler	PERSON
+TOKEN TYPE: ,	O
+TOKEN TYPE: jobs	O
+TOKEN TYPE: with	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: are	O
+TOKEN TYPE: hard	O
+TOKEN TYPE: won	O
+TOKEN TYPE: .	O
+Arguments:
+
+Tyler
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Despite the fractured nature of employment, the company boasts two staff members who began working at the plant before Sam Greenberg was born.
+
+TOKEN TYPE: Despite	O
+TOKEN TYPE: the	O
+TOKEN TYPE: fractured	O
+TOKEN TYPE: nature	O
+TOKEN TYPE: of	O
+TOKEN TYPE: employment	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: the	O
+TOKEN TYPE: company	O
+TOKEN TYPE: boasts	O
+TOKEN TYPE: two	NUMBER
+TOKEN TYPE: staff	O
+TOKEN TYPE: members	O
+TOKEN TYPE: who	O
+TOKEN TYPE: began	O
+TOKEN TYPE: working	O
+TOKEN TYPE: at	O
+TOKEN TYPE: the	O
+TOKEN TYPE: plant	O
+TOKEN TYPE: before	O
+TOKEN TYPE: Sam	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: was	O
+TOKEN TYPE: born	O
+TOKEN TYPE: .	O
+Arguments:
+
+two
+Sam Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> The Greenberg approach runs contrary to the heritage poultry movement of the last decade.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: The	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: approach	O
+TOKEN TYPE: runs	O
+TOKEN TYPE: contrary	O
+TOKEN TYPE: to	O
+TOKEN TYPE: the	O
+TOKEN TYPE: heritage	O
+TOKEN TYPE: poultry	O
+TOKEN TYPE: movement	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	DATE
+TOKEN TYPE: last	DATE
+TOKEN TYPE: decade	DATE
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+the last decade
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+"I buy the same birds you would buy in a grocery store," Greenberg said.
+
+TOKEN TYPE: ``	O
+TOKEN TYPE: I	O
+TOKEN TYPE: buy	O
+TOKEN TYPE: the	O
+TOKEN TYPE: same	O
+TOKEN TYPE: birds	O
+TOKEN TYPE: you	O
+TOKEN TYPE: would	O
+TOKEN TYPE: buy	O
+TOKEN TYPE: in	O
+TOKEN TYPE: a	O
+TOKEN TYPE: grocery	O
+TOKEN TYPE: store	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: said	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+As a smile creased his face, he claimed never to have heard of heritage turkeys, the much-fetishized breeds rescued from the agricultural past, that live cage free and promise, when roasted, a more robust flavor than a typical grocery store bird.
+
+TOKEN TYPE: As	O
+TOKEN TYPE: a	O
+TOKEN TYPE: smile	O
+TOKEN TYPE: creased	O
+TOKEN TYPE: his	O
+TOKEN TYPE: face	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: he	O
+TOKEN TYPE: claimed	O
+TOKEN TYPE: never	O
+TOKEN TYPE: to	O
+TOKEN TYPE: have	O
+TOKEN TYPE: heard	O
+TOKEN TYPE: of	O
+TOKEN TYPE: heritage	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: the	O
+TOKEN TYPE: much-fetishized	O
+TOKEN TYPE: breeds	O
+TOKEN TYPE: rescued	O
+TOKEN TYPE: from	O
+TOKEN TYPE: the	O
+TOKEN TYPE: agricultural	O
+TOKEN TYPE: past	DATE
+TOKEN TYPE: ,	O
+TOKEN TYPE: that	O
+TOKEN TYPE: live	O
+TOKEN TYPE: cage	O
+TOKEN TYPE: free	O
+TOKEN TYPE: and	O
+TOKEN TYPE: promise	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: when	O
+TOKEN TYPE: roasted	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: a	O
+TOKEN TYPE: more	O
+TOKEN TYPE: robust	O
+TOKEN TYPE: flavor	O
+TOKEN TYPE: than	O
+TOKEN TYPE: a	O
+TOKEN TYPE: typical	O
+TOKEN TYPE: grocery	O
+TOKEN TYPE: store	O
+TOKEN TYPE: bird	O
+TOKEN TYPE: .	O
+Arguments:
+
+past
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> "You don't want a scrawny, long-legged bird on your Thanksgiving table," Greenberg said, seated in his office behind a one-way mirror that faces a call center bullpen where, at the peak of the season, 40 or more operators swivel beneath bright fluorescent lights and peck turkey orders into terminals.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: You	O
+TOKEN TYPE: do	O
+TOKEN TYPE: n't	O
+TOKEN TYPE: want	O
+TOKEN TYPE: a	O
+TOKEN TYPE: scrawny	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: long-legged	O
+TOKEN TYPE: bird	O
+TOKEN TYPE: on	O
+TOKEN TYPE: your	O
+TOKEN TYPE: Thanksgiving	MISC
+TOKEN TYPE: table	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: said	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: seated	O
+TOKEN TYPE: in	O
+TOKEN TYPE: his	O
+TOKEN TYPE: office	O
+TOKEN TYPE: behind	O
+TOKEN TYPE: a	O
+TOKEN TYPE: one-way	O
+TOKEN TYPE: mirror	O
+TOKEN TYPE: that	O
+TOKEN TYPE: faces	O
+TOKEN TYPE: a	O
+TOKEN TYPE: call	O
+TOKEN TYPE: center	O
+TOKEN TYPE: bullpen	O
+TOKEN TYPE: where	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: at	O
+TOKEN TYPE: the	O
+TOKEN TYPE: peak	O
+TOKEN TYPE: of	O
+TOKEN TYPE: the	O
+TOKEN TYPE: season	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: 40	NUMBER
+TOKEN TYPE: or	O
+TOKEN TYPE: more	O
+TOKEN TYPE: operators	O
+TOKEN TYPE: swivel	O
+TOKEN TYPE: beneath	O
+TOKEN TYPE: bright	O
+TOKEN TYPE: fluorescent	O
+TOKEN TYPE: lights	O
+TOKEN TYPE: and	O
+TOKEN TYPE: peck	O
+TOKEN TYPE: turkey	O
+TOKEN TYPE: orders	O
+TOKEN TYPE: into	O
+TOKEN TYPE: terminals	O
+TOKEN TYPE: .	O
+Arguments:
+
+Thanksgiving
+Greenberg
+40
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+"You want conformity in your bird.
+
+TOKEN TYPE: ``	O
+TOKEN TYPE: You	O
+TOKEN TYPE: want	O
+TOKEN TYPE: conformity	O
+TOKEN TYPE: in	O
+TOKEN TYPE: your	O
+TOKEN TYPE: bird	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+And that means a turkey with a big breast and short legs."
+
+TOKEN TYPE: And	O
+TOKEN TYPE: that	O
+TOKEN TYPE: means	O
+TOKEN TYPE: a	O
+TOKEN TYPE: turkey	O
+TOKEN TYPE: with	O
+TOKEN TYPE: a	O
+TOKEN TYPE: big	O
+TOKEN TYPE: breast	O
+TOKEN TYPE: and	O
+TOKEN TYPE: short	O
+TOKEN TYPE: legs	O
+TOKEN TYPE: .	O
+TOKEN TYPE: ''	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> To achieve that conformity, Greenberg sources broad-breasted white turkeys, the commodity market standard, from Norbest, a Utah cooperative.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: To	O
+TOKEN TYPE: achieve	O
+TOKEN TYPE: that	O
+TOKEN TYPE: conformity	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: sources	O
+TOKEN TYPE: broad-breasted	O
+TOKEN TYPE: white	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: the	O
+TOKEN TYPE: commodity	O
+TOKEN TYPE: market	O
+TOKEN TYPE: standard	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: from	O
+TOKEN TYPE: Norbest	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: a	O
+TOKEN TYPE: Utah	LOCATION
+TOKEN TYPE: cooperative	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+Norbest
+Utah
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+"They come out good on the other end," Greenberg said, implying, as barbecue pitmasters do hereabouts, that excellence in smoked meat cookery is determined by human resources, not natural resources.
+
+TOKEN TYPE: ``	O
+TOKEN TYPE: They	O
+TOKEN TYPE: come	O
+TOKEN TYPE: out	O
+TOKEN TYPE: good	O
+TOKEN TYPE: on	O
+TOKEN TYPE: the	O
+TOKEN TYPE: other	O
+TOKEN TYPE: end	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: said	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: implying	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: as	O
+TOKEN TYPE: barbecue	O
+TOKEN TYPE: pitmasters	O
+TOKEN TYPE: do	O
+TOKEN TYPE: hereabouts	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: that	O
+TOKEN TYPE: excellence	O
+TOKEN TYPE: in	O
+TOKEN TYPE: smoked	O
+TOKEN TYPE: meat	O
+TOKEN TYPE: cookery	O
+TOKEN TYPE: is	O
+TOKEN TYPE: determined	O
+TOKEN TYPE: by	O
+TOKEN TYPE: human	O
+TOKEN TYPE: resources	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: not	O
+TOKEN TYPE: natural	O
+TOKEN TYPE: resources	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Sam Greenberg has made a number of adjustments through the years.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Sam	PERSON
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: has	O
+TOKEN TYPE: made	O
+TOKEN TYPE: a	O
+TOKEN TYPE: number	O
+TOKEN TYPE: of	O
+TOKEN TYPE: adjustments	O
+TOKEN TYPE: through	O
+TOKEN TYPE: the	DURATION
+TOKEN TYPE: years	DURATION
+TOKEN TYPE: .	O
+Arguments:
+
+Sam Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Unlike his father and grandfather before him, he no longer smokes kosher turkeys.
+
+TOKEN TYPE: Unlike	O
+TOKEN TYPE: his	O
+TOKEN TYPE: father	O
+TOKEN TYPE: and	O
+TOKEN TYPE: grandfather	O
+TOKEN TYPE: before	O
+TOKEN TYPE: him	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: he	O
+TOKEN TYPE: no	O
+TOKEN TYPE: longer	O
+TOKEN TYPE: smokes	O
+TOKEN TYPE: kosher	O
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+In 1981, he stopped handwriting gift cards.
+
+TOKEN TYPE: In	O
+TOKEN TYPE: 1981	DATE
+TOKEN TYPE: ,	O
+TOKEN TYPE: he	O
+TOKEN TYPE: stopped	O
+TOKEN TYPE: handwriting	O
+TOKEN TYPE: gift	O
+TOKEN TYPE: cards	O
+TOKEN TYPE: .	O
+Arguments:
+
+1981
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Last year, Greenberg started accepting credit cards via its website, gobblegobble.com.
+
+TOKEN TYPE: Last	DATE
+TOKEN TYPE: year	DATE
+TOKEN TYPE: ,	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: started	O
+TOKEN TYPE: accepting	O
+TOKEN TYPE: credit	O
+TOKEN TYPE: cards	O
+TOKEN TYPE: via	O
+TOKEN TYPE: its	O
+TOKEN TYPE: website	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: gobblegobble.com	O
+TOKEN TYPE: .	O
+Arguments:
+
+Last year
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+(Previously turkeys were shipped, and invoices were paid on the honor system.)
+
+TOKEN TYPE: -LRB-	O
+TOKEN TYPE: Previously	DATE
+TOKEN TYPE: turkeys	O
+TOKEN TYPE: were	O
+TOKEN TYPE: shipped	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: and	O
+TOKEN TYPE: invoices	O
+TOKEN TYPE: were	O
+TOKEN TYPE: paid	O
+TOKEN TYPE: on	O
+TOKEN TYPE: the	O
+TOKEN TYPE: honor	O
+TOKEN TYPE: system	O
+TOKEN TYPE: .	O
+TOKEN TYPE: -RRB-	O
+Arguments:
+
+Previously
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> He prefers, however, to focus consumer attention on his company's hidebound ways.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: He	O
+TOKEN TYPE: prefers	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: however	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: to	O
+TOKEN TYPE: focus	O
+TOKEN TYPE: consumer	O
+TOKEN TYPE: attention	O
+TOKEN TYPE: on	O
+TOKEN TYPE: his	O
+TOKEN TYPE: company	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: hidebound	O
+TOKEN TYPE: ways	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+With the cadence of a salesman, he trumpets an aversion to change that would give pause to the most conservative Texas legislator.
+
+TOKEN TYPE: With	O
+TOKEN TYPE: the	O
+TOKEN TYPE: cadence	O
+TOKEN TYPE: of	O
+TOKEN TYPE: a	O
+TOKEN TYPE: salesman	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: he	O
+TOKEN TYPE: trumpets	O
+TOKEN TYPE: an	O
+TOKEN TYPE: aversion	O
+TOKEN TYPE: to	O
+TOKEN TYPE: change	O
+TOKEN TYPE: that	O
+TOKEN TYPE: would	O
+TOKEN TYPE: give	O
+TOKEN TYPE: pause	O
+TOKEN TYPE: to	O
+TOKEN TYPE: the	O
+TOKEN TYPE: most	O
+TOKEN TYPE: conservative	O
+TOKEN TYPE: Texas	LOCATION
+TOKEN TYPE: legislator	O
+TOKEN TYPE: .	O
+Arguments:
+
+Texas
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> On plant tours, visitors learn that Greenberg employees still hand-trim every bird, cutting the wing tips and neck flapfrom the carcass.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: On	O
+TOKEN TYPE: plant	O
+TOKEN TYPE: tours	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: visitors	O
+TOKEN TYPE: learn	O
+TOKEN TYPE: that	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: employees	O
+TOKEN TYPE: still	O
+TOKEN TYPE: hand-trim	O
+TOKEN TYPE: every	O
+TOKEN TYPE: bird	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: cutting	O
+TOKEN TYPE: the	O
+TOKEN TYPE: wing	O
+TOKEN TYPE: tips	O
+TOKEN TYPE: and	O
+TOKEN TYPE: neck	O
+TOKEN TYPE: flapfrom	O
+TOKEN TYPE: the	O
+TOKEN TYPE: carcass	O
+TOKEN TYPE: .	O
+Arguments:
+
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+And they knife-jab each turkey at least six times, so that the spice mix, which is robust with ground black pepper, can permeate the flesh.
+
+TOKEN TYPE: And	O
+TOKEN TYPE: they	O
+TOKEN TYPE: knife-jab	O
+TOKEN TYPE: each	O
+TOKEN TYPE: turkey	O
+TOKEN TYPE: at	O
+TOKEN TYPE: least	O
+TOKEN TYPE: six	NUMBER
+TOKEN TYPE: times	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: so	O
+TOKEN TYPE: that	O
+TOKEN TYPE: the	O
+TOKEN TYPE: spice	O
+TOKEN TYPE: mix	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: which	O
+TOKEN TYPE: is	O
+TOKEN TYPE: robust	O
+TOKEN TYPE: with	O
+TOKEN TYPE: ground	O
+TOKEN TYPE: black	O
+TOKEN TYPE: pepper	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: can	O
+TOKEN TYPE: permeate	O
+TOKEN TYPE: the	O
+TOKEN TYPE: flesh	O
+TOKEN TYPE: .	O
+Arguments:
+
+six
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+They hand-truss each pair of turkey legs, too, before hanging the dressed bird in its pit house berth.
+
+TOKEN TYPE: They	O
+TOKEN TYPE: hand-truss	O
+TOKEN TYPE: each	O
+TOKEN TYPE: pair	O
+TOKEN TYPE: of	O
+TOKEN TYPE: turkey	LOCATION
+TOKEN TYPE: legs	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: too	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: before	O
+TOKEN TYPE: hanging	O
+TOKEN TYPE: the	O
+TOKEN TYPE: dressed	O
+TOKEN TYPE: bird	O
+TOKEN TYPE: in	O
+TOKEN TYPE: its	O
+TOKEN TYPE: pit	O
+TOKEN TYPE: house	O
+TOKEN TYPE: berth	O
+TOKEN TYPE: .	O
+Arguments:
+
+turkey
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> "I want to be known as the guy who didn't mess up Greenberg Smoked Turkey," Greenberg said, leaning from the window of a swooping black Mercedes with license plates that read "GIBLET."
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: I	O
+TOKEN TYPE: want	O
+TOKEN TYPE: to	O
+TOKEN TYPE: be	O
+TOKEN TYPE: known	O
+TOKEN TYPE: as	O
+TOKEN TYPE: the	O
+TOKEN TYPE: guy	O
+TOKEN TYPE: who	O
+TOKEN TYPE: did	O
+TOKEN TYPE: n't	O
+TOKEN TYPE: mess	O
+TOKEN TYPE: up	O
+TOKEN TYPE: Greenberg	LOCATION
+TOKEN TYPE: Smoked	LOCATION
+TOKEN TYPE: Turkey	LOCATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: ''	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: said	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: leaning	O
+TOKEN TYPE: from	O
+TOKEN TYPE: the	O
+TOKEN TYPE: window	O
+TOKEN TYPE: of	O
+TOKEN TYPE: a	O
+TOKEN TYPE: swooping	O
+TOKEN TYPE: black	O
+TOKEN TYPE: Mercedes	O
+TOKEN TYPE: with	O
+TOKEN TYPE: license	O
+TOKEN TYPE: plates	O
+TOKEN TYPE: that	O
+TOKEN TYPE: read	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: GIBLET	O
+TOKEN TYPE: .	O
+TOKEN TYPE: ''	O
+Arguments:
+
+Greenberg Smoked Turkey
+Greenberg
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> "If I mess things up, I'll be messing with people's holiday tradition, and I'm not inclined to do that."
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: ``	O
+TOKEN TYPE: If	O
+TOKEN TYPE: I	O
+TOKEN TYPE: mess	O
+TOKEN TYPE: things	O
+TOKEN TYPE: up	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: I	O
+TOKEN TYPE: 'll	O
+TOKEN TYPE: be	O
+TOKEN TYPE: messing	O
+TOKEN TYPE: with	O
+TOKEN TYPE: people	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: holiday	O
+TOKEN TYPE: tradition	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: and	O
+TOKEN TYPE: I	O
+TOKEN TYPE: 'm	O
+TOKEN TYPE: not	O
+TOKEN TYPE: inclined	O
+TOKEN TYPE: to	O
+TOKEN TYPE: do	O
+TOKEN TYPE: that	O
+TOKEN TYPE: .	O
+TOKEN TYPE: ''	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> SMOKED TURKEY PATE       Adapted from the Greenberg family       Time: 5 minutes       1 pound smoked turkey       1 cup mayonnaise       Salt, optional       Pepper, optional       1 jalapeno, halved lengthwise, seeded and thinly sliced       Corn chips, like Fritos, or sturdy potato chips, for serving.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: SMOKED	O
+TOKEN TYPE: TURKEY	LOCATION
+TOKEN TYPE: PATE	O
+TOKEN TYPE: Adapted	O
+TOKEN TYPE: from	O
+TOKEN TYPE: the	O
+TOKEN TYPE: Greenberg	PERSON
+TOKEN TYPE: family	O
+TOKEN TYPE: Time	O
+TOKEN TYPE: :	O
+TOKEN TYPE: 5	DURATION
+TOKEN TYPE: minutes	NUMBER
+TOKEN TYPE: 1	MONEY
+TOKEN TYPE: pound	MONEY
+TOKEN TYPE: smoked	O
+TOKEN TYPE: turkey	O
+TOKEN TYPE: 1	NUMBER
+TOKEN TYPE: cup	O
+TOKEN TYPE: mayonnaise	O
+TOKEN TYPE: Salt	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: optional	O
+TOKEN TYPE: Pepper	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: optional	O
+TOKEN TYPE: 1	NUMBER
+TOKEN TYPE: jalapeno	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: halved	O
+TOKEN TYPE: lengthwise	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: seeded	O
+TOKEN TYPE: and	O
+TOKEN TYPE: thinly	O
+TOKEN TYPE: sliced	O
+TOKEN TYPE: Corn	O
+TOKEN TYPE: chips	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: like	O
+TOKEN TYPE: Fritos	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: or	O
+TOKEN TYPE: sturdy	O
+TOKEN TYPE: potato	O
+TOKEN TYPE: chips	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: for	O
+TOKEN TYPE: serving	O
+TOKEN TYPE: .	O
+Arguments:
+
+TURKEY
+Greenberg
+minutes
+1
+1
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Finely grind the turkey in a food processor.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Finely	O
+TOKEN TYPE: grind	O
+TOKEN TYPE: the	O
+TOKEN TYPE: turkey	LOCATION
+TOKEN TYPE: in	O
+TOKEN TYPE: a	O
+TOKEN TYPE: food	O
+TOKEN TYPE: processor	O
+TOKEN TYPE: .	O
+Arguments:
+
+turkey
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Transfer to a serving bowl, stir in mayonnaise and season to taste with salt and pepper, if using.
+
+TOKEN TYPE: Transfer	O
+TOKEN TYPE: to	O
+TOKEN TYPE: a	O
+TOKEN TYPE: serving	O
+TOKEN TYPE: bowl	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: stir	O
+TOKEN TYPE: in	O
+TOKEN TYPE: mayonnaise	O
+TOKEN TYPE: and	O
+TOKEN TYPE: season	O
+TOKEN TYPE: to	O
+TOKEN TYPE: taste	O
+TOKEN TYPE: with	O
+TOKEN TYPE: salt	O
+TOKEN TYPE: and	O
+TOKEN TYPE: pepper	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: if	O
+TOKEN TYPE: using	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Top with jalapeno slices and serve as a dip with chips.
+
+TOKEN TYPE: Top	O
+TOKEN TYPE: with	O
+TOKEN TYPE: jalapeno	O
+TOKEN TYPE: slices	O
+TOKEN TYPE: and	O
+TOKEN TYPE: serve	O
+TOKEN TYPE: as	O
+TOKEN TYPE: a	O
+TOKEN TYPE: dip	O
+TOKEN TYPE: with	O
+TOKEN TYPE: chips	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Yield: 6 to 8 appetizer servings.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Yield	O
+TOKEN TYPE: :	O
+TOKEN TYPE: 6	NUMBER
+TOKEN TYPE: to	O
+TOKEN TYPE: 8	NUMBER
+TOKEN TYPE: appetizer	O
+TOKEN TYPE: servings	O
+TOKEN TYPE: .	O
+Arguments:
+
+6
+8
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> </TEXT> </DOC>
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: </TEXT>	O
+TOKEN TYPE: </DOC>	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+PRINTING TRACE FOR NEXT DOC: 
+
+Sentence: 
+
+<DOC id="APW_ENG_20090616.1261" type="story" > <HEADLINE> Procter &amp;  Gamble buys men ' s skin care brand Zirh </HEADLINE> <DATELINE> CINCINNATI 2009-06-16 21:01:30 UTC </DATELINE> <TEXT> <P> Procter &amp; Gamble Co. said Tuesday it will buy the upscale men's skin care line Zirh to continue building its men's grooming business.
+
+TOKEN TYPE: <DOC id="APW_ENG_20090616.1261" type="story" >	O
+TOKEN TYPE: <HEADLINE>	O
+TOKEN TYPE: Procter	ORGANIZATION
+TOKEN TYPE: &	ORGANIZATION
+TOKEN TYPE: Gamble	ORGANIZATION
+TOKEN TYPE: buys	O
+TOKEN TYPE: men	O
+TOKEN TYPE: '	O
+TOKEN TYPE: s	O
+TOKEN TYPE: skin	O
+TOKEN TYPE: care	O
+TOKEN TYPE: brand	O
+TOKEN TYPE: Zirh	LOCATION
+TOKEN TYPE: </HEADLINE>	O
+TOKEN TYPE: <DATELINE>	O
+TOKEN TYPE: CINCINNATI	LOCATION
+TOKEN TYPE: 2009-06-16	TIME
+TOKEN TYPE: 21:01:30	TIME
+TOKEN TYPE: UTC	O
+TOKEN TYPE: </DATELINE>	O
+TOKEN TYPE: <TEXT>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Procter	ORGANIZATION
+TOKEN TYPE: &	ORGANIZATION
+TOKEN TYPE: Gamble	ORGANIZATION
+TOKEN TYPE: Co.	ORGANIZATION
+TOKEN TYPE: said	O
+TOKEN TYPE: Tuesday	DATE
+TOKEN TYPE: it	O
+TOKEN TYPE: will	O
+TOKEN TYPE: buy	O
+TOKEN TYPE: the	O
+TOKEN TYPE: upscale	O
+TOKEN TYPE: men	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: skin	O
+TOKEN TYPE: care	O
+TOKEN TYPE: line	O
+TOKEN TYPE: Zirh	LOCATION
+TOKEN TYPE: to	O
+TOKEN TYPE: continue	O
+TOKEN TYPE: building	O
+TOKEN TYPE: its	O
+TOKEN TYPE: men	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: grooming	O
+TOKEN TYPE: business	O
+TOKEN TYPE: .	O
+Arguments:
+
+Procter & Gamble
+Zirh
+CINCINNATI
+Procter & Gamble Co.
+Tuesday
+Zirh
+
+Argument Pairs from Model:
+
+Procter & Gamble	58	79, Tuesday	225	232
+Procter & Gamble Co.	195	219, Tuesday	225	232
+
+Argument Pairs from Model:
+
+Procter & Gamble	58	79, Zirh	109	113
+Procter & Gamble	58	79, CINCINNATI	137	147
+Procter & Gamble	58	79, Zirh	278	282
+Procter & Gamble Co.	195	219, Zirh	109	113
+Procter & Gamble Co.	195	219, CINCINNATI	137	147
+Procter & Gamble Co.	195	219, Zirh	278	282
+
+Argument Pairs from Model:
+
+Procter & Gamble	58	79, Procter & Gamble Co.	195	219
+Procter & Gamble Co.	195	219, Procter & Gamble	58	79
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> The world's biggest consumer-products company earlier this month bought Miami-based The Art of Shaving, another high-end male grooming brand that sells razors for more than $300 each.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: The	O
+TOKEN TYPE: world	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: biggest	O
+TOKEN TYPE: consumer-products	O
+TOKEN TYPE: company	O
+TOKEN TYPE: earlier	DATE
+TOKEN TYPE: this	DATE
+TOKEN TYPE: month	DATE
+TOKEN TYPE: bought	O
+TOKEN TYPE: Miami-based	O
+TOKEN TYPE: The	O
+TOKEN TYPE: Art	O
+TOKEN TYPE: of	O
+TOKEN TYPE: Shaving	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: another	O
+TOKEN TYPE: high-end	O
+TOKEN TYPE: male	O
+TOKEN TYPE: grooming	O
+TOKEN TYPE: brand	O
+TOKEN TYPE: that	O
+TOKEN TYPE: sells	O
+TOKEN TYPE: razors	O
+TOKEN TYPE: for	O
+TOKEN TYPE: more	O
+TOKEN TYPE: than	O
+TOKEN TYPE: $	MONEY
+TOKEN TYPE: 300	MONEY
+TOKEN TYPE: each	O
+TOKEN TYPE: .	O
+Arguments:
+
+earlier this month
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> Cincinnati-based P&amp;G, whose many personal-care products oriented toward women include Olay skin creams and CoverGirl makeup, began a major move into male grooming by obtaining the Gillette and Braun brands with the 2005 acquisition of Boston-based Gillette Co.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: Cincinnati-based	MISC
+TOKEN TYPE: P&G	ORGANIZATION
+TOKEN TYPE: ,	O
+TOKEN TYPE: whose	O
+TOKEN TYPE: many	O
+TOKEN TYPE: personal-care	O
+TOKEN TYPE: products	O
+TOKEN TYPE: oriented	O
+TOKEN TYPE: toward	O
+TOKEN TYPE: women	O
+TOKEN TYPE: include	O
+TOKEN TYPE: Olay	LOCATION
+TOKEN TYPE: skin	O
+TOKEN TYPE: creams	O
+TOKEN TYPE: and	O
+TOKEN TYPE: CoverGirl	O
+TOKEN TYPE: makeup	O
+TOKEN TYPE: ,	O
+TOKEN TYPE: began	O
+TOKEN TYPE: a	O
+TOKEN TYPE: major	O
+TOKEN TYPE: move	O
+TOKEN TYPE: into	O
+TOKEN TYPE: male	O
+TOKEN TYPE: grooming	O
+TOKEN TYPE: by	O
+TOKEN TYPE: obtaining	O
+TOKEN TYPE: the	O
+TOKEN TYPE: Gillette	ORGANIZATION
+TOKEN TYPE: and	O
+TOKEN TYPE: Braun	PERSON
+TOKEN TYPE: brands	O
+TOKEN TYPE: with	O
+TOKEN TYPE: the	O
+TOKEN TYPE: 2005	DATE
+TOKEN TYPE: acquisition	O
+TOKEN TYPE: of	O
+TOKEN TYPE: Boston-based	MISC
+TOKEN TYPE: Gillette	ORGANIZATION
+TOKEN TYPE: Co.	ORGANIZATION
+TOKEN TYPE: .	O
+Arguments:
+
+Cincinnati-based
+P&G
+Olay
+Gillette
+Braun
+2005
+Boston-based
+Gillette Co.
+
+Argument Pairs from Model:
+
+P&G	26	33, 2005	228	232
+Gillette	193	201, 2005	228	232
+Gillette Co.	261	272, 2005	228	232
+
+Argument Pairs from Model:
+
+P&G	26	33, Olay	99	103
+Gillette	193	201, Olay	99	103
+Gillette Co.	261	272, Olay	99	103
+
+Argument Pairs from Model:
+
+P&G	26	33, Gillette	193	201
+P&G	26	33, Gillette Co.	261	272
+Gillette	193	201, P&G	26	33
+Gillette	193	201, Gillette Co.	261	272
+Gillette Co.	261	272, P&G	26	33
+Gillette Co.	261	272, Gillette	193	201
+
+Argument Pairs from Model:
+
+P&G	26	33, Cincinnati-based	9	25
+P&G	26	33, Boston-based	248	260
+Gillette	193	201, Cincinnati-based	9	25
+Gillette	193	201, Boston-based	248	260
+Gillette Co.	261	272, Cincinnati-based	9	25
+Gillette Co.	261	272, Boston-based	248	260
+
+Argument Pairs from Model:
+
+P&G	26	33, Braun	206	211
+Gillette	193	201, Braun	206	211
+Gillette Co.	261	272, Braun	206	211
+
+Sentence: 
+
+</P> <P> New York-based Zirh was founded in 1995 and makes products using natural oils and extracts.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: New	MISC
+TOKEN TYPE: York-based	MISC
+TOKEN TYPE: Zirh	LOCATION
+TOKEN TYPE: was	O
+TOKEN TYPE: founded	O
+TOKEN TYPE: in	O
+TOKEN TYPE: 1995	DATE
+TOKEN TYPE: and	O
+TOKEN TYPE: makes	O
+TOKEN TYPE: products	O
+TOKEN TYPE: using	O
+TOKEN TYPE: natural	O
+TOKEN TYPE: oils	O
+TOKEN TYPE: and	O
+TOKEN TYPE: extracts	O
+TOKEN TYPE: .	O
+Arguments:
+
+New York-based
+Zirh
+1995
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+Among them are shaving creams and gels with ingredients such as aloe vera and seaweed extract.
+
+TOKEN TYPE: Among	O
+TOKEN TYPE: them	O
+TOKEN TYPE: are	O
+TOKEN TYPE: shaving	O
+TOKEN TYPE: creams	O
+TOKEN TYPE: and	O
+TOKEN TYPE: gels	O
+TOKEN TYPE: with	O
+TOKEN TYPE: ingredients	O
+TOKEN TYPE: such	O
+TOKEN TYPE: as	O
+TOKEN TYPE: aloe	O
+TOKEN TYPE: vera	O
+TOKEN TYPE: and	O
+TOKEN TYPE: seaweed	O
+TOKEN TYPE: extract	O
+TOKEN TYPE: .	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> <P> P&amp;G leaders have said they plan to expand the company's product offerings in both price directions -- adding to its low-cost portfolio to compete with store brands and to its premium lineup for higher-margin sales.
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: <P>	O
+TOKEN TYPE: P&G	ORGANIZATION
+TOKEN TYPE: leaders	O
+TOKEN TYPE: have	O
+TOKEN TYPE: said	O
+TOKEN TYPE: they	O
+TOKEN TYPE: plan	O
+TOKEN TYPE: to	O
+TOKEN TYPE: expand	O
+TOKEN TYPE: the	O
+TOKEN TYPE: company	O
+TOKEN TYPE: 's	O
+TOKEN TYPE: product	O
+TOKEN TYPE: offerings	O
+TOKEN TYPE: in	O
+TOKEN TYPE: both	O
+TOKEN TYPE: price	O
+TOKEN TYPE: directions	O
+TOKEN TYPE: --	O
+TOKEN TYPE: adding	O
+TOKEN TYPE: to	O
+TOKEN TYPE: its	O
+TOKEN TYPE: low-cost	O
+TOKEN TYPE: portfolio	O
+TOKEN TYPE: to	O
+TOKEN TYPE: compete	O
+TOKEN TYPE: with	O
+TOKEN TYPE: store	O
+TOKEN TYPE: brands	O
+TOKEN TYPE: and	O
+TOKEN TYPE: to	O
+TOKEN TYPE: its	O
+TOKEN TYPE: premium	O
+TOKEN TYPE: lineup	O
+TOKEN TYPE: for	O
+TOKEN TYPE: higher-margin	O
+TOKEN TYPE: sales	O
+TOKEN TYPE: .	O
+Arguments:
+
+P&G
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P> </TEXT> </DOC>
+
+TOKEN TYPE: </P>	O
+TOKEN TYPE: </TEXT>	O
+TOKEN TYPE: </DOC>	O
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+

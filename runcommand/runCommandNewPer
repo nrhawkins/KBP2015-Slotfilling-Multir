@@ -1,0 +1,5 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBPMultirExtractor 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/queries2_per.xml 0 new 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/queries2_per_new-RelevantDocuments 
+runOutput_2per_new"

@@ -1,0 +1,215 @@
+Extraction [arg1=Vanessa Randolph	6292	6308, arg2=Druselita	6325	6334, rel=per:children, score=7.55157704E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20070704.0007.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Druselita	6325	6334, arg2=Vanessa Randolph	6292	6308, rel=per:parents, score=8.46642375E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20070704.0007.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	66	78, arg2=U.S.	56	60, rel=per:origin, score=1.0917626139E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0090.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	3032	3044, arg2=Virginia	2999	3007, rel=/people/person/place_lived, score=6.6639052300000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0102.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	3032	3044, arg2=U.S.	3022	3026, rel=per:origin, score=1.1252856884E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0102.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gordon Brown	4723	4735, arg2=British	4700	4707, rel=per:origin, score=1.2587949537E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0102.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jason Lewis	5380	5391, arg2=British	5361	5368, rel=per:origin, score=2.0702567110000002E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0102.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	375	387, arg2=U.S.	365	369, rel=per:origin, score=7.562034418000001E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071222.0076.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Wittman	1083	1090, arg2=Democrats	1130	1139, rel=per:origin, score=1.47921782E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071222.0076.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=William	1463	1470, arg2=Fairfax	1444	1451, rel=per:origin, score=8.420596989999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071222.0076.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Judy Feder	4524	4534, arg2=Georgetown University	4492	4513, rel=per:employee_or_member_of, score=7.255312080000003E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071222.0076.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	27	39, arg2=U.S.	17	21, rel=per:origin, score=7.729319619000001E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071007.0033.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Kaine	1196	1201, arg2=Skinner	1182	1189, rel=per:parents, score=1967765.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071007.0033.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=George Allen	1716	1728, arg2=then-Republican	1695	1710, rel=per:origin, score=7.028855148999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071007.0033.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Kaine	3029	3034, arg2=Republican	3093	3103, rel=per:origin, score=2.887745256E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071007.0033.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	55	67, arg2=U.S.	45	49, rel=per:origin, score=1.2649377062E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071006.0674.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Davis	241	246, arg2=Gloucester	272	282, rel=/people/deceased_person/place_of_death, score=1.164873345E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071006.0674.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Benazir Bhutto	551	565, arg2=Pakistani	526	535, rel=per:origin, score=9.212484231999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Bradford Washburn	902	919, arg2=Boston Museum of Science	936	960, rel=per:employee_or_member_of, score=1.9106372900000002E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Luciano Pavarotti	1682	1699, arg2=Italian	1668	1675, rel=per:origin, score=7.067666521999998E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Henry Hyde	3081	3091, arg2=US	3063	3065, rel=per:origin, score=7.294512271999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Henry Hyde	3081	3091, arg2=Illinois	3095	3103, rel=/people/person/place_lived, score=1.707152882E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=E. Howard Hunt	3223	3237, arg2=Watergate	3206	3215, rel=per:origin, score=8.859235959000001E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Michael Deaver	3257	3271, arg2=Watergate	3206	3215, rel=per:origin, score=4.2476249070000005E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Craig Thomas	3453	3465, arg2=US	3441	3443, rel=per:origin, score=9.16188233E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Craig Thomas	3453	3465, arg2=Wyoming	3467	3474, rel=/people/person/place_of_birth, score=3.83719172E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=George Smathers	3477	3492, arg2=Florida	3494	3501, rel=/people/person/place_lived, score=4.118875699999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Daniel Brewster	3508	3523, arg2=Maryland	3525	3533, rel=/people/person/place_lived, score=1.371505795E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gilbert Gude	3590	3602, arg2=Maryland	3604	3612, rel=/people/person/place_lived, score=1.371505795E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Charles Norwood	3615	3630, arg2=Georgia	3632	3639, rel=/people/person/place_lived, score=4.118875699999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Steven Derounian	3642	3658, arg2=New York	3660	3668, rel=/people/person/place_lived, score=4.118875699999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Juanita Millender-McDonald	3692	3718, arg2=California	3720	3730, rel=/people/person/place_lived, score=1.371505795E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Marion Snyder	3749	3762, arg2=Kentucky	3764	3772, rel=/people/person/place_lived, score=1.371505795E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Donald Clancy	3792	3805, arg2=Ohio	3807	3811, rel=/people/person/place_lived, score=1.371505795E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=William Anderson	3814	3830, arg2=Tennessee	3832	3841, rel=/people/person/place_lived, score=4.118875699999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	3844	3856, arg2=Virginia	3858	3866, rel=/people/person/place_lived, score=4.118875699999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Peter Hoagland	3869	3883, arg2=Nebraska	3885	3893, rel=/people/person/place_lived, score=4.118875699999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jack Metcalf	3941	3953, arg2=Washington	3955	3965, rel=/people/person/place_lived, score=1.371505795E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Wiley Mayne	3968	3979, arg2=Iowa	3981	3985, rel=/people/person/place_lived, score=4.118875699999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Julia Carson	3992	4004, arg2=Indiana	4006	4013, rel=/people/person/place_lived, score=1.371505795E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=William O'Neill	4070	4085, arg2=Joseph Farland	4228	4242, rel=per:children, score=3.98223919E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Thomas Meskill	4090	4104, arg2=Joseph Farland	4228	4242, rel=per:children, score=3.98223919E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Richard Jewell	5137	5151, arg2=Olympics	5115	5123, rel=per:origin, score=6.429020753E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Kurt Waldheim	5293	5306, arg2=Austrian	5274	5282, rel=per:origin, score=1.6144811326999998E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Raymond Barre	5733	5746, arg2=France	5748	5754, rel=/people/person/place_of_birth, score=3.83719172E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Pascal Yoadimnadji	5757	5775, arg2=Chad	5777	5781, rel=/people/person/place_lived, score=4.118875699999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Lucie Aubrac	6244	6256, arg2=French Resistance	6202	6219, rel=per:employee_or_member_of, score=52452.799999999814, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Judy Mazel	7913	7923, arg2=French	7957	7963, rel=per:origin, score=3.835494336E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Bruce Metzger	7942	7955, arg2=French	7957	7963, rel=per:origin, score=7.62305831E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Robert Goulet	11005	11018, arg2=Broadway	10974	10982, rel=per:origin, score=1.5741653359999996E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Brad Delp	14425	14434, arg2=Boston	14438	14444, rel=per:origin, score=2.49996395E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Don Ho	14374	14380, arg2=Hawaiian	14354	14362, rel=per:origin, score=1.0858757247E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Sam Pollock	17905	17916, arg2=NHL	17920	17923, rel=per:employee_or_member_of, score=2.3806797E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Al Oerter	18036	18045, arg2=Olympians	18026	18035, rel=per:origin, score=8.979060395999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Alfred Peet	18471	18482, arg2=American	18494	18502, rel=per:origin, score=8.0595209E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Garry Betty	18801	18812, arg2=Gordon Macklin	19089	19103, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Garry Betty	18801	18812, arg2=Charles Walgreen	19121	19137, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Garry Betty	18801	18812, arg2=Alan Pottasch	19156	19169, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Garry Betty	18801	18812, arg2=George Kovacs	19197	19210, rel=per:children, score=4.0068840800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Lamar Muse	18826	18836, arg2=Gordon Macklin	19089	19103, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Lamar Muse	18826	18836, arg2=Charles Walgreen	19121	19137, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Lamar Muse	18826	18836, arg2=Alan Pottasch	19156	19169, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Lamar Muse	18826	18836, arg2=George Kovacs	19197	19210, rel=per:children, score=4.0068840800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=James Moroney	18859	18872, arg2=Gordon Macklin	19089	19103, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=James Moroney	18859	18872, arg2=Charles Walgreen	19121	19137, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=James Moroney	18859	18872, arg2=Alan Pottasch	19156	19169, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=James Moroney	18859	18872, arg2=George Kovacs	19197	19210, rel=per:children, score=4.0068840800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Ernest Gallo	18887	18899, arg2=Gordon Macklin	19089	19103, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Ernest Gallo	18887	18899, arg2=Charles Walgreen	19121	19137, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Ernest Gallo	18887	18899, arg2=Alan Pottasch	19156	19169, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Ernest Gallo	18887	18899, arg2=George Kovacs	19197	19210, rel=per:children, score=4.0068840800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gordon Macklin	19089	19103, arg2=Charles Walgreen	19121	19137, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gordon Macklin	19089	19103, arg2=Alan Pottasch	19156	19169, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Charles Walgreen	19121	19137, arg2=Gordon Macklin	19089	19103, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Charles Walgreen	19121	19137, arg2=Alan Pottasch	19156	19169, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Charles Walgreen	19121	19137, arg2=George Kovacs	19197	19210, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Alan Pottasch	19156	19169, arg2=Gordon Macklin	19089	19103, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Alan Pottasch	19156	19169, arg2=Charles Walgreen	19121	19137, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Alan Pottasch	19156	19169, arg2=George Kovacs	19197	19210, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=George Kovacs	19197	19210, arg2=Charles Walgreen	19121	19137, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=George Kovacs	19197	19210, arg2=Alan Pottasch	19156	19169, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=James Needham	19292	19305, arg2=NY Stock Exchange	19265	19282, rel=per:employee_or_member_of, score=2.25803138E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=William Mercer	19511	19525, arg2=New England Telephone	19483	19504, rel=per:employee_or_member_of, score=8865812.79999999, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Merle Sande	19887	19898, arg2=AIDS	19925	19929, rel=per:religion, score=3.1382106800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Homer Stewart	20140	20153, arg2=Rocket	20125	20131, rel=per:origin, score=6.362520396999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Eric Wolf	20656	20665, arg2=Internet	20639	20647, rel=per:origin, score=7.288348020999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=John Backus	21587	21598, arg2=Fortran	21613	21620, rel=per:origin, score=1.541687089E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Vincent DeDomenico	21770	21788, arg2=Nautilus	21738	21746, rel=per:origin, score=9.348805860000001E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=George Rieveschl	22272	22288, arg2=Benadryl	22290	22298, rel=per:origin, score=5.994446705999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Rudolf Arnheim	22711	22725, arg2=Visual	22695	22701, rel=per:origin, score=1.1159615934999998E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Nils Wessell	23386	23398, arg2=New England	23359	23370, rel=per:origin, score=4.46203888E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jack Nolan	23408	23418, arg2=New England	23359	23370, rel=per:origin, score=4.46203888E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=John Saltonstall	24689	24705, arg2=Boston	24627	24633, rel=per:origin, score=7.02339752E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tracey Albainy	25431	25445, arg2=Philanthropic Initiative	25447	25471, rel=per:origin, score=7.62305831E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Joe Breiteneicher	25477	25494, arg2=Philanthropic Initiative	25447	25471, rel=per:origin, score=6.157969040999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF_ENG_003	per:spouse	UWashington_2	NIL
+SF_ENG_003	per:religion	UWashington_2	NIL
+SF_ENG_003	per:city_of_death	UWashington_2	NIL
+SF_ENG_003	per:other_family	UWashington_2	NIL
+SF_ENG_003	per:countries_of_residence	UWashington_2	NIL
+SF_ENG_003	per:country_of_death	UWashington_2	NIL
+SF_ENG_003	per:stateorprovince_of_birth	UWashington_2	NIL
+SF_ENG_003	per:title	UWashington_2	NIL
+SF_ENG_003	per:children	UWashington_2	NIL
+SF_ENG_003	per:origin	UWashington_2	APW_ENG_20071006.0674.LDC2009T13:45-67	U.S.	APW_ENG_20071006.0674.LDC2009T13:45-49	1.2649377062E9
+SF_ENG_003	per:city_of_birth	UWashington_2	NIL
+SF_ENG_003	per:date_of_death	UWashington_2	NIL
+SF_ENG_003	per:age	UWashington_2	NIL
+SF_ENG_003	per:cities_of_residence	UWashington_2	NIL
+SF_ENG_003	per:employee_or_member_of	UWashington_2	NIL
+SF_ENG_003	per:stateorprovince_of_death	UWashington_2	NIL
+SF_ENG_003	per:cause_of_death	UWashington_2	NIL
+SF_ENG_003	per:alternate_names	UWashington_2	NIL
+SF_ENG_003	per:charges	UWashington_2	NIL
+SF_ENG_003	per:country_of_birth	UWashington_2	NIL
+SF_ENG_003	per:schools_attended	UWashington_2	NIL
+SF_ENG_003	per:parents	UWashington_2	NIL
+SF_ENG_003	per:date_of_birth	UWashington_2	NIL
+SF_ENG_003	per:statesorprovinces_of_residence	UWashington_2	APW_ENG_20071007.0102.LDC2009T13:2999-3044	Virginia	APW_ENG_20071007.0102.LDC2009T13:2999-3007	6.6639052300000004E7
+SF_ENG_003	per:siblings	UWashington_2	NIL

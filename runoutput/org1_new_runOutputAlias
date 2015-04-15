@@ -1,0 +1,32 @@
+Extraction [arg1=Securities and Exchange Commission	183	217, arg2=GALLEON	92	99, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20100929.0212, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Galleon Group	316	329, arg2=GALLEON	92	99, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20100929.0212, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Securities and Exchange Commission	1914	1948, arg2=French	1823	1829, rel=/common/topic/alias, score=162093.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101130.0179, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Communications	1632	1646, arg2=Internet	1761	1769, rel=/common/topic/alias, score=678082.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101129.0186, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Netflix	1673	1680, arg2=Internet	1761	1769, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101129.0186, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Comcast	2179	2186, arg2=Internet	2099	2107, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101129.0186, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=IBM	3389	3392, arg2=Coremetrics	3351	3362, rel=org:subsidiaries, score=2.6871673699999996E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101129.0186, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=IBM	3389	3392, arg2=Eastern	3217	3224, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101129.0186, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_100	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_100	org:alternate_names	UWashington_2	NYT_ENG_20100929.0212:92-329	GALLEON	NYT_ENG_20100929.0212:92-99	389456.8
+SF13_ENG_100	org:date_founded	UWashington_2	NIL
+SF13_ENG_100	org:website	UWashington_2	NIL
+SF13_ENG_100	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_100	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_100	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_100	org:founded_by	UWashington_2	NIL
+SF13_ENG_100	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_100	org:shareholders	UWashington_2	NIL
+SF13_ENG_100	org:city_of_headquarters	UWashington_2	NIL
+SF13_ENG_100	org:member_of	UWashington_2	NIL
+SF13_ENG_100	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_100	org:parents	UWashington_2	NIL
+SF13_ENG_100	org:members	UWashington_2	NIL
+SF13_ENG_100	org:stateorprovince_of_headquarters	UWashington_2	NIL

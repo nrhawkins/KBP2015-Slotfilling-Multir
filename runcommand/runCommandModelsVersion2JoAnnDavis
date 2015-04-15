@@ -1,0 +1,12 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBPMultirExtractor 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/joAnnDavisQuery.xml 0 old 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/joAnnDavisQuery-RelevantDocuments 
+runOutput_12ModelsVersion2_JoAnnDavis"
+
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBPMultirExtractor 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/joAnnDavisQuery.xml 0 old 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/joAnnDavisQuery-RelevantDocs 
+runOutputModelsVersion2_JoAnnDavis_NoRelDocsFile"
+

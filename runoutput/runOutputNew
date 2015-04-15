@@ -1,0 +1,39 @@
+Extraction [arg1=Jo Ann Davis	66	78, arg2=U.S.	56	60, rel=per:origin, score=1.0917626139E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0090.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	3032	3044, arg2=Virginia	2999	3007, rel=/people/person/place_lived, score=6.6639052300000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0102.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	3032	3044, arg2=U.S.	3022	3026, rel=per:origin, score=1.1252856884E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0102.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	375	387, arg2=U.S.	365	369, rel=per:origin, score=7.562034418000001E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071222.0076.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	27	39, arg2=U.S.	17	21, rel=per:origin, score=7.729319619000001E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071007.0033.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	55	67, arg2=U.S.	45	49, rel=per:origin, score=1.2649377062E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071006.0674.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Jo Ann Davis	3844	3856, arg2=Virginia	3858	3866, rel=/people/person/place_lived, score=4.118875699999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF_ENG_003	per:spouse	UWashington_2	NIL
+SF_ENG_003	per:religion	UWashington_2	NIL
+SF_ENG_003	per:city_of_death	UWashington_2	NIL
+SF_ENG_003	per:other_family	UWashington_2	NIL
+SF_ENG_003	per:countries_of_residence	UWashington_2	NIL
+SF_ENG_003	per:country_of_death	UWashington_2	NIL
+SF_ENG_003	per:stateorprovince_of_birth	UWashington_2	NIL
+SF_ENG_003	per:title	UWashington_2	NIL
+SF_ENG_003	per:children	UWashington_2	NIL
+SF_ENG_003	per:origin	UWashington_2	APW_ENG_20071006.0674.LDC2009T13:45-67	U.S.	APW_ENG_20071006.0674.LDC2009T13:45-49	1.2649377062E9
+SF_ENG_003	per:city_of_birth	UWashington_2	NIL
+SF_ENG_003	per:date_of_death	UWashington_2	NIL
+SF_ENG_003	per:age	UWashington_2	NIL
+SF_ENG_003	per:cities_of_residence	UWashington_2	NIL
+SF_ENG_003	per:employee_or_member_of	UWashington_2	NIL
+SF_ENG_003	per:stateorprovince_of_death	UWashington_2	NIL
+SF_ENG_003	per:cause_of_death	UWashington_2	NIL
+SF_ENG_003	per:alternate_names	UWashington_2	NIL
+SF_ENG_003	per:charges	UWashington_2	NIL
+SF_ENG_003	per:country_of_birth	UWashington_2	NIL
+SF_ENG_003	per:schools_attended	UWashington_2	NIL
+SF_ENG_003	per:parents	UWashington_2	NIL
+SF_ENG_003	per:date_of_birth	UWashington_2	NIL
+SF_ENG_003	per:statesorprovinces_of_residence	UWashington_2	APW_ENG_20071007.0102.LDC2009T13:2999-3044	Virginia	APW_ENG_20071007.0102.LDC2009T13:2999-3007	6.6639052300000004E7
+SF_ENG_003	per:siblings	UWashington_2	NIL

@@ -1,0 +1,21 @@
+Extraction [arg1=Galleon Group	1578	1591, arg2=Raj Rajaratnam	1547	1561, rel=org:founded_by, score=1.054314617E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101129.0142, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Sentence = Raj Rajaratnam,
+founder of the Galleon Group
+
+SF13_ENG_100	org:subsidiaries	UWashington_1	NIL
+SF13_ENG_100	org:alternate_names	UWashington_1	NIL
+SF13_ENG_100	org:date_founded	UWashington_1	NIL
+SF13_ENG_100	org:website	UWashington_1	NIL
+SF13_ENG_100	org:country_of_headquarters	UWashington_1	NIL
+SF13_ENG_100	org:number_of_employees_members	UWashington_1	NIL
+SF13_ENG_100	org:date_dissolved	UWashington_1	NIL
+SF13_ENG_100	org:founded_by	UWashington_1	NYT_ENG_20101129.0142:1547-1591	Raj Rajaratnam	NYT_ENG_20101129.0142:1547-1561	1.054314617E8
+SF13_ENG_100	org:political_religious_affiliation	UWashington_1	NIL
+SF13_ENG_100	org:shareholders	UWashington_1	NIL
+SF13_ENG_100	org:city_of_headquarters	UWashington_1	NIL
+SF13_ENG_100	org:member_of	UWashington_1	NIL
+SF13_ENG_100	org:top_members_employees	UWashington_1	NIL
+SF13_ENG_100	org:parents	UWashington_1	NIL
+SF13_ENG_100	org:members	UWashington_1	NIL
+SF13_ENG_100	org:stateorprovince_of_headquarters	UWashington_1	NIL

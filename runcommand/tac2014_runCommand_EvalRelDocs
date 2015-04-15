@@ -1,0 +1,4 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.EvaluateRelevantDocs 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/tac_2014_queries-RelevantDocuments
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/tac2014_runOutput_EvalRelDocs"

@@ -1,0 +1,525 @@
+Extraction [arg1=Bashardost	1643	1653, arg2=Afghanistan	1667	1678, rel=per:origin, score=1.29032057E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091022.0369, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Ramazan Bashardost	3153	3171, arg2=France	3216	3222, rel=/people/person/place_lived, score=1.487432668E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20090820.0085, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Bashardost	1656	1666, arg2=Afghanistan	1680	1691, rel=per:origin, score=1.29032057E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091022.0459, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Bashardost	1656	1666, arg2=Hazara	1703	1709, rel=per:origin, score=4.60220727E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091022.0459, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Bashardost	1550	1560, arg2=Afghanistan	1526	1537, rel=per:origin, score=7.69485832E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20090818.0701, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Ramazan Bashardost	1472	1490, arg2=Abdullah	1436	1444, rel=per:parents, score=2.7750516599999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20090917.0069, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Ramazan Bashardost	1799	1817, arg2=Hamid Karzai	1737	1749, rel=per:spouse, score=5.22999682E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20090916.0149, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Bashardost	1624	1634, arg2=Afghanistan	1648	1659, rel=per:origin, score=1.29032057E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091022.0219, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Bashardost	1624	1634, arg2=Afghanistan	1648	1659, rel=per:origin, score=1.29032057E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091022.0073, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Ramazan Bashardost	824	842, arg2=Abdullah	788	796, rel=per:parents, score=2.7750516599999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20090916.0126, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_001	per:spouse	UWashington_2	XIN_ENG_20090916.0149:1737-1817	Hamid Karzai	XIN_ENG_20090916.0149:1737-1749	5.22999682E7
+SF13_ENG_001	per:religion	UWashington_2	NIL
+SF13_ENG_001	per:city_of_death	UWashington_2	NIL
+SF13_ENG_001	per:other_family	UWashington_2	NIL
+SF13_ENG_001	per:countries_of_residence	UWashington_2	LTW_ENG_20090820.0085:3153-3222	France	LTW_ENG_20090820.0085:3216-3222	1.487432668E8
+SF13_ENG_001	per:country_of_death	UWashington_2	NIL
+SF13_ENG_001	per:stateorprovince_of_birth	UWashington_2	NIL
+SF13_ENG_001	per:title	UWashington_2	NIL
+SF13_ENG_001	per:children	UWashington_2	NIL
+SF13_ENG_001	per:origin	UWashington_2	AFP_ENG_20091022.0073:1624-1659	Afghanistan	AFP_ENG_20091022.0073:1648-1659	1.29032057E8
+SF13_ENG_001	per:city_of_birth	UWashington_2	NIL
+SF13_ENG_001	per:date_of_death	UWashington_2	NIL
+SF13_ENG_001	per:age	UWashington_2	NIL
+SF13_ENG_001	per:cities_of_residence	UWashington_2	NIL
+SF13_ENG_001	per:employee_or_member_of	UWashington_2	NIL
+SF13_ENG_001	per:stateorprovince_of_death	UWashington_2	NIL
+SF13_ENG_001	per:cause_of_death	UWashington_2	NIL
+SF13_ENG_001	per:alternate_names	UWashington_2	NIL
+SF13_ENG_001	per:charges	UWashington_2	NIL
+SF13_ENG_001	per:country_of_birth	UWashington_2	NIL
+SF13_ENG_001	per:schools_attended	UWashington_2	NIL
+SF13_ENG_001	per:parents	UWashington_2	XIN_ENG_20090916.0126:788-842	Abdullah	XIN_ENG_20090916.0126:788-796	2.7750516599999998E7
+SF13_ENG_001	per:date_of_birth	UWashington_2	NIL
+SF13_ENG_001	per:statesorprovinces_of_residence	UWashington_2	NIL
+SF13_ENG_001	per:siblings	UWashington_2	NIL
+Extraction [arg1=Marc Bolland	362	374, arg2=Morrisons	346	355, rel=per:employee_or_member_of, score=1.6842522399999984E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20091118.0290, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Marc Bolland	498	510, arg2=Morrison Supermarkets PLC	526	551, rel=per:employee_or_member_of, score=1.6254460900000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100318.0722, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_002	per:spouse	UWashington_2	NIL
+SF13_ENG_002	per:religion	UWashington_2	NIL
+SF13_ENG_002	per:city_of_death	UWashington_2	NIL
+SF13_ENG_002	per:other_family	UWashington_2	NIL
+SF13_ENG_002	per:countries_of_residence	UWashington_2	NIL
+SF13_ENG_002	per:country_of_death	UWashington_2	NIL
+SF13_ENG_002	per:stateorprovince_of_birth	UWashington_2	NIL
+SF13_ENG_002	per:title	UWashington_2	NIL
+SF13_ENG_002	per:children	UWashington_2	NIL
+SF13_ENG_002	per:origin	UWashington_2	NIL
+SF13_ENG_002	per:city_of_birth	UWashington_2	NIL
+SF13_ENG_002	per:date_of_death	UWashington_2	NIL
+SF13_ENG_002	per:age	UWashington_2	NIL
+SF13_ENG_002	per:cities_of_residence	UWashington_2	NIL
+SF13_ENG_002	per:employee_or_member_of	UWashington_2	XIN_ENG_20091118.0290:346-374	Morrisons	XIN_ENG_20091118.0290:346-355	1.6842522399999984E7
+SF13_ENG_002	per:stateorprovince_of_death	UWashington_2	NIL
+SF13_ENG_002	per:cause_of_death	UWashington_2	NIL
+SF13_ENG_002	per:alternate_names	UWashington_2	NIL
+SF13_ENG_002	per:charges	UWashington_2	NIL
+SF13_ENG_002	per:country_of_birth	UWashington_2	NIL
+SF13_ENG_002	per:schools_attended	UWashington_2	NIL
+SF13_ENG_002	per:parents	UWashington_2	NIL
+SF13_ENG_002	per:date_of_birth	UWashington_2	NIL
+SF13_ENG_002	per:statesorprovinces_of_residence	UWashington_2	NIL
+SF13_ENG_002	per:siblings	UWashington_2	NIL
+Extraction [arg1=Stuart Rose	1426	1437, arg2=Marks & Spencer	1405	1424, rel=per:employee_or_member_of, score=1.95467821E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100408.0594, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Stuart Rose	1163	1174, arg2=Briton	1156	1162, rel=per:origin, score=7.649856575999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100127.0250, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Stuart Rose	1163	1174, arg2=Bolland	1096	1103, rel=per:spouse, score=2.9329724200000003E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100127.0250, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Stuart Rose	371	382, arg2=<P> The	307	314, rel=per:origin, score=6.94732677E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100823.0309, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_003	per:spouse	UWashington_2	AFP_ENG_20100127.0250:1096-1174	Bolland	AFP_ENG_20100127.0250:1096-1103	2.9329724200000003E7
+SF13_ENG_003	per:religion	UWashington_2	NIL
+SF13_ENG_003	per:city_of_death	UWashington_2	NIL
+SF13_ENG_003	per:other_family	UWashington_2	NIL
+SF13_ENG_003	per:countries_of_residence	UWashington_2	NIL
+SF13_ENG_003	per:country_of_death	UWashington_2	NIL
+SF13_ENG_003	per:stateorprovince_of_birth	UWashington_2	NIL
+SF13_ENG_003	per:title	UWashington_2	NIL
+SF13_ENG_003	per:children	UWashington_2	NIL
+SF13_ENG_003	per:origin	UWashington_2	AFP_ENG_20100127.0250:1156-1174	Briton	AFP_ENG_20100127.0250:1156-1162	7.649856575999999E8
+SF13_ENG_003	per:city_of_birth	UWashington_2	NIL
+SF13_ENG_003	per:date_of_death	UWashington_2	NIL
+SF13_ENG_003	per:age	UWashington_2	NIL
+SF13_ENG_003	per:cities_of_residence	UWashington_2	NIL
+SF13_ENG_003	per:employee_or_member_of	UWashington_2	AFP_ENG_20100408.0594:1405-1437	Marks & Spencer	AFP_ENG_20100408.0594:1405-1424	1.95467821E7
+SF13_ENG_003	per:stateorprovince_of_death	UWashington_2	NIL
+SF13_ENG_003	per:cause_of_death	UWashington_2	NIL
+SF13_ENG_003	per:alternate_names	UWashington_2	NIL
+SF13_ENG_003	per:charges	UWashington_2	NIL
+SF13_ENG_003	per:country_of_birth	UWashington_2	NIL
+SF13_ENG_003	per:schools_attended	UWashington_2	NIL
+SF13_ENG_003	per:parents	UWashington_2	NIL
+SF13_ENG_003	per:date_of_birth	UWashington_2	NIL
+SF13_ENG_003	per:statesorprovinces_of_residence	UWashington_2	NIL
+SF13_ENG_003	per:siblings	UWashington_2	NIL
+SF13_ENG_004	per:spouse	UWashington_2	NIL
+SF13_ENG_004	per:religion	UWashington_2	NIL
+SF13_ENG_004	per:city_of_death	UWashington_2	NIL
+SF13_ENG_004	per:other_family	UWashington_2	NIL
+SF13_ENG_004	per:countries_of_residence	UWashington_2	NIL
+SF13_ENG_004	per:country_of_death	UWashington_2	NIL
+SF13_ENG_004	per:stateorprovince_of_birth	UWashington_2	NIL
+SF13_ENG_004	per:title	UWashington_2	NIL
+SF13_ENG_004	per:children	UWashington_2	NIL
+SF13_ENG_004	per:origin	UWashington_2	NIL
+SF13_ENG_004	per:city_of_birth	UWashington_2	NIL
+SF13_ENG_004	per:date_of_death	UWashington_2	NIL
+SF13_ENG_004	per:age	UWashington_2	NIL
+SF13_ENG_004	per:cities_of_residence	UWashington_2	NIL
+SF13_ENG_004	per:employee_or_member_of	UWashington_2	NIL
+SF13_ENG_004	per:stateorprovince_of_death	UWashington_2	NIL
+SF13_ENG_004	per:cause_of_death	UWashington_2	NIL
+SF13_ENG_004	per:alternate_names	UWashington_2	NIL
+SF13_ENG_004	per:charges	UWashington_2	NIL
+SF13_ENG_004	per:country_of_birth	UWashington_2	NIL
+SF13_ENG_004	per:schools_attended	UWashington_2	NIL
+SF13_ENG_004	per:parents	UWashington_2	NIL
+SF13_ENG_004	per:date_of_birth	UWashington_2	NIL
+SF13_ENG_004	per:statesorprovinces_of_residence	UWashington_2	NIL
+SF13_ENG_004	per:siblings	UWashington_2	NIL
+Extraction [arg1=Rana	4847	4851, arg2=Pakistani	4913	4922, rel=per:origin, score=1.242235888E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20091208.1326, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	2797	2818, arg2=Canadian	2834	2842, rel=per:origin, score=1.599696625E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100318.1183, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Rana	1319	1323, arg2=Canadian	1329	1337, rel=per:origin, score=1.3419878419999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20091028.1116, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	1467	1488, arg2=Canadian	1496	1504, rel=per:origin, score=2.264944827E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091027.0064, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	1154	1175, arg2=Canadian	1183	1191, rel=per:origin, score=2.264944827E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091106.0555, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Rana	3666	3670, arg2=Pakistan	3683	3691, rel=per:origin, score=1.018879633E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20091028.0076, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	499	520, arg2=Pakistan	538	546, rel=/people/person/place_lived, score=1.7146339179999998E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091027.0217, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	365	386, arg2=Mumbai	431	437, rel=per:origin, score=3.15394503E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091214.0045, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Rana	1683	1687, arg2=First World Immigration Services	1716	1748, rel=per:employee_or_member_of, score=7694096.099999998, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091215.0767, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Rana	1779	1783, arg2=Muslim	1993	1999, rel=per:origin, score=2.783802905E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20091124.0539, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	365	386, arg2=Mumbai	431	437, rel=per:origin, score=3.15394503E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091214.0081, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	4258	4279, arg2=Danish	4234	4240, rel=per:origin, score=6.4788178900000006E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091210.0726, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=David Coleman Headley	2394	2415, arg2=Indian	2570	2576, rel=per:origin, score=1.6055464560000002E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20091118.0220, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=David Coleman Headley	3167	3188, arg2=Indian	3343	3349, rel=per:origin, score=1.6055464560000002E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20091118.0138, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	509	530, arg2=Muslim	740	746, rel=per:origin, score=3.8547827629999995E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20091119.0373, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	479	500, arg2=Canadian	508	516, rel=per:origin, score=2.264944827E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091027.0123, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	1271	1292, arg2=Pakistan	1310	1318, rel=/people/person/place_lived, score=1.7146339179999998E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091027.0162, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	381	402, arg2=Pakistan-based	449	463, rel=per:origin, score=3.76518962E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091130.0627, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	4248	4269, arg2=Danish	4224	4230, rel=per:origin, score=6.4788178900000006E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091209.0064, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	365	386, arg2=Mumbai	431	437, rel=per:origin, score=3.15394503E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091214.0068, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tahawwur Hussain Rana	499	520, arg2=Pakistan	538	546, rel=/people/person/place_lived, score=1.7146339179999998E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091027.0258, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=David Coleman Headley	1909	1930, arg2=Indian	2085	2091, rel=per:origin, score=1.6055464560000002E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20091118.0163, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Rana	2471	2475, arg2=First World Immigration Services	2504	2536, rel=per:employee_or_member_of, score=7694096.099999998, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100114.0009, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_005	per:spouse	UWashington_2	NIL
+SF13_ENG_005	per:religion	UWashington_2	NIL
+SF13_ENG_005	per:city_of_death	UWashington_2	NIL
+SF13_ENG_005	per:other_family	UWashington_2	NIL
+SF13_ENG_005	per:countries_of_residence	UWashington_2	AFP_ENG_20091027.0258:499-546	Pakistan	AFP_ENG_20091027.0258:538-546	1.7146339179999998E8
+SF13_ENG_005	per:country_of_death	UWashington_2	NIL
+SF13_ENG_005	per:stateorprovince_of_birth	UWashington_2	NIL
+SF13_ENG_005	per:title	UWashington_2	NIL
+SF13_ENG_005	per:children	UWashington_2	NIL
+SF13_ENG_005	per:origin	UWashington_2	APW_ENG_20091119.0373:509-746	Muslim	APW_ENG_20091119.0373:740-746	3.8547827629999995E8
+SF13_ENG_005	per:city_of_birth	UWashington_2	NIL
+SF13_ENG_005	per:date_of_death	UWashington_2	NIL
+SF13_ENG_005	per:age	UWashington_2	NIL
+SF13_ENG_005	per:cities_of_residence	UWashington_2	NIL
+SF13_ENG_005	per:employee_or_member_of	UWashington_2	AFP_ENG_20100114.0009:2471-2536	First World Immigration Services	AFP_ENG_20100114.0009:2504-2536	7694096.099999998
+SF13_ENG_005	per:stateorprovince_of_death	UWashington_2	NIL
+SF13_ENG_005	per:cause_of_death	UWashington_2	NIL
+SF13_ENG_005	per:alternate_names	UWashington_2	NIL
+SF13_ENG_005	per:charges	UWashington_2	NIL
+SF13_ENG_005	per:country_of_birth	UWashington_2	NIL
+SF13_ENG_005	per:schools_attended	UWashington_2	NIL
+SF13_ENG_005	per:parents	UWashington_2	NIL
+SF13_ENG_005	per:date_of_birth	UWashington_2	NIL
+SF13_ENG_005	per:statesorprovinces_of_residence	UWashington_2	NIL
+SF13_ENG_005	per:siblings	UWashington_2	NIL
+Extraction [arg1=Baba Allauddin Khan	2393	2412, arg2=Indian	2336	2342, rel=per:religion, score=4.662918299999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101001.0038, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Khan	1734	1738, arg2=Shivpur	1767	1774, rel=/people/person/place_of_birth, score=1.739204905E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20090620.0093, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Khan	3375	3379, arg2=Indian	3492	3498, rel=per:origin, score=1.1934298439999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20090620.0093, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Mary Khan	4483	4492, arg2=Khan	4453	4457, rel=per:spouse, score=3.9123337699999996E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20090620.0093, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_006	per:spouse	UWashington_2	LTW_ENG_20090620.0093:4453-4492	Khan	LTW_ENG_20090620.0093:4453-4457	3.9123337699999996E7
+SF13_ENG_006	per:religion	UWashington_2	NYT_ENG_20101001.0038:2336-2412	Indian	NYT_ENG_20101001.0038:2336-2342	4.662918299999999E7
+SF13_ENG_006	per:city_of_death	UWashington_2	NIL
+SF13_ENG_006	per:other_family	UWashington_2	NIL
+SF13_ENG_006	per:countries_of_residence	UWashington_2	NIL
+SF13_ENG_006	per:country_of_death	UWashington_2	NIL
+SF13_ENG_006	per:stateorprovince_of_birth	UWashington_2	NIL
+SF13_ENG_006	per:title	UWashington_2	NIL
+SF13_ENG_006	per:children	UWashington_2	NIL
+SF13_ENG_006	per:origin	UWashington_2	LTW_ENG_20090620.0093:3375-3498	Indian	LTW_ENG_20090620.0093:3492-3498	1.1934298439999999E8
+SF13_ENG_006	per:city_of_birth	UWashington_2	LTW_ENG_20090620.0093:1734-1774	Shivpur	LTW_ENG_20090620.0093:1767-1774	1.739204905E8
+SF13_ENG_006	per:date_of_death	UWashington_2	NIL
+SF13_ENG_006	per:age	UWashington_2	NIL
+SF13_ENG_006	per:cities_of_residence	UWashington_2	NIL
+SF13_ENG_006	per:employee_or_member_of	UWashington_2	NIL
+SF13_ENG_006	per:stateorprovince_of_death	UWashington_2	NIL
+SF13_ENG_006	per:cause_of_death	UWashington_2	NIL
+SF13_ENG_006	per:alternate_names	UWashington_2	NIL
+SF13_ENG_006	per:charges	UWashington_2	NIL
+SF13_ENG_006	per:country_of_birth	UWashington_2	NIL
+SF13_ENG_006	per:schools_attended	UWashington_2	NIL
+SF13_ENG_006	per:parents	UWashington_2	NIL
+SF13_ENG_006	per:date_of_birth	UWashington_2	NIL
+SF13_ENG_006	per:statesorprovinces_of_residence	UWashington_2	NIL
+SF13_ENG_006	per:siblings	UWashington_2	NIL
+Extraction [arg1=Tantawi	1494	1501, arg2=Al-Azhar	1524	1532, rel=/people/person/place_of_birth, score=1.034372792E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100310.0068, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tantawi	1128	1135, arg2=Saudi Arabia	1154	1166, rel=/people/deceased_person/place_of_death, score=1.684718257E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100310.0491, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tantawi	4362	4369, arg2=Salim	4430	4435, rel=/people/deceased_person/place_of_death, score=1.728505721E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100310.0352, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tantawi	2974	2981, arg2=Egypt	3005	3010, rel=per:origin, score=2.9623421299999997E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100310.0422, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tantawi	3390	3397, arg2=Salim	3458	3463, rel=/people/deceased_person/place_of_death, score=1.728505721E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100310.0422, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tantawi	1296	1303, arg2=Sunni	1283	1288, rel=per:religion, score=3.147467148E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100310.0457, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tantawi	4163	4170, arg2=Salim	4231	4236, rel=/people/deceased_person/place_of_death, score=1.728505721E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100310.0394, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tantawi	99	106, arg2=Sunni	86	91, rel=per:religion, score=2.6452572110000002E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100312.0442, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Mohammed Sayed Tantawi	247	269, arg2=Sunni	86	91, rel=per:origin, score=1.27807498E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100312.0442, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Tantawi	1508	1515, arg2=Al-Azhar	1538	1546, rel=/people/person/place_of_birth, score=1.034372792E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100310.0137, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Montcourt	1291	1300, arg2=Rafael Nadal	1240	1252, rel=per:spouse, score=2.3454734599999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20090707.0222, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Mathieu Montcourt	206	223, arg2=French	78	84, rel=per:origin, score=1.313878555E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090709.0981, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Mathieu Montcourt	232	249, arg2=French	179	185, rel=per:origin, score=1.126092537E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090707.0407, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_008	per:spouse	UWashington_2	AFP_ENG_20090707.0222:1240-1300	Rafael Nadal	AFP_ENG_20090707.0222:1240-1252	2.3454734599999998E7
+SF13_ENG_008	per:religion	UWashington_2	NIL
+SF13_ENG_008	per:city_of_death	UWashington_2	NIL
+SF13_ENG_008	per:other_family	UWashington_2	NIL
+SF13_ENG_008	per:countries_of_residence	UWashington_2	NIL
+SF13_ENG_008	per:country_of_death	UWashington_2	NIL
+SF13_ENG_008	per:stateorprovince_of_birth	UWashington_2	NIL
+SF13_ENG_008	per:title	UWashington_2	NIL
+SF13_ENG_008	per:children	UWashington_2	NIL
+SF13_ENG_008	per:origin	UWashington_2	APW_ENG_20090709.0981:78-223	French	APW_ENG_20090709.0981:78-84	1.313878555E8
+SF13_ENG_008	per:city_of_birth	UWashington_2	NIL
+SF13_ENG_008	per:date_of_death	UWashington_2	NIL
+SF13_ENG_008	per:age	UWashington_2	NIL
+SF13_ENG_008	per:cities_of_residence	UWashington_2	NIL
+SF13_ENG_008	per:employee_or_member_of	UWashington_2	NIL
+SF13_ENG_008	per:stateorprovince_of_death	UWashington_2	NIL
+SF13_ENG_008	per:cause_of_death	UWashington_2	NIL
+SF13_ENG_008	per:alternate_names	UWashington_2	NIL
+SF13_ENG_008	per:charges	UWashington_2	NIL
+SF13_ENG_008	per:country_of_birth	UWashington_2	NIL
+SF13_ENG_008	per:schools_attended	UWashington_2	NIL
+SF13_ENG_008	per:parents	UWashington_2	NIL
+SF13_ENG_008	per:date_of_birth	UWashington_2	NIL
+SF13_ENG_008	per:statesorprovinces_of_residence	UWashington_2	NIL
+SF13_ENG_008	per:siblings	UWashington_2	NIL
+SF13_ENG_009	per:spouse	UWashington_2	NIL
+SF13_ENG_009	per:religion	UWashington_2	NIL
+SF13_ENG_009	per:city_of_death	UWashington_2	NIL
+SF13_ENG_009	per:other_family	UWashington_2	NIL
+SF13_ENG_009	per:countries_of_residence	UWashington_2	NIL
+SF13_ENG_009	per:country_of_death	UWashington_2	NIL
+SF13_ENG_009	per:stateorprovince_of_birth	UWashington_2	NIL
+SF13_ENG_009	per:title	UWashington_2	NIL
+SF13_ENG_009	per:children	UWashington_2	NIL
+SF13_ENG_009	per:origin	UWashington_2	NIL
+SF13_ENG_009	per:city_of_birth	UWashington_2	NIL
+SF13_ENG_009	per:date_of_death	UWashington_2	NIL
+SF13_ENG_009	per:age	UWashington_2	NIL
+SF13_ENG_009	per:cities_of_residence	UWashington_2	NIL
+SF13_ENG_009	per:employee_or_member_of	UWashington_2	NIL
+SF13_ENG_009	per:stateorprovince_of_death	UWashington_2	NIL
+SF13_ENG_009	per:cause_of_death	UWashington_2	NIL
+SF13_ENG_009	per:alternate_names	UWashington_2	NIL
+SF13_ENG_009	per:charges	UWashington_2	NIL
+SF13_ENG_009	per:country_of_birth	UWashington_2	NIL
+SF13_ENG_009	per:schools_attended	UWashington_2	NIL
+SF13_ENG_009	per:parents	UWashington_2	NIL
+SF13_ENG_009	per:date_of_birth	UWashington_2	NIL
+SF13_ENG_009	per:statesorprovinces_of_residence	UWashington_2	NIL
+SF13_ENG_009	per:siblings	UWashington_2	NIL
+Extraction [arg1=Dio	1745	1748, arg2=Dan Padavona	1756	1768, rel=per:children, score=1.350217733E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100531.0419, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Ronnie James Dio	4016	4032, arg2=American	3981	3989, rel=per:origin, score=7.713384797E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20090629.0075, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_010	per:spouse	UWashington_2	NIL
+SF13_ENG_010	per:religion	UWashington_2	NIL
+SF13_ENG_010	per:city_of_death	UWashington_2	NIL
+SF13_ENG_010	per:other_family	UWashington_2	NIL
+SF13_ENG_010	per:countries_of_residence	UWashington_2	NIL
+SF13_ENG_010	per:country_of_death	UWashington_2	NIL
+SF13_ENG_010	per:stateorprovince_of_birth	UWashington_2	NIL
+SF13_ENG_010	per:title	UWashington_2	NIL
+SF13_ENG_010	per:children	UWashington_2	APW_ENG_20100531.0419:1745-1768	Dan Padavona	APW_ENG_20100531.0419:1756-1768	1.350217733E8
+SF13_ENG_010	per:origin	UWashington_2	NYT_ENG_20090629.0075:3981-4032	American	NYT_ENG_20090629.0075:3981-3989	7.713384797E8
+SF13_ENG_010	per:city_of_birth	UWashington_2	NIL
+SF13_ENG_010	per:date_of_death	UWashington_2	NIL
+SF13_ENG_010	per:age	UWashington_2	NIL
+SF13_ENG_010	per:cities_of_residence	UWashington_2	NIL
+SF13_ENG_010	per:employee_or_member_of	UWashington_2	NIL
+SF13_ENG_010	per:stateorprovince_of_death	UWashington_2	NIL
+SF13_ENG_010	per:cause_of_death	UWashington_2	NIL
+SF13_ENG_010	per:alternate_names	UWashington_2	NIL
+SF13_ENG_010	per:charges	UWashington_2	NIL
+SF13_ENG_010	per:country_of_birth	UWashington_2	NIL
+SF13_ENG_010	per:schools_attended	UWashington_2	NIL
+SF13_ENG_010	per:parents	UWashington_2	NIL
+SF13_ENG_010	per:date_of_birth	UWashington_2	NIL
+SF13_ENG_010	per:statesorprovinces_of_residence	UWashington_2	NIL
+SF13_ENG_010	per:siblings	UWashington_2	NIL
+SF13_ENG_051	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_051	org:alternate_names	UWashington_2	NIL
+SF13_ENG_051	org:date_founded	UWashington_2	NIL
+SF13_ENG_051	org:website	UWashington_2	NIL
+SF13_ENG_051	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_051	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_051	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_051	org:founded_by	UWashington_2	NIL
+SF13_ENG_051	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_051	org:shareholders	UWashington_2	NIL
+SF13_ENG_051	org:city_of_headquarters	UWashington_2	NIL
+SF13_ENG_051	org:member_of	UWashington_2	NIL
+SF13_ENG_051	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_051	org:parents	UWashington_2	NIL
+SF13_ENG_051	org:members	UWashington_2	NIL
+SF13_ENG_051	org:stateorprovince_of_headquarters	UWashington_2	NIL
+Extraction [arg1=ETA	1377	1380, arg2=France	1320	1326, rel=org:country_of_headquarters, score=1.05340844E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090729.0487, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=ETA	1377	1380, arg2=Spain	1355	1360, rel=org:country_of_headquarters, score=1.05163884E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090729.0487, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_052	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_052	org:alternate_names	UWashington_2	NIL
+SF13_ENG_052	org:date_founded	UWashington_2	NIL
+SF13_ENG_052	org:website	UWashington_2	NIL
+SF13_ENG_052	org:country_of_headquarters	UWashington_2	APW_ENG_20090729.0487:1320-1380	France	APW_ENG_20090729.0487:1320-1326	1.05340844E7
+SF13_ENG_052	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_052	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_052	org:founded_by	UWashington_2	NIL
+SF13_ENG_052	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_052	org:shareholders	UWashington_2	NIL
+SF13_ENG_052	org:city_of_headquarters	UWashington_2	NIL
+SF13_ENG_052	org:member_of	UWashington_2	NIL
+SF13_ENG_052	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_052	org:parents	UWashington_2	NIL
+SF13_ENG_052	org:members	UWashington_2	NIL
+SF13_ENG_052	org:stateorprovince_of_headquarters	UWashington_2	NIL
+SF13_ENG_053	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_053	org:alternate_names	UWashington_2	NIL
+SF13_ENG_053	org:date_founded	UWashington_2	NIL
+SF13_ENG_053	org:website	UWashington_2	NIL
+SF13_ENG_053	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_053	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_053	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_053	org:founded_by	UWashington_2	NIL
+SF13_ENG_053	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_053	org:shareholders	UWashington_2	NIL
+SF13_ENG_053	org:city_of_headquarters	UWashington_2	NIL
+SF13_ENG_053	org:member_of	UWashington_2	NIL
+SF13_ENG_053	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_053	org:parents	UWashington_2	NIL
+SF13_ENG_053	org:members	UWashington_2	NIL
+SF13_ENG_053	org:stateorprovince_of_headquarters	UWashington_2	NIL
+SF13_ENG_054	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_054	org:alternate_names	UWashington_2	NIL
+SF13_ENG_054	org:date_founded	UWashington_2	NIL
+SF13_ENG_054	org:website	UWashington_2	NIL
+SF13_ENG_054	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_054	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_054	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_054	org:founded_by	UWashington_2	NIL
+SF13_ENG_054	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_054	org:shareholders	UWashington_2	NIL
+SF13_ENG_054	org:city_of_headquarters	UWashington_2	NIL
+SF13_ENG_054	org:member_of	UWashington_2	NIL
+SF13_ENG_054	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_054	org:parents	UWashington_2	NIL
+SF13_ENG_054	org:members	UWashington_2	NIL
+SF13_ENG_054	org:stateorprovince_of_headquarters	UWashington_2	NIL
+Extraction [arg1=River Road Asset Management	273	300, arg2=Louisville	304	314, rel=org:city_of_headquarters, score=2.2704341180000004E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100105.0596, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=River Road Asset Management	273	300, arg2=Kentucky	316	324, rel=org:stateorprovince_of_headquarters, score=4.2758018400000006E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100105.0596, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_055	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_055	org:alternate_names	UWashington_2	NIL
+SF13_ENG_055	org:date_founded	UWashington_2	NIL
+SF13_ENG_055	org:website	UWashington_2	NIL
+SF13_ENG_055	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_055	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_055	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_055	org:founded_by	UWashington_2	NIL
+SF13_ENG_055	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_055	org:shareholders	UWashington_2	NIL
+SF13_ENG_055	org:city_of_headquarters	UWashington_2	APW_ENG_20100105.0596:273-314	Louisville	APW_ENG_20100105.0596:304-314	2.2704341180000004E8
+SF13_ENG_055	org:member_of	UWashington_2	NIL
+SF13_ENG_055	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_055	org:parents	UWashington_2	NIL
+SF13_ENG_055	org:members	UWashington_2	NIL
+SF13_ENG_055	org:stateorprovince_of_headquarters	UWashington_2	APW_ENG_20100105.0596:273-324	Kentucky	APW_ENG_20100105.0596:316-324	4.2758018400000006E7
+SF13_ENG_056	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_056	org:alternate_names	UWashington_2	NIL
+SF13_ENG_056	org:date_founded	UWashington_2	NIL
+SF13_ENG_056	org:website	UWashington_2	NIL
+SF13_ENG_056	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_056	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_056	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_056	org:founded_by	UWashington_2	NIL
+SF13_ENG_056	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_056	org:shareholders	UWashington_2	NIL
+SF13_ENG_056	org:city_of_headquarters	UWashington_2	NIL
+SF13_ENG_056	org:member_of	UWashington_2	NIL
+SF13_ENG_056	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_056	org:parents	UWashington_2	NIL
+SF13_ENG_056	org:members	UWashington_2	NIL
+SF13_ENG_056	org:stateorprovince_of_headquarters	UWashington_2	NIL
+Extraction [arg1=A123 Systems Inc.	149	166, arg2=Watertown	172	181, rel=org:city_of_headquarters, score=7.25253429E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20090922.0002, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_057	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_057	org:alternate_names	UWashington_2	NIL
+SF13_ENG_057	org:date_founded	UWashington_2	NIL
+SF13_ENG_057	org:website	UWashington_2	NIL
+SF13_ENG_057	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_057	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_057	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_057	org:founded_by	UWashington_2	NIL
+SF13_ENG_057	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_057	org:shareholders	UWashington_2	NIL
+SF13_ENG_057	org:city_of_headquarters	UWashington_2	NYT_ENG_20090922.0002:149-181	Watertown	NYT_ENG_20090922.0002:172-181	7.25253429E7
+SF13_ENG_057	org:member_of	UWashington_2	NIL
+SF13_ENG_057	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_057	org:parents	UWashington_2	NIL
+SF13_ENG_057	org:members	UWashington_2	NIL
+SF13_ENG_057	org:stateorprovince_of_headquarters	UWashington_2	NIL
+Extraction [arg1=Access Industries	393	410, arg2=Blavatnik	381	390, rel=org:founded_by, score=8.94817954E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20090612.0311, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Access Industries	467	484, arg2=Blavatnik	455	464, rel=org:founded_by, score=8.9532543E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=WPB_ENG_20100216.0042, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Access Industries	851	868, arg2=Len Blavatnik	835	848, rel=org:founded_by, score=9.05614182E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090619.1036, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Access Industries	1277	1294, arg2=Len Blavatnik	1261	1274, rel=org:founded_by, score=9.05614182E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090619.1181, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Access Industries	1277	1294, arg2=Len Blavatnik	1261	1274, rel=org:founded_by, score=9.05614182E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090619.1207, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Access Industries	2498	2515, arg2=Len Blavatnik	2482	2495, rel=org:founded_by, score=9.62310046E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=WPB_ENG_20100408.0012, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Access Industries	1282	1299, arg2=Len Blavatnik	1266	1279, rel=org:founded_by, score=9.05614182E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090619.1184, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_058	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_058	org:alternate_names	UWashington_2	NIL
+SF13_ENG_058	org:date_founded	UWashington_2	NIL
+SF13_ENG_058	org:website	UWashington_2	NIL
+SF13_ENG_058	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_058	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_058	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_058	org:founded_by	UWashington_2	WPB_ENG_20100408.0012:2482-2515	Len Blavatnik	WPB_ENG_20100408.0012:2482-2495	9.62310046E7
+SF13_ENG_058	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_058	org:shareholders	UWashington_2	NIL
+SF13_ENG_058	org:city_of_headquarters	UWashington_2	NIL
+SF13_ENG_058	org:member_of	UWashington_2	NIL
+SF13_ENG_058	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_058	org:parents	UWashington_2	NIL
+SF13_ENG_058	org:members	UWashington_2	NIL
+SF13_ENG_058	org:stateorprovince_of_headquarters	UWashington_2	NIL
+SF13_ENG_059	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_059	org:alternate_names	UWashington_2	NIL
+SF13_ENG_059	org:date_founded	UWashington_2	NIL
+SF13_ENG_059	org:website	UWashington_2	NIL
+SF13_ENG_059	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_059	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_059	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_059	org:founded_by	UWashington_2	NIL
+SF13_ENG_059	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_059	org:shareholders	UWashington_2	NIL
+SF13_ENG_059	org:city_of_headquarters	UWashington_2	NIL
+SF13_ENG_059	org:member_of	UWashington_2	NIL
+SF13_ENG_059	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_059	org:parents	UWashington_2	NIL
+SF13_ENG_059	org:members	UWashington_2	NIL
+SF13_ENG_059	org:stateorprovince_of_headquarters	UWashington_2	NIL
+SF13_ENG_060	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_060	org:alternate_names	UWashington_2	NIL
+SF13_ENG_060	org:date_founded	UWashington_2	NIL
+SF13_ENG_060	org:website	UWashington_2	NIL
+SF13_ENG_060	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_060	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_060	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_060	org:founded_by	UWashington_2	NIL
+SF13_ENG_060	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_060	org:shareholders	UWashington_2	NIL
+SF13_ENG_060	org:city_of_headquarters	UWashington_2	NIL
+SF13_ENG_060	org:member_of	UWashington_2	NIL
+SF13_ENG_060	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_060	org:parents	UWashington_2	NIL
+SF13_ENG_060	org:members	UWashington_2	NIL
+SF13_ENG_060	org:stateorprovince_of_headquarters	UWashington_2	NIL

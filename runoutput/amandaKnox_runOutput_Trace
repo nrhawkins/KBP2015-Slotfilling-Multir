@@ -1,0 +1,2058 @@
+
+Sentence: 
+
+<DOC id="AFP_ENG_20100416.0259" type="story" >
+<HEADLINE>
+Italian prosecutors seek life sentence for Knox: reports
+</HEADLINE>
+<DATELINE>
+Rome, April 16, 2010 (AFP)
+</DATELINE>
+<TEXT>
+<P>
+Italian prosecutors are seeking life sentences against American Amanda Knox and
+her former boyfriend in an appeal over the 2007 murder of British student
+Meredith Kercher, local media reported Friday.
+
+Arguments:
+
+Italian
+Knox
+Rome
+April 16 , 2010
+Italian
+American
+Amanda Knox
+2007
+British
+Meredith Kercher
+Friday
+
+Argument Pairs from Model:
+
+Knox	101	105, April 16 , 2010	144	158
+Knox	101	105, 2007	311	315
+Knox	101	105, Friday	381	387
+Amanda Knox	252	263, April 16 , 2010	144	158
+Amanda Knox	252	263, 2007	311	315
+Amanda Knox	252	263, Friday	381	387
+Meredith Kercher	342	358, April 16 , 2010	144	158
+Meredith Kercher	342	358, 2007	311	315
+Meredith Kercher	342	358, Friday	381	387
+
+Argument Pairs from Model:
+
+Knox	101	105, Rome	138	142
+Amanda Knox	252	263, Rome	138	142
+Meredith Kercher	342	358, Rome	138	142
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	101	105, Italian	58	65
+Knox	101	105, Italian	188	195
+Knox	101	105, American	243	251
+Knox	101	105, British	326	333
+Amanda Knox	252	263, Italian	58	65
+Amanda Knox	252	263, Italian	188	195
+Amanda Knox	252	263, American	243	251
+Amanda Knox	252	263, British	326	333
+Meredith Kercher	342	358, Italian	58	65
+Meredith Kercher	342	358, Italian	188	195
+Meredith Kercher	342	358, American	243	251
+Meredith Kercher	342	358, British	326	333
+
+Argument Pairs from Model:
+
+Knox	101	105, Amanda Knox	252	263
+Knox	101	105, Meredith Kercher	342	358
+Amanda Knox	252	263, Knox	101	105
+Amanda Knox	252	263, Meredith Kercher	342	358
+Meredith Kercher	342	358, Knox	101	105
+Meredith Kercher	342	358, Amanda Knox	252	263
+
+Sentence: 
+
+</P>
+<P>
+They said the court in Perugia, central Italy, had cited "unconvincing"
+extenuating circumstances and ignored the aggravating circumstances of the
+sensational murder in reaching its guilty verdict in December.
+
+Arguments:
+
+Perugia
+Italy
+December
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Knox, now 22, and Raffael Sollecito, an Italian engineering student who is now
+26, were sentenced to 26 and 25 years respectively.
+
+Arguments:
+
+Knox
+now
+22
+Raffael Sollecito
+Italian
+now
+26
+26
+years
+
+Argument Pairs from Model:
+
+Knox	9	13, now	15	18
+Knox	9	13, now	84	87
+Raffael Sollecito	27	44, now	15	18
+Raffael Sollecito	27	44, now	84	87
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, 22	19	21
+Knox	9	13, 26	88	90
+Knox	9	13, 26	110	112
+Knox	9	13, years	120	125
+Raffael Sollecito	27	44, 22	19	21
+Raffael Sollecito	27	44, 26	88	90
+Raffael Sollecito	27	44, 26	110	112
+Raffael Sollecito	27	44, years	120	125
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, Italian	49	56
+Raffael Sollecito	27	44, Italian	49	56
+
+Argument Pairs from Model:
+
+Knox	9	13, Raffael Sollecito	27	44
+Raffael Sollecito	27	44, Knox	9	13
+
+Sentence: 
+
+</P>
+<P>
+They were convicted of murdering Kercher, 21, in a drug-fuelled sex game that
+turned violent on the night of November 1, 2007.
+
+Arguments:
+
+Kercher
+21
+November 1 , 2007
+
+Argument Pairs from Model:
+
+Kercher	42	49, November 1 , 2007	118	134
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Kercher	42	49, 21	51	53
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+A third defendant, Ivorian Rudy Guede, was convicted in 2008 and sentenced to 30
+years in jail, but in December the appeals court reduced his term to 16 years.
+
+Arguments:
+
+Ivorian
+Rudy Guede
+2008
+years
+December
+years
+
+Argument Pairs from Model:
+
+Rudy Guede	36	46, 2008	65	69
+Rudy Guede	36	46, December	112	120
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Rudy Guede	36	46, years	90	95
+Rudy Guede	36	46, years	162	167
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Rudy Guede	36	46, Ivorian	28	35
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Kercher was found semi-nude in a pool of blood under a duvet with multiple stab
+wounds to the neck in her room in the cottage she shared with Knox, from
+Seattle, Washington.
+
+Arguments:
+
+Kercher
+Knox
+Seattle
+Washington
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Kercher	9	16, Seattle	162	169
+Kercher	9	16, Washington	171	181
+Knox	151	155, Seattle	162	169
+Knox	151	155, Washington	171	181
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Kercher	9	16, Knox	151	155
+Knox	151	155, Kercher	9	16
+
+Sentence: 
+
+</P>
+<P>
+Knox's parents launched an appeal against her conviction last month after the
+judge published a legal opinion saying the crime came about because of a
+combination of "purely random" circumstances.
+
+Arguments:
+
+Knox
+last month
+
+Argument Pairs from Model:
+
+Knox	9	13, last month	66	76
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+He said both Knox and Sollecito were free that evening, they "ran into" Guede
+and went to the house where Kercher was alone.
+
+Arguments:
+
+Knox
+Sollecito
+Guede
+Kercher
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	22	26, Sollecito	31	40
+Knox	22	26, Guede	81	86
+Knox	22	26, Kercher	115	122
+Sollecito	31	40, Knox	22	26
+Sollecito	31	40, Guede	81	86
+Sollecito	31	40, Kercher	115	122
+Guede	81	86, Knox	22	26
+Guede	81	86, Sollecito	31	40
+Guede	81	86, Kercher	115	122
+Kercher	115	122, Knox	22	26
+Kercher	115	122, Sollecito	31	40
+Kercher	115	122, Guede	81	86
+
+Sentence: 
+
+</P>
+</TEXT>
+</DOC>
+
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+
+Sentence: 
+
+<DOC id="AFP_ENG_20091204.0026" type="story" >
+<HEADLINE>
+ALERT ¥
+</HEADLINE>
+<TEXT>
+<P>
+Amanda Knox guilty, jailed for 26 years
+</P>
+</TEXT>
+</DOC>
+
+Arguments:
+
+¥
+Amanda Knox
+years
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Amanda Knox	89	100, ¥	64	65
+Amanda Knox	89	100, years	123	128
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+
+Sentence: 
+
+<DOC id="AFP_ENG_20091205.0300" type="story" >
+<HEADLINE>
+Knox spends first night behind bars as convicted murderer
+</HEADLINE>
+<DATELINE>
+perugia, Italy, Dec 5, 2009 (AFP)
+</DATELINE>
+<TEXT>
+<P>
+Amanda Knox spent her first night behind bars as a convicted murderer after an
+Italian court early Saturday found her guilty in the brutal 2007 killing of her
+British housemate.
+
+Arguments:
+
+Knox
+Italy
+Dec 5 , 2009
+Amanda Knox
+Italian
+early Saturday
+2007
+British
+
+Argument Pairs from Model:
+
+Knox	58	62, Dec 5 , 2009	155	166
+Knox	58	62, early Saturday	289	303
+Knox	58	62, 2007	335	339
+Amanda Knox	196	207, Dec 5 , 2009	155	166
+Amanda Knox	196	207, early Saturday	289	303
+Amanda Knox	196	207, 2007	335	339
+
+Argument Pairs from Model:
+
+Knox	58	62, Italy	148	153
+Amanda Knox	196	207, Italy	148	153
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	58	62, Italian	275	282
+Knox	58	62, British	355	362
+Amanda Knox	196	207, Italian	275	282
+Amanda Knox	196	207, British	355	362
+
+Argument Pairs from Model:
+
+Knox	58	62, Amanda Knox	196	207
+Amanda Knox	196	207, Knox	58	62
+
+Sentence: 
+
+</P>
+<P>
+The 22-year-old was sent to prison for 26 years, while co-defendant Raffaele
+Sollecito, her new boyfriend at the time of the murder, was sentenced to 25
+years for their roles in the sex murder of Meredith Kercher.
+
+Arguments:
+
+years
+Raffaele Sollecito
+years
+Meredith Kercher
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Raffaele Sollecito	77	95, years	51	56
+Raffaele Sollecito	77	95, years	162	167
+Meredith Kercher	205	221, years	51	56
+Meredith Kercher	205	221, years	162	167
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Raffaele Sollecito	77	95, Meredith Kercher	205	221
+Meredith Kercher	205	221, Raffaele Sollecito	77	95
+
+Sentence: 
+
+</P>
+<P>
+Knox's family immediately said she would appeal the verdict.
+
+Arguments:
+
+Knox
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+"We will continue to fight for her freedom," they said in a statement.
+
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+"We find it difficult to accept this verdict when we know that she is innocent,
+and that the prosecution has failed to explain why there is no evidence of
+Amanda in the room where Meredith was so horribly and tragically murdered," it
+said.
+
+Arguments:
+
+Amanda
+Meredith
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Amanda	164	170, Meredith	189	197
+Meredith	189	197, Amanda	164	170
+
+Sentence: 
+
+</P>
+<P>
+"It appears clear to us that the attacks on Amanda's character in much of the
+media and by the prosecution had a significant impact on the judges and jurors,"
+they added.
+
+Arguments:
+
+Amanda
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Knox, 22, cried out "no, no" and broke into sobs when the judge began reading
+out the lengthy verdict, while 25-year-old Sollecito's face was blank.
+
+Arguments:
+
+Knox
+22
+Sollecito
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, 22	15	17
+Sollecito	130	139, 22	15	17
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, Sollecito	130	139
+Sollecito	130	139, Knox	9	13
+
+Sentence: 
+
+</P>
+<P>
+Judge Giancarlo Massei cited extenuating circumstances for reducing the sentence
+from the maximum life terms sought by the prosecution.
+
+Arguments:
+
+Giancarlo Massei
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Prosecutors presented DNA and other forensic evidence against Knox, Sollecito
+and a third person, Rudy Guede of Ivory Coast, who was convicted separately
+after opting for a "fast-track" trial in exchange for clemency.
+
+Arguments:
+
+DNA
+Knox
+Sollecito
+Rudy Guede
+Ivory Coast
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	71	75, Ivory Coast	121	132
+Sollecito	77	86, Ivory Coast	121	132
+Rudy Guede	107	117, Ivory Coast	121	132
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	71	75, DNA	31	34
+Sollecito	77	86, DNA	31	34
+Rudy Guede	107	117, DNA	31	34
+
+Argument Pairs from Model:
+
+Knox	71	75, Sollecito	77	86
+Knox	71	75, Rudy Guede	107	117
+Sollecito	77	86, Knox	71	75
+Sollecito	77	86, Rudy Guede	107	117
+Rudy Guede	107	117, Knox	71	75
+Rudy Guede	107	117, Sollecito	77	86
+
+Sentence: 
+
+</P>
+<P>
+The prosecution alleged that the three young people were high on drugs when they
+tried to engage Kercher, 21, in a sex game that turned violent, leaving her dead
+with stab wounds to the neck.
+
+Arguments:
+
+three
+Kercher
+21
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Kercher	106	113, three	42	47
+Kercher	106	113, 21	115	117
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Knox's aunt Janet Huff told CNN: "We are just crushed."
+
+Arguments:
+
+Knox
+Janet Huff
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, Janet Huff	21	31
+Janet Huff	21	31, Knox	9	13
+
+Sentence: 
+
+</P>
+<P>
+When asked what had "most damaged" Knox's case, Huff said: "The media from the
+get-go was fed false information and they ran with it.
+
+Arguments:
+
+Knox
+Huff
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	44	48, Huff	57	61
+Huff	57	61, Knox	44	48
+
+Sentence: 
+
+</P>
+<P>
+"Boy, is it a sexy story: beautiful, young American girl caught up in this
+horrible nightmare," she added.
+
+Arguments:
+
+American
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Huff said the US government was expected to wade into the fray.
+
+Arguments:
+
+Huff
+US
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Huff	9	13, US	23	25
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+"They are
+involved.
+
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+They have been involved since the beginning," she told CNN.
+
+Arguments:
+
+CNN
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+"We've been receiving e-mails from government officials saying now it's time to
+do something," Huff said, without naming US officials or describing how they
+would step in.
+
+Arguments:
+
+now
+Huff
+US
+
+Argument Pairs from Model:
+
+Huff	104	108, now	72	75
+
+Argument Pairs from Model:
+
+Huff	104	108, US	130	132
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+The murder sparked lurid headlines around the world, notably in Britain, fed by
+rampant rumours as well as repeated leaks to an eager press corps during the
+investigation.
+
+Arguments:
+
+Britain
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Knox was portrayed as "acqua e sapone" (water and soap) -- an Italian idiom for
+squeaky clean, or wholesome -- by her defenders, and a cold, duplicitous "she-
+devil" by her accusers.
+
+Arguments:
+
+Knox
+Italian
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, Italian	71	78
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+The case cast a dark shadow over Perugia and the prestigious University for
+Foreigners where Knox and Kercher studied.
+
+Arguments:
+
+Perugia
+Knox
+Kercher
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	102	106, Perugia	42	49
+Kercher	111	118, Perugia	42	49
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	102	106, Kercher	111	118
+Kercher	111	118, Knox	102	106
+
+Sentence: 
+
+</P>
+<P>
+The defendants were provisionally ordered to pay one million euros (1.5 million
+dollars) to each of the victim's parents, plus 800,000 euros to each of
+Kercher's three siblings -- two brothers and a sister.
+
+Arguments:
+
+Kercher
+three
+two
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Kercher	161	168, three	171	176
+Kercher	161	168, two	189	192
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+The Kercher family had sought 25 million euros in damages.
+
+Arguments:
+
+Kercher
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Their lawyer Francesco Maresca told reporters the verdict "did justice to
+Meredith Kercher's memory," adding that the family was "fully satisfied" with
+the judgement and "acknowledged the fine work of the investigation and trial."
+
+Arguments:
+
+Francesco Maresca
+Meredith Kercher
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Francesco Maresca	22	39, Meredith Kercher	83	99
+Meredith Kercher	83	99, Francesco Maresca	22	39
+
+Sentence: 
+
+</P>
+<P>
+Knox and Sollecito went on trial in the medieval walled city in January, more
+than a year after the murder on November 1, 2007.
+
+Arguments:
+
+Knox
+Sollecito
+medieval
+January
+November 1 , 2007
+
+Argument Pairs from Model:
+
+Knox	9	13, medieval	49	57
+Knox	9	13, January	73	80
+Knox	9	13, November 1 , 2007	119	135
+Sollecito	18	27, medieval	49	57
+Sollecito	18	27, January	73	80
+Sollecito	18	27, November 1 , 2007	119	135
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, Sollecito	18	27
+Sollecito	18	27, Knox	9	13
+
+Sentence: 
+
+</P>
+<P>
+The defence insisted that Guede, described as a drifter who was taken in by a
+Perugia family who have since broken ties with him, was the sole killer.
+
+Arguments:
+
+Guede
+Perugia
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Guede	35	40, Perugia	87	94
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Guede, now 22, is appealing his 30-year sentence.
+
+Arguments:
+
+Guede
+now
+22
+
+Argument Pairs from Model:
+
+Guede	9	14, now	16	19
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Guede	9	14, 22	20	22
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Knox was also found guilty of defaming her former part-time employer Patrick
+Lumumba, whom she accused of the murder early in the investigation, and ordered
+to pay him 10,000 euros in damages and 40,000 in court costs.
+
+Arguments:
+
+Knox
+Patrick Lumumba
+40,000
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, 40,000	205	211
+Patrick Lumumba	78	93, 40,000	205	211
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, Patrick Lumumba	78	93
+Patrick Lumumba	78	93, Knox	9	13
+
+Sentence: 
+
+</P>
+<P>
+The Congolese immigrant who ran a bar in Perugia spent two weeks in jail before
+being freed without charge.
+
+Arguments:
+
+Congolese
+Perugia
+weeks
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+An extra year was added to Knox's sentence for this charge.
+
+Arguments:
+
+Knox
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Knox claimed that aggressive police questioning led her to accuse Lumumba during
+54 hours of interrogation over a four-day period.
+
+Arguments:
+
+Knox
+Lumumba
+hours
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, hours	93	98
+Lumumba	75	82, hours	93	98
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, Lumumba	75	82
+Lumumba	75	82, Knox	9	13
+
+Sentence: 
+
+</P>
+<P>
+Knox and Sollecito were also ordered to pay 33,000 euros to the owner of the
+cottage where the murder took place for loss of income and court costs.
+
+Arguments:
+
+Knox
+Sollecito
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, Sollecito	18	27
+Sollecito	18	27, Knox	9	13
+
+Sentence: 
+
+</P>
+</TEXT>
+</DOC>
+
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+
+Sentence: 
+
+<DOC id="APW_ENG_20101108.0474" type="story" >
+<HEADLINE>
+Amanda Knox indicted on slander charges
+</HEADLINE>
+<DATELINE>
+PERUGIA, Italy 2010-11-08 13:02:15 UTC
+</DATELINE>
+<TEXT>
+<P>
+An Italian judge on Monday ordered Amanda Knox to stand trial on slander charges for claiming she was beaten by police when questioned in 2007 about her roommate's slaying.
+
+Arguments:
+
+Amanda Knox
+PERUGIA
+Italy
+Italian
+Monday
+Amanda Knox
+2007
+
+Argument Pairs from Model:
+
+Amanda Knox	58	69, Monday	203	209
+Amanda Knox	58	69, 2007	321	325
+Amanda Knox	218	229, Monday	203	209
+Amanda Knox	218	229, 2007	321	325
+
+Argument Pairs from Model:
+
+Amanda Knox	58	69, Italy	130	135
+Amanda Knox	218	229, Italy	130	135
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Amanda Knox	58	69, PERUGIA	121	128
+Amanda Knox	218	229, PERUGIA	121	128
+
+Argument Pairs from Model:
+
+Amanda Knox	58	69, Italian	186	193
+Amanda Knox	218	229, Italian	186	193
+
+Argument Pairs from Model:
+
+Amanda Knox	58	69, Amanda Knox	218	229
+Amanda Knox	218	229, Amanda Knox	58	69
+
+Sentence: 
+
+</P>
+<P>
+The 23-year-old American maintains she was just trying to defend herself and never meant any offense or to slander anybody, her lawyers said.
+
+Arguments:
+
+American
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Knox had claimed she was beaten by police during questioning over the slaying of Meredith Kercher three years ago.
+
+Arguments:
+
+Knox
+Meredith Kercher
+three years ago
+
+Argument Pairs from Model:
+
+Knox	9	13, three years ago	107	122
+Meredith Kercher	90	106, three years ago	107	122
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Knox	9	13, Meredith Kercher	90	106
+Meredith Kercher	90	106, Knox	9	13
+
+Sentence: 
+
+Police have denied misconduct and filed charges saying Knox's comments were slanderous.
+
+Arguments:
+
+Knox
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+The judge issued the indictment ruling after a hearing behind closed-doors in Perugia.
+
+Arguments:
+
+Perugia
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Knox is serving a 26-year prison term after she was convicted of murder and sexual assault in December.
+
+Arguments:
+
+Knox
+December
+
+Argument Pairs from Model:
+
+Knox	9	13, December	103	111
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+She has denied murdering Kercher, a 21-year-old Briton, and her appeal is set to begin Nov. 24.
+
+Arguments:
+
+Kercher
+Briton
+Nov. 24
+
+Argument Pairs from Model:
+
+Kercher	25	32, Nov. 24	87	94
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Kercher	25	32, Briton	48	54
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Curt Knox, Amanda Knox's father, told The Early Show on CBS on Monday that "this is going to be her chance once again to have that wrongful conviction overturned."
+
+Arguments:
+
+Curt Knox
+Amanda Knox
+CBS
+Monday
+once
+
+Argument Pairs from Model:
+
+Curt Knox	9	18, Monday	72	78
+Curt Knox	9	18, once	116	120
+Amanda Knox	20	31, Monday	72	78
+Amanda Knox	20	31, once	116	120
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Curt Knox	9	18, CBS	65	68
+Amanda Knox	20	31, CBS	65	68
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Curt Knox	9	18, Amanda Knox	20	31
+Amanda Knox	20	31, Curt Knox	9	18
+
+Sentence: 
+
+</P>
+</TEXT>
+</DOC>
+
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+
+Sentence: 
+
+<DOC id="XIN_ENG_20090728.0389" type="story" >
+<HEADLINE>
+PLA opens up to journalists ahead of founding anniversary
+</HEADLINE>
+<DATELINE>
+BEIJING, July 28 (Xinhua)
+</DATELINE>
+<TEXT>
+<P>
+More than 100 Chinese and foreign journalists were invited to visit a military
+base on the outskirts of Beijing Tuesday for an inside view of life in the
+Chinese People's Liberation Army (PLA).
+
+Arguments:
+
+PLA
+BEIJING
+July 28
+Xinhua
+100
+Chinese
+Beijing
+Tuesday
+Chinese People 's Liberation Army
+
+Argument Pairs from Model:
+
+PLA	58	61, July 28	148	155
+PLA	58	61, Tuesday	300	307
+Xinhua	157	163, July 28	148	155
+Xinhua	157	163, Tuesday	300	307
+Chinese People 's Liberation Army	342	374, July 28	148	155
+Chinese People 's Liberation Army	342	374, Tuesday	300	307
+
+Argument Pairs from Model:
+
+PLA	58	61, BEIJING	139	146
+PLA	58	61, Beijing	292	299
+Xinhua	157	163, BEIJING	139	146
+Xinhua	157	163, Beijing	292	299
+Chinese People 's Liberation Army	342	374, BEIJING	139	146
+Chinese People 's Liberation Army	342	374, Beijing	292	299
+
+Argument Pairs from Model:
+
+PLA	58	61, Xinhua	157	163
+PLA	58	61, Chinese People 's Liberation Army	342	374
+Xinhua	157	163, PLA	58	61
+Xinhua	157	163, Chinese People 's Liberation Army	342	374
+Chinese People 's Liberation Army	342	374, PLA	58	61
+Chinese People 's Liberation Army	342	374, Xinhua	157	163
+
+Argument Pairs from Model:
+
+PLA	58	61, Chinese	202	209
+Xinhua	157	163, Chinese	202	209
+Chinese People 's Liberation Army	342	374, Chinese	202	209
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+The invitation was promoted as a move to expand the military's openness and
+transparency ahead of the PLA's 82nd founding anniversary on Aug. 1.
+
+Arguments:
+
+PLA
+Aug. 1
+
+Argument Pairs from Model:
+
+PLA	111	114, Aug. 1	146	152
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+The journalists were taken to military kitchen of the Third Guard Division, a
+garrison force to protect Beijing, where typical Chinese food attracted much
+attention.
+
+Arguments:
+
+Guard Division
+Beijing
+Chinese
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+Military officers and soldiers demonstrated their rifle and mortar marksmanship
+as well as hand-to-hand combat techniques.
+
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+An anti-terror unit conducted a drill
+to deal with "terrorists" in a three-story building.
+
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+David Wivell, a reporter from the Associated Press Television, told Xinhua that
+he had visited Chinese military bases several times and was impressed every time
+by the PLA's competence.
+
+Arguments:
+
+David Wivell
+Associated Press Television
+Xinhua
+Chinese
+PLA
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Associated Press Television	43	70, Chinese	104	111
+Xinhua	77	83, Chinese	104	111
+PLA	177	180, Chinese	104	111
+
+Argument Pairs from Model:
+
+Associated Press Television	43	70, Xinhua	77	83
+Associated Press Television	43	70, PLA	177	180
+Xinhua	77	83, Associated Press Television	43	70
+Xinhua	77	83, PLA	177	180
+PLA	177	180, Associated Press Television	43	70
+PLA	177	180, Xinhua	77	83
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+Associated Press Television	43	70, David Wivell	9	21
+Xinhua	77	83, David Wivell	9	21
+PLA	177	180, David Wivell	9	21
+
+Sentence: 
+
+</P>
+<P>
+The Third Guard Division, founded in 1941, has participated in more than 2,000
+major battles and operations.
+
+Arguments:
+
+Guard Division
+1941
+2,000
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+<P>
+The motorized infantry division is mainly responsible for the ground and air
+defense of China's capital and anti-terror operations.
+
+Arguments:
+
+China
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Sentence: 
+
+</P>
+</TEXT>
+</DOC>
+
+Arguments:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+
+Argument Pairs from Model:
+
+

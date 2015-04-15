@@ -1,0 +1,15 @@
+Extraction [arg1=Jo Ann Davis	66	78, arg2=U.S.	56	60, rel=per:origin, score=1.0917626139E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0090.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = U.S. Rep. Jo Ann Davis
+Extraction [arg1=Jo Ann Davis	3032	3044, arg2=Virginia	2999	3007, rel=/people/person/place_lived, score=6.6639052300000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0102.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Virginia -- Republican U.S. Rep. Jo Ann Davis
+Extraction [arg1=Jo Ann Davis	3032	3044, arg2=U.S.	3022	3026, rel=per:origin, score=1.1252856884E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0102.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = U.S. Rep. Jo Ann Davis
+Extraction [arg1=Jo Ann Davis	375	387, arg2=U.S.	365	369, rel=per:origin, score=7.562034418000001E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071222.0076.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = U.S.
+Rep. Jo Ann Davis
+Extraction [arg1=Jo Ann Davis	27	39, arg2=U.S.	17	21, rel=per:origin, score=7.729319619000001E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071007.0033.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = U.S. Rep. Jo Ann Davis
+Extraction [arg1=Jo Ann Davis	55	67, arg2=U.S.	45	49, rel=per:origin, score=1.2649377062E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071006.0674.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = U.S. Rep. Jo Ann Davis
+Extraction [arg1=Jo Ann Davis	3844	3856, arg2=Virginia	3858	3866, rel=/people/person/place_lived, score=4.118875699999999E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Jo Ann Davis (Virginia

@@ -1,0 +1,155 @@
+Extraction [arg1=Vanessa Randolph	6292	6308, arg2=Druselita	6325	6334, rel=per:children, score=7.55157704E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20070704.0007.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Vanessa Randolph,
+mother of baby Druselita
+Extraction [arg1=Druselita	6325	6334, arg2=Vanessa Randolph	6292	6308, rel=per:parents, score=8.46642375E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20070704.0007.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Vanessa Randolph,
+mother of baby Druselita
+Extraction [arg1=Kaine	1196	1201, arg2=Skinner	1182	1189, rel=per:parents, score=1967765.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071007.0033.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Skinner said, Kaine
+Extraction [arg1=William O'Neill	4070	4085, arg2=Joseph Farland	4228	4242, rel=per:children, score=3.98223919E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = William
+O'Neill and Thomas Meskill (Connecticut) were remembered by their
+constituents, as were Jane Bolin, America's first black female
+judge, and diplomats Joseph Farland
+Extraction [arg1=Thomas Meskill	4090	4104, arg2=Joseph Farland	4228	4242, rel=per:children, score=3.98223919E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Thomas Meskill (Connecticut) were remembered by their
+constituents, as were Jane Bolin, America's first black female
+judge, and diplomats Joseph Farland
+Extraction [arg1=Garry Betty	18801	18812, arg2=Gordon Macklin	19089	19103, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Garry Betty (EarthLink), Lamar
+Muse (Southwest Airlines), James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin
+Extraction [arg1=Garry Betty	18801	18812, arg2=Charles Walgreen	19121	19137, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Garry Betty (EarthLink), Lamar
+Muse (Southwest Airlines), James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen
+Extraction [arg1=Garry Betty	18801	18812, arg2=Alan Pottasch	19156	19169, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Garry Betty (EarthLink), Lamar
+Muse (Southwest Airlines), James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen, PepsiCo
+marketer Alan Pottasch
+Extraction [arg1=Garry Betty	18801	18812, arg2=George Kovacs	19197	19210, rel=per:children, score=4.0068840800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Garry Betty (EarthLink), Lamar
+Muse (Southwest Airlines), James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen, PepsiCo
+marketer Alan Pottasch, and lighting manufacturer George Kovacs
+Extraction [arg1=Lamar Muse	18826	18836, arg2=Gordon Macklin	19089	19103, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Lamar
+Muse (Southwest Airlines), James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin
+Extraction [arg1=Lamar Muse	18826	18836, arg2=Charles Walgreen	19121	19137, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Lamar
+Muse (Southwest Airlines), James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen
+Extraction [arg1=Lamar Muse	18826	18836, arg2=Alan Pottasch	19156	19169, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Lamar
+Muse (Southwest Airlines), James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen, PepsiCo
+marketer Alan Pottasch
+Extraction [arg1=Lamar Muse	18826	18836, arg2=George Kovacs	19197	19210, rel=per:children, score=4.0068840800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Lamar
+Muse (Southwest Airlines), James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen, PepsiCo
+marketer Alan Pottasch, and lighting manufacturer George Kovacs
+Extraction [arg1=James Moroney	18859	18872, arg2=Gordon Macklin	19089	19103, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin
+Extraction [arg1=James Moroney	18859	18872, arg2=Charles Walgreen	19121	19137, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen
+Extraction [arg1=James Moroney	18859	18872, arg2=Alan Pottasch	19156	19169, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen, PepsiCo
+marketer Alan Pottasch
+Extraction [arg1=James Moroney	18859	18872, arg2=George Kovacs	19197	19210, rel=per:children, score=4.0068840800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = James Moroney (Belo Corp.), Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen, PepsiCo
+marketer Alan Pottasch, and lighting manufacturer George Kovacs
+Extraction [arg1=Ernest Gallo	18887	18899, arg2=Gordon Macklin	19089	19103, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin
+Extraction [arg1=Ernest Gallo	18887	18899, arg2=Charles Walgreen	19121	19137, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen
+Extraction [arg1=Ernest Gallo	18887	18899, arg2=Alan Pottasch	19156	19169, rel=per:children, score=3.9821957E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen, PepsiCo
+marketer Alan Pottasch
+Extraction [arg1=Ernest Gallo	18887	18899, arg2=George Kovacs	19197	19210, rel=per:children, score=4.0068840800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Ernest
+Gallo (Gallo Winery), Steven Florio (Conde Nast), and Orin Atkins
+(Ashland Oil) left their marks on the world of commerce, too, as
+did oil tycoon-philanthropist Robert Anderson, Nasdaq architect
+Gordon Macklin, drugstore mogul Charles Walgreen, PepsiCo
+marketer Alan Pottasch, and lighting manufacturer George Kovacs
+Extraction [arg1=Gordon Macklin	19089	19103, arg2=Charles Walgreen	19121	19137, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Gordon Macklin, drugstore mogul Charles Walgreen
+Extraction [arg1=Gordon Macklin	19089	19103, arg2=Alan Pottasch	19156	19169, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Gordon Macklin, drugstore mogul Charles Walgreen, PepsiCo
+marketer Alan Pottasch
+Extraction [arg1=Charles Walgreen	19121	19137, arg2=Gordon Macklin	19089	19103, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Gordon Macklin, drugstore mogul Charles Walgreen
+Extraction [arg1=Charles Walgreen	19121	19137, arg2=Alan Pottasch	19156	19169, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Charles Walgreen, PepsiCo
+marketer Alan Pottasch
+Extraction [arg1=Charles Walgreen	19121	19137, arg2=George Kovacs	19197	19210, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Charles Walgreen, PepsiCo
+marketer Alan Pottasch, and lighting manufacturer George Kovacs
+Extraction [arg1=Alan Pottasch	19156	19169, arg2=Gordon Macklin	19089	19103, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Gordon Macklin, drugstore mogul Charles Walgreen, PepsiCo
+marketer Alan Pottasch
+Extraction [arg1=Alan Pottasch	19156	19169, arg2=Charles Walgreen	19121	19137, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Charles Walgreen, PepsiCo
+marketer Alan Pottasch
+Extraction [arg1=Alan Pottasch	19156	19169, arg2=George Kovacs	19197	19210, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Alan Pottasch, and lighting manufacturer George Kovacs
+Extraction [arg1=George Kovacs	19197	19210, arg2=Charles Walgreen	19121	19137, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Charles Walgreen, PepsiCo
+marketer Alan Pottasch, and lighting manufacturer George Kovacs
+Extraction [arg1=George Kovacs	19197	19210, arg2=Alan Pottasch	19156	19169, rel=per:spouse, score=9.125882779999998E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Alan Pottasch, and lighting manufacturer George Kovacs

@@ -1,0 +1,6 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBPMultirExtractor 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/amandaKnox.xml 0 new 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/amandaKnox_relDocs
+amandaKnox_runOutputTest amandaKnox_modelTrace"
+

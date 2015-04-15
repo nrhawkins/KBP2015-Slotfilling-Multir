@@ -1,0 +1,37 @@
+Extraction [arg1=Vanessa Randolph	6292	6308, arg2=Druselita	6325	6334, rel=/people/person/children, score=1.94963661E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20070704.0007.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Vanessa Randolph,
+mother of baby Druselita
+Extraction [arg1=Druselita	6325	6334, arg2=Vanessa Randolph	6292	6308, rel=/people/person/parents, score=3.00593233E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20070704.0007.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Vanessa Randolph,
+mother of baby Druselita
+Extraction [arg1=Davis	579	584, arg2=Virginia	592	600, rel=/people/person/nationality, score=1.30902553E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0090.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Davis became Virginia
+Extraction [arg1=Gordon Brown	4796	4808, arg2=LONDON	4771	4777, rel=/people/person/nationality, score=1.24008424E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071007.0102.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = LONDON -- Prime Minister Gordon Brown
+Extraction [arg1=Frank Wolf	1327	1337, arg2=Shenandoah Valley	1303	1320, rel=/people/person/place_of_birth, score=1.33891241E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071222.0076.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Shenandoah Valley, Rep. Frank Wolf
+Extraction [arg1=Davis	241	246, arg2=Gloucester	272	282, rel=/people/deceased_person/place_of_death, score=2.24261521E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071006.0674.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Davis, 57, died at her home in Gloucester
+Extraction [arg1=Jo Ann Davis	23	35, arg2=Virginia	53	61, rel=/people/person/nationality, score=1.26534098E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071006.0015.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Jo Ann Davis, who represented Virginia
+Extraction [arg1=Craig Thomas	3453	3465, arg2=Wyoming	3467	3474, rel=/people/person/place_of_birth, score=7.4220934E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Craig Thomas (Wyoming
+Extraction [arg1=Daniel Brewster	3508	3523, arg2=Maryland	3525	3533, rel=/people/person/place_of_birth, score=1.07083057E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Daniel
+Brewster (Maryland
+Extraction [arg1=Gilbert Gude	3590	3602, arg2=Maryland	3604	3612, rel=/people/person/place_of_birth, score=1.07083057E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Gilbert Gude (Maryland
+Extraction [arg1=Juanita Millender-McDonald	3692	3718, arg2=California	3720	3730, rel=/people/person/place_of_birth, score=1.07083057E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Juanita
+Millender-McDonald (California
+Extraction [arg1=Marion Snyder	3749	3762, arg2=Kentucky	3764	3772, rel=/people/person/place_of_birth, score=1.07083057E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Marion Snyder
+(Kentucky
+Extraction [arg1=Donald Clancy	3792	3805, arg2=Ohio	3807	3811, rel=/people/person/place_of_birth, score=1.07083057E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Donald Clancy (Ohio
+Extraction [arg1=Jack Metcalf	3941	3953, arg2=Washington	3955	3965, rel=/people/person/place_of_birth, score=1.07083057E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Jack
+Metcalf (Washington
+Extraction [arg1=Julia Carson	3992	4004, arg2=Indiana	4006	4013, rel=/people/person/place_of_birth, score=9.8128182E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Julia Carson
+(Indiana

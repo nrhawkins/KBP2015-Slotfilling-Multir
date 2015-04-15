@@ -1,0 +1,230 @@
+Extraction [arg1=Hosni Mubarak	1251	1264, arg2=Islamic	1127	1134, rel=per:origin, score=1.362909006E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081011.0115.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Islamic university in the
+Muslim world, Tantawi is often criticized by the Egyptian
+opposition for his support of President Hosni Mubarak
+Extraction [arg1=Abdi	4280	4284, arg2=Muslim	4250	4256, rel=per:origin, score=1.740551009E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070527.0027.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Muslim and she was a Muslim," Abdi
+Extraction [arg1=Hosni Mubarak	976	989, arg2=Islamic	852	859, rel=per:origin, score=1.362909006E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081011.0120.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Islamic university in the
+Muslim world, Tantawi is often criticized by the Egyptian
+opposition for his support of President Hosni Mubarak
+Extraction [arg1=Dalai Lama	687	697, arg2=Tibetans	704	712, rel=per:origin, score=1.111044784E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-137644-12191836, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Dalai Lama urges Tibetans
+Extraction [arg1=Saina Nehwal	1607	1619, arg2=Indonesian Open	1511	1526, rel=per:origin, score=1.184402446E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-137644-12191836, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Indonesian Open*&lt; http://www.mediasyndicate.in/medsyn/1245602608.htm &gt;
+Ace woman shuttler Saina Nehwal
+Extraction [arg1=Chinese Lin Wang	1787	1803, arg2=Indian	1659	1665, rel=per:origin, score=1.7375684E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-137644-12191836, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Indian to win a Super Series tournament after she clinched the Indonesian
+Open title with a stunning victory over higher ranked Chinese Lin Wang
+Extraction [arg1=Condoleezza Rice	801	817, arg2=US	779	781, rel=per:origin, score=6.543690950900001E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0325.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = US
+Secretary of State Condoleezza Rice
+Extraction [arg1=Mubarak	3336	3343, arg2=Egypt	3309	3314, rel=per:origin, score=8.30793816E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0325.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Egypt was in May 2005 when
+Mubarak
+Extraction [arg1=Shrouk	412	418, arg2=English	325	332, rel=per:origin, score=7.32401484E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070111.1622.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = English, sold out in
+two weeks, said Saif Salmawy, the distribution manager of Dar el-
+Shrouk
+Extraction [arg1=Dar Al-Adab	2021	2032, arg2=Lebanese	1995	2003, rel=per:origin, score=1.3056076433E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070111.1622.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Lebanese publishing house Dar Al-Adab
+Extraction [arg1=Mahfouz	3078	3085, arg2=Islamic	3202	3209, rel=per:religion, score=1.101670914E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070111.1622.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mahfouz upset liberal writers when he said he
+would not publish the novel without Al-Azhar's consent and an
+introduction by Islamic
+Extraction [arg1=Ahmed Kamal Abou el-Magd	3511	3535, arg2=Egyptian	3467	3475, rel=per:origin, score=5.53952162E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070111.1622.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Egyptian edition carries an introduction
+by Ahmed Kamal Abou el-Magd
+Extraction [arg1=Pandit Allaudin Khan	159	179, arg2=Hindu	184	189, rel=per:origin, score=3.78987969E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Pandit Allaudin Khan was Hindu
+Extraction [arg1=Maa Sharada Bhawan	2771	2789, arg2=Calcutta	2727	2735, rel=per:origin, score=6.06722515E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Calcutta
+residence at Ranikuthi is named as Maa Sharada Bhawan
+Extraction [arg1=Maharaja Nabakishore	3633	3653, arg2=Bajainna Adi	3697	3709, rel=per:siblings, score=1.35995931E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Maharaja Nabakishore and was established at his
+native place of Bajainna Adi
+Extraction [arg1=Oscar Winner Satyajit Ray	5308	5333, arg2=Pandit Ravi Shankar	5213	5232, rel=/common/topic/alias, score=2.78382898E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Pandit Ravi Shankar, he has worked on many musical products for both
+film and stage, including Oscar Winner Satyajit Ray
+Extraction [arg1=John Huston	5449	5460, arg2=Maurice Jarre	5432	5445, rel=per:spouse, score=3.9974200199999996E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Maurice Jarre on John Huston
+Extraction [arg1=Daniel	8257	8263, arg2=Daniel	8384	8390, rel=/common/topic/alias, score=2.0713555E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Daniel
+</POST>
+<POST>
+<POSTER> Abhik Majumdar &lt;abhik....@gmail.com&gt; </POSTER>
+<POSTDATE> 2008-03-25T17:51:00 </POSTDATE>
+Daniel
+Extraction [arg1=Mohammed Sayed Tantawi	3294	3316, arg2=Cairo	3281	3286, rel=per:origin, score=1.417207251E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20081206.0094.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Cairo, Sheik Mohammed Sayed Tantawi
+Extraction [arg1=Mohammed Sayed Tantawi	3294	3316, arg2=Al-Azhar Mosque	3320	3335, rel=per:employee_or_member_of, score=2.83822239E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20081206.0094.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mohammed Sayed Tantawi of Al-Azhar Mosque
+Extraction [arg1=Michael Stipe	1561	1574, arg2=R.E.M.	1578	1584, rel=per:employee_or_member_of, score=1.12451353E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080419.0016.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Michael Stipe of R.E.M.
+Extraction [arg1=Bhosle	1406	1412, arg2=Boy George	1547	1557, rel=per:spouse, score=4.03956485E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080419.0016.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Bhosle has collaborated not
+just with film composers but also with Indian classical
+musicians, like Ali Akbar Khan, and with Westerners from Boy
+George
+Extraction [arg1=Boy George	1547	1557, arg2=Bhosle	1406	1412, rel=per:spouse, score=4.94528846E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080419.0016.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Bhosle has collaborated not
+just with film composers but also with Indian classical
+musicians, like Ali Akbar Khan, and with Westerners from Boy
+George
+Extraction [arg1=Amit Kumar	2200	2210, arg2=Kishore Kumar	2249	2262, rel=per:parents, score=2.74043518E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080419.0016.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Amit Kumar, a singer and actor
+who is the son of Kishore Kumar
+Extraction [arg1=Kishore Kumar	2249	2262, arg2=Amit Kumar	2200	2210, rel=per:children, score=4.7211983800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080419.0016.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Amit Kumar, a singer and actor
+who is the son of Kishore Kumar
+Extraction [arg1=Benedict	541	549, arg2=German	680	686, rel=per:origin, score=1.18053408E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070220.0606.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Benedict has been trying to improve Christian relations with the
+Muslim world, particularly after a speech which he gave in
+September at a German
+Extraction [arg1=Mubarak	512	519, arg2=Gamal	531	536, rel=per:children, score=2.99796094E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mubarak to his son Gamal
+Extraction [arg1=Gamal	531	536, arg2=Mubarak	512	519, rel=per:parents, score=2.82418092E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mubarak to his son Gamal
+Extraction [arg1=Condoleezza Rice	1150	1166, arg2=US	1128	1130, rel=per:origin, score=1.1806120599999998E10, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = US Secretary of State Condoleezza Rice
+Extraction [arg1=Mubarak	1231	1238, arg2=Egypt	1292	1297, rel=per:origin, score=3.46499946E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mubarak and Arab foreign
+ministers, Rice told reporters that Egypt
+Extraction [arg1=Mubarak	1231	1238, arg2=Egyptians	1427	1436, rel=per:origin, score=5.799491266E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mubarak and Arab foreign
+ministers, Rice told reporters that Egypt had generated "certain
+expectations" for improving democracy "and the hope was that it
+would be a process that gave voice to all Egyptians
+Extraction [arg1=Arab	1243	1247, arg2=Egyptians	1427	1436, rel=per:origin, score=4.175274922E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Arab foreign
+ministers, Rice told reporters that Egypt had generated "certain
+expectations" for improving democracy "and the hope was that it
+would be a process that gave voice to all Egyptians
+Extraction [arg1=Mubarak	3120	3127, arg2=Egypt	3093	3098, rel=per:origin, score=8.30793816E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Egypt was in May 2005 when
+Mubarak
+Extraction [arg1=Shimon Peres	2314	2326, arg2=Israeli	2296	2303, rel=per:origin, score=1.9944216445E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20081218.0054.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Israeli President Shimon Peres
+Extraction [arg1=Noha El-Hennawy	6007	6022, arg2=Cairo	6037	6042, rel=/people/person/place_of_birth, score=7.474903500000001E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20081218.0054.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Noha El-Hennawy of the Times' Cairo
+Extraction [arg1=Asha Bhonsle	584	596, arg2=New Delhi	645	654, rel=/people/person/place_of_birth, score=2.88308864E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-131714-9425844, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Asha
+Bhonsle and Illyaraja (music director) at a function at New
+Delhi
+Extraction [arg1=Firoz Shah Tughlaq	5826	5844, arg2=Jagannath	5894	5903, rel=per:spouse, score=2.7263526799999997E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-131714-9425844, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Firoz Shah Tughlaq invaded Orissa and
+desecrated the temple of Lord Jagannath
+Extraction [arg1=Hosni Mubarak	1251	1264, arg2=Islamic	1127	1134, rel=per:origin, score=1.362909006E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081011.0115.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Islamic university in the
+Muslim world, Tantawi is often criticized by the Egyptian
+opposition for his support of President Hosni Mubarak
+Extraction [arg1=Abdi	4280	4284, arg2=Muslim	4250	4256, rel=per:origin, score=1.740551009E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070527.0027.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Muslim and she was a Muslim," Abdi
+Extraction [arg1=Hosni Mubarak	976	989, arg2=Islamic	852	859, rel=per:origin, score=1.362909006E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081011.0120.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Islamic university in the
+Muslim world, Tantawi is often criticized by the Egyptian
+opposition for his support of President Hosni Mubarak
+Extraction [arg1=Dalai Lama	687	697, arg2=Tibetans	704	712, rel=per:origin, score=1.111044784E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-137644-12191836, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Dalai Lama urges Tibetans
+Extraction [arg1=Saina Nehwal	1607	1619, arg2=Indonesian Open	1511	1526, rel=per:origin, score=1.184402446E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-137644-12191836, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Indonesian Open*&lt; http://www.mediasyndicate.in/medsyn/1245602608.htm &gt;
+Ace woman shuttler Saina Nehwal
+Extraction [arg1=Chinese Lin Wang	1787	1803, arg2=Indian	1659	1665, rel=per:origin, score=1.7375684E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-137644-12191836, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Indian to win a Super Series tournament after she clinched the Indonesian
+Open title with a stunning victory over higher ranked Chinese Lin Wang
+Extraction [arg1=Condoleezza Rice	801	817, arg2=US	779	781, rel=per:origin, score=6.543690950900001E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0325.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = US
+Secretary of State Condoleezza Rice
+Extraction [arg1=Mubarak	3336	3343, arg2=Egypt	3309	3314, rel=per:origin, score=8.30793816E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0325.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Egypt was in May 2005 when
+Mubarak
+Extraction [arg1=Shrouk	412	418, arg2=English	325	332, rel=per:origin, score=7.32401484E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070111.1622.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = English, sold out in
+two weeks, said Saif Salmawy, the distribution manager of Dar el-
+Shrouk
+Extraction [arg1=Dar Al-Adab	2021	2032, arg2=Lebanese	1995	2003, rel=per:origin, score=1.3056076433E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070111.1622.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Lebanese publishing house Dar Al-Adab
+Extraction [arg1=Mahfouz	3078	3085, arg2=Islamic	3202	3209, rel=per:religion, score=1.101670914E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070111.1622.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mahfouz upset liberal writers when he said he
+would not publish the novel without Al-Azhar's consent and an
+introduction by Islamic
+Extraction [arg1=Ahmed Kamal Abou el-Magd	3511	3535, arg2=Egyptian	3467	3475, rel=per:origin, score=5.53952162E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070111.1622.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Egyptian edition carries an introduction
+by Ahmed Kamal Abou el-Magd
+Extraction [arg1=Maa Sharada Bhawan	2771	2789, arg2=Calcutta	2727	2735, rel=per:origin, score=6.06722515E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Calcutta
+residence at Ranikuthi is named as Maa Sharada Bhawan
+Extraction [arg1=Maharaja Nabakishore	3633	3653, arg2=Bajainna Adi	3697	3709, rel=per:siblings, score=1.35995931E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Maharaja Nabakishore and was established at his
+native place of Bajainna Adi
+Extraction [arg1=Oscar Winner Satyajit Ray	5308	5333, arg2=Pandit Ravi Shankar	5213	5232, rel=/common/topic/alias, score=2.78382898E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Pandit Ravi Shankar, he has worked on many musical products for both
+film and stage, including Oscar Winner Satyajit Ray
+Extraction [arg1=John Huston	5449	5460, arg2=Maurice Jarre	5432	5445, rel=per:spouse, score=3.9974200199999996E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Maurice Jarre on John Huston
+Extraction [arg1=Daniel	8257	8263, arg2=Daniel	8384	8390, rel=/common/topic/alias, score=2.0713555E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-142147-10015849, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Daniel
+</POST>
+<POST>
+<POSTER> Abhik Majumdar &lt;abhik....@gmail.com&gt; </POSTER>
+<POSTDATE> 2008-03-25T17:51:00 </POSTDATE>
+Daniel
+Extraction [arg1=Mohammed Sayed Tantawi	3294	3316, arg2=Cairo	3281	3286, rel=per:origin, score=1.417207251E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20081206.0094.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Cairo, Sheik Mohammed Sayed Tantawi
+Extraction [arg1=Mohammed Sayed Tantawi	3294	3316, arg2=Al-Azhar Mosque	3320	3335, rel=per:employee_or_member_of, score=2.83822239E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20081206.0094.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mohammed Sayed Tantawi of Al-Azhar Mosque
+Extraction [arg1=Michael Stipe	1561	1574, arg2=R.E.M.	1578	1584, rel=per:employee_or_member_of, score=1.12451353E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080419.0016.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Michael Stipe of R.E.M.
+Extraction [arg1=Bhosle	1406	1412, arg2=Boy George	1547	1557, rel=per:spouse, score=4.03956485E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080419.0016.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Bhosle has collaborated not
+just with film composers but also with Indian classical
+musicians, like Ali Akbar Khan, and with Westerners from Boy
+George
+Extraction [arg1=Boy George	1547	1557, arg2=Bhosle	1406	1412, rel=per:spouse, score=4.94528846E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080419.0016.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Bhosle has collaborated not
+just with film composers but also with Indian classical
+musicians, like Ali Akbar Khan, and with Westerners from Boy
+George
+Extraction [arg1=Amit Kumar	2200	2210, arg2=Kishore Kumar	2249	2262, rel=per:parents, score=2.74043518E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080419.0016.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Amit Kumar, a singer and actor
+who is the son of Kishore Kumar
+Extraction [arg1=Kishore Kumar	2249	2262, arg2=Amit Kumar	2200	2210, rel=per:children, score=4.7211983800000004E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080419.0016.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Amit Kumar, a singer and actor
+who is the son of Kishore Kumar
+Extraction [arg1=Benedict	541	549, arg2=German	680	686, rel=per:origin, score=1.18053408E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070220.0606.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Benedict has been trying to improve Christian relations with the
+Muslim world, particularly after a speech which he gave in
+September at a German
+Extraction [arg1=Mubarak	512	519, arg2=Gamal	531	536, rel=per:children, score=2.99796094E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mubarak to his son Gamal
+Extraction [arg1=Gamal	531	536, arg2=Mubarak	512	519, rel=per:parents, score=2.82418092E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mubarak to his son Gamal
+Extraction [arg1=Condoleezza Rice	1150	1166, arg2=US	1128	1130, rel=per:origin, score=1.1806120599999998E10, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = US Secretary of State Condoleezza Rice
+Extraction [arg1=Mubarak	1231	1238, arg2=Egypt	1292	1297, rel=per:origin, score=3.46499946E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mubarak and Arab foreign
+ministers, Rice told reporters that Egypt
+Extraction [arg1=Mubarak	1231	1238, arg2=Egyptians	1427	1436, rel=per:origin, score=5.799491266E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Mubarak and Arab foreign
+ministers, Rice told reporters that Egypt had generated "certain
+expectations" for improving democracy "and the hope was that it
+would be a process that gave voice to all Egyptians
+Extraction [arg1=Arab	1243	1247, arg2=Egyptians	1427	1436, rel=per:origin, score=4.175274922E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Arab foreign
+ministers, Rice told reporters that Egypt had generated "certain
+expectations" for improving democracy "and the hope was that it
+would be a process that gave voice to all Egyptians
+Extraction [arg1=Mubarak	3120	3127, arg2=Egypt	3093	3098, rel=per:origin, score=8.30793816E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20070325.0499.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Egypt was in May 2005 when
+Mubarak
+Extraction [arg1=Shimon Peres	2314	2326, arg2=Israeli	2296	2303, rel=per:origin, score=1.9944216445E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20081218.0054.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Israeli President Shimon Peres
+Extraction [arg1=Noha El-Hennawy	6007	6022, arg2=Cairo	6037	6042, rel=/people/person/place_of_birth, score=7.474903500000001E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20081218.0054.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Noha El-Hennawy of the Times' Cairo
+Extraction [arg1=Asha Bhonsle	584	596, arg2=New Delhi	645	654, rel=/people/person/place_of_birth, score=2.88308864E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-131714-9425844, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Asha
+Bhonsle and Illyaraja (music director) at a function at New
+Delhi
+Extraction [arg1=Firoz Shah Tughlaq	5826	5844, arg2=Jagannath	5894	5903, rel=per:spouse, score=2.7263526799999997E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=eng-NG-31-131714-9425844, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Firoz Shah Tughlaq invaded Orissa and
+desecrated the temple of Lord Jagannath
