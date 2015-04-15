@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kbpslotfill>
+  <query id="SF13_ENG_100">
+    <name>Galleon Group</name>
+    <docid>XIN_ENG_20091019.0276</docid>
+    <beg>856</beg> 
+    <end>868</end> 
+    <enttype>ORG</enttype>
+  </query>
+</kbpslotfill>
+

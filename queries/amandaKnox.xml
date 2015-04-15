@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kbpslotfill>
+  <query id="SF14_ENG_049">
+    <name>Amanda Knox</name>
+    <enttype>PER</enttype>
+    <docid>AFP_ENG_20091204.0026</docid>
+    <beg>89</beg>
+    <end>99</end>
+  </query>
+<query id="SF14_ENG_085">
+    <name>Third Guard Division</name>
+    <enttype>ORG</enttype>
+    <docid>AFP_ENG_20090728.0402</docid>
+    <beg>402</beg>
+    <end>421</end>
+  </query>
+</kbpslotfill>
