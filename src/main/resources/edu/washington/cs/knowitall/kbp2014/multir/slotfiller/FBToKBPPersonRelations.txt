@@ -1,0 +1,10 @@
+/people/person/place_of_birth	per:country_of_birth
+/people/person/place_of_birth	per:stateorprovince_of_birth
+/people/person/place_of_birth	per:city_of_birth
+/people/deceased_person/place_of_death	per:country_of_death
+/people/deceased_person/place_of_death	per:stateorprovince_of_death
+/people/deceased_person/place_of_death	per:city_of_death
+/people/person/place_lived	per:countries_of_residence,
+/people/person/place_lived	per:statesorprovinces_of_residence
+/people/person/place_lived	per:cities_of_residence
+	
