@@ -6,6 +6,7 @@ import edu.knowitall.collection.immutable.Interval
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.ling.CoreAnnotations._;
+import KBPQueryEntityType._
 
 object FilterExtractionResults {
 
@@ -27,6 +28,21 @@ object FilterExtractionResults {
     
   }
   
+  def satisfiesEntityExactMatchCollapsedFilter(candidate: Candidate, query: KBPQuery): Boolean = {
+
+    if(candidate.extr.getArg1().getArgName().split(" ").mkString == query.name) true else false
+    
+  }
+  
+  def satisfiesEntityFirstCharacterFilter(candidate: Candidate, query: KBPQuery): Boolean = {
+
+    query.entityType match {
+      
+      case PER => if(candidate.extr.getArg1().getArgName().startsWith(query.name(0).toString)) true else false      
+      case ORG => false
+    }        
+  }
+  
   def satisfiesThresholdFilter(candidate: Candidate): Boolean = {
 
     // Threshold of 7.5 mil established by Stephen's analysis
@@ -46,20 +62,82 @@ object FilterExtractionResults {
     for(c <- candidates){
       
        c.extr.getRel() match {
+         
+              case s if(s.contains("RE")) => 
+         
               //PER relations to substitute
-              case s if (s.contains("birth")) => c.extr.setRel("per:city_of_birth")
-              case s if (s.contains("death")) => c.extr.setRel("per:city_of_death")
-              case s if (s.contains("lived")) => c.extr.setRel("per:cities_of_residence")
+              case s if (s.contains("birth")) => { 
+                var foundLocation = false
+                if(LocationData.citiesChinese.contains(c.extr.getArg2().getArgName())){ 
+                  c.extr.setRel("per:city_of_birth")
+                  foundLocation = true
+                }
+                if(LocationData.stateOrProvincesChinese.contains(c.extr.getArg2().getArgName())){
+                  c.extr.setRel("per:stateorprovince_of_birth")
+                  foundLocation = true
+                }
+                if(LocationData.countriesChinese.contains(c.extr.getArg2().getArgName())){
+                  c.extr.setRel("per:country_of_birth")
+                  foundLocation = true
+                }
+                if(!foundLocation) c.extr.setRel("per:city_of_birth")
+              }
+              case s if (s.contains("death")) => { 
+                var foundLocation = false
+                if(LocationData.citiesChinese.contains(c.extr.getArg2().getArgName())){  
+                  c.extr.setRel("per:city_of_death")
+                  foundLocation = true
+                }
+                if(LocationData.stateOrProvincesChinese.contains(c.extr.getArg2().getArgName())){
+                  c.extr.setRel("per:stateorprovince_of_death")
+                  foundLocation = true
+                }
+                if(LocationData.countriesChinese.contains(c.extr.getArg2().getArgName())) {
+                  c.extr.setRel("per:country_of_death")
+                  foundLocation = true
+                }
+                if(!foundLocation) c.extr.setRel("per:city_of_death")
+              }
+              case s if (s.contains("lived")) => { 
+                var foundLocation = false
+                if(LocationData.citiesChinese.contains(c.extr.getArg2().getArgName())){
+                  c.extr.setRel("per:cities_of_residence")
+                  foundLocation = true
+                }
+                if(LocationData.stateOrProvincesChinese.contains(c.extr.getArg2().getArgName())){
+                  c.extr.setRel("per:statesorprovinces_of_residence")
+                  foundLocation = true
+                }
+                if(LocationData.countriesChinese.contains(c.extr.getArg2().getArgName())){
+                  c.extr.setRel("per:countries_of_residence")     
+                  foundLocation = true
+                }
+                if(!foundLocation) c.extr.setRel("per:cities_of_residence")
+              }
               case s if (s.contains("children")) => c.extr.setRel("per:children")
               case s if (s.contains("parents")) => c.extr.setRel("per:parents")
               case s if (s.contains("spouse")) => c.extr.setRel("per:spouse")
               //ORG relations to substitute
               case s if (s.contains("founders")) => c.extr.setRel("org:founded_by")
-              case s if (s.contains("headquarters")) => c.extr.setRel("org:city_of_headquarters")
+              case s if (s.contains("headquarters")) => { 
+                var foundLocation = false
+                if(LocationData.citiesChinese.contains(c.extr.getArg2().getArgName())){
+                  c.extr.setRel("org:city_of_headquarters")
+                  foundLocation = true
+                }
+                if(LocationData.stateOrProvincesChinese.contains(c.extr.getArg2().getArgName())){
+                  c.extr.setRel("org:statesorprovince_of_headquarters")
+                  foundLocation = true
+                }
+                if(LocationData.countriesChinese.contains(c.extr.getArg2().getArgName())){
+                  c.extr.setRel("org:country_of_headquarters") 
+                  foundLocation = true
+                }
+                if(!foundLocation) c.extr.setRel("org:city_of_headquarters")
+              }
               //No need to substitute, relation is in KBP format already
               case _ => 
-       }
-      
+       }      
     }
     
     candidates
@@ -638,6 +716,27 @@ object FilterExtractionResults {
     unfiltered filter combinedFilter
   }
 
+  def filterResultsChinese(unfiltered: Seq[Candidate], kbpQuery: KBPQuery, document: Option[Annotation]): Seq[Candidate] = {
+
+    def combinedFilter(candidate: Candidate) = (
+      //satisfiesLengthFilter(candidate) &&
+      //satisfiesArg2BeginsFilter(candidate) &&
+      //satisfiesRelFilter(candidate) &&
+      //satisfiesHtmlFilter(candidate) &&
+      //satisfiesTermFilters(candidate) &&
+      //satisfiesSlotFilter(candidate) &&
+      //satisfiesLocationStoplist(candidate) &&
+      //satisfiesSemanticFilter(candidate) &&
+      //(satisfiesEntityExactMatchFilter(candidate, kbpQuery) || satisfiesEntityFilter(document)(kbpQuery)(candidate)) &&  
+      //satisfiesThresholdFilter(candidate)
+      satisfiesEntityExactMatchFilter(candidate, kbpQuery) || satisfiesEntityFirstCharacterFilter(candidate, kbpQuery) ||
+      satisfiesEntityExactMatchCollapsedFilter(candidate, kbpQuery)
+      )
+
+    unfiltered filter combinedFilter
+  }
+  
+  
 }
 
   

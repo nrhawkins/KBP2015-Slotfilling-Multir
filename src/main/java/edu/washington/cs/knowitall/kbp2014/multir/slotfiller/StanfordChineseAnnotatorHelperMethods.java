@@ -56,7 +56,9 @@ public class StanfordChineseAnnotatorHelperMethods {
 	public StanfordChineseAnnotatorHelperMethods(){
 
 		Properties chineseProps = new Properties(); 	    
-	    chineseProps.put("annotators", "segment, ssplit, pos, ner");
+		chineseProps.put("annotators", "segment, ssplit, pos, ner");
+		//chineseProps.put("annotators", "segment, ssplit, pos, ner, parse");
+	    //chineseProps.put("annotators", "segment, ssplit, pos, ner, parse, dcoref");
 	    chineseProps.put("outputFormat", "xml");
 	    chineseProps.put("customAnnotatorClass.segment", "edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator");
 	    chineseProps.put("segment.model", "edu/stanford/nlp/models/segmenter/chinese/ctb.gz");

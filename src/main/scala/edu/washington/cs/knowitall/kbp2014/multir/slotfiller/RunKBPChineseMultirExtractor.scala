@@ -1,5 +1,6 @@
 package edu.washington.cs.knowitall.kbp2014.multir.slotfiller
 
+import edu.stanford.nlp.ling.CoreAnnotations.DocIDAnnotation;
 import edu.washington.multirframework.corpus.Corpus
 import edu.washington.multirframework.corpus.DefaultCorpusInformationSpecification
 import edu.washington.multirframework.corpus.DocumentInformationI
@@ -62,7 +63,7 @@ object RunKBPChineseMultirExtractor {
   
   //val annotatorHelper = new StanfordAnnotatorHelperMethods()
     val annotatorHelper = new StanfordChineseAnnotatorHelperMethods()
-        
+    
   /*val cis  = new DefaultCorpusInformationSpecification()
   val javaDocInfoList = new java.util.ArrayList[DocumentInformationI]()
   javaDocInfoList.add(new DocCorefInformation())
@@ -79,6 +80,8 @@ object RunKBPChineseMultirExtractor {
       // Include printed extractions in output file?
       var printExtractions = false
       
+      annotatorHelper.getChinesePipeline()
+      //System.exit(0)      
       
       // * ------------- Set the args ----------------------- *//
  
@@ -131,29 +134,107 @@ object RunKBPChineseMultirExtractor {
 		 }
       }
 
-	  System.out.println("Number of queries: " + queries.size);
+	  println("total memory: " + Runtime.getRuntime().totalMemory())
+      //the Xmx value
+  	  println("max memory: " + Runtime.getRuntime().maxMemory())
+  	  println("free memory: " + Runtime.getRuntime().freeMemory())  		        
+  	  println("computed free memory: " + (Runtime.getRuntime().maxMemory() - Runtime.getRuntime().totalMemory() + Runtime.getRuntime().freeMemory()))
+      println("used memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()))
 	  
+	  System.out.println("Number of queries: " + queries.size);	  
+      //val testQueries = List(queries(5),queries(6),queries(8),queries(9),queries(11),queries(14),queries(15))
+      //val testQueries = List(queries(4),queries(13),queries(18),queries(19),queries(28),queries(29),queries(30),queries(31))
+      //val testQueries = List(queries(17),queries(20),queries(21),queries(22),queries(24),queries(26),queries(27))
+      //val testQueries = List(queries(17),queries(18),queries(19),queries(20),queries(21),queries(22),queries(23),queries(24),queries(25),queries(26),
+      //    queries(27),queries(28),queries(29),queries(30),queries(31),queries(32),queries(33),queries(34),queries(35),queries(36),queries(37),queries(38),
+      //    queries(39),queries(40),queries(41),queries(42),queries(43),queries(44),queries(45),queries(46))
+      //kupo's next job
+	  val testQueries = List(queries(47))
+      //val testQueries = List(queries(62),queries(63),queries(64),queries(65))
+	  //serenity's next job
+      //val testQueries = List(queries(48),queries(49),queries(50),queries(51),queries(52),queries(53),queries(54),queries(55),queries(56),queries(57),
+      //    queries(58),queries(59),queries(60),queries(61))
+	  //val testQueries = List(queries(91),queries(92),queries(93))
+      //val testQueries = List(queries(94),queries(95),queries(96),queries(97),queries(98),queries(99),queries(100),queries(101),queries(102))    
+	  //val testQueries = List(queries(93))
+	  //kupo's next job
+	  //val testQueries = List(queries(66),queries(67),queries(68))
+	  //kupo's next job
+	  //val testQueries = List(queries(93))
+      //kupo's next job
+	  //val testQueries = List(queries(69),queries(70),queries(71),queries(72),queries(73),queries(74),queries(75),queries(76), 
+	  //  queries(77),queries(78),queries(79),queries(80),queries(81),queries(82),queries(83),queries(84),queries(85),queries(86),
+	  //  queries(87),queries(88),queries(89),queries(90))
+	  //porvo's next job
+	  //val testQueries = List(queries(82),queries(83),queries(84),queries(85),queries(86),
+	  //  queries(87),queries(88),queries(89),queries(90))
+	  //val testQueries = List(queries(71),queries(72),queries(73),queries(74),queries(75))
+	  //val testQueries = List(queries(76),queries(77),queries(78),queries(79),queries(80),queries(81))	  
+	  //val testQueries = List(queries(70))
+	  
+	  /*var totalDocs = 0
 	  for(query <- queries){
+	      println("Query: " + query.name)	      
+	      var relevantDocs: Set[String] = Nil.toSet
+	      var numberOfDocs = 0
+	      if(entityRelevantDocSerialization.contains(query.id)){
+		    relevantDocs = entityRelevantDocSerialization(query.id).toSet	
+		    println("Size All Documents: " + relevantDocs.size)	
+		    numberOfDocs = relevantDocs.size
+		    totalDocs = totalDocs + numberOfDocs
+	      }  
+	      else{
+	        println("Size All Documents: " + 0)
+	      }
+	      //val relevantDocs = entityRelevantDocSerialization(query.id).toSet
+	      
+	      outputStream.println("Query: " + query.id + " " + query.name)
+		  outputStream.println("Size All Documents: " + numberOfDocs)	
+	  }
+	  outputStream.println("Total Docs: " + totalDocs)
+	  println("Total Docs: " + totalDocs)
+	  System.exit(0)
+	  */
+	  
+      for(query <- testQueries){
+	  //for(query <- queries){
 
 	      println("Query: " + query.name)
 	    //if(printExtractions){  
-		  outputStream.println(query.name + "\n")  
+		  //outputStream.println(query.name + " " + query.entityType.toString())  
 	    //}
 	    
 	    try{
-		        		      
+		        		     
+	      var allRelevantExtractions: Seq[Extraction] = Nil
 		  var allRelevantCandidates: Seq[Candidate] = Nil		          	      
-		  val relevantDocs = entityRelevantDocSerialization(query.id).toSet		      
-       
+		  var relevantDocs: Set[String] = Nil.toSet
+		  var documents :List[Option[Annotation]] = Nil
+		  if(entityRelevantDocSerialization.contains(query.id)){
+		    relevantDocs = entityRelevantDocSerialization(query.id).toSet
+		    documents = {
+		      modePreprocessed match {
+		        case 0 => processChineseDocuments(relevantDocs)
+		        case _ => processChineseDocuments(relevantDocs)	
+		      }            
+		    } 
+		  }
+		  //val relevantDocs = entityRelevantDocSerialization(query.id).toSet		      
+		  //outputStream.println("Number of Documents: " + relevantDocs.size)
+		  //outputStream.println
+		  //outputStream.println("All Extractions: ")
+		  //outputStream.println
+          //val relevantDocs = Set("XIN_CMN_20040714.0019")
+		  
           println("Query: " + query.id)
 		  println("Size All Documents: " + relevantDocs.size)		  		 
 		  
-		  val documents :List[Option[Annotation]] = {
-		    modePreprocessed match {
-		      case 0 => processChineseDocuments(relevantDocs)
-		      case _ => processChineseDocuments(relevantDocs)	
-		    }            
-		  }
+		  //val documents :List[Option[Annotation]] = {
+		  //  modePreprocessed match {
+		  //    case 0 => processChineseDocuments(relevantDocs)
+		  //    case _ => processChineseDocuments(relevantDocs)	
+		  //  }            
+		  //}
 		  
 		  System.out.println("Processed Docs!")
 		  //System.exit(0)
@@ -161,25 +242,34 @@ object RunKBPChineseMultirExtractor {
           for(document <- documents){
             if(document.isDefined){
 
-              println("DOCUMENT is DEFINED: " + query.id )
+              //println("DOCUMENT is DEFINED: " + query.id )
               //SentDocName is null
               //println("DOCUMENT is DEFINED: " + query.id + " " + document.get.get(classOf[SentDocName]))
               
-              //val extractions = multirExtractor.extract(document.get, query).asScala
 
               val extractions = multirExtractor.extract(document.get, query).asScala
               
-              //val extractions = documentExtract()
+              if(extractions.size > 0) {
+                allRelevantExtractions = allRelevantExtractions ++ extractions.toSeq
+              }
               
 		      println("SIZE EXTRACTIONS: " + extractions.size)
-              println("NEXT DOCUMENT")
-                              
+		      println
+
+              //if(extractions.size > 0) {
+              //  extractions.foreach(e => {
+              //    outputStream.println("extraction: " + e.getArg1() + " " + e.getArg2() + " " + 
+              //    e.getRel() + " " + e.getScore())
+              //  })       
+              //}
+		      
+              //println("NEXT DOCUMENT")                              
               //val relevantCandidates = FilterExtractionResults.filterExtractions(FilterExtractionResults.wrapWithCandidate(extractions), query)     
 
               //This one
-              //val relevantCandidates = FilterExtractionResults.filterResults(FilterExtractionResults.wrapWithCandidate(extractions), query, document)                                       
-		      //println("Size RelevantCandidates: " + relevantCandidates.size)		          
-		      //if(relevantCandidates.size > 0) allRelevantCandidates = allRelevantCandidates ++ relevantCandidates		        
+              val relevantCandidates = FilterExtractionResults.filterResultsChinese(FilterExtractionResults.wrapWithCandidate(extractions), query, document)                                       
+		      println("Size RelevantCandidates: " + relevantCandidates.size)		          
+		      if(relevantCandidates.size > 0) allRelevantCandidates = allRelevantCandidates ++ relevantCandidates		        
 		      //for(c <- relevantCandidates){println(c.extr)}
 		        
 		      if(printExtractions){      
@@ -213,23 +303,28 @@ object RunKBPChineseMultirExtractor {
 		      
             } //if doc defined
           } //documents  
-          
-		  
+         
 		  
 		      val slots = query.slotsToFill
  		      
 		      println("Done Processing Documents")
+		      println("Size allRelevantExtractions: " + allRelevantExtractions.size)
 		      println("Size allRelevantCandidates: " + allRelevantCandidates.size)
+		   
+		      //outputStream.println
+		      //outputStream.println("Filtered Extractions: ")
+		      //outputStream.println
+		      //allRelevantCandidates.foreach(c => outputStream.println(c.extr.getArg1() + " " + c.extr.getArg2() + " " + c.extr.getRel() + " " + c.extr.getScore() ))
+		      //outputStream.println
 		      
 		      println("SubstituteKBPRelations")    	
 		      val kbpAllRelevantCandidates = FilterExtractionResults.substituteKBPRelationsChinese(allRelevantCandidates, query)
               
 		      println("Make Slot Map - Best Answers")		      
 		      val bestAnswers = slots map { slot => ( slot, SelectBestAnswers.reduceToMaxResults(slot, kbpAllRelevantCandidates.filter(_.extr.getRel() == slot.name)) ) } toMap
-		               	      
+		               	      		      
 		      outFmt.printAnswers(bestAnswers, query)
 		     
-		      
 		  }
 	      catch {case e: Exception => 
 	        {e.printStackTrace()
@@ -240,14 +335,26 @@ object RunKBPChineseMultirExtractor {
 		  
 	      println("Finished, going to next query")
 	      
+	      println("total memory: " + Runtime.getRuntime().totalMemory())
+          //the Xmx value
+  	      println("max memory: " + Runtime.getRuntime().maxMemory())
+  	      println("free memory: " + Runtime.getRuntime().freeMemory())  		        
+  	      println("computed free memory: " + (Runtime.getRuntime().maxMemory() - Runtime.getRuntime().totalMemory() + Runtime.getRuntime().freeMemory()))
+          println("used memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()))
+	      
     } //queries
 		  	  
 	  println("Finished with Queries - closing outputStreams.")
 	  
-	  outputStream.close()
-	
-	  
+	  outputStream.close()	  
 	  println("outputStreams closed.")
+	  
+	  println("total memory: " + Runtime.getRuntime().totalMemory())
+      //the Xmx value
+  	  println("max memory: " + Runtime.getRuntime().maxMemory())
+  	  println("free memory: " + Runtime.getRuntime().freeMemory())  		        
+  	  println("computed free memory: " + (Runtime.getRuntime().maxMemory() - Runtime.getRuntime().totalMemory() + Runtime.getRuntime().freeMemory()))
+      println("used memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()))
 	  
   } //main
   
@@ -257,21 +364,31 @@ object RunKBPChineseMultirExtractor {
     var startTime :Long = 0
 	var endTime: Long = 0    	 
 	var docCount = 0
-    for(doc <- documents.toList) yield{
+	var docs = documents.toList
+	// Setting max number of documents to 500
+    val maxSize = 500
+    if(documents.size > maxSize){docs = docs.dropRight(docs.size-maxSize)}
+	for(doc <- docs) yield{  
+    //for(doc <- documents.toList) yield{
       docCount = docCount + 1
-      //println("Processing Doc # :" + docCount)
+      println("Processing Doc # :" + docCount)
       var a :Option[Annotation] = None
       val t = new Thread {
         override def run() {    
           startTime = System.currentTimeMillis()
           a =processChineseDocument(doc)
           endTime = System.currentTimeMillis()
-          //println("Thread: Document took " + (endTime-startTime) + " milliseconds")      
+          println("Thread: Document took " + (endTime-startTime) + " milliseconds")      
         }
       }                                              
       t.start()
+      //t.join(1)
       //t.join(10000)
-      t.join(180000)                                        
+      //3 mins
+      t.join(180000)    
+      t.stop()
+      //1 min
+      //t.join(60000) 
       a
     }
   }
@@ -299,7 +416,8 @@ object RunKBPChineseMultirExtractor {
       val rawDoc = SolrHelper.getRawDoc(docName)
       val processedDoc = new Annotation(rawDoc)
       annotatorHelper.getChinesePipeline().annotate(processedDoc)
-      println("Document was Stanford Annotated")
+      processedDoc.set(classOf[DocIDAnnotation], docName)
+      println("Document was Stanford Annotated: " + processedDoc.get(classOf[DocIDAnnotation]))
       Some(processedDoc)
     }
     catch{

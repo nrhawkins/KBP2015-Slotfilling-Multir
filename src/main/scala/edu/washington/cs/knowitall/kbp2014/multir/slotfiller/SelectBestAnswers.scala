@@ -1,5 +1,6 @@
 package edu.washington.cs.knowitall.kbp2014.multir.slotfiller
 
+import edu.washington.multirframework.data.Argument
 
 object SelectBestAnswers {
   
@@ -21,10 +22,27 @@ object SelectBestAnswers {
        
        case 1 => Seq(sortedCandidates.head) 
       
-       // ToDo: Could Dedupe
        case 9 => { 
          
-         Seq(sortedCandidates.head) 
+         var slotFills: collection.mutable.Set[String] = collection.mutable.Set()
+         
+         val dedupedCandidates = for (c <- sortedCandidates) yield {
+           
+           val slotFill = c.extr.getArg2().getArgName()
+           if(!slotFills.contains(slotFill)) { 
+             slotFills += slotFill 
+           }
+           else{             
+             val arg2 = new Argument("dropdupe",0,0)
+             c.extr.setArg2(arg2)
+           }
+           c           
+         }
+         
+         val returnCandidates = dedupedCandidates.toList.filter(c => c.extr.getArg2().getArgName() != "dropdupe").toSeq
+         returnCandidates         
+         
+         //Seq(sortedCandidates.head) 
          /*val candidatesMap = candidates map 
            { candidate => (candidate.extr.getArg2().getArgName() , 
                            candidates.filter(_.extr.getArg2().getArgName()

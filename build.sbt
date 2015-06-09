@@ -6,7 +6,7 @@ version := "0.1"
 
 fork := true
 
-javaOptions in run += "-Xmx16G"
+javaOptions in run += "-Xmx14G"
 
 publishMavenStyle := true
 
@@ -48,6 +48,7 @@ val stanfordNlp = "edu.stanford.nlp" % "stanford-corenlp" % "3.4" artifacts (Art
 
 libraryDependencies ++= Seq(
   stanfordNlp,
+  "com.typesafe" % "config" % "1.2.1",
   "org.apache.commons" % "commons-io" % "1.3.2",
   "commons-lang" % "commons-lang" % "2.6",
   "commons-cli" % "commons-cli" % "1.2",

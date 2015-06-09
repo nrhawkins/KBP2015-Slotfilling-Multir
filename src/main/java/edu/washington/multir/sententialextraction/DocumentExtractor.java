@@ -131,7 +131,7 @@ public class DocumentExtractor {
 	
 	public Triple<String,Double,Double> extractFromSententialInstance(Argument arg1, Argument arg2, CoreMap sentence, Annotation doc){
 		
-		System.out.println("de");
+		//System.out.println("de");
 		
 		String senText = sentence.get(CoreAnnotations.TextAnnotation.class);
 
@@ -144,17 +144,17 @@ public class DocumentExtractor {
 			arg2ID = ((KBArgument)arg2).getKbId();
 		}	
 		
-		System.out.println("de: Generating Features: ");	
+		//System.out.println("de: Generating Features: ");	
 		
 		List<String> features = 
 				fg.generateFeatures(arg1.getStartOffset(), arg1.getEndOffset(), 
 						arg2.getStartOffset(), arg2.getEndOffset(), 
 						arg1ID, arg2ID, sentence, doc);
 		
-		System.out.println("de: Features: " + features.size());
-		System.out.println("de: Features: " + features);
-		System.out.println("de: arg1: " + arg1.getArgName() + arg1.getStartOffset() + " " + arg1.getEndOffset());
-		System.out.println("de: arg2: " + arg2.getArgName() + arg2.getStartOffset() + " " + arg2.getEndOffset());
+		//System.out.println("de: Features: " + features.size());
+		//System.out.println("de: Features: " + features);
+		//System.out.println("de: arg1: " + arg1.getArgName() + arg1.getStartOffset() + " " + arg1.getEndOffset());
+		//System.out.println("de: arg2: " + arg2.getArgName() + arg2.getStartOffset() + " " + arg2.getEndOffset());
 		
         //System.out.println("Sentence Text: " + senText);
 		
@@ -303,7 +303,6 @@ public class DocumentExtractor {
 		doc.setCapacity(1);
 		SparseBinaryVector sv = doc.features[0] = new SparseBinaryVector();
 		
-		
 		SortedSet<Integer> ftrset = new TreeSet<Integer>();
 		int totalfeatures = 0;
 		int featuresInMap = 0;
@@ -328,8 +327,8 @@ public class DocumentExtractor {
 		sv.num = ftrset.size();
 		sv.ids = new int[sv.num];
 
-		System.out.println("gp: sv.num " + sv.num);
-		System.out.println("gp: model num rel: " + model.numRelations + " " + model.numFeatures(0) + " " + model.numFeatures(1));
+		//System.out.println("gp: sv.num " + sv.num);
+		//System.out.println("gp: model num rel: " + model.numRelations + " " + model.numFeatures(0) + " " + model.numFeatures(1));
 	
 		
 		//System.out.println("Features...");
@@ -343,14 +342,44 @@ public class DocumentExtractor {
 		String relation = "";
 		Double conf = 0.0;
 		Map<Integer,Map<Integer,Double>> mentionFeatureScoreMap = new HashMap<>();
+		
+		//System.out.println("doc: features size: " + doc.features.length);
+		//System.out.println("doc: numMentions: " + doc.numMentions);
+		//System.out.println("params: relParams size: " + params.relParameters.length);
+		//System.out.println("params: dense vector length: " + params.relParameters[0].vals.length);
+		//System.out.println("params: dense vector NA: ");		
+		//for(int i =0; i < params.relParameters[0].vals.length-1; i++){
+		//  System.out.print(params.relParameters[0].vals[i] + " ");
+		//}
+		//System.out.println();
+		//System.out.println("params: dense vector deathplace: ");		
+		//for(int i =0; i < params.relParameters[16].vals.length-1; i++){
+		//  System.out.print(params.relParameters[16].vals[i] + " ");
+		//}
+        //System.out.println();
+		
 		Parse parse = FullInference.infer(doc, scorer, params, mentionFeatureScoreMap);
-			
+		
+		//System.out.println("parse: state length: " + parse.Z.length);
+        //System.out.println("parse: state: " + parse.Z[0]);
+        //System.out.println("parse: score " + parse.score);
+        //System.out.println("parse: allscores length: " + parse.allScores[0].length);
+        //for(int i =0; i < parse.allScores[0].length-1; i++){
+        //   System.out.print(parse.allScores[0][i] + " ");
+        // }
+        //System.out.println();
+        //System.out.println("parse: Y length: " + parse.Y.length);		
+        
 
+		//System.out.println("mention Feature Score Map size: " + mentionFeatureScoreMap.size());
+        //System.out.println("mfsm 0: " + mentionFeatureScoreMap.get(0));
+ 		
 		//System.out.println(senText);
 		//System.out.println(arg1.getArgName() + "\t" + arg2.getArgName());
 		//System.out.println("Score = " +parse.score);
 		//System.out.println("parse.Y: " + parse.Y[0]);
 		
+        //System.out.println("parse.Z[0]" + parse.Z[0]);
 		
 		int[] Yp = parse.Y;
 		if (parse.Z[0] > 0) {
@@ -372,6 +401,7 @@ public class DocumentExtractor {
 			}
 			conf = confidence;
 		} else {
+			//System.out.println("getPrediction: setting relation to NA");
 			Map<Integer,Map<Integer,Double>> negMentionFeatureScoreMap = new HashMap<>();
 			Parse negParse = FullInference.infer(doc, scorer, params,negMentionFeatureScoreMap,0);
 			Triple<String,Double,Double> t = new Triple<>("NA",conf,parse.score);
