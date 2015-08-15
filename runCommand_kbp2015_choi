@@ -1,0 +1,10 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBP2015MultirExtractor 
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/choi.xml 0 old
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/relDocs_kbp2015_choi runOutput_choi round1"
+
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBP2015MultirExtractor 
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/choiSingle.xml 0 old
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/relDocs_kbp2015_choi runOutput_choi round1 0 0"
+

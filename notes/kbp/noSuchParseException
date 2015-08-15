@@ -1,0 +1,25 @@
+Processing Doc # :83 AFP_ENG_20100816.0156
+edu.stanford.nlp.parser.lexparser.NoSuchParseException
+
+Processing Doc # :43 AFP_ENG_20090816.0009
+edu.stanford.nlp.parser.lexparser.NoSuchParseException
+
+How long is this one? 5763
+Processing Doc # :234 AFP_ENG_20100816.0156
+edu.stanford.nlp.parser.lexparser.NoSuchParseException
+
+How long is this one? 1894
+XIN_ENG_20101030.0187
+Thread: Document took 51127 milliseconds
+
+springfield.xml
+114 docs, 901s
+
+How long is this one? 4267
+Processing Doc # :154 XIN_ENG_20101231.0041
+[error] (Thread-4086) java.lang.OutOfMemoryError: GC overhead limit exceeded
+
+How long is this one? 4983
+Processing Doc # :21 XIN_ENG_20100628.0019
+[error] (Thread-838) java.lang.ThreadDeath
+
