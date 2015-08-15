@@ -1,0 +1,817 @@
+CS14_ENG_001	per:holds_shares_in	UWashington4	NIL
+CS14_ENG_002	gpe:births_in_city	UWashington4	LTW_ENG_20090817.0007:4141-4187	Carleen Maley Hutchins	LTW_ENG_20090817.0007:4141-4163	2915676.0	PER	Carleen Maley Hutchins was born in Springfield, Mass., on May 24, 1911.
+CS14_ENG_002	gpe:births_in_city	UWashington4	NYT_ENG_20100918.0020:3009-3070	Donald Walter Davis	NYT_ENG_20100918.0020:3009-3028	1968785.0	PER	Donald Walter Davis was born on June 10, 1921, in Springfield,
+Mass., and earned a degree in journalism from Penn State University
+before joining the Navy during World War II.
+CS14_ENG_002	gpe:births_in_city	UWashington4	NYT_ENG_20100730.0177:1308-1370	John David Alexander	NYT_ENG_20100730.0177:1308-1328	1968785.0	PER	John David Alexander was born on Oct. 18, 1932, in Springfield,
+Tenn., and grew up in Princeton, Ky.
+CS14_ENG_003	per:other_family	UWashington4	NIL
+CS14_ENG_004	org:subsidiaries	UWashington4	NIL
+CS14_ENG_005	org:employees_or_members	UWashington4	NIL
+CS14_ENG_006	org:top_members_employees	UWashington4	NIL
+CS14_ENG_007	per:top_member_employee_of	UWashington4	NIL
+CS14_ENG_008	org:employees_or_members	UWashington4	NIL
+CS14_ENG_009	org:students	UWashington4	NIL
+CS14_ENG_010	per:top_member_employee_of	UWashington4	NIL
+CS14_ENG_011	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_012	org:founded_by	UWashington4	NIL
+CS14_ENG_013	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_014	org:country_of_headquarters	UWashington4	NIL
+CS14_ENG_015	gpe:births_in_stateorprovince	UWashington4	APW_ENG_20100826.0128:3258-3300	Mary Fallin	APW_ENG_20100826.0128:3289-3300	2282376.0	PER	In Oklahoma, Republican U.S. Rep. Mary Fallin, who's been endorsed by Palin, is favored in the governor's race over Democratic Lt. Gov. Jari Askins.
+CS14_ENG_016	per:stateorprovince_of_death	UWashington4	NIL
+CS14_ENG_017	gpe:deaths_in_city	UWashington4	NIL
+CS14_ENG_018	org:employees_or_members	UWashington4	NIL
+CS14_ENG_019	gpe:births_in_stateorprovince	UWashington4	NIL
+CS14_ENG_020	org:members	UWashington4	NIL
+CS14_ENG_021	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_022	per:parents	UWashington4	NIL
+CS14_ENG_023	per:spouse	UWashington4	NIL
+CS14_ENG_024	org:employees_or_members	UWashington4	NIL
+CS14_ENG_025	per:organizations_founded	UWashington4	NIL
+CS14_ENG_026	org:country_of_headquarters	UWashington4	NIL
+CS14_ENG_027	per:parents	UWashington4	NIL
+CS14_ENG_028	org:employees_or_members	UWashington4	NIL
+CS14_ENG_029	per:top_member_employee_of	UWashington4	NIL
+CS14_ENG_030	per:spouse	UWashington4	NIL
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20100523.0667:3032-3054	Dan Inouye	APW_ENG_20100523.0667:3044-3054	9383161.0	PER	The White House, Senate Majority Leader Harry Reid and other Democrats all appealed to Hawaii Sen. Dan Inouye to ease Hanabusa from the race when polls showed her in third place, but he refused, according to several officials.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20090715.1423:516-540	Linda Lingle	APW_ENG_20090715.1423:528-540	8484984.0	PER	Hawaii Gov. Linda Lingle is due to welcome the couple to her official residence, Washington Place, for a luncheon with other dignitaries.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	CNA_ENG_20101013.0008:2359-2385	Hiram Leong Fong	CNA_ENG_20101013.0008:2359-2375	7612444.0	PER	1974: U.S. Senator Hiram Leong Fong of Hawaii arrives in Taipei for a five-day
+visit.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	WPB_ENG_20100622.0103:2195-2215	Duke Aiona	WPB_ENG_20100622.0103:2195-2205	7153138.0	PER	Three other minority Republican candidates are seeking governorships this year:
+Susana Martinez of New Mexico and Brian Sandoval of Nevada, who are Hispanic;
+and Duke Aiona of Hawaii, who is of native Hawaiian descent.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20091011.0538:2282-2315	Daniel Kahikina Akaka	APW_ENG_20091011.0538:2294-2315	6902251.0	PER	Official delegations included King Albert II and Queen Paolo of Belgium; U.S. President Barack Obama's new envoy to the Vatican, Miguel H. Diaz; and Hawaii Sen. Daniel Kahikina Akaka.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20091011.0538:516-546	Audrey Toguchi	APW_ENG_20091011.0538:532-546	5801741.0	PER	Among the 10,000 pilgrims packing St. Peter's Basilica was Hawaii resident Audrey Toguchi, an 80-year-old retired school teacher whose recovery from lung cancer a decade ago stunned her doctor and was ruled a miracle by the Vatican.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	NYT_ENG_20100328.0108:1765-1848	Paige	NYT_ENG_20100328.0108:1765-1770	5500447.0	PER	In addition to his wife Linda, Livingston is survived by his
+daughter Paige, of Las Vegas, and brothers Larry, of El Dorado,
+Calif., and Terry, of Hawaii.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20100903.0119:1709-1749	Shane Germann	APW_ENG_20100903.0119:1736-1749	5010377.0	PER	The six defendants include Global Horizons President and CEO Mordechai Orian, 45; Director of International Relations Pranee Tubchumpol, 44; Hawaii regional supervisor Shane Germann, 41; and onsite field supervisor Sam Wongsesanit, 39.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	WPB_ENG_20100123.0011:4390-4459	Robert L. Howard Jr.	WPB_ENG_20100123.0011:4390-4410	4667024.0	PER	Survivors include two daughters from his first marriage, Melissa Gentsch of Waco
+and Denicia Howard of Fort Lauderdale, Fla.; two children from his second
+marriage, Army Sgt. Robert L. Howard Jr. of Fort Bragg, N.C., and Roslyn Howard
+of Hawaii; and four grandchildren.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	WPB_ENG_20100123.0011:4436-4459	Roslyn Howard	WPB_ENG_20100123.0011:4436-4449	4113128.0	PER	Survivors include two daughters from his first marriage, Melissa Gentsch of Waco
+and Denicia Howard of Fort Lauderdale, Fla.; two children from his second
+marriage, Army Sgt. Robert L. Howard Jr. of Fort Bragg, N.C., and Roslyn Howard
+of Hawaii; and four grandchildren.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20091227.0046:3650-3685	Barack Obama	APW_ENG_20091227.0046:3650-3662	3784937.0	PER	President Barack Obama, on vacation in Hawaii, was briefed about developments in the attack.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	AFP_ENG_20100511.0638:2385-2603	Marcos	AFP_ENG_20100511.0638:2385-2391	3727164.0	PER	But Marcos's widow Imelda, the 80-year-old known for her fetish for fancy shoes,
+was set for a dramatic return to the public eye more than two decades after the
+popular revolt forced the family to flee into exile in Hawaii.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20101031.0491:5768-5792	Charles Djou	APW_ENG_20101031.0491:5780-5792	3319035.0	PER	Democrats also were mounting a solid bid to unseat Hawaii Rep. Charles Djou, and pressing to pick up seats left open by Republican retirements in Miami and the Chicago suburbs.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20091204.0208:89-133	HONOLULU	APW_ENG_20091204.0208:125-133	3084288.0	PER	Crew plans to cut rope to free Hawaii whale
+</HEADLINE>
+<DATELINE>
+HONOLULU 2009-12-04 06:00:03 UTC
+</DATELINE>
+<TEXT>
+<P>
+Marine sanctuary officials planned to return to Hawaii waters with modified equipment Friday to try to cut loose a young humpback whale entangled in several hundred meters (yards) of heavy plastic rope.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20100903.0119:951-1035	New York	APW_ENG_20100903.0119:1027-1035	2316686.0	PER	Once the Thai laborers arrived in the United States starting in May 2004, they were put to work and have since been sent to sites in states including Hawaii, Washington, California, Colorado, Florida, Kentucky, Massachusetts, New York, Ohio, South Carolina, Tennessee, Texas and Utah, according to attorneys and advocates.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20101215.0737:997-1027	Mexico	APW_ENG_20101215.0737:1021-1027	2315088.0	PER	But he said it could also be used to fly to Hawaii, Alaska, Canada, Mexico and the Caribbean -- destinations that Southwest doesn't serve now.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	NYT_ENG_20101028.0198:3292-3331	Leonard Freeman	NYT_ENG_20101028.0198:3292-3307	2274749.0	PER	But it was his appearance in the 1968 movie "Hang
+'Em High," a low-budget spaghetti western starring Clint Eastwood,
+that prompted Leonard Freeman, the creator of "Hawaii Five-O," to
+cast him.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	AFP_ENG_20091026.0021:600-631	Geimer	AFP_ENG_20091026.0021:600-606	2242326.0	PER	The motion said Geimer, who now lives in Hawaii with her husband and children,
+has suffered health problems and job worries after a media "frenzy" following
+Polanski's arrest in Switzerland last month.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	APW_ENG_20091204.0111:1460-1484	James MacArthur	APW_ENG_20091204.0111:1460-1475	1997366.0	PER	Actor James MacArthur ("Hawaii Five-O") is 72.
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	NYT_ENG_20100324.0052:2080-2141	Virgin Islands	NYT_ENG_20100324.0052:2127-2141	1905417.0	PER	Daylight Saving Time is not observed in Hawaii, American Samoa,
+Guam, Puerto Rico, the Virgin Islands and the state of Arizona
+(with the exception of the Navajo Indian Reservation, which
+observes daylight saving time).
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	NYT_ENG_20100324.0052:2080-2121	Puerto Rico	NYT_ENG_20100324.0052:2110-2121	1905417.0	PER	Daylight Saving Time is not observed in Hawaii, American Samoa,
+Guam, Puerto Rico, the Virgin Islands and the state of Arizona
+(with the exception of the Navajo Indian Reservation, which
+observes daylight saving time).
+CS14_ENG_031	gpe:residents_of_stateorprovince	UWashington4	NYT_ENG_20100227.0111:2417-2442	West Coast	NYT_ENG_20100227.0111:2432-2442	1905417.0	PER	In a statement, President Barack Obama
+said he had met with his national security team, which was taking
+steps to ensure that Hawaii and the West Coast were on alert.
+CS14_ENG_032	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_033	per:parents	UWashington4	NIL
+CS14_ENG_034	gpe:deaths_in_stateorprovince	UWashington4	NIL
+CS14_ENG_035	per:city_of_death	UWashington4	NIL
+CS14_ENG_036	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20100805.0157:180-221	Godfrey Binaisa	XIN_ENG_20100805.0157:206-221	1.0264139E7	PER	3rd LD: Ugandan former President dies at age of 90
+</HEADLINE>
+<DATELINE>
+KAMPALA, Aug. 5 (Xinhua)
+</DATELINE>
+<TEXT>
+<P>
+Uganda's former President Godfrey Binaisa, whose presidency only lasted for
+nearly one year in late 1970s, died here on Thursday at the age of 90, Ugandan
+government said here.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	APW_ENG_20100630.0039:3111-3153	Judith Nabakooba	APW_ENG_20100630.0039:3137-3153	7591102.0	PER	Uganda police spokeswoman Judith Nabakooba said police officers rescued Jean-Bosco Gasasira, who is now reportedly in hiding.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20100628.0176:1725-1762	Syda Bbumba	XIN_ENG_20100628.0176:1751-1762	7341961.0	PER	Martin is in Uganda for a three-day visit during which he is expected to launch
+a five year Irish Aid Country Strategic Plan and sign a memorandum of
+understanding with Uganda's finance minister Syda Bbumba.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20100303.0156:158-333	Ronald Ssekandi	XIN_ENG_20100303.0156:158-173	5223324.0	PER	Feature: Buried alive as heavy rains in eastern Uganda trigger
+landslides
+</HEADLINE>
+<TEXT>
+<P>
+By Ronald Ssekandi
+</P>
+<P>
+BUDUDA, Uganda, March 3 (Xinhua) -- Michael Wabomba will never forget March 1,
+the day he witnessed his whole home town in the hills of eastern Uganda's Bududa
+district buried by a mudslide triggered by heavy rains that fell for days.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	APW_ENG_20090706.1338:446-485	Ruhakana Rugunda	APW_ENG_20090706.1338:469-485	5017567.0	PER	Uganda U.N. Ambassador Ruhakana Rugunda, who holds the 15-member council's rotating presidency, said the council members "condemned and expressed grave concern" at the missile launches, which violated U.N. resolutions and "pose a threat to regional and international security."
+CS14_ENG_037	gpe:residents_of_country	UWashington4	AFP_ENG_20100419.0309:1576-1609	Kizza Besigye	AFP_ENG_20100419.0309:1576-1589	4913555.0	PER	Kizza Besigye, the head of Uganda’s largest opposition party, is also being
+investigated for claiming the government secretely leased Lake Kyoga in central
+Uganda to a South African company.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20100727.0344:2180-2213	Kusuro	XIN_ENG_20100727.0344:2207-2213	4712328.0	PER	With his eyes set on making Uganda's team to the Commonwealth Games, Kipsiro is
+lustful to reclaim his title, but Uganda's national champion Kusuro will be
+playing out the pace setter' s role.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	NYT_ENG_20100617.0101:144-188	Peter Erlinder	NYT_ENG_20100617.0101:174-188	4678222.0	PER	COURT GRANTS BAIL AND FREES AMERICAN LAWYER IN RWANDA
+</HEADLINE>
+<DATELINE>
+KAMPALA, Uganda
+</DATELINE>
+<TEXT>
+<P>
+Peter Erlinder, the American lawyer jailed in
+Rwanda after being accused of denying the country's genocide, was
+released Thursday on bail amid growing international pressure,
+allowing him to leave Rwanda freely, possibly for good.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	APW_ENG_20100323.0627:357-412	Canon Gideon Byamugisha	APW_ENG_20100323.0627:357-380	4510693.0	PER	Canon Gideon Byamugisha, an Anglican priest from Uganda, said the way his church treated him after he discovered he had HIV should set an example for the rest of the world.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	AFP_ENG_20100210.0195:3250-3295	Frederick Balagadde	AFP_ENG_20100210.0195:3250-3269	4510693.0	PER	Frederick Balagadde, a TED Fellow from Uganda who works at Lawrence Livermore
+National Laboratory in California, described his mission to build "microfluid"
+technology into an inexpensive iPhone-sized device for diagnosing HIV/AIDS.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20101124.0168:405-446	Marc Gedopt	XIN_ENG_20101124.0168:405-416	4510693.0	PER	Marc Gedopt, Belgium ambassador to Uganda, told reporters here that officials
+from several government departments and parastatals will also be trained on how
+the country can profiteer from carbon trade.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	CNA_ENG_20100727.0002:1581-1598	Idi Amin	CNA_ENG_20100727.0002:1581-1589	3668797.0	PER	1976: Britain breaks off diplomatic ties with Idi Amin's Uganda.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	APW_ENG_20100713.0032:615-633	Henn	APW_ENG_20100713.0032:629-633	3602488.0	PER	A Uganda native Henn mentored had traveled back to the country with him and was standing next to him, but 20-year-old Innocent Opwonya wasn't harmed.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	AFP_ENG_20100715.0304:191-273	Al Qaeda-inspired Shebab	AFP_ENG_20100715.0304:191-215	2986655.0	PER	Ethiopia calls for 'annihilation' of Shebab
+</HEADLINE>
+<DATELINE>
+ADDIS ABABA, July 15, 2010 (AFP)
+</DATELINE>
+<TEXT>
+<P>
+Somalia's Al Qaeda-inspired Shebab, who claimed responsibility for deadly
+bombings in Uganda, should be "annihilated", Ethiopian Prime Minister Meles
+Zenawi said Thursday.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20100219.0089:2556-2676	Juvenal Niyonguruza	XIN_ENG_20100219.0089:2556-2575	2756660.0	PER	AMISOM deputy commander Maj. Gen. Juvenal Niyonguruza, from
+Burundi, was among those killed while former AMISOM commander Gen. Nathan
+Mugisha, from Uganda, was wounded in the blast.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	APW_ENG_20100531.0568:244-276	Yoweri Museveni	APW_ENG_20100531.0568:261-276	2737985.0	PER	UN ' s Ban Ki-moon plays in African football match
+</HEADLINE>
+<DATELINE>
+KAMPALA, Uganda 2010-05-31 14:38:48 UTC
+</DATELINE>
+<TEXT>
+<P>
+United Nations secretary general Ban Ki-moon and Uganda president Yoweri Museveni were second-half substitutes in a football game over the weekend as World Cup fever sweeps across Africa.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	AFP_ENG_20100317.0249:3502-3552	Kale Kayihura	AFP_ENG_20100317.0249:3539-3552	2392552.0	PER	Uganda's police chief, Major General Kale Kayihura, described as "absolute
+falsehood" reports that the government was behind the arson.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20091003.0164:3437-3453	Tanzania	XIN_ENG_20091003.0164:3437-3445	2219882.0	PER	The latter two nations will be in Birmingham with strong line-ups as usual and
+there will also be strong teams from Eritrea and Qatar, while Japan, Spain,
+Tanzania, Uganda, and hosts England are just some of the other teams who will
+hope to be in the mix.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20091003.0164:3430-3453	Spain	XIN_ENG_20091003.0164:3430-3435	2219882.0	PER	The latter two nations will be in Birmingham with strong line-ups as usual and
+there will also be strong teams from Eritrea and Qatar, while Japan, Spain,
+Tanzania, Uganda, and hosts England are just some of the other teams who will
+hope to be in the mix.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20090915.0172:2690-2726	Milton Obote	XIN_ENG_20090915.0172:2714-2726	2190764.0	PER	The traditional kingdoms were banned in 1966 in Uganda by former leader Milton
+Obote.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20101103.0317:808-968	Al Shabab	XIN_ENG_20101103.0317:808-817	2074318.0	PER	Al Shabab, listed by the State Department as a terror group, has claimed
+responsibility for a bombing that killed an American aid worker and 75 others in
+Uganda who were watching a telecast of a World Cup soccer match.
+CS14_ENG_037	gpe:residents_of_country	UWashington4	AFP_ENG_20100805.0485:377-481	Timothy Kalegyira	AFP_ENG_20100805.0485:377-394	2032126.0	PER	Timothy Kalegyira, the managing editor of an on-line publication and a former
+columnist of one of Uganda's leading dailies, suggested the July 11 bombings
+could have been "state orchestrated".
+CS14_ENG_037	gpe:residents_of_country	UWashington4	XIN_ENG_20100115.0122:1192-1219	Ethiopia	XIN_ENG_20100115.0122:1211-1219	1905417.0	PER	"The problem is an international one, not a problem affecting Uganda or Kenya or
+Ethiopia or Somalia only," he said, noting that the international community can
+not talk about the origin of terrorist groups without addressing destination
+countries like Somalia.
+CS14_ENG_038	org:employees_or_members	UWashington4	NIL
+CS14_ENG_039	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_040	org:subsidiaries	UWashington4	NIL
+CS14_ENG_041	per:organizations_founded	UWashington4	NIL
+CS14_ENG_042	org:top_members_employees	UWashington4	NIL
+CS14_ENG_043	gpe:residents_of_city	UWashington4	NIL
+CS14_ENG_044	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_045	org:employees_or_members	UWashington4	NIL
+CS14_ENG_046	org:students	UWashington4	NIL
+CS14_ENG_047	org:top_members_employees	UWashington4	NIL
+CS14_ENG_048	gpe:residents_of_city	UWashington4	NYT_ENG_20100318.0014:1138-1210	Robert Clark	NYT_ENG_20100318.0014:1138-1150	4510693.0	PER	Robert Clark, a 58-year-old Christian Science practitioner from
+Belleair: Clark, who believes in healing through prayer, is among
+millions of Americans who are voluntarily uninsured.
+CS14_ENG_048	gpe:residents_of_city	UWashington4	NYT_ENG_20090620.0028:5736-5758	Bill McGill	NYT_ENG_20090620.0028:5736-5747	3050420.0	PER	Malowany was the agent for the $10 million sale of MarineMax
+owner Bill McGill's Belleair home last year.
+CS14_ENG_049	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_050	gpe:residents_of_city	UWashington4	APW_ENG_20100529.0633:5284-5312	Robert Bentley	APW_ENG_20100529.0633:5284-5298	6817449.0	PER	Behind them in fundraising are Alabama Chief Justice Roy Moore -- a religious conservative known for his unsuccessful fight to display a Ten Commandments monument in a state judicial building -- and state Rep. Robert Bentley of Tuscaloosa.
+CS14_ENG_051	org:founded_by	UWashington4	NIL
+CS14_ENG_052	org:parents	UWashington4	NIL
+CS14_ENG_053	per:cities_of_residence	UWashington4	NIL
+CS14_ENG_054	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_055	per:spouse	UWashington4	NIL
+CS14_ENG_056	org:founded_by	UWashington4	NIL
+CS14_ENG_057	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_058	per:organizations_founded	UWashington4	NIL
+CS14_ENG_059	org:employees_or_members	UWashington4	NIL
+CS14_ENG_061	org:top_members_employees	UWashington4	NIL
+CS14_ENG_062	gpe:births_in_country	UWashington4	XIN_ENG_20091101.0153:456-491	Keflezighi	XIN_ENG_20091101.0153:456-466	5600777.0	PER	Keflezighi, who was born in Eritrea and obtained U.S.
+citizenship in 1998, pointed to the "USA" on his singlet crossing the finish
+line.
+CS14_ENG_063	org:stateorprovince_of_headquarters	UWashington4	NIL
+CS14_ENG_064	org:parents	UWashington4	NIL
+CS14_ENG_065	org:city_of_headquarters	UWashington4	NIL
+CS14_ENG_066	per:parents	UWashington4	NIL
+CS14_ENG_067	gpe:deaths_in_city	UWashington4	NIL
+CS14_ENG_068	per:statesorprovinces_of_residence	UWashington4	NIL
+CS14_ENG_069	org:students	UWashington4	NIL
+CS14_ENG_070	org:subsidiaries	UWashington4	NIL
+CS14_ENG_071	gpe:births_in_city	UWashington4	NYT_ENG_20100318.0053:2380-2439	Miguel Delibes Setien	NYT_ENG_20100318.0053:2380-2401	2956935.0	PER	Miguel Delibes Setien was born Oct. 17, 1920, in Valladolid.
+CS14_ENG_072	per:parents	UWashington4	NIL
+CS14_ENG_073	org:employees_or_members	UWashington4	NIL
+CS14_ENG_074	org:founded_by	UWashington4	NIL
+CS14_ENG_075	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_076	gpe:residents_of_city	UWashington4	AFP_ENG_20090910.0610:3418-3446	Aillagon	AFP_ENG_20090910.0610:3438-3446	4990918.0	PER	Versailles director Aillagon said one aim of staging such shows is to promote
+living French artists.
+CS14_ENG_076	gpe:residents_of_city	UWashington4	AFP_ENG_20091018.0422:1150-1199	Jean-Jacques Aillagon	AFP_ENG_20091018.0422:1150-1171	4510693.0	PER	"Politically, Louis XIV belongs to a system that is outdated," said Jean-Jacques
+Aillagon, the director of Versailles who came up with the idea of presenting a
+"cultural portrait" of the king in 2007.
+CS14_ENG_076	gpe:residents_of_city	UWashington4	AFP_ENG_20091018.0422:444-481	Louis XIV	AFP_ENG_20091018.0422:444-453	3827584.0	PER	The first large-scale exhibition devoted to Louis XIV at the palace of
+Versailles opens Tuesday, exploring the paintings, sculptures, furniture and
+jewellery that helped France's most famous king shape his all-powerful image.
+CS14_ENG_076	gpe:residents_of_city	UWashington4	AFP_ENG_20090709.0473:92-150	Versailles	AFP_ENG_20090709.0473:140-150	3084288.0	PER	'Adopt-a-bench' scheme to pay for Versailles palace upkeep
+</HEADLINE>
+<DATELINE>
+Versailles, France, July 9, 2009 (AFP)
+</DATELINE>
+<TEXT>
+<P>
+History fans and arts patrons are to get the chance to adopt a stone or marble
+bench in the majestic grounds of the Chateau de Versailles, to help pay for
+their upkeep.
+CS14_ENG_076	gpe:residents_of_city	UWashington4	AFP_ENG_20091127.0229:1294-1316	Louvre	AFP_ENG_20091127.0229:1310-1316	2237271.0	PER	"All the major establishments are concerned -- Versailles, the Louvre, the
+national library, the Pantheon, Notre Dame, the ramparts of Carcassonne, Mont
+Saint Michel," he said, adding that the Eiffel Tower would not be affected.
+CS14_ENG_077	gpe:residents_of_city	UWashington4	NIL
+CS14_ENG_078	per:statesorprovinces_of_residence	UWashington4	NIL
+CS14_ENG_079	org:employees_or_members	UWashington4	NIL
+CS14_ENG_080	org:founded_by	UWashington4	NIL
+CS14_ENG_081	per:spouse	UWashington4	NIL
+CS14_ENG_082	gpe:residents_of_city	UWashington4	APW_ENG_20091220.0086:4037-4070	Brandon Jennings	APW_ENG_20091220.0086:4054-4070	9656924.0	PER	Evans scored a game-high 24 points to top Milwaukee rookie Brandon Jennings, who had 15 points, nine assists and six rebounds.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	NYT_ENG_20100422.0117:1105-1137	Rembert G. Weakland	NYT_ENG_20100422.0117:1105-1124	8050067.0	PER	The Vatican had previously said that the first notice it had
+about Murphy was when Cardinal Joseph Ratzinger -- now Pope Benedict
+XVI -- received a letter about the case in 1996 from Archbishop
+Rembert G. Weakland of Milwaukee.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	APW_ENG_20100502.0334:3275-3307	Becca Saunders	APW_ENG_20100502.0334:3275-3289	7182030.0	PER	Katy Neubauer, 46, and Becca Saunders, 39, of Milwaukee, were shopping for souvenirs two blocks south of the SUV when they saw panicked crowds.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	NYT_ENG_20091219.0030:1437-1519	Otto Naumann	NYT_ENG_20091219.0030:1437-1449	5862046.0	PER	Otto Naumann, a Manhattan dealer, and Alfred Bader, an art
+investor from Milwaukee, were prepared to buy it together and were
+willing to go as high as $40.3 million.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	AFP_ENG_20100326.0373:2993-3021	Lawrence Murphy	AFP_ENG_20100326.0373:2993-3008	5080431.0	PER	Reverend Lawrence Murphy of Milwaukee, Wisconsin, was accused of abusing up to
+200 deaf children.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	APW_ENG_20100423.0239:2104-2141	Rembert Weakland	APW_ENG_20100423.0239:2125-2141	4837627.0	PER	Before the disclosure of the 1995 letter to Sodano, it was believed the Vatican first learned of allegations against Murphy in a July 1996 letter from Milwaukee Archbishop Rembert Weakland.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	APW_ENG_20100502.0334:3252-3307	Katy Neubauer	APW_ENG_20100502.0334:3252-3265	3891766.0	PER	Katy Neubauer, 46, and Becca Saunders, 39, of Milwaukee, were shopping for souvenirs two blocks south of the SUV when they saw panicked crowds.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	NYT_ENG_20101019.0151:597-689	Howard Cunningham	NYT_ENG_20101019.0151:597-614	3790551.0	PER	Bosley is probably best known for his decade, beginning in 1974,
+as Howard Cunningham, the gruff but reliably kind father of teenage
+children in 1950s Milwaukee in the nostalgic situation comedy
+"Happy Days."
+CS14_ENG_082	gpe:residents_of_city	UWashington4	APW_ENG_20100212.0617:5391-5561	Darlene Superville	APW_ENG_20100212.0617:5543-5561	3078534.0	PER	------
+</P>
+<P>
+AP Medical Writer Marilynn Marchione reported from Milwaukee; AP video journalist Ted Shaffrey in Chappaqua; Beth Fouhy, Marcus Franklin and Cristian Salazar in New York, and Julie Pace, Matthew Lee and Darlene Superville in Washington also contributed to this report.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	APW_ENG_20100212.0617:5391-5538	Matthew Lee	APW_ENG_20100212.0617:5527-5538	3078534.0	PER	------
+</P>
+<P>
+AP Medical Writer Marilynn Marchione reported from Milwaukee; AP video journalist Ted Shaffrey in Chappaqua; Beth Fouhy, Marcus Franklin and Cristian Salazar in New York, and Julie Pace, Matthew Lee and Darlene Superville in Washington also contributed to this report.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	APW_ENG_20100212.0617:5391-5459	Beth Fouhy	APW_ENG_20100212.0617:5449-5459	2926518.0	PER	------
+</P>
+<P>
+AP Medical Writer Marilynn Marchione reported from Milwaukee; AP video journalist Ted Shaffrey in Chappaqua; Beth Fouhy, Marcus Franklin and Cristian Salazar in New York, and Julie Pace, Matthew Lee and Darlene Superville in Washington also contributed to this report.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	APW_ENG_20100921.0117:2737-2774	Scott Rolen	APW_ENG_20100921.0117:2763-2774	2926518.0	PER	Reds 5, Brewers 2
+</P>
+<P>
+At Milwaukee, Joey Votto and Scott Rolen homered on back-to-back pitches in the eighth inning to break open a tied game and lead the Cincinnati Reds to victory.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	APW_ENG_20100921.0117:2737-2758	Joey Votto	APW_ENG_20100921.0117:2748-2758	2769055.0	PER	Reds 5, Brewers 2
+</P>
+<P>
+At Milwaukee, Joey Votto and Scott Rolen homered on back-to-back pitches in the eighth inning to break open a tied game and lead the Cincinnati Reds to victory.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	APW_ENG_20090826.0197:5362-5398	Laynce Nix	APW_ENG_20090826.0197:5388-5398	2636654.0	PER	Reds 8, Brewers 6, 13 innings
+</P>
+<P>
+At Milwaukee, Joey Votto and Laynce Nix hit solo home runs in the top of the 13th inning as Cincinnati blew a five-run lead to Milwaukee in the ninth inning.
+CS14_ENG_082	gpe:residents_of_city	UWashington4	NYT_ENG_20100111.0085:4528-4553	Kansas City	NYT_ENG_20100111.0085:4542-4553	1932360.0	PER	"It's good," he said, adding that he sometimes
+buys the frozen cookie dough that Midwest sells at some
+supermarkets in Milwaukee and Kansas City, the airline's hubs.
+CS14_ENG_083	per:spouse	UWashington4	NIL
+CS14_ENG_084	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_085	org:subsidiaries	UWashington4	NIL
+CS14_ENG_086	gpe:births_in_city	UWashington4	NIL
+CS14_ENG_087	per:countries_of_residence	UWashington4	NIL
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20100715.0186:5274-5302	Keith Fitzgerald	NYT_ENG_20100715.0186:5274-5290	1.0295504E7	PER	The House version of the drilling ban appeared Thursday,
+sponsored by Democratic Reps. Rick Kriseman of St. Petersburg and
+Keith Fitzgerald of Sarasota.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20090914.0201:784-815	Richard Unger	NYT_ENG_20090914.0201:802-815	9783737.0	PER	Sarasota resident Richard Unger said Monday that the dinner
+though not unethical or illegal  was grounds for a disqualification
+from hearing the rate case, which FPL began nearly four months
+before she broke bread with Cutler.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20100406.0007:3608-3635	Sammy Riccobono	NYT_ENG_20100406.0007:3608-3623	6970467.0	PER	Seven-year-old Sammy Riccobono of Sarasota, in a well-worn Rays
+jersey, walked through the Tropicana Field atrium with his mother,
+Jill.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20091227.0055:520-541	Art Nadel	NYT_ENG_20091227.0055:520-529	6057217.0	PER	Consider Bernie Madoff's epic, multibillion-dollar Ponzi scheme,
+which technically exploded in December of 2008, though the ripple
+effect for his victims and those of fellow scam artist Art Nadel of
+Sarasota continued throughout this year.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	APW_ENG_20091204.0039:4261-4287	Lamar Brantley	APW_ENG_20091204.0039:4261-4275	4568706.0	PER	No," said Lamar Brantley of Sarasota, Florida.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	WPB_ENG_20100526.0047:4955-5017	David Kotok	WPB_ENG_20100526.0047:4955-4966	4510693.0	PER	Diversification is essential in this volatile market, said David Kotok, chairman
+and chief investment officer of Sarasota, Fla.-based Cumberland Advisors Inc.,
+which manages about $1.4 billion.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20100511.0008:3678-3730	Eniel Polynice	NYT_ENG_20100511.0008:3678-3692	4510693.0	PER	Meanwhile, Eniel
+Polynice, a 6-foot-5 combo guard from Sarasota who started 64 games
+in three seasons at Mississippi, is considering transferring to
+USF.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20101211.0024:1047-1135	Mike Haridopolos	NYT_ENG_20101211.0024:1119-1135	4090451.0	PER	Possible
+candidates include U.S. Reps. Connie Mack of Fort Myers and Vern
+Buchanan of Sarasota, interim U.S. Sen. George LeMieux and Florida
+Senate President Mike Haridopolos.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20101211.0024:1047-1089	George LeMieux	NYT_ENG_20101211.0024:1075-1089	4090451.0	PER	Possible
+candidates include U.S. Reps. Connie Mack of Fort Myers and Vern
+Buchanan of Sarasota, interim U.S. Sen. George LeMieux and Florida
+Senate President Mike Haridopolos.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20100506.0239:2479-2599	Dan Gelber	NYT_ENG_20100506.0239:2479-2489	3628889.0	PER	Standing before pristine beaches in Miami Beach and St. Petersburg,
+Sen. Dan Gelber, a candidate for attorney general, and Reps. Rick
+Kriseman of St. Petersburg and Keith Fitzgerald of Sarasota said a
+constitutional amendment is needed to protect Florida from future
+Legislatures.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20100610.0181:1542-1613	Gary Kompothecras	NYT_ENG_20100610.0181:1542-1559	3088013.0	PER	The man behind the 1-800 number is Gary Kompothecras, a
+50-year-old millionaire chiropractor from Sarasota who has donated
+tens of thousands of dollars to statewide Republican campaigns and
+at least $1 million to Charlie Crist.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20100323.0010:3108-3127	Dennis	NYT_ENG_20100323.0010:3108-3114	2487355.0	PER	White is survived by his sons Greg, of Orlando, and Dennis, of
+Sarasota, Fla.; his daughters Pamela White, of Pelham, Ala., and
+Maureen McFillin, of Hoover, Ala.; his brother, Albert, of
+Eastchester, N.Y.; and four grandchildren.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20100629.0168:2197-2228	Graser	NYT_ENG_20100629.0168:2197-2203	2433453.0	PER	Graser, 32, works at a Sarasota Winn-Dixie and collects Social
+Security payments.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20100213.0140:1527-1715	Klement	NYT_ENG_20100213.0140:1527-1534	2045136.0	PER	The "columnist" is Klement, editorial page editor of the
+Bradenton Herald for 30 years before becoming director of the
+Institute for Public Policy and Leadership at the University of
+South Florida's Sarasota campus.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20101018.0167:2187-2212	Delray Beach	NYT_ENG_20101018.0167:2200-2212	1932360.0	PER	After five stops Saturday with Giuliani in Sarasota and Delray
+Beach that attracted hundreds, the front-runner laid low.
+CS14_ENG_088	gpe:residents_of_city	UWashington4	NYT_ENG_20100116.0043:554-582	N.Y.	NYT_ENG_20100116.0043:579-582	1905417.0	PER	Stock and his wife, the author Susan Richards, divided their time
+between Sarasota and Bearsville, N.Y.
+CS14_ENG_089	gpe:births_in_city	UWashington4	APW_ENG_20100318.1227:3843-3881	Pena Soltren	APW_ENG_20100318.1227:3843-3855	4933413.0	PER	Pena Soltren, who was born in San Juan, Puerto Rico, and has a wife and four grown children, remains held without bail.
+CS14_ENG_089	gpe:births_in_city	UWashington4	NYT_ENG_20101004.0044:2181-2222	Yzaguirre	NYT_ENG_20101004.0044:2181-2190	3339664.0	PER	Yzaguirre was born and raised in San Juan, in the Rio Grande
+Valley.
+CS14_ENG_090	per:cities_of_residence	UWashington4	NYT_ENG_20100926.0026:5417-5462	London	NYT_ENG_20100926.0026:5417-5423	3650157.0	GPE	The productions in London and Edinburgh earned
+critical plaudits, including one by the recently retired Benedict
+Nightingale of The Times of London: "It all leaves you wishing
+that Plath, who was only 30 when she died, had lived to astonish us
+still more."
+CS14_ENG_091	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_092	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_093	gpe:employees_or_members	UWashington4	NIL
+CS14_ENG_094	per:spouse	UWashington4	NIL
+CS14_ENG_095	per:top_member_employee_of	UWashington4	NIL
+CS14_ENG_096	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_097	org:top_members_employees	UWashington4	NIL
+CS14_ENG_098	per:other_family	UWashington4	NIL
+CS14_ENG_099	org:top_members_employees	UWashington4	NIL
+CS14_ENG_100	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_101	org:students	UWashington4	NIL
+CS14_ENG_102	gpe:births_in_city	UWashington4	NIL
+CS14_ENG_103	per:spouse	UWashington4	NIL
+CS14_ENG_104	per:top_member_employee_of	UWashington4	NIL
+CS14_ENG_105	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_106	gpe:residents_of_city	UWashington4	NYT_ENG_20090923.0034:4971-5003	Keith Stag	NYT_ENG_20090923.0034:4971-4981	2715220.0	PER	"Kroon has a lot more common space and public space than other
+building here, which is nice," said Keith Stag, a graduate from
+Taos, N.M.
+CS14_ENG_108	per:organizations_founded	UWashington4	NIL
+CS14_ENG_109	per:city_of_birth	UWashington4	NIL
+CS14_ENG_110	per:stateorprovince_of_birth	UWashington4	NIL
+CS14_ENG_111	per:children	UWashington4	NIL
+CS14_ENG_112	gpe:residents_of_city	UWashington4	NYT_ENG_20101209.0149:1118-1174	Schultz	NYT_ENG_20101209.0149:1167-1174	6839128.0	PER	The shooting occurred at du Pont's estate in Newtown Square,
+Pa., west of Philadelphia, where Schultz lived and trained.
+CS14_ENG_112	gpe:residents_of_city	UWashington4	APW_ENG_20091021.1617:395-425	Sean O'Neill	APW_ENG_20091021.1617:395-407	4394911.0	PER	A judge sentenced 49-year-old Sean O'Neill of Newtown Square far below the 30- to 37-month guideline range, citing letters of support and family woes.
+CS14_ENG_112	gpe:residents_of_city	UWashington4	APW_ENG_20100615.1067:2463-2491	Pennsylvania	APW_ENG_20100615.1067:2479-2491	2852766.0	PER	... The Travelers Championship is next week in Cromwell, Connecticut, followed by the AT&amp;T National at Aronimink in Newtown Square, Pennsylvania.
+CS14_ENG_112	gpe:residents_of_city	UWashington4	APW_ENG_20101209.0693:696-732	Philadelphia	APW_ENG_20101209.0693:720-732	2701560.0	PER	Du Pont fancied himself a patron to wrestlers and built a world-class training facility at his estate in Newtown Square, outside Philadelphia.
+CS14_ENG_112	gpe:residents_of_city	UWashington4	NYT_ENG_20100510.0170:559-578	Pa.	NYT_ENG_20100510.0170:575-578	2490088.0	PER	Woods, speaking at a news conference at Aronimink Golf Club in
+Newtown Square, Pa., to promote the AT&amp;T National, said that the
+injury was causing pain and spasms in his neck and that it flared
+up during his comeback from a five-month hiatus.
+CS14_ENG_112	gpe:residents_of_city	UWashington4	APW_ENG_20090701.0048:1037-1066	Pennsylvania.	APW_ENG_20090701.0048:1053-1066	2490088.0	PER	... The 2010 and 2011 tournament will be played at Aronimink in Newtown Square, Pennsylvania., while the Blue Course is renovated for the 2011 U.S. Open.
+CS14_ENG_113	gpe:residents_of_city	UWashington4	APW_ENG_20090827.1196:433-468	Bill Kohanek	APW_ENG_20090827.1196:456-468	9060407.0	PER	Buena Park police Sgt. Bill Kohanek said Thursday the news conference will be held at police headquarters at 6:30 p.m. (2230 GMT).
+CS14_ENG_113	gpe:residents_of_city	UWashington4	APW_ENG_20090827.0033:580-621	Eric Burciaga	APW_ENG_20090827.0033:608-621	7591102.0	PER	Police received an anonymous telephone tip and found the car belonging to 28-year-old Jasmine Fiore in a parking lot next to a grocery store, Buena Park police Detective Eric Burciaga said.
+CS14_ENG_113	gpe:residents_of_city	UWashington4	APW_ENG_20090929.1106:393-426	Robin Sells	APW_ENG_20090929.1106:415-426	7591102.0	PER	Buena Park police Lt. Robin Sells said Tuesday that police are analyzing the laptop, which was found in the Canadian motel room where 32-year old Ryan Jenkins committed suicide in August.
+CS14_ENG_113	gpe:residents_of_city	UWashington4	APW_ENG_20090828.0171:568-603	Roger Powell	APW_ENG_20090828.0171:591-603	7591102.0	PER	Spatters and swirls of blood "like finger-painting" was on the passenger seat, back seat and rear windshield of Jasmine Fiore's white Mercedes-Benz, Buena Park police Sgt. Roger Powell said at a late afternoon news conference.
+CS14_ENG_113	gpe:residents_of_city	UWashington4	APW_ENG_20090828.1244:592-626	Frank Nunes	APW_ENG_20090828.1244:615-626	7591102.0	PER	Witnesses said Ryan Jenkins argued with Fiore in the lobby of the San Diego Hilton after leaving a poker tournament, telling her "you're making a fool of me in front of my friends," said Buena Park police Sgt. Frank Nunes.
+CS14_ENG_113	gpe:residents_of_city	UWashington4	AFP_ENG_20090824.0417:1314-1352	Tom Monson	AFP_ENG_20090824.0417:1314-1324	5944732.0	PER	Jenkins, a Canadian who recently vied with 16 other contestants on the VH1 cable
+TV show "Megan Wants a Millionaire," was the subject of an international
+manhunt, said Tom Monson, police chief in Buena Park, a suburb of Los Angeles.
+CS14_ENG_113	gpe:residents_of_city	UWashington4	LTW_ENG_20090821.0126:785-902	Jenkins	LTW_ENG_20090821.0126:785-792	3930554.0	PER	At some point, according to authorities, Jenkins allegedly killed Fiore,
+placed her in the suitcase and left her in a trash bin off Interstate 5 in
+Buena Park, 20 miles south of Los Angeles.
+CS14_ENG_113	gpe:residents_of_city	UWashington4	APW_ENG_20090827.1255:654-699	William Kohanek	APW_ENG_20090827.1255:654-669	2715220.0	PER	The information, to be released at a news conference later Thursday, will bring closure to a gruesome and mysterious investigation that has spread over two countries and involved dozens of law enforcement agencies in Canada and the United States, said Sgt. William Kohanek, spokesman for the Buena Park police.
+CS14_ENG_113	gpe:residents_of_city	UWashington4	NYT_ENG_20101111.0089:1308-1326	Calif.	NYT_ENG_20101111.0089:1320-1326	2520912.0	PER	"I hated that there was no electricity or room service," said
+Caitlyn Harlen, an 8-year-old who was on board with her family from
+Buena Park, Calif. "I love room service.
+CS14_ENG_113	gpe:residents_of_city	UWashington4	XIN_ENG_20090821.0169:776-852	Fiore	XIN_ENG_20090821.0169:776-781	2441062.0	PER	Fiore's body was found about 7 a.m. Saturday inside a Dumpster in Buena Park, a
+small town about 40 kilometers southeast of downtown Los Angeles.
+CS14_ENG_113	gpe:residents_of_city	UWashington4	LTW_ENG_20090822.0094:1246-1272	Orange County	LTW_ENG_20090822.0094:1246-1259	1905417.0	PER	Prosecutors allege he removed
+Fiore's fingers and teeth before placing her in a suitcase and dumping it in
+a trash bin in Orange County's Buena Park.
+CS14_ENG_114	per:siblings	UWashington4	NIL
+CS14_ENG_115	org:employees_or_members	UWashington4	NIL
+CS14_ENG_116	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_117	org:employees_or_members	UWashington4	NIL
+CS14_ENG_118	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_119	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_120	per:cities_of_residence	UWashington4	NYT_ENG_20091015.0026:4113-4141	Winnetka	NYT_ENG_20091015.0026:4133-4141	4351303.0	GPE	John Graham, 24, of Winnetka was nailed with a $100 ticket for
+talking on his cell phone several months ago after his dying mother
+had called from the hospital.
+CS14_ENG_120	per:cities_of_residence	UWashington4	APW_ENG_20100203.1126:2021-2142	Rapid City	APW_ENG_20100203.1126:2132-2142	3793619.0	GPE	State prosecutors allege that Graham raped Aquash in an apartment and later fatally shot her near Wanblee, 86 miles (138 kilometers) east of Rapid City.
+CS14_ENG_121	per:cities_of_residence	UWashington4	AFP_ENG_20100617.0568:1332-1368	Beijing	AFP_ENG_20100617.0568:1361-1368	4979065.0	GPE	The other three executive co-producers are: Mark Fisher, designer of the Beijing
+2008 Games; Grammy and BAFTA award nominated TV director Hamish Hamilton; and
+Catherine Ugwu, producer for the 2006 Asian Games in Doha.
+CS14_ENG_122	org:top_members_employees	UWashington4	NIL
+CS14_ENG_123	org:top_members_employees	UWashington4	NIL
+CS14_ENG_124	per:children	UWashington4	NIL
+CS14_ENG_125	per:organizations_founded	UWashington4	NIL
+CS14_ENG_126	org:students	UWashington4	NIL
+CS14_ENG_128	org:employees_or_members	UWashington4	NIL
+CS14_ENG_129	org:subsidiaries	UWashington4	NIL
+CS14_ENG_130	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_131	org:students	UWashington4	NIL
+CS14_ENG_132	gpe:residents_of_city	UWashington4	NIL
+CS14_ENG_133	gpe:employees_or_members	UWashington4	NIL
+CS14_ENG_134	per:organizations_founded	UWashington4	NIL
+CS14_ENG_135	gpe:deaths_in_city	UWashington4	NYT_ENG_20100425.0170:58-353	ALLISON STACEY COWLES	NYT_ENG_20100425.0170:58-79	4929370.0	PER	ALLISON STACEY COWLES, 75, AN ADVOCATE FOR EDUCATION
+</HEADLINE>
+<TEXT>
+<P>
+Allison Stacey Cowles, a longtime trustee of Wellesley College
+who was the wife of a newspaper publisher in Spokane, Wash., and,
+after he died, of a former publisher of The New York Times, died
+Saturday night in Spokane.
+CS14_ENG_135	gpe:deaths_in_city	UWashington4	NYT_ENG_20100224.0034:58-328	JOHN BABCOCK	NYT_ENG_20100224.0034:58-70	2083775.0	PER	JOHN BABCOCK, 109, LAST CANADIAN WORLD WAR I VETERAN
+</HEADLINE>
+<TEXT>
+<P>
+John Babcock, who joined the Canadian army at 15 and ultimately
+became the symbol of an embattled generation as Canada's last known
+veteran of World War I, died on Feb. 18 at his home in Spokane,
+Wash.
+CS14_ENG_136	gpe:deaths_in_city	UWashington4	NYT_ENG_20090804.0029:58-365	THEODORE NIERENBERG	NYT_ENG_20090804.0029:58-77	3361418.0	PER	THEODORE NIERENBERG, 86, FOUNDER OF DANSK
+</HEADLINE>
+<TEXT>
+<P>
+Theodore D. Nierenberg, a founder and the president of Dansk
+International Designs, whose popular cookware, flatware and
+dinnerware helped bring the Scandinavian Modern style to the
+postwar American table, died on Friday at his home in Armonk, N.Y.
+CS14_ENG_136	gpe:deaths_in_city	UWashington4	WPB_ENG_20100303.0068:1046-1109	Clementi	WPB_ENG_20100303.0068:1046-1054	2547011.0	PER	"We love cloud computing because it creates a whole host of investment,"
+Clementi said in an interview last week at the company's Armonk, N.Y.,
+headquarters.
+CS14_ENG_137	per:organizations_founded	UWashington4	NIL
+CS14_ENG_138	per:top_member_employee_of	UWashington4	NIL
+CS14_ENG_139	gpe:residents_of_city	UWashington4	NYT_ENG_20100203.0153:1754-1781	Mike Santo	NYT_ENG_20100203.0153:1754-1764	7803132.0	PER	For Mike Santo of Castro Valley, the Prius problems felt like a
+tipping point.
+CS14_ENG_139	gpe:residents_of_city	UWashington4	APW_ENG_20100920.0667:894-923	McCroskey	APW_ENG_20100920.0667:894-903	4236728.0	PER	McCroskey, from Castro Valley, California, arrived in court shackled and heavily guarded.
+CS14_ENG_139	gpe:residents_of_city	UWashington4	APW_ENG_20090920.0637:887-912	California	APW_ENG_20090920.0637:902-912	2520912.0	PER	Police arrested McCroskey, 20, of Castro Valley, California, at the Richmond airport Saturday.
+CS14_ENG_139	gpe:residents_of_city	UWashington4	NYT_ENG_20100803.0161:3200-3221	Calif.	NYT_ENG_20100803.0161:3215-3221	2520912.0	PER	"He's real loose, he wants us to have a good time, but only
+after we get our work done," said Rylan Sandoval, about to turn
+23, out of Castro Valley, Calif. "He likes us to be real
+aggressive, play every day like it was our last game."
+CS14_ENG_139	gpe:residents_of_city	UWashington4	APW_ENG_20090919.0292:1851-1886	Stimpson	APW_ENG_20090919.0292:1878-1886	2435734.0	PER	Police had sent flyers to authorities elsewhere to help identify McCroskey, of Castro Valley, California, Stimpson said.
+CS14_ENG_140	org:top_members_employees	UWashington4	NIL
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20100913.0004:4950-4983	James Kevin McCarthy	NYT_ENG_20100913.0004:4950-4970	1.4821663E7	PER	Crane survives him, as do three daughters, Lillah, of Los Angeles;
+Mary Dabney McCarthy, of Cape Cod; and Tess McCarthy, of New York
+City; two sons, James Kevin McCarthy of San Diego and Patrick
+McCarthy of Portland, Ore.; a stepdaughter, Kara Lichtman of
+Boston; a brother, Preston; and three grandchildren.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20100830.0081:4413-4443	Michael Attanasio	NYT_ENG_20100830.0081:4413-4430	1.2122444E7	PER	At the hearing, Clemens was flanked by a team of five lawyers
+led by Hardin and Michael Attanasio of San Diego.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20100126.0030:1990-2011	Rob Molt	APW_ENG_20100126.0030:1990-1998	1.0613332E7	PER	Rob Molt of San Diego said he feverishly bid for days to win his $475 ticket.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20101008.1026:3945-3988	Jerry Adams Jr.	APW_ENG_20101008.1026:3973-3988	1.0076938E7	PER	said San Diego real estate agent Jerry Adams Jr., who said he has seen one sale get put on hold.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20091030.0034:873-900	Darren Sproles	NYT_ENG_20091030.0034:873-887	9909082.0	PER	After a brief holdout, he reported to training camp, which
+reduced the little leverage he might have had for getting the type
+of money paid to Darren Sproles of San Diego (one year, $6.6
+million) or Maurice Jones-Drew of Jacksonville (five years, $6.2
+million annually).
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20090923.0485:844-887	Kevin Rooney	APW_ENG_20090923.0485:875-887	8751188.0	PER	San Diego police spokesman Lt. Kevin Rooney said the van drivers tried to storm past inspectors at the San Ysidro port of entry and enter the U.S. without stopping.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20100404.0060:309-333	Rob Davis	NYT_ENG_20100404.0060:309-318	8600124.0	PER	CALIF-QUAKE-ART-2NDLD-WRITETHRU-650 &amp;amp; ADD-NYT
+</HEADLINE>
+<DATELINE>
+QUAKE SHAKES BUILDINGS AND NERVES IN SOUTHERN CALIFORNIA Reporting was contributed by Randal C. Archibold and Rebecca Cathcart from Los Angeles, Brian Stelter from New York, Rob Davis from San Diego, and Elisabeth Malkin from Mexico City.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20101207.0149:4107-4127	Jim Pea	NYT_ENG_20101207.0149:4107-4114	7959418.0	PER	Jim Pea of San Diego caught a 334.8-pound yellowfin tuna, and
+Steve Meinster of Van Nuys snagged a 324.4-pound yellowfin.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20101216.0666:823-855	Walter Shimoon	APW_ENG_20101216.0666:823-837	6168438.0	PER	Others charged were Mark Anthony Longoria, 44, of Round Rock, Texas; Walter Shimoon, 39, of San Diego; and Manosha Karunatilaka, 37, of Marlborough, Massachusetts.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	WPB_ENG_20100805.0064:1484-1540	Jehad Serwan Mostafa	WPB_ENG_20100805.0064:1484-1504	5942545.0	PER	Among those charged were Omar Shafik Hammami, 26, a former resident of Daphne,
+Ala., and Jehad Serwan Mostafa, 28, a former resident of San Diego.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	LTW_ENG_20091009.0121:4130-4157	Denise Ducheny	LTW_ENG_20091009.0121:4130-4144	5666456.0	PER	It's a little disturbing,"
+said Sen. Denise Ducheny, a San Diego Democrat.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20100116.0072:1564-1603	Jacques Cesaire	APW_ENG_20100116.0072:1588-1603	5114543.0	PER	The announcements will drive viewers to the Red Cross Web site and feature New Orleans linebacker Jonathan Vilma and San Diego defensive end Jacques Cesaire, who both have Haitian parents.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20090608.0102:2058-2087	Huong Tovan	NYT_ENG_20090608.0102:2058-2069	4812249.0	PER	-- In 2007, Huong Tovan, 54, of San Diego, was arrested by
+Redding undercover agents and charged with soliciting the killing
+of bears in Shasta County so he could buy their gall bladders.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20090923.0096:1171-1196	Monica Munoz	APW_ENG_20090923.0096:1171-1183	4322089.0	PER	The shootout occurred over nine lines of traffic in the 24 northbound lanes, said Monica Munoz, a San Diego police spokeswoman.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	LTW_ENG_20091218.0024:5738-5762	James Pluth	LTW_ENG_20091218.0024:5738-5749	4322089.0	PER	James
+Pluth, a San Diego man who attended Sunday's panel, is a retiree who is
+actively involved in gay rodeo organizations.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	AFP_ENG_20091212.0319:3061-3149	Woods	AFP_ENG_20091212.0319:3061-3066	4279347.0	PER	Woods usually does not start his season until the former Buick Invitational in
+San Diego at the end of January so if he takes an "indefinite" leave it could be
+some time before he tees it up again.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20091229.0427:3435-3532	Miller	APW_ENG_20091229.0427:3435-3441	3990070.0	PER	Bode Miller also did not come to Bormio, choosing to spend the holidays with his daughter in San Diego, rest his sprained his ankle, and work on his fitness.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20100821.0129:2492-2623	Casey McGehee	APW_ENG_20100821.0129:2492-2505	3831006.0	PER	Brewers 10, Padres 6
+</P>
+<P>
+In Milwaukee, Casey McGehee homered and drove in four runs, as Milwaukee piled up 15 hits against baseball's top pitching staff to snap San Diego's five-game winning streak.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20101001.0575:2688-2770	Buzbee	APW_ENG_20101001.0575:2688-2694	3767403.0	PER	Buzbee joined the AP in Topeka, Kansas, in 1988 and was correspondent in San Diego before moving to Washington in 1995.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20090825.0003:3984-4011	Lalanne	NYT_ENG_20090825.0003:3984-3991	3631665.0	PER	"It's going to affect me because I need to start my
+upper-division (classes) so I can graduate on time," said Lalanne,
+19, from San Diego.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20090610.0219:417-460	Johnson	NYT_ENG_20090610.0219:417-424	3631665.0	PER	But Johnson, the second-year pro from San Diego, won't allow
+himself to be counted out.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20100602.0222:2759-2781	Alex Ching	NYT_ENG_20100602.0222:2771-2781	3611101.0	PER	Florida State took a five-shot lead in the
+Division I men's championship, and San Diego's Alex Ching shot
+6-under 66 to take the individual lead.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	WPB_ENG_20100818.0024:4707-4807	Michael Rafii	WPB_ENG_20100818.0024:4707-4720	3428998.0	PER	Michael Rafii, co-director of the Memory Disorders Clinic at the University of
+California, San Diego, said treating patients with mild to moderate symptoms
+with these drugs may be akin to treating heart attack patients with the
+cholesterol drug Lipitor.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20090922.0174:4087-4184	Headley	APW_ENG_20090922.0174:4087-4094	3318802.0	PER	Headley hit his 12th homer, and Adrian Gonzalez and Nick Hundley also hit home runs for San Diego.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20100630.0989:982-1022	Yousef	APW_ENG_20100630.0989:982-988	3258165.0	PER	Yousef, who has been living in San Diego, was cheered by supporters as he left the hearing.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20100418.0117:4481-4549	Boyd	NYT_ENG_20100418.0117:4481-4485	3154465.0	PER	"To see some of the older delegates that were energized by that
+-- and how long that struggle took -- that energized me," said
+Boyd, who chairs the Martin Luther King Democratic Club of San
+Diego.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20101105.0952:3138-3209	Edgar Hopida	APW_ENG_20101105.0952:3138-3150	3116607.0	PER	Edgar Hopida, of the Council on American-Islamic Relations in San Diego, said the arrests have put the local Somali community on edge, and his organization is making them aware of their rights.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	LTW_ENG_20091202.0057:3840-3942	James Fowler	LTW_ENG_20091202.0057:3840-3852	2974577.0	PER	For the study, Cacioppo teamed up with Christakis and James Fowler, an
+associate professor of political science at the University of California at
+San Diego, who have published a series of papers and the book "Connected,"
+based on data originally collected by the Framingham Heart Study, a
+long-running government-funded project that has explored a host of health
+issues.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	XIN_ENG_20101119.0392:1244-1272	United States	XIN_ENG_20101119.0392:1259-1272	2900979.0	PER	The Wolong center has sent 14 giant pandas overseas for joint breeding programs
+since the first one traveled to San Diego, the United States, in 1996.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20101203.0904:4101-4122	California	APW_ENG_20101203.0904:4112-4122	2852766.0	PER	Morelos Gov. Marco Adame Castillo said that the captured 14-year-old identified as El Ponchis was born in San Diego, California.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20091031.0114:1591-1643	Tom Farris	APW_ENG_20091031.0114:1591-1601	2715220.0	PER	"We're still in the search-and-rescue phase, we are not standing down from that at this point," said Capt. Tom Farris, commander of the Coast Guard's San Diego sector.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20100802.0567:2335-2367	New Zealand	APW_ENG_20100802.0567:2356-2367	2701560.0	PER	Since winning the America's Cup, BMW Oracle Racing has shown it off to President Barack Obama at the White House, and to the public in San Diego, Auckland, New Zealand; Newport, Rhode Island; and Sardinia, Italy.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20100105.0177:5454-5482	Linda Barufaldi	NYT_ENG_20100105.0177:5454-5469	2624844.0	PER	"It was Mary's wish that if women or people want to memorialize
+her in any
+way, they should stay in their own locality and have a get-together
+where
+they read or discuss her work," said Linda Barufaldi of San Diego,
+one of
+several former students of Dr. Daly's who cared for her as her
+health
+declined.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20100130.0022:1499-1665	Lieu	NYT_ENG_20100130.0022:1499-1503	2542346.0	PER	But Lieu said under the new law's rules on credits, local
+counties have begun making early releases from their jails,
+including at least 260 inmates released in San Diego.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20091030.0034:891-947	Maurice Jones-Drew	NYT_ENG_20091030.0034:929-947	2511120.0	PER	After a brief holdout, he reported to training camp, which
+reduced the little leverage he might have had for getting the type
+of money paid to Darren Sproles of San Diego (one year, $6.6
+million) or Maurice Jones-Drew of Jacksonville (five years, $6.2
+million annually).
+CS14_ENG_141	gpe:residents_of_city	UWashington4	XIN_ENG_20101103.0317:213-243	Southern California	XIN_ENG_20101103.0317:224-243	2507477.0	PER	Three U.S. residents indicted for aiding Somali terror group
+</HEADLINE>
+<DATELINE>
+LOS ANGELES, Nov. 2 (Xinhua)
+</DATELINE>
+<TEXT>
+<P>
+Three residents in San Diego, Southern California, have been indicted on charges
+of aiding a terrorist group in Somalia, the U.S. attorney's office announced
+Tuesday.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20100817.0129:2045-2207	Paul S. Aisen	NYT_ENG_20100817.0129:2045-2058	2504681.0	PER	While hundreds of drugs are under study, the company's effort
+was one of only five to have reached late-stage clinical trials,
+said Dr. Paul S. Aisen, director of the federally financed
+Alzheimer's Disease Cooperative Study and a professor of
+neuroscience at the University of California, San Diego.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	AFP_ENG_20091113.0690:4297-4324	Philadelphia	AFP_ENG_20091113.0690:4312-4324	2311344.0	PER	In other games, Carolina host Atlanta, Tennessee host Buffalo, Washington host
+Denver, the New York Jets host Jacksonville, Miami host Tampa Bay, Oakland host
+Kansas City, San Diego host Philadelphia and on Monday Cleveland host Baltimore.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20101208.0776:392-429	Yolanda Lugo Jimenez	APW_ENG_20101208.0776:392-412	1944960.0	PER	Border Patrol agents arrested Yolanda Lugo Jimenez at her San Diego home Monday night.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	LTW_ENG_20091113.0122:5078-5103	Los Angeles	LTW_ENG_20091113.0122:5092-5103	1905417.0	PER	"We may never get this money now," said Jim Mills, a former state
+senator who helped to create commuter rail service between San Diego and Los
+Angeles.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20090923.0096:1302-1331	Mexico	APW_ENG_20090923.0096:1325-1331	1905417.0	PER	About 40,000 vehicles enter the U.S. each day at San Ysidro, which connects San Diego and Tijuana, Mexico.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	APW_ENG_20101105.0952:1203-1226	Minnesota	APW_ENG_20101105.0952:1203-1212	1905417.0	PER	The arrests have been concentrated in Minnesota and San Diego, which have the two largest Somali refugee communities in the U.S.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20100131.0133:2240-2270	Va.	NYT_ENG_20100131.0133:2268-2270	1905417.0	PER	Born in New Mexico, Awlaki had contacts with three of the Sept.
+11 hijackers at mosques where he worked in San Diego and Falls
+Church, Va.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20101026.0021:1541-1568	Orange County	NYT_ENG_20101026.0021:1555-1568	1905417.0	PER	As part of recent reforms, San
+Diego and Orange County now require a vote of the people on
+pensions.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	NYT_ENG_20100911.0072:1564-1591	San Francisco	NYT_ENG_20100911.0072:1578-1591	1905417.0	PER	Other cities, including San Diego and San Francisco, have so
+many empty lots that officials have discussed filling them with
+temporary tree farms, parks or public art.
+CS14_ENG_141	gpe:residents_of_city	UWashington4	XIN_ENG_20100529.0098:664-699	Kansas City	XIN_ENG_20100529.0098:664-675	1905417.0	PER	Born on May 17, 1936 in Dodge City, Kansas and raised in Kansas City, Missouri
+and San Diego, Hopper made his film debut in the classic 1955 tale of teenage
+rebellion, "Rebel Without a Cause."
+CS14_ENG_142	per:siblings	UWashington4	NIL
+CS14_ENG_143	per:holds_shares_in	UWashington4	NIL
+CS14_ENG_144	org:subsidiaries	UWashington4	NIL
+CS14_ENG_145	org:subsidiaries	UWashington4	NIL
+CS14_ENG_146	org:students	UWashington4	NIL
+CS14_ENG_147	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_148	gpe:births_in_city	UWashington4	WPB_ENG_20100406.0051:2288-2329	John Griffith Shaffer	WPB_ENG_20100406.0051:2288-2309	2915676.0	PER	John Griffith Shaffer was born in Altoona, Pa., and grew up riding horses and
+hunting foxes.
+CS14_ENG_148	gpe:births_in_city	UWashington4	WPB_ENG_20100526.0056:3400-3438	Stanley Paul Jones	WPB_ENG_20100526.0056:3400-3418	2915676.0	PER	Stanley Paul Jones was born in Altoona, Pa., on Nov. 24, 1931, and grew up near
+Harrisburg, Pa.
+CS14_ENG_149	org:members	UWashington4	NIL
+CS14_ENG_150	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_151	org:top_members_employees	UWashington4	NIL
+CS14_ENG_152	per:siblings	UWashington4	NIL
+CS14_ENG_153	org:top_members_employees	UWashington4	NIL
+CS14_ENG_154	per:parents	UWashington4	NIL
+CS14_ENG_155	per:spouse	UWashington4	NIL
+CS14_ENG_156	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_157	org:employees_or_members	UWashington4	NIL
+CS14_ENG_158	per:parents	UWashington4	NIL
+CS14_ENG_160	org:top_members_employees	UWashington4	NIL
+CS14_ENG_161	per:cities_of_residence	UWashington4	NIL
+CS14_ENG_162	per:city_of_death	UWashington4	NIL
+CS14_ENG_163	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_164	per:holds_shares_in	UWashington4	NIL
+CS14_ENG_165	per:spouse	UWashington4	NIL
+CS14_ENG_166	gpe:employees_or_members	UWashington4	NIL
+CS14_ENG_167	per:schools_attended	UWashington4	NIL
+CS14_ENG_168	per:parents	UWashington4	NIL
+CS14_ENG_169	per:spouse	UWashington4	NIL
+CS14_ENG_170	gpe:residents_of_city	UWashington4	NYT_ENG_20090715.0212:1890-1917	Kevin O'Connell	NYT_ENG_20090715.0212:1890-1905	5765922.0	PER	Longtime friend Kevin O'Connell of Whittier is among the former
+firefighters Ortiz has used in his production crews who says Ortiz
+is special among fire apparatus collectors.
+CS14_ENG_170	gpe:residents_of_city	UWashington4	APW_ENG_20101208.0209:2740-2765	Burts	APW_ENG_20101208.0209:2740-2745	5494927.0	PER	Burts grew up in Whittier and Hemet and graduated from Hemet High School and a hotel management school in Florida, according to the Times.
+CS14_ENG_170	gpe:residents_of_city	UWashington4	LTW_ENG_20091021.0129:3140-3173	Norma Elizabeth Ochoa	LTW_ENG_20091021.0129:3140-3161	4322089.0	PER	Norma Elizabeth Ochoa, a Whittier mother, said she hopes that such
+funding can expand programs like Abriendo Puertas, a parent training program
+she attended earlier this year.
+CS14_ENG_170	gpe:residents_of_city	UWashington4	WPB_ENG_20101013.0025:4308-4412	Fletcher	WPB_ENG_20101013.0025:4308-4316	2674899.0	PER	Fletcher said he is unemployed and when his truck broke down, he began bringing
+the children to Whittier by city bus.
+CS14_ENG_170	gpe:residents_of_city	UWashington4	NYT_ENG_20100106.0052:4657-4756	Mitchell	NYT_ENG_20100106.0052:4657-4665	1951351.0	PER	Mitchell is the Pittsburgh Steelers' defensive line coach, in
+his 37th season of coaching; Whittier is a prosecuting attorney in
+Dallas.
+CS14_ENG_171	org:top_members_employees	UWashington4	NIL
+CS14_ENG_172	per:siblings	UWashington4	NIL
+CS14_ENG_173	gpe:employees_or_members	UWashington4	NIL
+CS14_ENG_174	org:city_of_headquarters	UWashington4	NIL
+CS14_ENG_175	org:top_members_employees	UWashington4	NIL
+CS14_ENG_176	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_177	gpe:residents_of_city	UWashington4	NYT_ENG_20100507.0089:3648-3674	Sheryl Miller	NYT_ENG_20100507.0089:3661-3674	9064629.0	PER	Charging the women criminally is going too far, said Vail
+athlete Sheryl Miller, a friend of both Lyall and Brazelton and a
+longtime Leadville 100 racer.
+CS14_ENG_177	gpe:residents_of_city	UWashington4	NYT_ENG_20100201.0007:571-594	Chris Del Bosco	NYT_ENG_20100201.0007:571-586	5223601.0	PER	But Chris Del Bosco of Vail, Colo., who will represent Canada at
+the Vancouver Games, took gold Sunday as Canadians swept the men's
+event.
+CS14_ENG_177	gpe:residents_of_city	UWashington4	NYT_ENG_20100507.0089:2872-2913	Lyall	NYT_ENG_20100507.0089:2872-2877	4216435.0	PER	It's also unclear whether Lyall or
+Brazelton, both racers from Vail, took the podium to accept the
+second place trophy for finishing the 100-mile race in 9:53:27.
+CS14_ENG_177	gpe:residents_of_city	UWashington4	NYT_ENG_20100401.0014:2726-2744	Vonn	NYT_ENG_20100401.0014:2726-2730	4137688.0	PER	Vonn moved to Vail from Minnesota at age 12 to compete for Ski
+Club Vail.
+CS14_ENG_177	gpe:residents_of_city	UWashington4	NYT_ENG_20100201.0007:715-740	Del Bosco	NYT_ENG_20100201.0007:715-724	4110662.0	PER	Del Bosco grew up in Vail, racing 11 years for Ski Club Vail
+alongside Lindsey Vonn and Sarah Schleper, but he has dual
+citizenship because his father is Canadian.
+CS14_ENG_177	gpe:residents_of_city	UWashington4	NYT_ENG_20100101.0115:537-555	Beaver Creek	NYT_ENG_20100101.0115:543-555	1952410.0	PER	A little more than 3 inches has fallen at Vail, Beaver Creek and
+Breckenridge.
+CS14_ENG_178	per:city_of_birth	UWashington4	NIL
+CS14_ENG_179	per:organizations_founded	UWashington4	NIL
+CS14_ENG_180	gpe:employees_or_members	UWashington4	NIL
+CS14_ENG_181	per:other_family	UWashington4	NIL
+CS14_ENG_182	gpe:employees_or_members	UWashington4	NIL
+CS14_ENG_183	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_184	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_185	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_186	per:country_of_birth	UWashington4	NIL
+CS14_ENG_187	per:spouse	UWashington4	NIL
+CS14_ENG_188	gpe:residents_of_stateorprovince	UWashington4	NIL
+CS14_ENG_189	org:employees_or_members	UWashington4	NIL
+CS14_ENG_190	org:students	UWashington4	NIL
+CS14_ENG_191	per:spouse	UWashington4	NIL
+CS14_ENG_192	per:city_of_birth	UWashington4	NYT_ENG_20100327.0125:8657-8680	Augusta	NYT_ENG_20100327.0125:8673-8680	2350072.0	GPE	Liu was born in Augusta, Ga., where his parents, doctors from
+Taiwan, moved to practice medicine in an underserved area.
+CS14_ENG_193	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_194	org:founded_by	UWashington4	NIL
+CS14_ENG_195	gpe:residents_of_city	UWashington4	APW_ENG_20090925.0011:2171-2200	Osvaldo Orellana	APW_ENG_20090925.0011:2171-2187	5001398.0	PER	Chilean-born wood sculptor Osvaldo Orellana of Claremont is one of those showing his work.
+CS14_ENG_196	gpe:deaths_in_city	UWashington4	NYT_ENG_20100819.0120:58-326	JOE L. BROWN	NYT_ENG_20100819.0120:58-70	3407840.0	PER	JOE L. BROWN, 91; BUILT CHAMPIONSHIP TEAMS FOR PIRATES
+</HEADLINE>
+<TEXT>
+<P>
+Joe L. Brown, the Pittsburgh Pirates general manager who built
+two World Series championship teams and five National League
+division winners in the 1960s and '70s, died Sunday in Albuquerque.
+CS14_ENG_197	org:founded_by	UWashington4	NIL
+CS14_ENG_198	gpe:member_of	UWashington4	NIL
+CS14_ENG_199	org:employees_or_members	UWashington4	NIL
+CS14_ENG_200	gpe:deaths_in_city	UWashington4	NYT_ENG_20090630.0103:180-379	Pina Bausch	NYT_ENG_20090630.0103:180-191	4450617.0	PER	Pina Bausch, the German choreographer who combined potent drama
+and dreamlike movement to create a powerful form of dance theater
+that influenced generations of dancemakers, died Tuesday in
+Wuppertal, Germany.
+CS14_ENG_201	org:employees_or_members	UWashington4	NIL
+CS14_ENG_202	org:employees_or_members	UWashington4	NIL
+CS14_ENG_203	org:parents	UWashington4	NIL
+CS14_ENG_204	org:employees_or_members	UWashington4	NIL
+CS14_ENG_205	org:employees_or_members	UWashington4	NIL
+CS14_ENG_206	per:children	UWashington4	NIL
+CS14_ENG_207	per:countries_of_residence	UWashington4	NIL
+CS14_ENG_208	org:city_of_headquarters	UWashington4	NIL
+CS14_ENG_210	gpe:deaths_in_stateorprovince	UWashington4	AFP_ENG_20091030.0544:616-705	David Iredale	AFP_ENG_20091030.0544:616-629	6396108.0	PER	Australian teenager David Iredale died in the unforgiving wilderness of the Blue
+Mountains in New South Wales at the height of summer in 2006 on a training camp
+for the scheme, collapsing after he became lost and ran out of water.
+CS14_ENG_210	gpe:deaths_in_stateorprovince	UWashington4	APW_ENG_20100404.0164:220-363	David Bryant	APW_ENG_20100404.0164:220-232	2553802.0	PER	2 die at powerboating, including American
+</HEADLINE>
+<DATELINE>
+TAREE, Australia 2010-04-04 09:17:03 UTC
+</DATELINE>
+<TEXT>
+<P>
+Veteran American powerboat racer David Bryant has been identified by police as one of two competitors killed at a weekend event on the Manning River in northern New South Wales state.
+CS14_ENG_210	gpe:deaths_in_stateorprovince	UWashington4	AFP_ENG_20100707.0349:1811-2013	Paul Gallen	AFP_ENG_20100707.0349:2002-2013	1959060.0	PER	New South Wales were out on their feet and another big defeat looked on the
+cards, but surprisingly they were next to score when halfback Mitchell Pearce
+slipped an inside ball to a charging Paul Gallen, who crashed over under the
+posts.
+CS14_ENG_211	org:holds_shares_in	UWashington4	NIL
+CS14_ENG_212	org:members	UWashington4	NIL
+CS14_ENG_213	per:country_of_birth	UWashington4	NIL
+CS14_ENG_214	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_215	gpe:deaths_in_city	UWashington4	NIL
+CS14_ENG_216	per:organizations_founded	UWashington4	NIL
+CS14_ENG_217	gpe:births_in_city	UWashington4	NYT_ENG_20100828.0096:2536-2582	Robert Stephen Ingersoll	NYT_ENG_20100828.0096:2536-2560	4197823.0	PER	Robert Stephen Ingersoll was born in Galesburg, Ill., on Jan.
+28, 1914, one of four children of Roy and Lulu Ingersoll.
+CS14_ENG_218	per:stateorprovince_of_death	UWashington4	NIL
+CS14_ENG_219	org:city_of_headquarters	UWashington4	NIL
+CS14_ENG_220	org:top_members_employees	UWashington4	NIL
+CS14_ENG_221	org:subsidiaries	UWashington4	NIL
+CS14_ENG_222	org:founded_by	UWashington4	NIL
+CS14_ENG_223	org:parents	UWashington4	NIL
+CS14_ENG_224	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_225	gpe:residents_of_city	UWashington4	NYT_ENG_20100425.0170:767-806	Diana Chapman Walsh	NYT_ENG_20100425.0170:787-806	8718106.0	PER	As the Wellesley president Diana Chapman Walsh noted in 1999,
+Cowles inhabited the world of newspaper publishing for the rest of
+her life.
+CS14_ENG_225	gpe:residents_of_city	UWashington4	NYT_ENG_20091223.0028:2440-2473	Robin Smith Swanberg	NYT_ENG_20091223.0028:2440-2460	4826223.0	PER	Besides his
+daughter Diana, he is survived by another daughter, Robin Smith
+Swanberg of Wellesley, Mass., and a grandchild.
+CS14_ENG_225	gpe:residents_of_city	UWashington4	NYT_ENG_20091109.0181:1686-1703	Alex	NYT_ENG_20091109.0181:1686-1690	4744706.0	PER	Battling chipmunks
+</P>
+<P>
+When Alex of Wellesley asked what to do about chipmunks under
+his brick
+bath, depressing the bricks, the Handyman suggested refilling the
+gaps with
+sand laced with D-Con.
+CS14_ENG_225	gpe:residents_of_city	UWashington4	NYT_ENG_20101014.0182:4378-4410	Moynihan	NYT_ENG_20101014.0182:4378-4386	2759817.0	PER	Moynihan, who lives in Wellesley, said the bank's payroll in
+Massachusetts
+- about 9,000 people - would probably be stable.
+CS14_ENG_225	gpe:residents_of_city	UWashington4	NYT_ENG_20100623.0205:1172-1215	Anton Reinert	NYT_ENG_20100623.0205:1172-1185	2715220.0	PER	"I thought I was dizzy, but then I noticed the plants in my
+office were
+moving around the floor," said Anton Reinert, an employee in the
+Wellesley
+building.
+CS14_ENG_225	gpe:residents_of_city	UWashington4	LTW_ENG_20090625.0008:738-787	Jim Faherty	LTW_ENG_20090625.0008:738-749	2274749.0	PER	Take the story told by Jim Faherty, 74, a retired executive in
+Wellesley, Mass., who went to the dentist a few years ago because of a loose
+bridge that was replacing three of his upper front teeth.
+CS14_ENG_226	gpe:residents_of_city	UWashington4	APW_ENG_20090904.1291:518-706	Spector	APW_ENG_20090904.1291:518-525	3310628.0	PER	Spector's wife, Rachelle, said she interceded with a prison official and Spector filed an inmate appeal after it was announced he would be moved to Pleasant Valley State Prison at Coalinga with a group of other prisoners.
+CS14_ENG_226	gpe:residents_of_city	UWashington4	LTW_ENG_20091103.0097:58-284	Sirhan	LTW_ENG_20091103.0097:58-64	2899380.0	PER	Sirhan Is Granted Prison Transfer Request
+</HEADLINE>
+<TEXT>
+<P>
+Sirhan, who has been in the state prison system since May 5, 1969, was
+moved from California State Prison in Corcoran to Pleasant Valley State
+Prison in Coalinga at his request, the officials said.
+CS14_ENG_227	gpe:residents_of_city	UWashington4	NYT_ENG_20100414.0157:3511-3545	Alesia Ranney-Marinelli	NYT_ENG_20100414.0157:3511-3534	4331224.0	PER	Her survivors include two nieces, Alesia Ranney-Marinelli of
+Katonah, N.Y., and Patricia Ranney of Ballston Lake, N.Y.
+CS14_ENG_227	gpe:residents_of_city	UWashington4	NYT_ENG_20090810.0189:2240-2269	Christine Johnson	NYT_ENG_20090810.0189:2240-2257	2785490.0	PER	asked Christine Johnson, of
+Katonah, N.Y., who is of Chinese ancestry.
+CS14_ENG_227	gpe:residents_of_city	UWashington4	NYT_ENG_20090810.0189:2262-2275	N.Y.	NYT_ENG_20090810.0189:2271-2275	1952410.0	PER	asked Christine Johnson, of
+Katonah, N.Y., who is of Chinese ancestry.
+CS14_ENG_228	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_229	org:employees_or_members	UWashington4	NIL
+CS14_ENG_230	gpe:residents_of_city	UWashington4	NIL
+CS14_ENG_231	org:founded_by	UWashington4	NIL
+CS14_ENG_232	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_233	per:other_family	UWashington4	NIL
+CS14_ENG_234	org:founded_by	UWashington4	NIL
+CS14_ENG_235	per:children	UWashington4	NIL
+CS14_ENG_236	org:employees_or_members	UWashington4	NIL
+CS14_ENG_237	per:children	UWashington4	NIL
+CS14_ENG_238	gpe:residents_of_city	UWashington4	NIL
+CS14_ENG_239	org:top_members_employees	UWashington4	NIL
+CS14_ENG_240	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_241	gpe:births_in_country	UWashington4	AFP_ENG_20091130.0415:655-687	Naren Patel	AFP_ENG_20091130.0415:655-666	4800898.0	PER	Naren Patel was born in Tanzania in 1938, before coming to Britain as a teenager
+and studying medicine at St. Andrews University, where he graduated in 1964.
+CS14_ENG_242	per:schools_attended	UWashington4	NIL
+CS14_ENG_243	per:parents	UWashington4	NIL
+CS14_ENG_244	org:top_members_employees	UWashington4	NIL
+CS14_ENG_245	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_246	gpe:headquarters_in_city	UWashington4	NIL
+CS14_ENG_247	org:members	UWashington4	NIL
+CS14_ENG_248	per:children	UWashington4	NIL
+CS14_ENG_249	gpe:residents_of_city	UWashington4	NYT_ENG_20091002.0100:4319-4402	Toyoda	NYT_ENG_20091002.0100:4319-4325	5788333.0	PER	Toyoda, who spoke in August at the center's annual conference
+outside Traverse City, Mich., has previously talked about the
+company in a more visionary and less remorseful way.
+CS14_ENG_249	gpe:residents_of_city	UWashington4	AFP_ENG_20090805.0256:678-701	Michigan	AFP_ENG_20090805.0256:693-701	2852766.0	PER	"Toyota plans to build an exciting, fun-to-drive affordable sports car and
+launch it within the next few years," Toyoda told an automotive conference in
+Traverse City, Michigan.
+CS14_ENG_249	gpe:residents_of_city	UWashington4	APW_ENG_20090819.0993:822-842	Mich.	APW_ENG_20090819.0993:837-842	2852766.0	PER	The Buick crossover sport utility vehicle was first announced in Traverse City, Mich. earlier this month.
+CS14_ENG_250	per:employee_or_member_of	UWashington4	NIL
+CS14_ENG_251	gpe:employees_or_members	UWashington4	NIL
+CS14_ENG_252	org:city_of_headquarters	UWashington4	NIL
