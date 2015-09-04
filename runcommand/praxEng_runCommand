@@ -1,0 +1,6 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.CreateQuestionsForPraxEng 
+new 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/praxEng_docsToProcess
+praxEng_perloc.json"
+

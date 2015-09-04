@@ -1,0 +1,45 @@
+Extraction [arg1=Mohammed Sayed Tantawi	247	269, arg2=Sunni	86	91, rel=per:origin, score=1.27807498E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100312.0442, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Sentence = Sunni cleric Tantawi
+</HEADLINE>
+<DATELINE>
+PARIS, March 12, 2010 (AFP)
+</DATELINE>
+<TEXT>
+<P>
+French President Nicolas Sarkozy on Friday paid tribute to Sheikh Mohammed Sayed
+Tantawi
+
+Extraction [arg1=Mohammed Sayed Tantawi	780	802, arg2=Grand Sheik	768	779, rel=per:origin, score=6.142498279999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=bolt-eng-DF-199-192909-6672100, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Sentence = Grand Sheik Mohammed Sayed Tantawi
+
+Extraction [arg1=Mohammed Sayed Tantawi	780	802, arg2=Muslim	753	759, rel=per:spouse, score=2.65087255E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=bolt-eng-DF-199-192909-6672100, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Sentence = Muslim cleric, Grand Sheik Mohammed Sayed Tantawi
+
+SF13_ENG_007	per:spouse	UWashington_1	bolt-eng-DF-199-192909-6672100:753-802	Muslim	bolt-eng-DF-199-192909-6672100:753-759	2.65087255E7
+SF13_ENG_007	per:religion	UWashington_1	NIL
+SF13_ENG_007	per:city_of_death	UWashington_1	NIL
+SF13_ENG_007	per:other_family	UWashington_1	NIL
+SF13_ENG_007	per:countries_of_residence	UWashington_1	NIL
+SF13_ENG_007	per:country_of_death	UWashington_1	NIL
+SF13_ENG_007	per:stateorprovince_of_birth	UWashington_1	NIL
+SF13_ENG_007	per:title	UWashington_1	NIL
+SF13_ENG_007	per:children	UWashington_1	NIL
+SF13_ENG_007	per:origin	UWashington_1	bolt-eng-DF-199-192909-6672100:768-802	Grand Sheik	bolt-eng-DF-199-192909-6672100:768-779	6.142498279999999E8
+SF13_ENG_007	per:city_of_birth	UWashington_1	NIL
+SF13_ENG_007	per:date_of_death	UWashington_1	NIL
+SF13_ENG_007	per:age	UWashington_1	NIL
+SF13_ENG_007	per:cities_of_residence	UWashington_1	NIL
+SF13_ENG_007	per:employee_or_member_of	UWashington_1	NIL
+SF13_ENG_007	per:stateorprovince_of_death	UWashington_1	NIL
+SF13_ENG_007	per:cause_of_death	UWashington_1	NIL
+SF13_ENG_007	per:alternate_names	UWashington_1	NIL
+SF13_ENG_007	per:charges	UWashington_1	NIL
+SF13_ENG_007	per:country_of_birth	UWashington_1	NIL
+SF13_ENG_007	per:schools_attended	UWashington_1	NIL
+SF13_ENG_007	per:parents	UWashington_1	NIL
+SF13_ENG_007	per:date_of_birth	UWashington_1	NIL
+SF13_ENG_007	per:statesorprovinces_of_residence	UWashington_1	NIL
+SF13_ENG_007	per:siblings	UWashington_1	NIL

@@ -1,0 +1,96 @@
+Terry Jupp
+
+Extraction [arg1=Terry Jupp	450	460, arg2=2002	474	478, rel=per:date_of_death, score=2610140.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100803.0092, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Terry Jupp, who died in 2002
+
+Extraction [arg1=Jupp	585	589, arg2=46	591	593, rel=per:age, score=1.17276909E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100803.0092, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Jupp, 46
+
+SF14_ENG_044 Extraction [arg1=Jupp	585	589, arg2=46	591	593, rel=per:age, score=1.17276909E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100803.0092, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Jupp, 46
+
+SF14_ENG_044	per:spouse	UWashington3	NIL
+SF14_ENG_044	per:religion	UWashington3	NIL
+SF14_ENG_044	per:city_of_death	UWashington3	NIL
+SF14_ENG_044	per:other_family	UWashington3	NIL
+SF14_ENG_044	per:countries_of_residence	UWashington3	NIL
+SF14_ENG_044	per:country_of_death	UWashington3	NIL
+SF14_ENG_044	per:stateorprovince_of_birth	UWashington3	NIL
+SF14_ENG_044	per:title	UWashington3	NIL
+SF14_ENG_044	per:children	UWashington3	NIL
+SF14_ENG_044	per:origin	UWashington3	NIL
+SF14_ENG_044	per:city_of_birth	UWashington3	NIL
+SF14_ENG_044	per:date_of_death	UWashington3	NIL
+SF14_ENG_044	per:age	UWashington3	APW_ENG_20100803.0092:585-593	46	APW_ENG_20100803.0092:591-593	1.17276909E8
+SF14_ENG_044	per:cities_of_residence	UWashington3	NIL
+SF14_ENG_044	per:employee_or_member_of	UWashington3	NIL
+SF14_ENG_044	per:stateorprovince_of_death	UWashington3	NIL
+SF14_ENG_044	per:cause_of_death	UWashington3	NIL
+SF14_ENG_044	per:alternate_names	UWashington3	NIL
+SF14_ENG_044	per:charges	UWashington3	NIL
+SF14_ENG_044	per:country_of_birth	UWashington3	NIL
+SF14_ENG_044	per:schools_attended	UWashington3	NIL
+SF14_ENG_044	per:parents	UWashington3	NIL
+SF14_ENG_044	per:date_of_birth	UWashington3	NIL
+SF14_ENG_044	per:statesorprovinces_of_residence	UWashington3	NIL
+SF14_ENG_044	per:siblings	UWashington3	NIL
+Alessi
+
+Extraction [arg1=Alessi Store	1425	1437, arg2=European	1495	1503, rel=/common/topic/alias, score=678082.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=WPB_ENG_20101028.0046, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Alessi Store in D.C. and owns Contemporaria, a shop that sells
+modern European
+
+SF14_ENG_079	org:subsidiaries	UWashington3	NIL
+SF14_ENG_079	org:alternate_names	UWashington3	NIL
+SF14_ENG_079	org:date_founded	UWashington3	NIL
+SF14_ENG_079	org:website	UWashington3	NIL
+SF14_ENG_079	org:country_of_headquarters	UWashington3	NIL
+SF14_ENG_079	org:number_of_employees_members	UWashington3	NIL
+SF14_ENG_079	org:date_dissolved	UWashington3	NIL
+SF14_ENG_079	org:founded_by	UWashington3	NIL
+SF14_ENG_079	org:political_religious_affiliation	UWashington3	NIL
+SF14_ENG_079	org:shareholders	UWashington3	NIL
+SF14_ENG_079	org:city_of_headquarters	UWashington3	NIL
+SF14_ENG_079	org:member_of	UWashington3	NIL
+SF14_ENG_079	org:top_members_employees	UWashington3	NIL
+SF14_ENG_079	org:parents	UWashington3	NIL
+SF14_ENG_079	org:members	UWashington3	NIL
+SF14_ENG_079	org:stateorprovince_of_headquarters	UWashington3	NIL
+Greenberg Smoked Turkey
+
+SF14_ENG_084	org:subsidiaries	UWashington3	NIL
+SF14_ENG_084	org:alternate_names	UWashington3	NIL
+SF14_ENG_084	org:date_founded	UWashington3	NIL
+SF14_ENG_084	org:website	UWashington3	NIL
+SF14_ENG_084	org:country_of_headquarters	UWashington3	NIL
+SF14_ENG_084	org:number_of_employees_members	UWashington3	NIL
+SF14_ENG_084	org:date_dissolved	UWashington3	NIL
+SF14_ENG_084	org:founded_by	UWashington3	NIL
+SF14_ENG_084	org:political_religious_affiliation	UWashington3	NIL
+SF14_ENG_084	org:shareholders	UWashington3	NIL
+SF14_ENG_084	org:city_of_headquarters	UWashington3	NIL
+SF14_ENG_084	org:member_of	UWashington3	NIL
+SF14_ENG_084	org:top_members_employees	UWashington3	NIL
+SF14_ENG_084	org:parents	UWashington3	NIL
+SF14_ENG_084	org:members	UWashington3	NIL
+SF14_ENG_084	org:stateorprovince_of_headquarters	UWashington3	NIL
+Zirh
+
+Extraction [arg1=Gillette	719	727, arg2=2005	754	758, rel=org:date_founded, score=131213.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090616.1261, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Gillette and Braun brands with the 2005
+
+Extraction [arg1=Gillette Co.	787	798, arg2=2005	754	758, rel=org:date_founded, score=1004582.2999999999, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090616.1261, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], 2005 acquisition of Boston-based Gillette Co
+
+Extraction [arg1=Gillette	719	727, arg2=Cincinnati-based	535	551, rel=/common/topic/alias, score=231122.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090616.1261, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Cincinnati-based P&amp;G, whose many personal-care products oriented toward women include Olay skin creams and CoverGirl makeup, began a major move into male grooming by obtaining the Gillette
+
+SF14_ENG_069	org:subsidiaries	UWashington3	NIL
+SF14_ENG_069	org:alternate_names	UWashington3	NIL
+SF14_ENG_069	org:date_founded	UWashington3	NIL
+SF14_ENG_069	org:website	UWashington3	NIL
+SF14_ENG_069	org:country_of_headquarters	UWashington3	NIL
+SF14_ENG_069	org:number_of_employees_members	UWashington3	NIL
+SF14_ENG_069	org:date_dissolved	UWashington3	NIL
+SF14_ENG_069	org:founded_by	UWashington3	NIL
+SF14_ENG_069	org:political_religious_affiliation	UWashington3	NIL
+SF14_ENG_069	org:shareholders	UWashington3	NIL
+SF14_ENG_069	org:city_of_headquarters	UWashington3	NIL
+SF14_ENG_069	org:member_of	UWashington3	NIL
+SF14_ENG_069	org:top_members_employees	UWashington3	NIL
+SF14_ENG_069	org:parents	UWashington3	NIL
+SF14_ENG_069	org:members	UWashington3	NIL
+SF14_ENG_069	org:stateorprovince_of_headquarters	UWashington3	NIL

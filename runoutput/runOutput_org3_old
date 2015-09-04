@@ -1,0 +1,19 @@
+Extraction [arg1=Juanita Millender-McDonald	5	31, arg2=U.S.	0	4, rel=per:origin, score=1.7499350197E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20070423.0051.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Sentence = U.S. Juanita Millender-McDonald
+
+Extraction [arg1=Juanita Millender-McDonald	5	31, arg2=Carson	156	162, rel=/people/deceased_person/place_of_death, score=3.2339340029999995E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20070423.0051.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Sentence = Juanita Millender-McDonald, a seven-term California Democrat
+who chaired the Committee on House Administration, died of cancer
+April 22 at her home in Carson
+
+Extraction [arg1=Juanita Millender-McDonald	52	78, arg2=U.S.	32	36, rel=per:origin, score=1.5162352274E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20070422.0195.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Sentence = U.S. Representative Juanita Millender-McDonald
+
+Extraction [arg1=Juanita Millender-McDonald	3692	3718, arg2=California	3720	3730, rel=/people/person/place_lived, score=1.371505795E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080101.0037.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Sentence = Juanita
+Millender-McDonald (California
+

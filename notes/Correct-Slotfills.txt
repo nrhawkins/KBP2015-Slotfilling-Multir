@@ -1,0 +1,1823 @@
+SF13_ENG_001	per:age	LTW_ENG_20090820.0102	43
+SF13_ENG_001	per:age	LTW_ENG_20090727.0007	44
+SF13_ENG_001	per:age	NYT_ENG_20090619.0062	47
+SF13_ENG_001	per:alternate_names	XIN_ENG_20101124.0121	Mohammad Ramzan Bashardost
+SF13_ENG_001	per:alternate_names	XIN_ENG_20090829.0040	Ramzan Bashardost
+SF13_ENG_001	per:cities_of_residence	AFP_ENG_20090826.0271	Kabul
+SF13_ENG_001	per:cities_of_residence	NYT_ENG_20090619.0062	Paris
+SF13_ENG_001	per:countries_of_residence	XIN_ENG_20090820.0039	Afghanistan
+SF13_ENG_001	per:countries_of_residence	NYT_ENG_20090619.0062	France
+SF13_ENG_001	per:countries_of_residence	APW_ENG_20090818.0793	Iran
+SF13_ENG_001	per:countries_of_residence	XIN_ENG_20090820.0039	Pakistan
+SF13_ENG_001	per:country_of_birth	XIN_ENG_20090820.0039	Afghanistan
+SF13_ENG_001	per:date_of_birth	XIN_ENG_20090820.0039	1965
+SF13_ENG_001	per:date_of_birth	XIN_ENG_20090820.0039	1965-XX-XX
+SF13_ENG_001	per:employee_or_member_of	NYT_ENG_20090619.0062	Afghan embassy
+SF13_ENG_001	per:employee_or_member_of	NYT_ENG_20100104.0049	Afghanistan
+SF13_ENG_001	per:employee_or_member_of	XIN_ENG_20090820.0043	cabinet
+SF13_ENG_001	per:employee_or_member_of	NYT_ENG_20090619.0062	European Affairs Department
+SF13_ENG_001	per:employee_or_member_of	APW_ENG_20090818.0743	Foreign Ministry
+SF13_ENG_001	per:employee_or_member_of	NYT_ENG_20090619.0062	parliament
+SF13_ENG_001	per:origin	AFP_ENG_20090811.0711	Afghan
+SF13_ENG_001	per:origin	NYT_ENG_20100104.0049	Afghanistan
+SF13_ENG_001	per:origin	AFP_ENG_20091022.0219	Hazara
+SF13_ENG_001	per:schools_attended	XIN_ENG_20090820.0039	Toloz University
+SF13_ENG_001	per:schools_attended	NYT_ENG_20090619.0062	University of Toulouse
+SF13_ENG_001	per:stateorprovince_of_birth	APW_ENG_20090818.0743	Ghazni
+SF13_ENG_001	per:stateorprovince_of_birth	LTW_ENG_20090811.0064	Ghazni Province
+SF13_ENG_001	per:statesorprovinces_of_residence	LTW_ENG_20090811.0064	Ghazni Province
+SF13_ENG_001	per:title	APW_ENG_20090725.0327	", a member"
+SF13_ENG_001	per:title	LTW_ENG_20090820.0102	A lawmaker
+SF13_ENG_001	per:title	LTW_ENG_20090820.0102	Cabinet minister
+SF13_ENG_001	per:title	AFP_ENG_20090816.0148	campaigner
+SF13_ENG_001	per:title	NYT_ENG_20091119.0137	candidate
+SF13_ENG_001	per:title	XIN_ENG_20090820.0039	Doctor
+SF13_ENG_001	per:title	XIN_ENG_20090819.0143	Dr.
+SF13_ENG_001	per:title	APW_ENG_20091031.0600	lawmaker
+SF13_ENG_001	per:title	NYT_ENG_20090816.0111	legislator
+SF13_ENG_001	per:title	APW_ENG_20090725.0213	member of parliament
+SF13_ENG_001	per:title	XIN_ENG_20091220.0054	parliamentarian
+SF13_ENG_001	per:title	XIN_ENG_20090825.0139	Planning Minister
+SF13_ENG_001	per:title	APW_ENG_20090820.0783	Presidential candidate
+SF13_ENG_001	per:title	APW_ENG_20090818.0743	representative
+SF13_ENG_001	per:title	NYT_ENG_20090619.0062	scholar
+SF13_ENG_002	per:age	AFP_ENG_20091118.0466	50
+SF13_ENG_002	per:countries_of_residence	AFP_ENG_20091118.0297	Dutchman
+SF13_ENG_002	per:employee_or_member_of	AFP_ENG_20091118.0289	Heineken
+SF13_ENG_002	per:employee_or_member_of	AFP_ENG_20101007.0269	M&amp;S
+SF13_ENG_002	per:employee_or_member_of	AFP_ENG_20101007.0269	M&S
+SF13_ENG_002	per:employee_or_member_of	AFP_ENG_20101109.0296	Marks & Spencer
+SF13_ENG_002	per:employee_or_member_of	APW_ENG_20101109.0538	Marks & Spencer Group PLC
+SF13_ENG_002	per:employee_or_member_of	AFP_ENG_20100127.0250	Morrison
+SF13_ENG_002	per:employee_or_member_of	APW_ENG_20100318.0722	Morrison Supermarkets
+SF13_ENG_002	per:employee_or_member_of	APW_ENG_20100318.0722	Morrison Supermarkets PLC
+SF13_ENG_002	per:employee_or_member_of	XIN_ENG_20091118.0174	Morrisons
+SF13_ENG_002	per:employee_or_member_of	APW_ENG_20101109.0538	Morrisons PLC
+SF13_ENG_002	per:origin	AFP_ENG_20100127.0250	Dutchman
+SF13_ENG_002	per:origin	AFP_ENG_20091118.0167	Netherlands
+SF13_ENG_002	per:title	APW_ENG_20100525.0198	CEO
+SF13_ENG_002	per:title	AFP_ENG_20100127.0250	chief
+SF13_ENG_002	per:title	AFP_ENG_20101007.0269	chief executive
+SF13_ENG_002	per:title	AFP_ENG_20091118.0167	chief operating officer
+SF13_ENG_003	per:countries_of_residence	AFP_ENG_20091118.0167	Briton
+SF13_ENG_003	per:employee_or_member_of	AFP_ENG_20100408.0500	M&amp;S
+SF13_ENG_003	per:employee_or_member_of	AFP_ENG_20100106.0511	M&S
+SF13_ENG_003	per:employee_or_member_of	AFP_ENG_20091104.0393	Marks
+SF13_ENG_003	per:employee_or_member_of	AFP_ENG_20100408.0594	Marks &amp; Spencer
+SF13_ENG_003	per:origin	AFP_ENG_20100127.0250	Britain
+SF13_ENG_003	per:origin	AFP_ENG_20091118.0194	British
+SF13_ENG_003	per:origin	AFP_ENG_20091118.0194	Briton
+SF13_ENG_003	per:title	AFP_ENG_20091123.0613	boss
+SF13_ENG_003	per:title	APW_ENG_20090622.0699	CEO
+SF13_ENG_003	per:title	AFP_ENG_20090701.0666	Chairman
+SF13_ENG_003	per:title	APW_ENG_20100318.0722	chief executive
+SF13_ENG_003	per:title	APW_ENG_20090701.0342	company chairman
+SF13_ENG_003	per:title	AFP_ENG_20100408.0415	executive chairman
+SF13_ENG_004	per:age	APW_ENG_20100924.0245	55
+SF13_ENG_004	per:employee_or_member_of	APW_ENG_20101108.0640	Audit Committee
+SF13_ENG_004	per:employee_or_member_of	APW_ENG_20101108.0640	BP 's Audit Committee
+SF13_ENG_004	per:employee_or_member_of	APW_ENG_20101108.0640	BP's Audit Committee
+SF13_ENG_004	per:employee_or_member_of	AFP_ENG_20100923.0314	HSBC
+SF13_ENG_004	per:title	APW_ENG_20101105.0339	chairman
+SF13_ENG_004	per:title	APW_ENG_20100924.0245	chief
+SF13_ENG_004	per:title	APW_ENG_20100924.0245	chief financial officer
+SF13_ENG_004	per:title	AFP_ENG_20101105.0323	director
+SF13_ENG_004	per:title	AFP_ENG_20100924.0251	Finance director
+SF13_ENG_005	per:age	APW_ENG_20091027.1087	48
+SF13_ENG_005	per:age	AFP_ENG_20100114.0009	49
+SF13_ENG_005	per:alternate_names	AFP_ENG_20091028.0133	Tahawwur Hussein Rana
+SF13_ENG_005	per:alternate_names	APW_ENG_20091207.0870	Tahawwur Rana
+SF13_ENG_005	per:alternate_names	XIN_ENG_20091117.0103	Tahawwur Rehman Rana
+SF13_ENG_005	per:charges	APW_ENG_20100318.1257	conspiracy
+SF13_ENG_005	per:charges	APW_ENG_20091027.0717	conspiracy to provide material support to a foreign terrorism conspiracy
+SF13_ENG_005	per:charges	AFP_ENG_20091215.0767	terror
+SF13_ENG_005	per:charges	XIN_ENG_20091117.0103	terror activities
+SF13_ENG_005	per:charges	XIN_ENG_20100213.0025	terrorist attacks
+SF13_ENG_005	per:cities_of_residence	APW_ENG_20091027.1087	Chicago
+SF13_ENG_005	per:countries_of_residence	APW_ENG_20091124.0539	Canada
+SF13_ENG_005	per:countries_of_residence	AFP_ENG_20100114.0009	Canadian
+SF13_ENG_005	per:countries_of_residence	AFP_ENG_20100316.0006	Pakistan
+SF13_ENG_005	per:countries_of_residence	APW_ENG_20091119.0188	Pakistani
+SF13_ENG_005	per:countries_of_residence	XIN_ENG_20091103.0202	U.S.
+SF13_ENG_005	per:country_of_birth	LTW_ENG_20091028.0076	Pakistan
+SF13_ENG_005	per:country_of_birth	APW_ENG_20091214.0857	Pakistani
+SF13_ENG_005	per:employee_or_member_of	LTW_ENG_20091208.0099	First World Immigration Services
+SF13_ENG_005	per:employee_or_member_of	NYT_ENG_20091207.0152	Iqbal Society
+SF13_ENG_005	per:origin	APW_ENG_20091214.0857	Canada
+SF13_ENG_005	per:origin	AFP_ENG_20091215.0046	Canadian
+SF13_ENG_005	per:origin	LTW_ENG_20091028.0076	Pakistan
+SF13_ENG_005	per:origin	APW_ENG_20101229.0395	U.S.
+SF13_ENG_005	per:religion	LTW_ENG_20091120.0112	Islamist
+SF13_ENG_005	per:schools_attended	APW_ENG_20091209.0048	Hasan Abdal Cadet College
+SF13_ENG_005	per:title	LTW_ENG_20091120.0112	businessman
+SF13_ENG_005	per:title	APW_ENG_20091110.0030	counselor
+SF13_ENG_005	per:title	LTW_ENG_20091120.0112	doctor
+SF13_ENG_005	per:title	LTW_ENG_20091120.0112	medical doctor
+SF13_ENG_005	per:title	XIN_ENG_20091117.0103	operatives
+SF13_ENG_005	per:title	APW_ENG_20100116.0014	owner
+SF13_ENG_005	per:title	XIN_ENG_20091112.0053	terrorists
+SF13_ENG_006	per:age	NYT_ENG_20090620.0004	13
+SF13_ENG_006	per:age	LTW_ENG_20090620.0093	87
+SF13_ENG_006	per:age	AFP_ENG_20090619.0538	88
+SF13_ENG_006	per:cause_of_death	LTW_ENG_20090620.0093	kidney failure
+SF13_ENG_006	per:cause_of_death	AFP_ENG_20090619.0538	prolonged kidney ailment
+SF13_ENG_006	per:children	LTW_ENG_20090620.0093	Aashish
+SF13_ENG_006	per:children	NYT_ENG_20090620.0004	Aashish Khan
+SF13_ENG_006	per:children	NYT_ENG_20090620.0004	Aasish
+SF13_ENG_006	per:children	LTW_ENG_20090620.0093	Alam
+SF13_ENG_006	per:children	LTW_ENG_20090620.0093	Manik
+SF13_ENG_006	per:cities_of_residence	NYT_ENG_20090620.0004	Bombay
+SF13_ENG_006	per:cities_of_residence	NYT_ENG_20090620.0004	Maihar
+SF13_ENG_006	per:cities_of_residence	NYT_ENG_20090620.0004	Mumbai
+SF13_ENG_006	per:city_of_birth	NYT_ENG_20090620.0004	Shibpur
+SF13_ENG_006	per:city_of_birth	LTW_ENG_20090620.0093	Shivpur
+SF13_ENG_006	per:city_of_death	NYT_ENG_20090620.0004	San Anselmo
+SF13_ENG_006	per:country_of_birth	LTW_ENG_20090620.0093	Bangladesh
+SF13_ENG_006	per:country_of_death	AFP_ENG_20090619.0538	United States
+SF13_ENG_006	per:date_of_birth	LTW_ENG_20090620.0093	4/14/1922
+SF13_ENG_006	per:date_of_birth	LTW_ENG_20090620.0093	14-Apr-22
+SF13_ENG_006	per:date_of_birth	APW_ENG_20090620.0267	1922-XX-XX
+SF13_ENG_006	per:date_of_death	NYT_ENG_20090620.0004	6/18/2009
+SF13_ENG_006	per:date_of_death	AFP_ENG_20090619.0538	6/19/2009
+SF13_ENG_006	per:date_of_death	AFP_ENG_20090619.0538	Friday
+SF13_ENG_006	per:employee_or_member_of	LTW_ENG_20090620.0093	Ali Akbar College of Music
+SF13_ENG_006	per:employee_or_member_of	NYT_ENG_20090620.0004	All-India Radio
+SF13_ENG_006	per:origin	AFP_ENG_20090619.0538	Indian
+SF13_ENG_006	per:other_family	NYT_ENG_20090620.0004	Ravi Shankar
+SF13_ENG_006	per:parents	NYT_ENG_20090620.0004	Allauddin Khan
+SF13_ENG_006	per:siblings	NYT_ENG_20090620.0004	Annapurna Devi
+SF13_ENG_006	per:spouse	NYT_ENG_20090620.0004	Mary
+SF13_ENG_006	per:spouse	LTW_ENG_20090620.0093	Mary Khan
+SF13_ENG_006	per:stateorprovince_of_birth	LTW_ENG_20090620.0093	East Bengal
+SF13_ENG_006	per:title	LTW_ENG_20090620.0093	Composer
+SF13_ENG_006	per:title	NYT_ENG_20090620.0004	music director
+SF13_ENG_006	per:title	APW_ENG_20090620.0267	musician
+SF13_ENG_006	per:title	NYT_ENG_20101001.0038	sarod player
+SF13_ENG_007	per:age	AFP_ENG_20100310.0068	81
+SF13_ENG_007	per:alternate_names	XIN_ENG_20100310.0006	Mohamed Sayyid Tantawi
+SF13_ENG_007	per:alternate_names	AFP_ENG_20091005.0342	Mohammed Tantawi
+SF13_ENG_007	per:cause_of_death	APW_ENG_20100310.0491	heart attack
+SF13_ENG_007	per:children	AFP_ENG_20100310.0352	Amr Tantawi
+SF13_ENG_007	per:city_of_birth	AFP_ENG_20100310.0143	Salim
+SF13_ENG_007	per:city_of_death	AFP_ENG_20100310.0549	Riyadh
+SF13_ENG_007	per:countries_of_residence	AFP_ENG_20100310.0422	Egypt
+SF13_ENG_007	per:countries_of_residence	AFP_ENG_20100310.0137	Egyptian
+SF13_ENG_007	per:country_of_death	AFP_ENG_20100310.0137	Saudi Arabia
+SF13_ENG_007	per:country_of_death	XIN_ENG_20100310.0296	Saudi_Arabia
+SF13_ENG_007	per:date_of_birth	NYT_ENG_20100311.0045	10/28/1928
+SF13_ENG_007	per:date_of_birth	AFP_ENG_20100310.0422	1928-XX-XX
+SF13_ENG_007	per:date_of_death	AFP_ENG_20100310.0068	3/10/2010
+SF13_ENG_007	per:date_of_death	AFP_ENG_20100319.0206	3/10/2012
+SF13_ENG_007	per:employee_or_member_of	XIN_ENG_20100310.0296	Al-Azhar
+SF13_ENG_007	per:employee_or_member_of	AFP_ENG_20091007.0254	Al-Azhar University
+SF13_ENG_007	per:employee_or_member_of	NYT_ENG_20100311.0045	Egypt
+SF13_ENG_007	per:origin	AFP_ENG_20100310.0068	Egypt
+SF13_ENG_007	per:origin	APW_ENG_20100310.0761	Egyptian
+SF13_ENG_007	per:religion	AFP_ENG_20100310.0068	Sunni Islam
+SF13_ENG_007	per:schools_attended	AFP_ENG_20100310.0422	Al-Azhar
+SF13_ENG_007	per:schools_attended	APW_ENG_20100310.0761	Al-Azhar University
+SF13_ENG_007	per:stateorprovince_of_birth	AFP_ENG_20100310.0223	Sohag
+SF13_ENG_007	per:stateorprovince_of_birth	AFP_ENG_20100310.0422	Sohag Governorate
+SF13_ENG_007	per:title	AFP_ENG_20100310.0422	cleric
+SF13_ENG_007	per:title	AFP_ENG_20100310.0561	Grand Imam
+SF13_ENG_007	per:title	NYT_ENG_20100311.0045	grand mufti
+SF13_ENG_007	per:title	AFP_ENG_20100310.0422	mufti
+SF13_ENG_007	per:title	APW_ENG_20100310.0761	scholar
+SF13_ENG_007	per:title	AFP_ENG_20100310.0281	the Grand Imam
+SF13_ENG_008	per:cause_of_death	AFP_ENG_20090709.0155	a heart attack
+SF13_ENG_008	per:cause_of_death	APW_ENG_20090709.0981	heart attack
+SF13_ENG_008	per:charges	AFP_ENG_20090707.0222	betting
+SF13_ENG_008	per:cities_of_residence	APW_ENG_20090707.1037	Paris
+SF13_ENG_008	per:city_of_death	AFP_ENG_20090708.0341	Boulogne-Billancourt
+SF13_ENG_008	per:city_of_death	APW_ENG_20090709.0981	Paris
+SF13_ENG_008	per:countries_of_residence	APW_ENG_20090707.0614	French
+SF13_ENG_008	per:origin	APW_ENG_20090707.0407	France
+SF13_ENG_008	per:origin	APW_ENG_20090707.1037	French
+SF13_ENG_008	per:title	APW_ENG_20090707.1297	player
+SF13_ENG_008	per:title	APW_ENG_20090707.1037	tennis player
+SF13_ENG_009	per:age	APW_ENG_20101224.0055	87
+SF13_ENG_009	per:age	AFP_ENG_20100620.0352	88
+SF13_ENG_009	per:cause_of_death	APW_ENG_20100619.0374	heart attack
+SF13_ENG_009	per:cause_of_death	AFP_ENG_20100620.0352	illness
+SF13_ENG_009	per:city_of_death	APW_ENG_20100619.0649	Karachi
+SF13_ENG_009	per:countries_of_residence	APW_ENG_20101102.0397	Pakistan
+SF13_ENG_009	per:employee_or_member_of	APW_ENG_20101102.0397	AIBA
+SF13_ENG_009	per:employee_or_member_of	AFP_ENG_20100620.0352	International Amateur Boxing Association
+SF13_ENG_009	per:employee_or_member_of	APW_ENG_20101224.0055	International Boxing Association
+SF13_ENG_009	per:employee_or_member_of	AFP_ENG_20100620.0352	International_Amateur_Boxing_Association
+SF13_ENG_009	per:employee_or_member_of	AFP_ENG_20100620.0352	Pakistan Boxing Federation
+SF13_ENG_009	per:employee_or_member_of	AFP_ENG_20100620.0352	the Pakistan Boxing Federation
+SF13_ENG_009	per:origin	APW_ENG_20101015.0397	Pakistan
+SF13_ENG_009	per:title	AFP_ENG_20100620.0352	boxing chief
+SF13_ENG_009	per:title	APW_ENG_20100619.0649	chief
+SF13_ENG_009	per:title	APW_ENG_20101224.0055	former head
+SF13_ENG_009	per:title	APW_ENG_20100804.0679	incumbent
+SF13_ENG_009	per:title	APW_ENG_20100619.0649	president
+SF13_ENG_009	per:title	eng-NG-31-139996-9856106	Prof
+SF13_ENG_009	per:title	APW_ENG_20100619.0374	Prof.
+SF13_ENG_009	per:title	APW_ENG_20100619.0374	Professor
+SF13_ENG_010	per:alternate_names	eng-NG-31-102405-10983292	RJD
+SF13_ENG_010	per:alternate_names	AFP_ENG_20100517.0732	Ronald James Padavona
+SF13_ENG_010	per:cause_of_death	APW_ENG_20100531.0419	stomach cancer
+SF13_ENG_010	per:children	APW_ENG_20100531.0419	Dan Padavona
+SF13_ENG_010	per:children	APW_ENG_20100517.0030	Daniel
+SF13_ENG_010	per:cities_of_residence	NYT_ENG_20100517.0003	Cortland
+SF13_ENG_010	per:city_of_death	NYT_ENG_20100517.0003	Los Angeles
+SF13_ENG_010	per:date_of_death	APW_ENG_20100516.0864	5/16/2010
+SF13_ENG_010	per:date_of_death	APW_ENG_20100516.0864	Sunday
+SF13_ENG_010	per:employee_or_member_of	APW_ENG_20100531.0419	Black Sabbath
+SF13_ENG_010	per:employee_or_member_of	APW_ENG_20100516.0824	Dio
+SF13_ENG_010	per:employee_or_member_of	APW_ENG_20100531.0419	Elf
+SF13_ENG_010	per:employee_or_member_of	APW_ENG_20100516.0824	Heaven and Hell
+SF13_ENG_010	per:employee_or_member_of	APW_ENG_20100531.0419	Rainbow
+SF13_ENG_010	per:origin	NYT_ENG_20090629.0075	American
+SF13_ENG_010	per:other_family	APW_ENG_20100531.0419	David Feinstein
+SF13_ENG_010	per:other_family	APW_ENG_20100517.0030	Joey
+SF13_ENG_010	per:other_family	APW_ENG_20100517.0030	Julie
+SF13_ENG_010	per:parents	NYT_ENG_20100517.0003	Pat Padavona
+SF13_ENG_010	per:spouse	APW_ENG_20100516.0783	Wendy Dio
+SF13_ENG_010	per:statesorprovinces_of_residence	AFP_ENG_20100517.0732	New York
+SF13_ENG_010	per:title	APW_ENG_20100531.0419	frontman
+SF13_ENG_010	per:title	APW_ENG_20100516.0864	lead singer
+SF13_ENG_010	per:title	NYT_ENG_20090629.0075	musician
+SF13_ENG_010	per:title	APW_ENG_20100531.0419	performer
+SF13_ENG_010	per:title	NYT_ENG_20100517.0003	singer
+SF13_ENG_010	per:title	AFP_ENG_20100516.0010	vocalist
+SF13_ENG_010	per:title	AFP_ENG_20100517.0732	voice
+SF13_ENG_011	per:age	LTW_ENG_20091009.0063	85
+SF13_ENG_011	per:alternate_names	eng-NG-31-142091-8682855	Anthony D. Marshall
+SF13_ENG_011	per:alternate_names	APW_ENG_20091220.0088	Tony
+SF13_ENG_011	per:charges	NYT_ENG_20090606.0134	battery
+SF13_ENG_011	per:charges	LTW_ENG_20091009.0063	conspiracy
+SF13_ENG_011	per:charges	AFP_ENG_20091008.0095	defrauding
+SF13_ENG_011	per:charges	NYT_ENG_20090728.0010	domestic violence
+SF13_ENG_011	per:charges	APW_ENG_20091205.0096	felony
+SF13_ENG_011	per:charges	APW_ENG_20091204.1380	first-degree grand larceny
+SF13_ENG_011	per:charges	APW_ENG_20090604.1085	forgery
+SF13_ENG_011	per:charges	APW_ENG_20090917.0010	fraud
+SF13_ENG_011	per:charges	AFP_ENG_20091009.0701	grand larceny
+SF13_ENG_011	per:charges	NYT_ENG_20091008.0150	larceny
+SF13_ENG_011	per:charges	APW_ENG_20091221.0974	looting
+SF13_ENG_011	per:charges	APW_ENG_20091221.0718	steal
+SF13_ENG_011	per:charges	AFP_ENG_20091008.0040	stealing
+SF13_ENG_011	per:children	LTW_ENG_20091009.0117	Philip
+SF13_ENG_011	per:children	APW_ENG_20090914.0312	Philip Marshall
+SF13_ENG_011	per:countries_of_residence	LTW_ENG_20091009.0063	U.S.
+SF13_ENG_011	per:countries_of_residence	AFP_ENG_20091009.0701	US
+SF13_ENG_011	per:employee_or_member_of	APW_ENG_20091222.0012	Marine
+SF13_ENG_011	per:employee_or_member_of	AFP_ENG_20091009.0701	Marine Corps
+SF13_ENG_011	per:employee_or_member_of	APW_ENG_20091220.0088	Marines
+SF13_ENG_011	per:employee_or_member_of	AFP_ENG_20091009.0701	US
+SF13_ENG_011	per:origin	NYT_ENG_20091010.0123	U.S.
+SF13_ENG_011	per:origin	LTW_ENG_20090916.0080	United States
+SF13_ENG_011	per:parents	APW_ENG_20090708.1139	Astor
+SF13_ENG_011	per:parents	AFP_ENG_20091008.0095	Brooke Astor
+SF13_ENG_011	per:parents	APW_ENG_20091220.0088	J. Dryden Kuser
+SF13_ENG_011	per:spouse	AFP_ENG_20091008.0040	Charlene
+SF13_ENG_011	per:spouse	NYT_ENG_20091008.0150	Charlene Marshall
+SF13_ENG_011	per:title	AFP_ENG_20091009.0701	ambassador
+SF13_ENG_011	per:title	APW_ENG_20091220.0088	author
+SF13_ENG_011	per:title	LTW_ENG_20090916.0080	diplomat
+SF13_ENG_011	per:title	APW_ENG_20091220.0088	Marine
+SF13_ENG_011	per:title	LTW_ENG_20091009.0117	producer
+SF13_ENG_012	per:age	APW_ENG_20100308.0287	31
+SF13_ENG_012	per:age	APW_ENG_20100307.0919	31-year-old
+SF13_ENG_012	per:alternate_names	WPB_ENG_20100307.0023	Abu Yahiya Gadahn
+SF13_ENG_012	per:alternate_names	eng-NG-31-142687-8719916	Adam Pearlman
+SF13_ENG_012	per:alternate_names	XIN_ENG_20100307.0085	Adam Yahiye Gadahn
+SF13_ENG_012	per:alternate_names	eng-NG-31-142148-8686773	Azzam al-Ameriki
+SF13_ENG_012	per:alternate_names	XIN_ENG_20100307.0085	Azzam Al-Amreeki
+SF13_ENG_012	per:alternate_names	APW_ENG_20100307.0264	Azzam al-Amriki
+SF13_ENG_012	per:alternate_names	AFP_ENG_20100307.0071	Azzam the American
+SF13_ENG_012	per:alternate_names	APW_ENG_20100307.0664	Yahya Majadin Adams
+SF13_ENG_012	per:charges	APW_ENG_20100307.0919	treason
+SF13_ENG_012	per:cities_of_residence	AFP_ENG_20090613.0235	Karachi
+SF13_ENG_012	per:countries_of_residence	AFP_ENG_20100307.0331	American
+SF13_ENG_012	per:countries_of_residence	APW_ENG_20100307.0664	Pakistan
+SF13_ENG_012	per:country_of_birth	XIN_ENG_20100307.0085	America
+SF13_ENG_012	per:country_of_birth	APW_ENG_20101001.0405	U.S.
+SF13_ENG_012	per:date_of_birth	AFP_ENG_20101023.0152	1978
+SF13_ENG_012	per:date_of_birth	XIN_ENG_20100307.0085	9/1/1978
+SF13_ENG_012	per:date_of_birth	AFP_ENG_20101023.0152	1978-XX-XX
+SF13_ENG_012	per:employee_or_member_of	AFP_ENG_20100105.0002	Al-Qaeda
+SF13_ENG_012	per:employee_or_member_of	APW_ENG_20090923.0299	al-Qaida
+SF13_ENG_012	per:employee_or_member_of	NYT_ENG_20100307.0135	Qaida
+SF13_ENG_012	per:origin	APW_ENG_20100620.0236	American
+SF13_ENG_012	per:origin	WPB_ENG_20100307.0023	U.S.
+SF13_ENG_012	per:religion	APW_ENG_20101023.0269	Islam
+SF13_ENG_012	per:religion	AFP_ENG_20101023.0152	Muslims
+SF13_ENG_012	per:stateorprovince_of_birth	XIN_ENG_20100307.0085	Oregon
+SF13_ENG_012	per:statesorprovinces_of_residence	XIN_ENG_20100307.0161	California
+SF13_ENG_012	per:title	eng-NG-31-113099-8152799	commander
+SF13_ENG_012	per:title	XIN_ENG_20100307.0085	operative
+SF13_ENG_012	per:title	XIN_ENG_20100307.0085	propagandist
+SF13_ENG_012	per:title	XIN_ENG_20100307.0161	spokesman
+SF13_ENG_013	per:age	AFP_ENG_20100722.0303	26
+SF13_ENG_013	per:age	AFP_ENG_20100722.0303	34
+SF13_ENG_013	per:charges	AFP_ENG_20100722.0303	treason
+SF13_ENG_013	per:countries_of_residence	AFP_ENG_20100722.0303	England
+SF13_ENG_013	per:countries_of_residence	AFP_ENG_20100722.0303	Zimbabwe
+SF13_ENG_013	per:countries_of_residence	APW_ENG_20101111.0455	Zimbabwean
+SF13_ENG_013	per:employee_or_member_of	APW_ENG_20101111.0487	Lashings World XI
+SF13_ENG_013	per:employee_or_member_of	AFP_ENG_20100722.0303	Zimbabwe
+SF13_ENG_013	per:origin	AFP_ENG_20100722.0303	Zimbabwe
+SF13_ENG_013	per:origin	APW_ENG_20101111.0455	Zimbabwean
+SF13_ENG_013	per:title	AFP_ENG_20100722.0303	black player
+SF13_ENG_013	per:title	AFP_ENG_20100722.0303	bowler
+SF13_ENG_013	per:title	APW_ENG_20101111.0455	cricketer
+SF13_ENG_013	per:title	AFP_ENG_20100722.0303	fast bowler
+SF13_ENG_013	per:title	AFP_ENG_20100722.0303	player
+SF13_ENG_014	per:age	NYT_ENG_20100704.0043	73
+SF13_ENG_014	per:alternate_names	NYT_ENG_20100818.0143	Abu Daoud
+SF13_ENG_014	per:cause_of_death	XIN_ENG_20100703.0022	kidney disease
+SF13_ENG_014	per:cause_of_death	NYT_ENG_20100704.0043	kidney failure
+SF13_ENG_014	per:children	NYT_ENG_20100704.0043	Hana
+SF13_ENG_014	per:children	NYT_ENG_20100704.0043	Wafa
+SF13_ENG_014	per:cities_of_residence	NYT_ENG_20100704.0043	Jerusalem
+SF13_ENG_014	per:cities_of_residence	NYT_ENG_20100704.0043	Ramallah
+SF13_ENG_014	per:city_of_birth	NYT_ENG_20100704.0043	Jerusalem
+SF13_ENG_014	per:city_of_death	NYT_ENG_20100704.0043	Damascus
+SF13_ENG_014	per:countries_of_residence	NYT_ENG_20100704.0043	Jordan
+SF13_ENG_014	per:countries_of_residence	NYT_ENG_20100704.0043	Lebanon
+SF13_ENG_014	per:date_of_birth	NYT_ENG_20100704.0043	1937
+SF13_ENG_014	per:date_of_birth	NYT_ENG_20100704.0043	1937-XX-XX
+SF13_ENG_014	per:date_of_death	NYT_ENG_20100704.0043	7/2/2010
+SF13_ENG_014	per:date_of_death	XIN_ENG_20100703.0063	7/3/2010
+SF13_ENG_014	per:date_of_death	NYT_ENG_20100818.0143	2010-07-XX
+SF13_ENG_014	per:date_of_death	NYT_ENG_20100704.0043	Friday
+SF13_ENG_014	per:date_of_death	XIN_ENG_20100703.0022	Saturday
+SF13_ENG_014	per:employee_or_member_of	XIN_ENG_20100703.0063	Black September
+SF13_ENG_014	per:employee_or_member_of	NYT_ENG_20100704.0043	Fatah Revolutionary Council
+SF13_ENG_014	per:employee_or_member_of	NYT_ENG_20100704.0043	Palestine Liberation Organization
+SF13_ENG_014	per:employee_or_member_of	NYT_ENG_20100704.0043	PLO
+SF13_ENG_014	per:origin	XIN_ENG_20100703.0063	Palestine
+SF13_ENG_014	per:origin	XIN_ENG_20100703.0063	Palestinian
+SF13_ENG_014	per:stateorprovince_of_death	NYT_ENG_20100704.0043	Damascus
+SF13_ENG_014	per:title	NYT_ENG_20100704.0043	former math teacher
+SF13_ENG_014	per:title	NYT_ENG_20100704.0043	lawyer
+SF13_ENG_014	per:title	XIN_ENG_20100703.0063	leader
+SF13_ENG_014	per:title	NYT_ENG_20100704.0043	math teacher
+SF13_ENG_014	per:title	NYT_ENG_20100704.0043	teacher
+SF13_ENG_015	per:age	NYT_ENG_20100217.0056	73
+SF13_ENG_015	per:children	NYT_ENG_20100217.0056	Alexia
+SF13_ENG_015	per:children	NYT_ENG_20100217.0056	Channing
+SF13_ENG_015	per:children	NYT_ENG_20100217.0056	Frederica
+SF13_ENG_015	per:children	NYT_ENG_20100217.0056	Gillian
+SF13_ENG_015	per:children	WPB_ENG_20100221.0011	Gillian Clifton-Monell
+SF13_ENG_015	per:children	NYT_ENG_20100217.0056	Graham
+SF13_ENG_015	per:children	NYT_ENG_20100217.0056	Sidney
+SF13_ENG_015	per:children	WPB_ENG_20100221.0011	Sidney Clifton
+SF13_ENG_015	per:cities_of_residence	WPB_ENG_20100221.0011	Baltimore
+SF13_ENG_015	per:cities_of_residence	NYT_ENG_20100217.0056	Buffalo
+SF13_ENG_015	per:cities_of_residence	NYT_ENG_20100217.0056	Columbia
+SF13_ENG_015	per:city_of_birth	NYT_ENG_20100217.0056	Depew
+SF13_ENG_015	per:city_of_death	NYT_ENG_20100217.0056	Baltimore
+SF13_ENG_015	per:date_of_birth	WPB_ENG_20100221.0011	6/27/1936
+SF13_ENG_015	per:date_of_death	WPB_ENG_20100221.0011	2/13/2010
+SF13_ENG_015	per:date_of_death	NYT_ENG_20101005.0054	2010-02-XX
+SF13_ENG_015	per:employee_or_member_of	NYT_ENG_20100217.0056	Coppin State College
+SF13_ENG_015	per:employee_or_member_of	WPB_ENG_20100221.0011	Office of Education
+SF13_ENG_015	per:employee_or_member_of	NYT_ENG_20100217.0056	St. Mary's College of Maryland
+SF13_ENG_015	per:employee_or_member_of	WPB_ENG_20100221.0011	the University of California at Santa Cruz
+SF13_ENG_015	per:employee_or_member_of	WPB_ENG_20100221.0011	U.S. Office of Education
+SF13_ENG_015	per:employee_or_member_of	WPB_ENG_20100221.0011	University of California
+SF13_ENG_015	per:employee_or_member_of	NYT_ENG_20100217.0056	"University of California, Santa Cruz"
+SF13_ENG_015	per:origin	WPB_ENG_20100221.0011	African
+SF13_ENG_015	per:origin	NYT_ENG_20101005.0054	American
+SF13_ENG_015	per:parents	NYT_ENG_20100217.0056	Samuel
+SF13_ENG_015	per:parents	NYT_ENG_20100217.0056	Thelma
+SF13_ENG_015	per:schools_attended	NYT_ENG_20100217.0056	Howard University
+SF13_ENG_015	per:siblings	NYT_ENG_20100217.0056	Elaine Philip
+SF13_ENG_015	per:spouse	NYT_ENG_20100217.0056	Fred Clifton
+SF13_ENG_015	per:title	NYT_ENG_20101005.0054	poet
+SF13_ENG_015	per:title	NYT_ENG_20100217.0056	poet laureate
+SF13_ENG_015	per:title	WPB_ENG_20100221.0011	visiting professor
+SF13_ENG_015	per:title	NYT_ENG_20101005.0054	writer
+SF13_ENG_015	per:title	NYT_ENG_20100217.0056	writer in residence
+SF13_ENG_016	per:charges	APW_ENG_20100525.0070	"possession of marijuana, cocaine and syringes"
+SF13_ENG_016	per:cities_of_residence	APW_ENG_20100525.1233	Johnston
+SF13_ENG_016	per:employee_or_member_of	APW_ENG_20100524.1135	Slipknot
+SF13_ENG_016	per:spouse	APW_ENG_20100526.0071	Brenna
+SF13_ENG_016	per:spouse	APW_ENG_20100526.0037	Brenna Gray
+SF13_ENG_016	per:stateorprovince_of_death	AFP_ENG_20100525.0732	Iowa
+SF13_ENG_016	per:statesorprovinces_of_residence	APW_ENG_20100525.1123	Iowa
+SF13_ENG_016	per:title	AFP_ENG_20100525.0732	bass guitarist
+SF13_ENG_016	per:title	AFP_ENG_20100525.0093	bassist
+SF13_ENG_016	per:title	AFP_ENG_20100525.0093	star
+SF13_ENG_017	per:alternate_names	NYT_ENG_20100220.0052	Alexander M. Haig Jr.
+SF13_ENG_017	per:alternate_names	APW_ENG_20100221.0007	Alexander Meigs Haig
+SF13_ENG_017	per:alternate_names	AFP_ENG_20100220.0076	"Alexander Meigs Haig, Jr."
+SF13_ENG_017	per:cause_of_death	WPB_ENG_20100220.0001	complications from an infection
+SF13_ENG_017	per:children	APW_ENG_20100221.0007	Alexander
+SF13_ENG_017	per:children	APW_ENG_20100221.0007	Barbara
+SF13_ENG_017	per:children	WPB_ENG_20100220.0001	Brian
+SF13_ENG_017	per:city_of_death	XIN_ENG_20100221.0124	Baltimore
+SF13_ENG_017	per:countries_of_residence	AFP_ENG_20100220.0161	American
+SF13_ENG_017	per:countries_of_residence	XIN_ENG_20100220.0115	US
+SF13_ENG_017	per:date_of_death	AFP_ENG_20100220.0261	2/20/2010
+SF13_ENG_017	per:date_of_death	NYT_ENG_20100220.0106	Saturday
+SF13_ENG_017	per:employee_or_member_of	XIN_ENG_20100221.0124	Army
+SF13_ENG_017	per:employee_or_member_of	NYT_ENG_20100220.0106	National Security Council
+SF13_ENG_017	per:employee_or_member_of	AFP_ENG_20100220.0185	NATO
+SF13_ENG_017	per:employee_or_member_of	AFP_ENG_20100220.0076	Pentagon
+SF13_ENG_017	per:employee_or_member_of	AFP_ENG_20100220.0076	the Pentagon
+SF13_ENG_017	per:employee_or_member_of	WPB_ENG_20100220.0001	United States
+SF13_ENG_017	per:employee_or_member_of	APW_ENG_20100221.0007	United Technologies
+SF13_ENG_017	per:employee_or_member_of	XIN_ENG_20100220.0115	US
+SF13_ENG_017	per:employee_or_member_of	APW_ENG_20100221.0007	White House
+SF13_ENG_017	per:employee_or_member_of	NYT_ENG_20100220.0106	Worldwide Associates
+SF13_ENG_017	per:origin	NYT_ENG_20100220.0106	American
+SF13_ENG_017	per:origin	AFP_ENG_20101212.0378	United States
+SF13_ENG_017	per:origin	AFP_ENG_20100219.0160	US
+SF13_ENG_017	per:schools_attended	WPB_ENG_20100220.0001	Georgetown
+SF13_ENG_017	per:schools_attended	WPB_ENG_20100220.0001	U.S. Military Academy
+SF13_ENG_017	per:siblings	APW_ENG_20100221.0007	Francis R. Haig
+SF13_ENG_017	per:spouse	WPB_ENG_20100220.0001	Fox
+SF13_ENG_017	per:spouse	APW_ENG_20100221.0007	Patricia
+SF13_ENG_017	per:spouse	NYT_ENG_20100220.0052	Patricia Fox
+SF13_ENG_017	per:stateorprovince_of_death	AFP_ENG_20100220.0261	Maryland
+SF13_ENG_017	per:title	XIN_ENG_20100220.0115	adviser
+SF13_ENG_017	per:title	eng-WL-11-99173-9828905	aide
+SF13_ENG_017	per:title	AFP_ENG_20100220.0076	battalion commander
+SF13_ENG_017	per:title	WPB_ENG_20100220.0001	brigadier general
+SF13_ENG_017	per:title	AFP_ENG_20100220.0076	chief of staff
+SF13_ENG_017	per:title	NYT_ENG_20100220.0052	Col.
+SF13_ENG_017	per:title	APW_ENG_20100221.0007	colonel
+SF13_ENG_017	per:title	APW_ENG_20100221.0007	commander in chief
+SF13_ENG_017	per:title	WPB_ENG_20100220.0001	deputy
+SF13_ENG_017	per:title	APW_ENG_20100221.0007	diplomat
+SF13_ENG_017	per:title	NYT_ENG_20100220.0052	Gen.
+SF13_ENG_017	per:title	AFP_ENG_20100219.0160	General
+SF13_ENG_017	per:title	NYT_ENG_20100220.0106	Lieutenant
+SF13_ENG_017	per:title	NYT_ENG_20100220.0052	lieutenant colonel
+SF13_ENG_017	per:title	eng-NG-31-151724-8810314	lobbyist
+SF13_ENG_017	per:title	APW_ENG_20100221.0007	military adviser
+SF13_ENG_017	per:title	eng-NG-31-142154-10030019	Military Assistant
+SF13_ENG_017	per:title	WPB_ENG_20100220.0001	president
+SF13_ENG_017	per:title	eng-NG-31-128493-9287479	secretary
+SF13_ENG_017	per:title	AFP_ENG_20100220.0263	secretary of state
+SF13_ENG_017	per:title	APW_ENG_20101224.0033	soldier
+SF13_ENG_017	per:title	XIN_ENG_20100220.0115	State Secretary
+SF13_ENG_017	per:title	APW_ENG_20101224.0033	statesman
+SF13_ENG_017	per:title	APW_ENG_20100221.0007	supreme allied commander
+SF13_ENG_017	per:title	APW_ENG_20100221.0007	vice chief of staff
+SF13_ENG_018	per:alternate_names	WPB_ENG_20100713.0035	Harvey Lawrence Pekar
+SF13_ENG_018	per:children	NYT_ENG_20100712.0143	Danielle
+SF13_ENG_018	per:cities_of_residence	NYT_ENG_20100905.0022	Cleveland
+SF13_ENG_018	per:cities_of_residence	NYT_ENG_20100712.0143	Cleveland Heights
+SF13_ENG_018	per:country_of_death	APW_ENG_20100712.0934	US
+SF13_ENG_018	per:date_of_death	WPB_ENG_20100713.0032	7/12/2010
+SF13_ENG_018	per:date_of_death	NYT_ENG_20100905.0022	XXXX-07-12
+SF13_ENG_018	per:employee_or_member_of	NYT_ENG_20100712.0143	Jazz Review
+SF13_ENG_018	per:origin	APW_ENG_20100712.0934	American
+SF13_ENG_018	per:religion	NYT_ENG_20100712.0143	Jewish
+SF13_ENG_018	per:schools_attended	WPB_ENG_20100713.0035	Case Western Reserve University
+SF13_ENG_018	per:spouse	NYT_ENG_20100905.0022	Brabner
+SF13_ENG_018	per:spouse	WPB_ENG_20100714.0022	Joyce Brabner
+SF13_ENG_018	per:stateorprovince_of_death	AFP_ENG_20100712.0205	Ohio
+SF13_ENG_018	per:statesorprovinces_of_residence	APW_ENG_20100712.0726	Ohio
+SF13_ENG_018	per:title	NYT_ENG_20100901.0034	artist
+SF13_ENG_018	per:title	APW_ENG_20100712.0759	book writer
+SF13_ENG_018	per:title	NYT_ENG_20100819.0062	cartoonist
+SF13_ENG_018	per:title	NYT_ENG_20100723.0062	creator
+SF13_ENG_018	per:title	NYT_ENG_20090901.0220	critic
+SF13_ENG_018	per:title	WPB_ENG_20100713.0035	Editor
+SF13_ENG_018	per:title	NYT_ENG_20100712.0143	file clerk
+SF13_ENG_018	per:title	NYT_ENG_20100901.0034	graphic artist
+SF13_ENG_018	per:title	WPB_ENG_20100713.0035	jazz critic
+SF13_ENG_018	per:title	WPB_ENG_20100714.0022	Writer
+SF13_ENG_019	per:age	NYT_ENG_20101207.0128	47
+SF13_ENG_019	per:age	NYT_ENG_20100420.0040	48
+SF13_ENG_019	per:alternate_names	NYT_ENG_20090716.0009	Keli S. McGregor
+SF13_ENG_019	per:cause_of_death	AFP_ENG_20100729.0049	natural causes
+SF13_ENG_019	per:cause_of_death	NYT_ENG_20101207.0128	viral heart infection
+SF13_ENG_019	per:children	NYT_ENG_20100420.0165	Jordan
+SF13_ENG_019	per:children	NYT_ENG_20100420.0165	Landri
+SF13_ENG_019	per:children	NYT_ENG_20100420.0165	Logan
+SF13_ENG_019	per:children	NYT_ENG_20100420.0165	Taylor
+SF13_ENG_019	per:city_of_death	NYT_ENG_20100420.0165	Salt Lake City
+SF13_ENG_019	per:date_of_death	AFP_ENG_20100729.0049	4/20/2010
+SF13_ENG_019	per:employee_or_member_of	NYT_ENG_20100420.0165	All-Century Team
+SF13_ENG_019	per:employee_or_member_of	NYT_ENG_20100420.0040	Broncos
+SF13_ENG_019	per:employee_or_member_of	NYT_ENG_20100420.0165	Colorado Rockies
+SF13_ENG_019	per:employee_or_member_of	NYT_ENG_20090716.0009	Colorado State
+SF13_ENG_019	per:employee_or_member_of	NYT_ENG_20100420.0040	Colorado State Hall of Fame
+SF13_ENG_019	per:employee_or_member_of	NYT_ENG_20100420.0165	Colorado State University
+SF13_ENG_019	per:employee_or_member_of	AFP_ENG_20100729.0049	Denver Broncos
+SF13_ENG_019	per:employee_or_member_of	AFP_ENG_20100421.0701	Indianapolis Colts
+SF13_ENG_019	per:employee_or_member_of	AFP_ENG_20100421.0701	National Football League
+SF13_ENG_019	per:employee_or_member_of	APW_ENG_20090604.1437	Rockies
+SF13_ENG_019	per:employee_or_member_of	AFP_ENG_20100421.0701	Seattle Seahawks
+SF13_ENG_019	per:employee_or_member_of	AFP_ENG_20100421.0701	the Denver Broncos
+SF13_ENG_019	per:employee_or_member_of	NYT_ENG_20100420.0040	University of Arkansas
+SF13_ENG_019	per:origin	NYT_ENG_20100420.0165	American
+SF13_ENG_019	per:parents	NYT_ENG_20100420.0165	Brian
+SF13_ENG_019	per:schools_attended	NYT_ENG_20100420.0165	Colorado State University
+SF13_ENG_019	per:schools_attended	NYT_ENG_20100420.0040	Lakewood High
+SF13_ENG_019	per:schools_attended	NYT_ENG_20100420.0165	University of Florida
+SF13_ENG_019	per:spouse	NYT_ENG_20100420.0040	Lori
+SF13_ENG_019	per:stateorprovince_of_death	AFP_ENG_20100729.0049	Utah
+SF13_ENG_019	per:statesorprovinces_of_residence	NYT_ENG_20100420.0165	Colorado
+SF13_ENG_019	per:title	APW_ENG_20090604.1437	president
+SF13_ENG_019	per:title	NYT_ENG_20090604.0130	Rockies president
+SF13_ENG_019	per:title	NYT_ENG_20100420.0040	senior vice president
+SF13_ENG_020	per:age	LTW_ENG_20091129.0047	52
+SF13_ENG_020	per:alternate_names	AFP_ENG_20091129.0465	Christine Daniels
+SF13_ENG_020	per:cities_of_residence	APW_ENG_20091128.0600	Los Angeles
+SF13_ENG_020	per:city_of_birth	LTW_ENG_20091129.0047	Inglewood
+SF13_ENG_020	per:city_of_death	AFP_ENG_20091128.0100	Los Angeles
+SF13_ENG_020	per:date_of_birth	LTW_ENG_20091129.0047	10/10/1957
+SF13_ENG_020	per:date_of_death	AFP_ENG_20091129.0465	11/27/2009
+SF13_ENG_020	per:date_of_death	AFP_ENG_20091129.0465	Friday
+SF13_ENG_020	per:employee_or_member_of	LTW_ENG_20091129.0047	Anaheim Bulletin
+SF13_ENG_020	per:employee_or_member_of	LTW_ENG_20091129.0047	L.A. Times
+SF13_ENG_020	per:employee_or_member_of	NYT_ENG_20100116.0110	Los Angeles Times
+SF13_ENG_020	per:employee_or_member_of	AFP_ENG_20091128.0100	The Times
+SF13_ENG_020	per:employee_or_member_of	LTW_ENG_20091129.0048	Times
+SF13_ENG_020	per:title	LTW_ENG_20091129.0047	journalist
+SF13_ENG_020	per:title	AFP_ENG_20091129.0465	sports writer
+SF13_ENG_020	per:title	LTW_ENG_20091129.0047	Sportswriter
+SF13_ENG_021	per:age	APW_ENG_20100921.0712	43
+SF13_ENG_021	per:charges	APW_ENG_20101022.0889	10 counts of aggravated assault for each sexual partner
+SF13_ENG_021	per:charges	APW_ENG_20100921.0712	adultery
+SF13_ENG_021	per:charges	APW_ENG_20101022.0887	aggravated assault
+SF13_ENG_021	per:charges	APW_ENG_20100921.0712	indecent acts
+SF13_ENG_021	per:charges	APW_ENG_20101022.0889	multiple indecent acts
+SF13_ENG_021	per:charges	APW_ENG_20100921.0712	obstruction of justice
+SF13_ENG_021	per:charges	APW_ENG_20101022.0887	violating his commander's order
+SF13_ENG_021	per:charges	APW_ENG_20101022.0889	violating his squadron commander's October 2009 order
+SF13_ENG_021	per:charges	APW_ENG_20100921.0712	violating military law
+SF13_ENG_021	per:cities_of_residence	APW_ENG_20101022.0887	Wichita
+SF13_ENG_021	per:employee_or_member_of	APW_ENG_20101005.0729	Maintenance Operations Squadron
+SF13_ENG_021	per:statesorprovinces_of_residence	APW_ENG_20101022.0889	Kansas
+SF13_ENG_021	per:title	APW_ENG_20101005.0698	Tech Sgt.
+SF13_ENG_021	per:title	APW_ENG_20100921.0712	Tech. Sgt.
+SF13_ENG_022	per:age	AFP_ENG_20100522.0132	37
+SF13_ENG_022	per:alternate_names	XIN_ENG_20100520.0274	Ata
+SF13_ENG_022	per:alternate_names	APW_ENG_20100520.0410	Mikel Kabikoitz Carrera Sarobe
+SF13_ENG_022	per:alternate_names	NYT_ENG_20100906.0083	Mikel Kabikoitz Karrera Sarobe
+SF13_ENG_022	per:charges	APW_ENG_20100723.1076	aggravated homicide
+SF13_ENG_022	per:charges	APW_ENG_20100723.1076	attempted homicide
+SF13_ENG_022	per:charges	AFP_ENG_20100524.0080	criminal association
+SF13_ENG_022	per:charges	AFP_ENG_20100524.0080	possession of false documents
+SF13_ENG_022	per:charges	AFP_ENG_20100524.0419	terrorism
+SF13_ENG_022	per:charges	AFP_ENG_20100524.0080	violation of weapons laws
+SF13_ENG_022	per:employee_or_member_of	AFP_ENG_20100319.0199	ETA
+SF13_ENG_022	per:origin	AFP_ENG_20100520.0670	Spanish
+SF13_ENG_022	per:title	AFP_ENG_20100520.0465	commander
+SF13_ENG_022	per:title	XIN_ENG_20100520.0289	ETA leader
+SF13_ENG_022	per:title	AFP_ENG_20100319.0199	military chief
+SF13_ENG_022	per:title	XIN_ENG_20100601.0306	military leader
+SF13_ENG_023	per:employee_or_member_of	LTW_ENG_20091204.0009	Baltimore
+SF13_ENG_023	per:employee_or_member_of	NYT_ENG_20091110.0004	Democratic Party
+SF13_ENG_023	per:title	eng-NG-31-143594-10248883	Ave.  Mayor
+SF13_ENG_023	per:title	NYT_ENG_20091109.0061	female mayor
+SF13_ENG_023	per:title	NYT_ENG_20091201.0024	Mayor
+SF13_ENG_023	per:title	NYT_ENG_20091109.0061	public school teacher
+SF13_ENG_023	per:title	eng-NG-31-143594-10248531	St.  Mayor
+SF13_ENG_023	per:title	NYT_ENG_20091109.0061	teacher
+SF13_ENG_024	per:age	APW_ENG_20090630.1118	38
+SF13_ENG_024	per:alternate_names	APW_ENG_20090904.0016	Cristal Taylor
+SF13_ENG_024	per:charges	APW_ENG_20090623.0835	failing to pay
+SF13_ENG_024	per:charges	APW_ENG_20090630.1181	forgery
+SF13_ENG_024	per:charges	APW_ENG_20090630.1118	probation violation
+SF13_ENG_024	per:charges	APW_ENG_20090630.1181	stealing
+SF13_ENG_024	per:charges	APW_ENG_20090630.1181	theft
+SF13_ENG_024	per:date_of_birth	APW_ENG_20090630.1118	1971-XX-XX
+SF13_ENG_025	per:age	AFP_ENG_20100112.0689	45
+SF13_ENG_025	per:age	APW_ENG_20101119.0182	46
+SF13_ENG_025	per:alternate_names	AFP_ENG_20100211.0778	milkshake murderer
+SF13_ENG_025	per:charges	AFP_ENG_20100211.0626	milkshake murder
+SF13_ENG_025	per:charges	APW_ENG_20101101.0169	murder
+SF13_ENG_025	per:cities_of_residence	APW_ENG_20100211.0214	Adrian
+SF13_ENG_025	per:cities_of_residence	APW_ENG_20100211.1034	Hong Kong
+SF13_ENG_025	per:cities_of_residence	APW_ENG_20100211.0189	Minneapolis
+SF13_ENG_025	per:city_of_birth	APW_ENG_20100211.0189	Adrian
+SF13_ENG_025	per:origin	AFP_ENG_20100211.0697	American
+SF13_ENG_025	per:other_family	APW_ENG_20100211.1034	Andrew Kissel
+SF13_ENG_025	per:other_family	APW_ENG_20100211.0683	Jane Kissel Clayton
+SF13_ENG_025	per:parents	AFP_ENG_20100112.0512	Ira Keeshin
+SF13_ENG_025	per:parents	APW_ENG_20100112.0447	Jean McGlothlin
+SF13_ENG_025	per:parents	AFP_ENG_20100112.0679	Jean McGothlin
+SF13_ENG_025	per:siblings	AFP_ENG_20100112.0512	Brooks Keeshin
+SF13_ENG_025	per:spouse	APW_ENG_20100112.0294	Robert
+SF13_ENG_025	per:spouse	APW_ENG_20101216.0760	Robert Kissel
+SF13_ENG_025	per:stateorprovince_of_birth	APW_ENG_20100112.0447	Michigan
+SF13_ENG_025	per:statesorprovinces_of_residence	APW_ENG_20100112.0447	Michigan
+SF13_ENG_026	per:alternate_names	XIN_ENG_20100808.0131	Patrick Neal
+SF13_ENG_026	per:cause_of_death	XIN_ENG_20100808.0131	lung cancer
+SF13_ENG_026	per:children	WPB_ENG_20100809.0015	Lucy
+SF13_ENG_026	per:children	WPB_ENG_20100809.0015	Olivia
+SF13_ENG_026	per:children	WPB_ENG_20100809.0015	Ophelia
+SF13_ENG_026	per:children	APW_ENG_20100809.0098	Tessa Dahl
+SF13_ENG_026	per:children	WPB_ENG_20100809.0015	Theo
+SF13_ENG_026	per:cities_of_residence	APW_ENG_20100809.0084	Edgarton
+SF13_ENG_026	per:cities_of_residence	APW_ENG_20100809.0107	Edgartown
+SF13_ENG_026	per:cities_of_residence	NYT_ENG_20100809.0006	Knoxville
+SF13_ENG_026	per:cities_of_residence	NYT_ENG_20100809.0006	Manhattan
+SF13_ENG_026	per:city_of_death	APW_ENG_20100809.0084	Edgarton
+SF13_ENG_026	per:city_of_death	APW_ENG_20100809.0098	Edgartown
+SF13_ENG_026	per:countries_of_residence	AFP_ENG_20100809.0493	US
+SF13_ENG_026	per:date_of_death	XIN_ENG_20100808.0131	8/8/2010
+SF13_ENG_026	per:employee_or_member_of	WPB_ENG_20100809.0015	BBC
+SF13_ENG_026	per:employee_or_member_of	WPB_ENG_20100809.0015	Warner Bros.
+SF13_ENG_026	per:origin	APW_ENG_20100113.0020	U.S.
+SF13_ENG_026	per:origin	AFP_ENG_20100809.0118	US
+SF13_ENG_026	per:schools_attended	APW_ENG_20100809.0098	Northwestern University
+SF13_ENG_026	per:siblings	NYT_ENG_20100810.0200	Margaret Ann VandeNoord
+SF13_ENG_026	per:spouse	APW_ENG_20100809.0098	Roald Dahl
+SF13_ENG_026	per:stateorprovince_of_death	APW_ENG_20100809.0284	Mass.
+SF13_ENG_026	per:stateorprovince_of_death	APW_ENG_20100809.0083	Massachusetts
+SF13_ENG_026	per:statesorprovinces_of_residence	NYT_ENG_20100809.0006	Mass.
+SF13_ENG_026	per:statesorprovinces_of_residence	AFP_ENG_20100809.0118	Massachusetts
+SF13_ENG_026	per:statesorprovinces_of_residence	WPB_ENG_20100809.0015	New York
+SF13_ENG_026	per:statesorprovinces_of_residence	WPB_ENG_20100809.0015	Tenn.
+SF13_ENG_026	per:statesorprovinces_of_residence	NYT_ENG_20100809.0006	Tennessee
+SF13_ENG_026	per:title	APW_ENG_20100809.0098	actress
+SF13_ENG_027	per:age	NYT_ENG_20090826.0108	59
+SF13_ENG_027	per:alternate_names	eng-WL-11-99173-12235966	Abdel Aziz al-Hakim
+SF13_ENG_027	per:alternate_names	XIN_ENG_20090826.0020	Abdul Aziz Hakim
+SF13_ENG_027	per:cause_of_death	NYT_ENG_20090831.0146	cancer
+SF13_ENG_027	per:cause_of_death	eng-WL-11-99173-12235963	lung cancer
+SF13_ENG_027	per:children	NYT_ENG_20090705.0106	Amar al-Hakim
+SF13_ENG_027	per:children	XIN_ENG_20090901.0027	Ammar
+SF13_ENG_027	per:children	XIN_ENG_20090930.0009	Ammar Abdul Aziz al-Hakim
+SF13_ENG_027	per:children	NYT_ENG_20090826.0100	Ammar al-Hakim
+SF13_ENG_027	per:children	AFP_ENG_20090826.0306	Ammar Hakim
+SF13_ENG_027	per:children	AFP_ENG_20090826.0460	Mohsen Hakim
+SF13_ENG_027	per:city_of_death	XIN_ENG_20090826.0011	Tehran
+SF13_ENG_027	per:countries_of_residence	eng-WL-11-99173-12235966	Iran
+SF13_ENG_027	per:countries_of_residence	XIN_ENG_20090607.0007	Iraq
+SF13_ENG_027	per:countries_of_residence	APW_ENG_20090826.0595	Iraqi
+SF13_ENG_027	per:country_of_death	APW_ENG_20090826.0641	Iran
+SF13_ENG_027	per:date_of_death	XIN_ENG_20090827.0007	8/26/2009
+SF13_ENG_027	per:date_of_death	APW_ENG_20090829.0312	Wednesday
+SF13_ENG_027	per:employee_or_member_of	eng-NG-31-142149-10025328	Badr Organisation
+SF13_ENG_027	per:employee_or_member_of	LTW_ENG_20090827.0077	Badr Organization
+SF13_ENG_027	per:employee_or_member_of	XIN_ENG_20090826.0012	Iraqi Governing Council
+SF13_ENG_027	per:employee_or_member_of	eng-WL-11-99173-12235983	ISCI
+SF13_ENG_027	per:employee_or_member_of	eng-NG-31-142679-10067913	Islamic Supreme Council of Iraq
+SF13_ENG_027	per:employee_or_member_of	APW_ENG_20090831.0466	Party
+SF13_ENG_027	per:employee_or_member_of	XIN_ENG_20090826.0020	SIIC
+SF13_ENG_027	per:employee_or_member_of	eng-WL-11-99173-12235963	Supreme Council
+SF13_ENG_027	per:employee_or_member_of	eng-WL-11-99173-12235966	Supreme Iraqi Islamic Council
+SF13_ENG_027	per:employee_or_member_of	eng-WL-11-99173-10950269	Supreme Islamic Iraqi Council
+SF13_ENG_027	per:origin	APW_ENG_20090827.0234	Iraqi
+SF13_ENG_027	per:parents	eng-WL-11-99173-12235966	Ayatollah Mohsen al-Hakim
+SF13_ENG_027	per:parents	NYT_ENG_20090826.0108	Mohsen al-Hakim
+SF13_ENG_027	per:siblings	APW_ENG_20090826.1179	Ayatollah Mohammed Baqir al-Hakim
+SF13_ENG_027	per:siblings	AFP_ENG_20090829.0331	Ayatollah Mohammed Baqr al
+SF13_ENG_027	per:siblings	APW_ENG_20090827.0446	Mohammed Baqir al-Hakim
+SF13_ENG_027	per:siblings	AFP_ENG_20090829.0167	Mohammed Baqr
+SF13_ENG_027	per:stateorprovince_of_death	NYT_ENG_20090831.0138	Tehran
+SF13_ENG_027	per:statesorprovinces_of_residence	APW_ENG_20090827.0722	Najaf
+SF13_ENG_027	per:title	XIN_ENG_20090827.0007	Chairman
+SF13_ENG_027	per:title	eng-NG-31-128481-8348904	cleric
+SF13_ENG_027	per:title	NYT_ENG_20090824.0123	founder
+SF13_ENG_027	per:title	APW_ENG_20090826.1179	His Eminence
+SF13_ENG_027	per:title	eng-WL-11-99173-12235963	politician
+SF13_ENG_027	per:title	XIN_ENG_20090826.0018	president
+SF13_ENG_027	per:title	XIN_ENG_20090826.0018	theologian
+SF13_ENG_028	per:alternate_names	eng-NG-31-126855-12059362	Billie Mays
+SF13_ENG_028	per:alternate_names	LTW_ENG_20090629.0058	William D. Mays
+SF13_ENG_028	per:alternate_names	LTW_ENG_20090629.0043	William D. Mays Jr.
+SF13_ENG_028	per:alternate_names	APW_ENG_20090628.0481	William Mays
+SF13_ENG_028	per:cause_of_death	NYT_ENG_20090715.0208	heart attack
+SF13_ENG_028	per:cause_of_death	NYT_ENG_20091011.0059	heart disease
+SF13_ENG_028	per:cause_of_death	NYT_ENG_20090807.0174	hypertension
+SF13_ENG_028	per:children	NYT_ENG_20091015.0180	Billy Mays III
+SF13_ENG_028	per:children	LTW_ENG_20090629.0058	Billy Mays Jr.
+SF13_ENG_028	per:children	NYT_ENG_20090628.0116	Elizabeth
+SF13_ENG_028	per:cities_of_residence	LTW_ENG_20090629.0043	Pittsburgh
+SF13_ENG_028	per:cities_of_residence	NYT_ENG_20091011.0059	Tampa
+SF13_ENG_028	per:city_of_death	NYT_ENG_20090628.0116	Tampa
+SF13_ENG_028	per:date_of_death	NYT_ENG_20100814.0012	6/28/2009
+SF13_ENG_028	per:date_of_death	NYT_ENG_20090713.0204	2009-06-XX
+SF13_ENG_028	per:employee_or_member_of	NYT_ENG_20090713.0204	Church & Dwight
+SF13_ENG_028	per:employee_or_member_of	NYT_ENG_20090629.0132	Discovery Channel
+SF13_ENG_028	per:employee_or_member_of	LTW_ENG_20090629.0058	Mays Promotions Inc.
+SF13_ENG_028	per:employee_or_member_of	LTW_ENG_20090710.0132	Media Enterprise
+SF13_ENG_028	per:employee_or_member_of	LTW_ENG_20090710.0132	Media Enterprises
+SF13_ENG_028	per:origin	LTW_ENG_20090710.0132	American
+SF13_ENG_028	per:spouse	NYT_ENG_20090714.0193	Deborah
+SF13_ENG_028	per:spouse	APW_ENG_20090628.0569	Deborah Mays
+SF13_ENG_028	per:stateorprovince_of_death	NYT_ENG_20090628.0116	Fla.
+SF13_ENG_028	per:stateorprovince_of_death	LTW_ENG_20090630.0074	Florida
+SF13_ENG_028	per:statesorprovinces_of_residence	LTW_ENG_20090630.0074	Florida
+SF13_ENG_028	per:title	NYT_ENG_20090701.0160	businessman
+SF13_ENG_028	per:title	NYT_ENG_20100428.0163	hosts
+SF13_ENG_028	per:title	NYT_ENG_20091011.0059	infomercial barker
+SF13_ENG_028	per:title	NYT_ENG_20090907.0147	infomercial star
+SF13_ENG_028	per:title	NYT_ENG_20100415.0189	late TV pitchman
+SF13_ENG_028	per:title	LTW_ENG_20090629.0043	pitchman
+SF13_ENG_028	per:title	NYT_ENG_20090629.0132	spokesman
+SF13_ENG_028	per:title	APW_ENG_20090628.0430	television pitchman
+SF13_ENG_029	per:alternate_names	WPB_ENG_20100901.0011	Laurent Patrick Fignon
+SF13_ENG_029	per:alternate_names	WPB_ENG_20100901.0011	Professor
+SF13_ENG_029	per:alternate_names	APW_ENG_20100831.0430	The Professor
+SF13_ENG_029	per:cause_of_death	XIN_ENG_20100831.0355	cancer
+SF13_ENG_029	per:children	NYT_ENG_20100831.0155	Jeremy
+SF13_ENG_029	per:children	NYT_ENG_20100831.0155	Tiphaine
+SF13_ENG_029	per:cities_of_residence	NYT_ENG_20100831.0155	Paris
+SF13_ENG_029	per:city_of_birth	WPB_ENG_20100901.0011	Paris
+SF13_ENG_029	per:city_of_death	XIN_ENG_20100831.0328	Paris
+SF13_ENG_029	per:country_of_birth	AFP_ENG_20100831.0199	France
+SF13_ENG_029	per:date_of_death	NYT_ENG_20100831.0078	8/31/2010
+SF13_ENG_029	per:date_of_death	AFP_ENG_20101227.0435	31-Aug
+SF13_ENG_029	per:date_of_death	APW_ENG_20100831.0647	Tuesday
+SF13_ENG_029	per:employee_or_member_of	WPB_ENG_20100901.0011	Army
+SF13_ENG_029	per:employee_or_member_of	APW_ENG_20100831.0390	France 2
+SF13_ENG_029	per:employee_or_member_of	APW_ENG_20100831.0491	France 2 network
+SF13_ENG_029	per:employee_or_member_of	AFP_ENG_20100831.0227	France Television
+SF13_ENG_029	per:employee_or_member_of	APW_ENG_20100831.0491	Renault
+SF13_ENG_029	per:origin	AFP_ENG_20100723.0164	France
+SF13_ENG_029	per:origin	WPB_ENG_20100901.0011	French
+SF13_ENG_029	per:origin	APW_ENG_20100831.0647	Frenchman
+SF13_ENG_029	per:schools_attended	WPB_ENG_20100901.0011	University of Villetaneuse
+SF13_ENG_029	per:title	APW_ENG_20100722.1126	commentator
+SF13_ENG_029	per:title	AFP_ENG_20101212.0378	cyclist
+SF13_ENG_029	per:title	NYT_ENG_20100831.0155	rider
+SF13_ENG_029	per:title	APW_ENG_20090726.0600	sports commentator
+SF13_ENG_030	per:alternate_names	NYT_ENG_20101104.0142	Captain Hook
+SF13_ENG_030	per:alternate_names	NYT_ENG_20101104.0186	George Lee Anderson
+SF13_ENG_030	per:cause_of_death	AFP_ENG_20101104.0059	complications
+SF13_ENG_030	per:cause_of_death	NYT_ENG_20101104.0142	complications from dementia
+SF13_ENG_030	per:cause_of_death	APW_ENG_20101104.0749	dementia
+SF13_ENG_030	per:children	NYT_ENG_20101104.0186	Albert
+SF13_ENG_030	per:children	NYT_ENG_20101104.0142	Albert Anderson
+SF13_ENG_030	per:children	NYT_ENG_20101104.0186	Lee
+SF13_ENG_030	per:children	NYT_ENG_20101104.0142	Lee Anderson
+SF13_ENG_030	per:children	NYT_ENG_20101104.0186	Shirlee Englebrecht
+SF13_ENG_030	per:children	NYT_ENG_20101104.0142	Shirley Englebrecht
+SF13_ENG_030	per:cities_of_residence	NYT_ENG_20101104.0142	Bridgewater
+SF13_ENG_030	per:cities_of_residence	NYT_ENG_20101104.0186	Los Angeles
+SF13_ENG_030	per:cities_of_residence	NYT_ENG_20101107.0054	Thousand Oaks
+SF13_ENG_030	per:city_of_death	NYT_ENG_20101104.0186	Thousand Oaks
+SF13_ENG_030	per:date_of_death	APW_ENG_20101104.0749	11/4/2010
+SF13_ENG_030	per:date_of_death	NYT_ENG_20101105.0038	Thursday
+SF13_ENG_030	per:date_of_death	AFP_ENG_20101215.0754	XXXX-11-XX
+SF13_ENG_030	per:employee_or_member_of	AFP_ENG_20101104.0059	Hall of Fame
+SF13_ENG_030	per:employee_or_member_of	NYT_ENG_20100704.0002	Reds
+SF13_ENG_030	per:employee_or_member_of	NYT_ENG_20101104.0142	Tigers
+SF13_ENG_030	per:parents	NYT_ENG_20101104.0186	LeRoy
+SF13_ENG_030	per:spouse	NYT_ENG_20101104.0142	Carol
+SF13_ENG_030	per:spouse	NYT_ENG_20101104.0142	Carol Anderson
+SF13_ENG_030	per:stateorprovince_of_death	NYT_ENG_20101104.0073	California
+SF13_ENG_030	per:statesorprovinces_of_residence	NYT_ENG_20101104.0142	Calif.
+SF13_ENG_030	per:statesorprovinces_of_residence	NYT_ENG_20101104.0142	California
+SF13_ENG_030	per:title	APW_ENG_20101104.0743	baseball manager
+SF13_ENG_030	per:title	NYT_ENG_20101104.0186	coach
+SF13_ENG_030	per:title	NYT_ENG_20101104.0186	manager
+SF13_ENG_030	per:title	NYT_ENG_20101104.0142	second baseman
+SF13_ENG_031	per:alternate_names	NYT_ENG_20101216.0121	Blake McEdwards
+SF13_ENG_031	per:alternate_names	AFP_ENG_20101216.0149	William Blake Crump
+SF13_ENG_031	per:cause_of_death	APW_ENG_20101216.0966	complications of pneumonia
+SF13_ENG_031	per:cause_of_death	WPB_ENG_20101216.0075	pneumonia
+SF13_ENG_031	per:children	NYT_ENG_20101216.0121	Amy
+SF13_ENG_031	per:children	APW_ENG_20101216.0966	Geoffrey
+SF13_ENG_031	per:children	WPB_ENG_20101216.0075	Geoffrey Edwards
+SF13_ENG_031	per:children	APW_ENG_20101216.0966	Jennifer
+SF13_ENG_031	per:children	WPB_ENG_20101216.0075	Jennifer Edwards
+SF13_ENG_031	per:children	NYT_ENG_20101216.0121	Joanna
+SF13_ENG_031	per:cities_of_residence	AFP_ENG_20101216.0083	Tulsa
+SF13_ENG_031	per:city_of_death	NYT_ENG_20101216.0121	Santa Monica
+SF13_ENG_031	per:countries_of_residence	AFP_ENG_20101228.0422	US
+SF13_ENG_031	per:date_of_death	APW_ENG_20101216.0966	12/15/2010
+SF13_ENG_031	per:date_of_death	WPB_ENG_20101228.0001	XXXX-12-15
+SF13_ENG_031	per:employee_or_member_of	NYT_ENG_20101216.0121	20th Century Fox
+SF13_ENG_031	per:employee_or_member_of	WPB_ENG_20101216.0075	Coast Guard
+SF13_ENG_031	per:parents	AFP_ENG_20101216.0149	Jack McEdwards
+SF13_ENG_031	per:parents	NYT_ENG_20101216.0121	Lillian
+SF13_ENG_031	per:parents	NYT_ENG_20101216.0121	Lillian McEdwards
+SF13_ENG_031	per:spouse	AFP_ENG_20101216.0083	Andrews
+SF13_ENG_031	per:spouse	APW_ENG_20101216.0886	Julie Andrews
+SF13_ENG_031	per:spouse	NYT_ENG_20101216.0121	Patricia Walker
+SF13_ENG_031	per:stateorprovince_of_death	NYT_ENG_20101216.0038	Calif.
+SF13_ENG_031	per:stateorprovince_of_death	APW_ENG_20101216.0735	California
+SF13_ENG_031	per:title	AFP_ENG_20101216.0149	actor
+SF13_ENG_031	per:title	APW_ENG_20101216.0886	director
+SF13_ENG_031	per:title	APW_ENG_20101216.0695	filmmaker
+SF13_ENG_031	per:title	APW_ENG_20090724.0114	Movie director
+SF13_ENG_031	per:title	APW_ENG_20101216.0803	painter
+SF13_ENG_031	per:title	NYT_ENG_20090614.0019	partner
+SF13_ENG_031	per:title	APW_ENG_20101216.0701	producer
+SF13_ENG_031	per:title	WPB_ENG_20101216.0075	"producer, director"
+SF13_ENG_031	per:title	NYT_ENG_20101216.0121	right director
+SF13_ENG_031	per:title	APW_ENG_20101216.0701	screenwriter
+SF13_ENG_031	per:title	NYT_ENG_20101216.0121	writer
+SF13_ENG_031	per:title	NYT_ENG_20090614.0019	writing partner
+SF13_ENG_032	per:age	AFP_ENG_20100404.0293	87
+SF13_ENG_032	per:cause_of_death	AFP_ENG_20101019.0312	heart failure
+SF13_ENG_032	per:cause_of_death	AFP_ENG_20101010.0278	natural causes
+SF13_ENG_032	per:cities_of_residence	APW_ENG_20101010.0075	Seoul
+SF13_ENG_032	per:city_of_death	AFP_ENG_20101010.0265	Seoul
+SF13_ENG_032	per:countries_of_residence	NYT_ENG_20101115.0078	South Korea
+SF13_ENG_032	per:country_of_death	APW_ENG_20101010.0057	South Korea
+SF13_ENG_032	per:date_of_death	AFP_ENG_20101010.0280	10/10/2010
+SF13_ENG_032	per:employee_or_member_of	AFP_ENG_20090923.0571	communist party
+SF13_ENG_032	per:employee_or_member_of	WPB_ENG_20100815.0019	National Defense Commission
+SF13_ENG_032	per:employee_or_member_of	APW_ENG_20101014.0490	North Korea
+SF13_ENG_032	per:employee_or_member_of	WPB_ENG_20100421.0012	Supreme People's Assembly
+SF13_ENG_032	per:employee_or_member_of	APW_ENG_20100421.0101	Worker' Party
+SF13_ENG_032	per:employee_or_member_of	AFP_ENG_20100330.0520	Workers ' Party
+SF13_ENG_032	per:employee_or_member_of	APW_ENG_20100421.0321	Workers Party
+SF13_ENG_032	per:employee_or_member_of	AFP_ENG_20100330.0520	Workers' Party
+SF13_ENG_032	per:origin	AFP_ENG_20101010.0265	North Korean
+SF13_ENG_032	per:schools_attended	APW_ENG_20101010.0278	Kim Il Sung University
+SF13_ENG_032	per:schools_attended	APW_ENG_20101010.0278	Moscow University
+SF13_ENG_032	per:title	WPB_ENG_20100421.0012	chairman
+SF13_ENG_032	per:title	AFP_ENG_20100331.0025	former secretary
+SF13_ENG_032	per:title	AFP_ENG_20100330.0520	secretary
+SF13_ENG_032	per:title	AFP_ENG_20101010.0278	tutor
+SF13_ENG_033	per:alternate_names	AFP_ENG_20091006.0442	Vitaly L. Ginzburg
+SF13_ENG_033	per:cause_of_death	APW_ENG_20091109.0370	cardiac arrest
+SF13_ENG_033	per:cause_of_death	AFP_ENG_20091109.0277	heart failure
+SF13_ENG_033	per:city_of_death	APW_ENG_20091109.0427	Moscow
+SF13_ENG_033	per:countries_of_residence	APW_ENG_20091109.0332	Russian
+SF13_ENG_033	per:date_of_death	APW_ENG_20091109.0370	11/8/2009
+SF13_ENG_033	per:employee_or_member_of	AFP_ENG_20091109.0443	Communist Party
+SF13_ENG_033	per:employee_or_member_of	XIN_ENG_20091109.0294	Department of Theoretical Physics
+SF13_ENG_033	per:employee_or_member_of	XIN_ENG_20091109.0294	FIAN
+SF13_ENG_033	per:employee_or_member_of	XIN_ENG_20091109.0294	Lebedev Physical Institute of Russian Academy of Science
+SF13_ENG_033	per:employee_or_member_of	APW_ENG_20091110.0165	Lebedev Physics Institute
+SF13_ENG_033	per:employee_or_member_of	APW_ENG_20091109.0446	Soviet Academy of Sciences
+SF13_ENG_033	per:origin	APW_ENG_20091109.0332	Russia
+SF13_ENG_033	per:origin	APW_ENG_20091109.0370	Russian
+SF13_ENG_033	per:schools_attended	XIN_ENG_20091109.0294	Moscow State University
+SF13_ENG_033	per:title	XIN_ENG_20091109.0294	astrophysicist
+SF13_ENG_033	per:title	AFP_ENG_20091109.0279	physicist
+SF13_ENG_034	per:age	LTW_ENG_20091119.0064	68
+SF13_ENG_034	per:alternate_names	NYT_ENG_20091117.0047	Robert J. Frankel
+SF13_ENG_034	per:alternate_names	LTW_ENG_20091119.0064	Robert Jules Frankel
+SF13_ENG_034	per:cause_of_death	APW_ENG_20091116.1280	cancer
+SF13_ENG_034	per:cause_of_death	AFP_ENG_20091116.0010	leukemia
+SF13_ENG_034	per:cause_of_death	LTW_ENG_20091117.0087	lymphoma
+SF13_ENG_034	per:children	NYT_ENG_20091117.0047	Bethenny Frankel
+SF13_ENG_034	per:cities_of_residence	AFP_ENG_20091116.0010	Los Angeles
+SF13_ENG_034	per:date_of_birth	LTW_ENG_20091119.0064	7/9/1941
+SF13_ENG_034	per:date_of_death	LTW_ENG_20091119.0064	11/16/2009
+SF13_ENG_034	per:employee_or_member_of	APW_ENG_20091116.1280	Hall of Fame
+SF13_ENG_034	per:spouse	LTW_ENG_20091119.0064	Bonita Boniface
+SF13_ENG_034	per:stateorprovince_of_birth	LTW_ENG_20091119.0064	N.Y.
+SF13_ENG_034	per:stateorprovince_of_birth	LTW_ENG_20091119.0064	New York
+SF13_ENG_034	per:stateorprovince_of_death	APW_ENG_20091116.1280	California
+SF13_ENG_034	per:statesorprovinces_of_residence	NYT_ENG_20091117.0047	Calif.
+SF13_ENG_034	per:statesorprovinces_of_residence	APW_ENG_20091116.1280	California
+SF13_ENG_034	per:title	NYT_ENG_20100609.0050	horse trainer
+SF13_ENG_034	per:title	NYT_ENG_20100426.0149	owner
+SF13_ENG_034	per:title	LTW_ENG_20091119.0064	racehorse trainer
+SF13_ENG_034	per:title	AFP_ENG_20091116.0010	trainer
+SF13_ENG_035	per:age	AFP_ENG_20100412.0618	59
+SF13_ENG_035	per:age	APW_ENG_20100410.0440	66
+SF13_ENG_035	per:age	AFP_ENG_20100412.0364	67
+SF13_ENG_035	per:cause_of_death	AFP_ENG_20100411.0295	air crash
+SF13_ENG_035	per:cause_of_death	XIN_ENG_20100414.0192	plane crash
+SF13_ENG_035	per:children	APW_ENG_20100413.0293	Marta
+SF13_ENG_035	per:city_of_death	AFP_ENG_20100417.0109	Smolensk
+SF13_ENG_035	per:countries_of_residence	AFP_ENG_20100412.0395	Poland
+SF13_ENG_035	per:countries_of_residence	AFP_ENG_20100413.0624	Polish
+SF13_ENG_035	per:country_of_death	AFP_ENG_20100411.0306	Russia
+SF13_ENG_035	per:date_of_death	NYT_ENG_20100416.0132	4/10/2010
+SF13_ENG_035	per:origin	XIN_ENG_20100413.0363	Polish
+SF13_ENG_035	per:other_family	APW_ENG_20100413.0359	Jaroslaw Kaczynski
+SF13_ENG_035	per:spouse	APW_ENG_20100411.0291	Kaczynski
+SF13_ENG_035	per:spouse	AFP_ENG_20100412.0405	Lech Kaczynski
+SF13_ENG_035	per:spouse	APW_ENG_20100410.0289	Lech Kaczysnki
+SF13_ENG_035	per:title	APW_ENG_20100410.0440	economist
+SF13_ENG_035	per:title	XIN_ENG_20100410.0135	First Lady
+SF13_ENG_035	per:title	APW_ENG_20100410.0440	translator
+SF13_ENG_036	per:age	AFP_ENG_20100321.0360	85
+SF13_ENG_036	per:age	XIN_ENG_20100321.0055	86
+SF13_ENG_036	per:age	XIN_ENG_20100320.0041	87
+SF13_ENG_036	per:alternate_names	AFP_ENG_20100321.0267	G.P. Koirala
+SF13_ENG_036	per:alternate_names	XIN_ENG_20100716.0044	GPK
+SF13_ENG_036	per:cause_of_death	AFP_ENG_20100320.0266	respiratory disease
+SF13_ENG_036	per:children	XIN_ENG_20100321.0055	Sujata Koirala
+SF13_ENG_036	per:city_of_birth	XIN_ENG_20100320.0046	Bihar
+SF13_ENG_036	per:city_of_death	AFP_ENG_20100320.0266	Kathmandu
+SF13_ENG_036	per:city_of_death	APW_ENG_20100320.0179	Katmandu
+SF13_ENG_036	per:countries_of_residence	XIN_ENG_20100320.0046	India
+SF13_ENG_036	per:countries_of_residence	AFP_ENG_20100320.0053	Nepal
+SF13_ENG_036	per:country_of_death	APW_ENG_20100320.0179	Nepal
+SF13_ENG_036	per:date_of_death	APW_ENG_20100321.0134	3/20/2010
+SF13_ENG_036	per:date_of_death	XIN_ENG_20100321.0083	2010-03-20TAF
+SF13_ENG_036	per:employee_or_member_of	XIN_ENG_20100320.0055	Congress
+SF13_ENG_036	per:employee_or_member_of	XIN_ENG_20100123.0038	HLPM
+SF13_ENG_036	per:employee_or_member_of	XIN_ENG_20090604.0130	NC
+SF13_ENG_036	per:employee_or_member_of	XIN_ENG_20100323.0405	Nepalese Congress
+SF13_ENG_036	per:employee_or_member_of	XIN_ENG_20090609.0088	Nepali Congress
+SF13_ENG_036	per:employee_or_member_of	APW_ENG_20100320.0219	Nepali Congress party
+SF13_ENG_036	per:employee_or_member_of	APW_ENG_20100320.0348	the Nepali Congress party
+SF13_ENG_036	per:parents	XIN_ENG_20100321.0083	Krishna Prasad Koirala
+SF13_ENG_036	per:statesorprovinces_of_residence	XIN_ENG_20100321.0083	Bihar
+SF13_ENG_036	per:title	XIN_ENG_20100321.0083	Chairman
+SF13_ENG_036	per:title	NYT_ENG_20100320.0117	patriarch
+SF13_ENG_036	per:title	APW_ENG_20100321.0134	PM
+SF13_ENG_036	per:title	APW_ENG_20100320.0179	politician
+SF13_ENG_036	per:title	XIN_ENG_20091206.0078	President
+SF13_ENG_036	per:title	eng-NG-31-127452-9228482	Prime Minister
+SF13_ENG_036	per:title	XIN_ENG_20100321.0078	statesman
+SF13_ENG_036	per:title	AFP_ENG_20100320.0266	union organiser
+SF13_ENG_037	per:children	NYT_ENG_20100912.0125	Cecile Maistre
+SF13_ENG_037	per:children	NYT_ENG_20100912.0125	Jean-Yves
+SF13_ENG_037	per:cities_of_residence	WPB_ENG_20100914.0017	Paris
+SF13_ENG_037	per:cities_of_residence	NYT_ENG_20100912.0125	Sardent
+SF13_ENG_037	per:city_of_death	NYT_ENG_20100912.0125	Paris
+SF13_ENG_037	per:countries_of_residence	WPB_ENG_20100914.0017	France
+SF13_ENG_037	per:countries_of_residence	AFP_ENG_20100912.0196	French
+SF13_ENG_037	per:countries_of_residence	WPB_ENG_20100914.0017	Switzerland
+SF13_ENG_037	per:date_of_death	NYT_ENG_20100912.0125	9/12/2010
+SF13_ENG_037	per:date_of_death	APW_ENG_20100912.0248	2010-09-12TMO
+SF13_ENG_037	per:date_of_death	APW_ENG_20100912.0283	Sunday
+SF13_ENG_037	per:employee_or_member_of	NYT_ENG_20100912.0125	Cahiers du Cinema
+SF13_ENG_037	per:origin	AFP_ENG_20100912.0193	France
+SF13_ENG_037	per:origin	APW_ENG_20100912.0295	French
+SF13_ENG_037	per:spouse	WPB_ENG_20100914.0017	Agn
+SF13_ENG_037	per:spouse	WPB_ENG_20100914.0017	Agn s Goute
+SF13_ENG_037	per:spouse	NYT_ENG_20100912.0125	Agnes Marie-Madeleine Goute
+SF13_ENG_037	per:spouse	WPB_ENG_20100914.0017	Audran
+SF13_ENG_037	per:spouse	AFP_ENG_20100912.0055	Aurore Pajot
+SF13_ENG_037	per:spouse	AFP_ENG_20100912.0055	Stephane Audran
+SF13_ENG_037	per:title	AFP_ENG_20100912.0055	author
+SF13_ENG_037	per:title	AFP_ENG_20100912.0055	authored
+SF13_ENG_037	per:title	WPB_ENG_20100914.0017	critic
+SF13_ENG_037	per:title	APW_ENG_20100912.0283	director
+SF13_ENG_037	per:title	WPB_ENG_20100914.0017	directors
+SF13_ENG_037	per:title	NYT_ENG_20100912.0125	film critic
+SF13_ENG_037	per:title	AFP_ENG_20100912.0055	film director
+SF13_ENG_037	per:title	AFP_ENG_20100912.0193	film maker
+SF13_ENG_037	per:title	APW_ENG_20100912.0242	filmmaker
+SF13_ENG_037	per:title	AFP_ENG_20100912.0058	film-maker
+SF13_ENG_037	per:title	APW_ENG_20100912.0339	producer
+SF13_ENG_037	per:title	APW_ENG_20100912.0339	screenwriter
+SF13_ENG_037	per:title	AFP_ENG_20100912.0181	writer
+SF13_ENG_038	per:age	NYT_ENG_20090727.0054	20
+SF13_ENG_038	per:age	LTW_ENG_20090728.0019	80
+SF13_ENG_038	per:age	AFP_ENG_20090728.0634	90
+SF13_ENG_038	per:alternate_names	NYT_ENG_20090727.0054	Mercier Philip Cunningham
+SF13_ENG_038	per:cause_of_death	AFP_ENG_20090728.0634	natural causes
+SF13_ENG_038	per:cities_of_residence	AFP_ENG_20090727.0248	New York
+SF13_ENG_038	per:city_of_birth	NYT_ENG_20090727.0054	Centralia
+SF13_ENG_038	per:city_of_death	NYT_ENG_20090727.0054	Manhattan
+SF13_ENG_038	per:city_of_death	LTW_ENG_20090728.0078	New York
+SF13_ENG_038	per:city_of_death	APW_ENG_20091218.0275	New York City
+SF13_ENG_038	per:date_of_birth	LTW_ENG_20090728.0078	4/16/1919
+SF13_ENG_038	per:date_of_death	NYT_ENG_20100912.0036	2009
+SF13_ENG_038	per:date_of_death	LTW_ENG_20090728.0019	7/26/2009
+SF13_ENG_038	per:date_of_death	NYT_ENG_20100310.0071	July-XX-XX
+SF13_ENG_038	per:date_of_death	NYT_ENG_20100310.0071	last July
+SF13_ENG_038	per:date_of_death	APW_ENG_20100127.0969	XXXX-07-26
+SF13_ENG_038	per:origin	XIN_ENG_20090728.0160	American
+SF13_ENG_038	per:origin	AFP_ENG_20090727.0252	US
+SF13_ENG_038	per:parents	NYT_ENG_20090727.0054	Clifford Cunningham
+SF13_ENG_038	per:parents	NYT_ENG_20090727.0054	Mayme Joach
+SF13_ENG_038	per:schools_attended	NYT_ENG_20100929.0173	Black Mountain College
+SF13_ENG_038	per:schools_attended	NYT_ENG_20090727.0054	Cornish School
+SF13_ENG_038	per:schools_attended	LTW_ENG_20090728.0078	Cornish School of Fine Arts
+SF13_ENG_038	per:siblings	LTW_ENG_20090728.0078	Jack Cunningham
+SF13_ENG_038	per:stateorprovince_of_birth	NYT_ENG_20090727.0054	Wash.
+SF13_ENG_038	per:statesorprovinces_of_residence	LTW_ENG_20090728.0078	New York
+SF13_ENG_038	per:title	AFP_ENG_20090728.0634	choreographer
+SF13_ENG_038	per:title	NYT_ENG_20090727.0054	dance teacher
+SF13_ENG_038	per:title	NYT_ENG_20091115.0105	dancer
+SF13_ENG_038	per:title	NYT_ENG_20090727.0054	performer
+SF13_ENG_038	per:title	NYT_ENG_20090727.0054	students
+SF13_ENG_038	per:title	NYT_ENG_20090727.0054	teacher
+SF13_ENG_039	per:cause_of_death	AFP_ENG_20100426.0282	cancer
+SF13_ENG_039	per:cause_of_death	AFP_ENG_20090905.0199	cervical cancer
+SF13_ENG_039	per:countries_of_residence	APW_ENG_20090905.0288	British
+SF13_ENG_039	per:date_of_death	AFP_ENG_20100412.0273	22-Mar
+SF13_ENG_039	per:date_of_death	AFP_ENG_20100426.0282	last year
+SF13_ENG_039	per:origin	AFP_ENG_20100412.0273	British
+SF13_ENG_039	per:spouse	AFP_ENG_20090905.0199	Jack Tweed
+SF13_ENG_039	per:title	APW_ENG_20090905.0288	dental nurse
+SF13_ENG_039	per:title	AFP_ENG_20090905.0199	reality television star
+SF13_ENG_039	per:title	APW_ENG_20090905.0288	reality TV star
+SF13_ENG_039	per:title	APW_ENG_20090826.0447	star
+SF13_ENG_039	per:title	AFP_ENG_20090709.0238	television star
+SF13_ENG_039	per:title	AFP_ENG_20091226.0305	TV personality
+SF13_ENG_040	per:cause_of_death	APW_ENG_20091218.0093	Cancer
+SF13_ENG_040	per:date_of_death	APW_ENG_20100419.0116	2009-05-XX
+SF13_ENG_040	per:date_of_death	APW_ENG_20100419.0116	last May
+SF13_ENG_040	per:title	APW_ENG_20100419.0096	jazz artist
+SF13_ENG_040	per:title	APW_ENG_20091218.0093	jazzman
+SF13_ENG_041	per:age	LTW_ENG_20090820.0143	6
+SF13_ENG_041	per:age	APW_ENG_20090819.1064	80
+SF13_ENG_041	per:age	LTW_ENG_20090820.0093	86
+SF13_ENG_041	per:alternate_names	APW_ENG_20090819.1064	Donald Shepard Hewitt
+SF13_ENG_041	per:cause_of_death	AFP_ENG_20090819.0034	cancer
+SF13_ENG_041	per:cause_of_death	LTW_ENG_20090820.0093	pancreatic cancer
+SF13_ENG_041	per:children	LTW_ENG_20090820.0093	Jeffrey
+SF13_ENG_041	per:children	LTW_ENG_20090820.0093	Jilian Childers Hewitt
+SF13_ENG_041	per:children	NYT_ENG_20090819.0058	Jilian Hewitt
+SF13_ENG_041	per:children	LTW_ENG_20090820.0093	Lisa Cassara
+SF13_ENG_041	per:children	LTW_ENG_20090820.0093	Steven
+SF13_ENG_041	per:cities_of_residence	LTW_ENG_20090820.0093	Boston
+SF13_ENG_041	per:cities_of_residence	LTW_ENG_20090820.0143	New Rochelle
+SF13_ENG_041	per:city_of_birth	LTW_ENG_20090820.0093	New York City
+SF13_ENG_041	per:city_of_death	APW_ENG_20090819.0913	Bridgehampton
+SF13_ENG_041	per:date_of_birth	LTW_ENG_20090820.0093	12/14/1922
+SF13_ENG_041	per:date_of_death	LTW_ENG_20090820.0143	8/19/2009
+SF13_ENG_041	per:date_of_death	LTW_ENG_20090820.0069	Wednesday
+SF13_ENG_041	per:employee_or_member_of	LTW_ENG_20090820.0143	Acme Newspictures
+SF13_ENG_041	per:employee_or_member_of	LTW_ENG_20090820.0093	CBS
+SF13_ENG_041	per:employee_or_member_of	APW_ENG_20090819.0815	CBS News
+SF13_ENG_041	per:employee_or_member_of	APW_ENG_20090819.0815	Merchant Marines
+SF13_ENG_041	per:employee_or_member_of	LTW_ENG_20090820.0069	New York Herald Tribune
+SF13_ENG_041	per:schools_attended	NYT_ENG_20090819.0058	Merchant Marine Academy
+SF13_ENG_041	per:schools_attended	NYT_ENG_20090819.0058	New York University
+SF13_ENG_041	per:spouse	LTW_ENG_20090820.0069	Frankie Childers
+SF13_ENG_041	per:spouse	APW_ENG_20090819.0815	Marilyn
+SF13_ENG_041	per:spouse	LTW_ENG_20090820.0093	Marilyn Berger
+SF13_ENG_041	per:spouse	LTW_ENG_20090820.0069	Mary Weaver
+SF13_ENG_041	per:stateorprovince_of_birth	APW_ENG_20090819.0913	New York
+SF13_ENG_041	per:stateorprovince_of_death	NYT_ENG_20090819.0058	N.Y.
+SF13_ENG_041	per:stateorprovince_of_death	AFP_ENG_20090819.0034	New York
+SF13_ENG_041	per:statesorprovinces_of_residence	LTW_ENG_20090820.0143	N.Y.
+SF13_ENG_041	per:title	APW_ENG_20090819.0815	associate director
+SF13_ENG_041	per:title	NYT_ENG_20090819.0159	consultant
+SF13_ENG_041	per:title	LTW_ENG_20090820.0093	director
+SF13_ENG_041	per:title	LTW_ENG_20090820.0069	executive
+SF13_ENG_041	per:title	LTW_ENG_20090820.0093	executive producer
+SF13_ENG_041	per:title	NYT_ENG_20090819.0059	newsman
+SF13_ENG_041	per:title	LTW_ENG_20090916.0050	producer
+SF13_ENG_041	per:title	LTW_ENG_20090820.0093	reporter
+SF13_ENG_041	per:title	LTW_ENG_20090820.0143	TV newsman
+SF13_ENG_042	per:age	AFP_ENG_20090618.0464	62
+SF13_ENG_042	per:alternate_names	LTW_ENG_20090602.0095	David Goldenberg
+SF13_ENG_042	per:cause_of_death	APW_ENG_20090820.0242	hanging
+SF13_ENG_042	per:cause_of_death	APW_ENG_20090821.0659	killed himself
+SF13_ENG_042	per:cause_of_death	LTW_ENG_20090821.0103	suicide
+SF13_ENG_042	per:charges	AFP_ENG_20090618.0464	aggravated assault
+SF13_ENG_042	per:charges	APW_ENG_20090821.0755	assault and battery
+SF13_ENG_042	per:charges	APW_ENG_20090821.0755	conspiracy to commit a crime
+SF13_ENG_042	per:charges	APW_ENG_20090821.0755	extortion
+SF13_ENG_042	per:charges	APW_ENG_20090821.0659	hiring thugs to assault Israeli media executives
+SF13_ENG_042	per:charges	APW_ENG_20090821.0755	obstruction of justice
+SF13_ENG_042	per:charges	XIN_ENG_20090821.0004	plotting attacks
+SF13_ENG_042	per:children	APW_ENG_20090821.0755	Daniel
+SF13_ENG_042	per:cities_of_residence	LTW_ENG_20090602.0095	Tel Aviv
+SF13_ENG_042	per:countries_of_residence	LTW_ENG_20090821.0071	Israel
+SF13_ENG_042	per:countries_of_residence	APW_ENG_20090820.0242	Israeli
+SF13_ENG_042	per:date_of_death	APW_ENG_20090820.0282	8/20/2009
+SF13_ENG_042	per:origin	APW_ENG_20090820.0242	Israel
+SF13_ENG_042	per:origin	APW_ENG_20090820.0242	Israeli
+SF13_ENG_042	per:title	APW_ENG_20090820.0242	entertainer
+SF13_ENG_042	per:title	APW_ENG_20090821.0755	television star
+SF13_ENG_042	per:title	APW_ENG_20090821.0659	TV star
+SF13_ENG_043	per:age	LTW_ENG_20090827.0119	68
+SF13_ENG_043	per:alternate_names	NYT_ENG_20090827.0014	Eleanor Louise Greenwich
+SF13_ENG_043	per:alternate_names	LTW_ENG_20090829.0049	Ellie Gaye
+SF13_ENG_043	per:cause_of_death	LTW_ENG_20090829.0049	heart attack
+SF13_ENG_043	per:city_of_death	NYT_ENG_20090827.0014	Manhattan
+SF13_ENG_043	per:date_of_birth	NYT_ENG_20090827.0014	10/23/1940
+SF13_ENG_043	per:date_of_death	NYT_ENG_20090827.0014	8/26/2009
+SF13_ENG_043	per:date_of_death	NYT_ENG_20090829.0124	2009-W34
+SF13_ENG_043	per:date_of_death	NYT_ENG_20090829.0124	2009-XX-XX
+SF13_ENG_043	per:employee_or_member_of	APW_ENG_20090826.0873	Songwriters Hall of Fame
+SF13_ENG_043	per:employee_or_member_of	APW_ENG_20090826.0916	The Jivettes
+SF13_ENG_043	per:origin	LTW_ENG_20090827.0088	American
+SF13_ENG_043	per:other_family	APW_ENG_20090826.0973	Jessica Weiner
+SF13_ENG_043	per:schools_attended	NYT_ENG_20090829.0124	Hofstra
+SF13_ENG_043	per:schools_attended	NYT_ENG_20090903.0002	Hofstra University
+SF13_ENG_043	per:schools_attended	NYT_ENG_20090829.0124	Queens College
+SF13_ENG_043	per:siblings	LTW_ENG_20090827.0119	Laura Weiner
+SF13_ENG_043	per:spouse	NYT_ENG_20090827.0014	Barry
+SF13_ENG_043	per:spouse	LTW_ENG_20090829.0049	Jeff Barry
+SF13_ENG_043	per:stateorprovince_of_birth	LTW_ENG_20090829.0049	N.Y.
+SF13_ENG_043	per:stateorprovince_of_death	APW_ENG_20090826.0873	New York
+SF13_ENG_043	per:title	NYT_ENG_20090827.0014	arranger
+SF13_ENG_043	per:title	LTW_ENG_20090827.0119	melody writer
+SF13_ENG_043	per:title	APW_ENG_20090826.0916	performer
+SF13_ENG_043	per:title	NYT_ENG_20090827.0014	producer
+SF13_ENG_043	per:title	LTW_ENG_20090829.0049	record producer
+SF13_ENG_043	per:title	APW_ENG_20090826.0916	singer
+SF13_ENG_043	per:title	NYT_ENG_20090829.0124	song doctor
+SF13_ENG_043	per:title	LTW_ENG_20090827.0140	Songwriter
+SF13_ENG_043	per:title	NYT_ENG_20090829.0124	writer
+SF13_ENG_044	per:age	APW_ENG_20091218.0276	83
+SF13_ENG_044	per:alternate_names	NYT_ENG_20090826.0141	Dominick John Dunne
+SF13_ENG_044	per:alternate_names	NYT_ENG_20090826.0141	Nick
+SF13_ENG_044	per:cause_of_death	NYT_ENG_20101111.0063	bladder cancer
+SF13_ENG_044	per:charges	NYT_ENG_20090826.0141	slander
+SF13_ENG_044	per:children	LTW_ENG_20090827.0117	Alexander
+SF13_ENG_044	per:children	LTW_ENG_20090827.0109	Alexander Dunne
+SF13_ENG_044	per:children	APW_ENG_20090826.1147	Dominique
+SF13_ENG_044	per:children	LTW_ENG_20090827.0109	Dominique Dunne
+SF13_ENG_044	per:children	NYT_ENG_20101111.0039	Griffin
+SF13_ENG_044	per:children	APW_ENG_20090826.1147	Griffin Dunne
+SF13_ENG_044	per:cities_of_residence	LTW_ENG_20090827.0117	Los Angeles
+SF13_ENG_044	per:cities_of_residence	LTW_ENG_20090827.0109	New York City
+SF13_ENG_044	per:city_of_birth	LTW_ENG_20090827.0109	Hartford
+SF13_ENG_044	per:city_of_death	LTW_ENG_20090827.0109	New York
+SF13_ENG_044	per:city_of_death	APW_ENG_20091218.0276	New York City
+SF13_ENG_044	per:date_of_birth	APW_ENG_20090826.1087	1925
+SF13_ENG_044	per:date_of_birth	LTW_ENG_20090827.0109	10/29/1925
+SF13_ENG_044	per:date_of_birth	APW_ENG_20090826.1147	1925-XX-XX
+SF13_ENG_044	per:date_of_death	NYT_ENG_20091213.0046	8/26/2009
+SF13_ENG_044	per:date_of_death	NYT_ENG_20091213.0046	XXXX-08-26
+SF13_ENG_044	per:employee_or_member_of	LTW_ENG_20090827.0117	ABC
+SF13_ENG_044	per:employee_or_member_of	LTW_ENG_20090827.0109	Army
+SF13_ENG_044	per:employee_or_member_of	LTW_ENG_20090827.0117	CBS
+SF13_ENG_044	per:employee_or_member_of	APW_ENG_20091218.0139	Vanity Fair
+SF13_ENG_044	per:origin	NYT_ENG_20090826.0141	Irish
+SF13_ENG_044	per:other_family	LTW_ENG_20090827.0117	Hannah
+SF13_ENG_044	per:other_family	APW_ENG_20090826.1117	Joan Didion
+SF13_ENG_044	per:parents	NYT_ENG_20090826.0141	Richard
+SF13_ENG_044	per:religion	NYT_ENG_20090826.0141	Catholic
+SF13_ENG_044	per:religion	APW_ENG_20090826.1117	Roman Catholic
+SF13_ENG_044	per:schools_attended	APW_ENG_20090826.1117	Williams College
+SF13_ENG_044	per:siblings	NYT_ENG_20090826.0141	John Gregory Dunne
+SF13_ENG_044	per:siblings	LTW_ENG_20090827.0117	Stephen
+SF13_ENG_044	per:spouse	LTW_ENG_20090827.0109	"Ellen ""Lenny"" Griffin Dunne"
+SF13_ENG_044	per:spouse	APW_ENG_20090826.1147	Ellen Griffin Dunne
+SF13_ENG_044	per:stateorprovince_of_birth	LTW_ENG_20090827.0117	Conn.
+SF13_ENG_044	per:stateorprovince_of_birth	APW_ENG_20090826.1117	Connecticut
+SF13_ENG_044	per:stateorprovince_of_death	LTW_ENG_20090827.0140	New York
+SF13_ENG_044	per:statesorprovinces_of_residence	APW_ENG_20090921.0007	New York
+SF13_ENG_044	per:title	APW_ENG_20090826.1147	author
+SF13_ENG_044	per:title	LTW_ENG_20090619.0042	correspondent
+SF13_ENG_044	per:title	LTW_ENG_20090827.0117	executive producer
+SF13_ENG_044	per:title	LTW_ENG_20090827.0117	film producer
+SF13_ENG_044	per:title	NYT_ENG_20090826.0141	host
+SF13_ENG_044	per:title	APW_ENG_20090826.1087	journalist
+SF13_ENG_044	per:title	APW_ENG_20090826.1147	movie producer
+SF13_ENG_044	per:title	LTW_ENG_20090827.0117	novelist
+SF13_ENG_044	per:title	APW_ENG_20091218.0139	reporter
+SF13_ENG_044	per:title	LTW_ENG_20090827.0109	stage manager
+SF13_ENG_044	per:title	APW_ENG_20091218.0139	television personality
+SF13_ENG_044	per:title	eng-NG-31-127464-8318480	writer
+SF13_ENG_045	per:alternate_names	APW_ENG_20090612.0011	DJ AM
+SF13_ENG_045	per:cause_of_death	APW_ENG_20100423.1101	drug overdose
+SF13_ENG_045	per:cities_of_residence	LTW_ENG_20090829.0102	Los Angeles
+SF13_ENG_045	per:cities_of_residence	APW_ENG_20090828.1285	New York City
+SF13_ENG_045	per:cities_of_residence	NYT_ENG_20090829.0016	Philadelphia
+SF13_ENG_045	per:city_of_death	APW_ENG_20090828.1285	New York City
+SF13_ENG_045	per:date_of_death	APW_ENG_20091208.1292	8/28/2009
+SF13_ENG_045	per:employee_or_member_of	LTW_ENG_20091007.0028	MTV
+SF13_ENG_045	per:parents	APW_ENG_20090902.1160	Andrea Gross
+SF13_ENG_045	per:stateorprovince_of_death	APW_ENG_20100114.1379	New York
+SF13_ENG_045	per:title	APW_ENG_20090828.1282	disc disc jockey
+SF13_ENG_045	per:title	APW_ENG_20090828.1282	disc jockey
+SF13_ENG_045	per:title	LTW_ENG_20090829.0102	DJ
+SF13_ENG_045	per:title	WPB_ENG_20100318.0045	host
+SF13_ENG_045	per:title	LTW_ENG_20091107.0056	turntablist
+SF13_ENG_046	per:alternate_names	NYT_ENG_20101210.0152	Dandy Don
+SF13_ENG_046	per:alternate_names	NYT_ENG_20101206.0204	Joseph Donald Meredith
+SF13_ENG_046	per:cause_of_death	AFP_ENG_20101206.0060	brain hemorrhage
+SF13_ENG_046	per:cities_of_residence	NYT_ENG_20101206.0204	Mount Vernon
+SF13_ENG_046	per:cities_of_residence	NYT_ENG_20101206.0204	Santa Fe
+SF13_ENG_046	per:city_of_death	AFP_ENG_20101206.0060	Santa Fe
+SF13_ENG_046	per:date_of_death	NYT_ENG_20101210.0152	12/5/2010
+SF13_ENG_046	per:date_of_death	AFP_ENG_20101227.0435	5-Dec
+SF13_ENG_046	per:date_of_death	NYT_ENG_20101206.0204	Sunday
+SF13_ENG_046	per:employee_or_member_of	NYT_ENG_20101210.0152	ABC
+SF13_ENG_046	per:employee_or_member_of	eng-NG-31-127207-9204798	Cowboys
+SF13_ENG_046	per:employee_or_member_of	NYT_ENG_20101206.0087	Dallas Cowboys
+SF13_ENG_046	per:employee_or_member_of	AFP_ENG_20101206.0060	Lipton
+SF13_ENG_046	per:employee_or_member_of	NYT_ENG_20101212.0134	NFL
+SF13_ENG_046	per:parents	NYT_ENG_20101206.0204	Hazel
+SF13_ENG_046	per:parents	NYT_ENG_20101206.0204	Jeff
+SF13_ENG_046	per:schools_attended	NYT_ENG_20101210.0152	Southern Methodist University
+SF13_ENG_046	per:spouse	NYT_ENG_20101206.0204	Susan
+SF13_ENG_046	per:stateorprovince_of_death	NYT_ENG_20101206.0204	N.M.
+SF13_ENG_046	per:stateorprovince_of_death	AFP_ENG_20101206.0060	New Mexico
+SF13_ENG_046	per:stateorprovince_of_death	AFP_ENG_20101206.0060	New_Mexico
+SF13_ENG_046	per:statesorprovinces_of_residence	AFP_ENG_20101206.0060	Texas
+SF13_ENG_046	per:title	AFP_ENG_20101206.0060	announcer
+SF13_ENG_046	per:title	NYT_ENG_20101212.0134	broadcaster
+SF13_ENG_046	per:title	NYT_ENG_20101206.0124	color commentator
+SF13_ENG_046	per:title	NYT_ENG_20101208.0184	Cowboy
+SF13_ENG_046	per:title	AFP_ENG_20101206.0060	pitchman
+SF13_ENG_046	per:title	eng-NG-31-127207-9204418	quarterback
+SF13_ENG_047	per:age	AFP_ENG_20100301.0452	42
+SF13_ENG_047	per:alternate_names	APW_ENG_20100408.1049	Orlando Zapata Tamayo
+SF13_ENG_047	per:cause_of_death	AFP_ENG_20100224.0865	hunger strike
+SF13_ENG_047	per:cause_of_death	AFP_ENG_20100430.0075	starved to death
+SF13_ENG_047	per:cause_of_death	AFP_ENG_20100701.0324	the result of an 85-day hunger strike
+SF13_ENG_047	per:cities_of_residence	APW_ENG_20100302.0130	Banes
+SF13_ENG_047	per:city_of_death	AFP_ENG_20100223.0010	Havana
+SF13_ENG_047	per:countries_of_residence	AFP_ENG_20100502.0024	Cuba
+SF13_ENG_047	per:countries_of_residence	AFP_ENG_20100224.0218	Cuban
+SF13_ENG_047	per:date_of_death	AFP_ENG_20101014.0009	2/23/2010
+SF13_ENG_047	per:date_of_death	AFP_ENG_20100522.0129	23-Feb
+SF13_ENG_047	per:date_of_death	XIN_ENG_20100409.0234	2010-02
+SF13_ENG_047	per:date_of_death	AFP_ENG_20100423.0129	2010-02-XX
+SF13_ENG_047	per:date_of_death	APW_ENG_20100923.0542	2010-XX-XX
+SF13_ENG_047	per:date_of_death	XIN_ENG_20100409.0234	2012-02-XX
+SF13_ENG_047	per:date_of_death	APW_ENG_20100226.1079	Tuesday
+SF13_ENG_047	per:date_of_death	AFP_ENG_20100701.0324	XXXX-02-23
+SF13_ENG_047	per:origin	APW_ENG_20100227.0574	Cuba
+SF13_ENG_047	per:origin	AFP_ENG_20100330.0075	Cuban
+SF13_ENG_047	per:parents	AFP_ENG_20100225.0932	Reina Luisa Tamayo
+SF13_ENG_047	per:parents	AFP_ENG_20100620.0047	Reina Tamayo
+SF13_ENG_047	per:parents	AFP_ENG_20100321.0056	Reyna Luisa Tamayo
+SF13_ENG_047	per:stateorprovince_of_death	AFP_ENG_20100223.0018	Havana
+SF13_ENG_047	per:statesorprovinces_of_residence	AFP_ENG_20100224.0916	Camaguey
+SF13_ENG_047	per:title	APW_ENG_20100225.1545	carpenter
+SF13_ENG_047	per:title	APW_ENG_20100303.1203	construction worker
+SF13_ENG_047	per:title	AFP_ENG_20101014.0016	laborer
+SF13_ENG_047	per:title	APW_ENG_20100225.1545	plumber
+SF13_ENG_048	per:age	APW_ENG_20091218.0276	71
+SF13_ENG_048	per:cause_of_death	APW_ENG_20090804.1223	cancer
+SF13_ENG_048	per:cause_of_death	NYT_ENG_20090810.0069	esophageal cancer
+SF13_ENG_048	per:children	NYT_ENG_20090804.0124	Annie Gwathmey
+SF13_ENG_048	per:children	APW_ENG_20090804.1096	Eric Steel
+SF13_ENG_048	per:children	NYT_ENG_20090804.0124	Steel
+SF13_ENG_048	per:cities_of_residence	NYT_ENG_20090804.0124	Charlotte
+SF13_ENG_048	per:city_of_birth	NYT_ENG_20090804.0124	Charlotte
+SF13_ENG_048	per:date_of_birth	APW_ENG_20090804.1223	1938
+SF13_ENG_048	per:date_of_birth	NYT_ENG_20090804.0124	6/19/1938
+SF13_ENG_048	per:date_of_birth	APW_ENG_20090804.1223	1938-XX-XX
+SF13_ENG_048	per:date_of_death	NYT_ENG_20090804.0124	8/3/2009
+SF13_ENG_048	per:date_of_death	NYT_ENG_20090810.0069	8/10/2009
+SF13_ENG_048	per:date_of_death	NYT_ENG_20091124.0050	2009-08-XX
+SF13_ENG_048	per:date_of_death	NYT_ENG_20090810.0069	Monday
+SF13_ENG_048	per:employee_or_member_of	NYT_ENG_20090810.0182	New York Five
+SF13_ENG_048	per:employee_or_member_of	NYT_ENG_20090804.0124	New York School
+SF13_ENG_048	per:parents	APW_ENG_20090804.1223	Robert Gwathmey
+SF13_ENG_048	per:parents	APW_ENG_20090804.1223	Rosalie
+SF13_ENG_048	per:schools_attended	NYT_ENG_20090811.0004	University of Pennsylvania
+SF13_ENG_048	per:schools_attended	APW_ENG_20090804.1223	Yale University
+SF13_ENG_048	per:spouse	NYT_ENG_20090810.0182	Bette-Ann Damson
+SF13_ENG_048	per:spouse	NYT_ENG_20090804.0124	Emily Gwathmey
+SF13_ENG_048	per:stateorprovince_of_birth	NYT_ENG_20090804.0124	N.C.
+SF13_ENG_048	per:statesorprovinces_of_residence	NYT_ENG_20090804.0124	N.C.
+SF13_ENG_048	per:title	NYT_ENG_20090804.0107	architect
+SF13_ENG_049	per:alternate_names	NYT_ENG_20101016.0101	Benoit B. Mandelbrot
+SF13_ENG_049	per:cause_of_death	APW_ENG_20101016.0421	pancreatic cancer
+SF13_ENG_049	per:children	NYT_ENG_20101016.0101	Laurent
+SF13_ENG_049	per:cities_of_residence	APW_ENG_20101016.0421	Cambridge
+SF13_ENG_049	per:city_of_death	AFP_ENG_20101016.0007	Cambridge
+SF13_ENG_049	per:countries_of_residence	AFP_ENG_20101016.0007	American
+SF13_ENG_049	per:countries_of_residence	NYT_ENG_20101016.0101	France
+SF13_ENG_049	per:countries_of_residence	AFP_ENG_20101016.0017	Poland
+SF13_ENG_049	per:country_of_death	APW_ENG_20101016.0421	US
+SF13_ENG_049	per:date_of_death	APW_ENG_20101016.0421	10/14/2010
+SF13_ENG_049	per:employee_or_member_of	NYT_ENG_20101016.0101	Centre National de la Recherche Scientifique
+SF13_ENG_049	per:employee_or_member_of	NYT_ENG_20101016.0101	IBM
+SF13_ENG_049	per:employee_or_member_of	NYT_ENG_20101016.0101	Mandelbrot Foundation for Fractals
+SF13_ENG_049	per:employee_or_member_of	AFP_ENG_20101016.0017	Yale University
+SF13_ENG_049	per:origin	AFP_ENG_20101016.0017	French
+SF13_ENG_049	per:origin	NYT_ENG_20101016.0101	Lithuanian
+SF13_ENG_049	per:origin	AFP_ENG_20101016.0007	Poland
+SF13_ENG_049	per:religion	NYT_ENG_20101016.0101	Jewish
+SF13_ENG_049	per:spouse	APW_ENG_20101016.0421	Aliette
+SF13_ENG_049	per:stateorprovince_of_death	NYT_ENG_20101016.0101	Mass
+SF13_ENG_049	per:stateorprovince_of_death	AFP_ENG_20101016.0017	Massachusetts
+SF13_ENG_049	per:statesorprovinces_of_residence	NYT_ENG_20101016.0101	Mass
+SF13_ENG_049	per:statesorprovinces_of_residence	APW_ENG_20101016.0421	Massachusetts
+SF13_ENG_049	per:statesorprovinces_of_residence	APW_ENG_20101016.0421	Massachusetts.
+SF13_ENG_049	per:title	AFP_ENG_20101016.0017	mathematician
+SF13_ENG_049	per:title	NYT_ENG_20101016.0101	professor
+SF13_ENG_049	per:title	AFP_ENG_20101016.0017	professor emeritus
+SF13_ENG_049	per:title	NYT_ENG_20101016.0101	researcher
+SF13_ENG_050	per:age	LTW_ENG_20090603.0021	51
+SF13_ENG_050	per:cause_of_death	AFP_ENG_20090604.0544	breast cancer
+SF13_ENG_050	per:children	AFP_ENG_20090602.0660	Jong-Un
+SF13_ENG_050	per:children	AFP_ENG_20090607.0390	Kim
+SF13_ENG_050	per:countries_of_residence	APW_ENG_20090615.0899	Japanese
+SF13_ENG_050	per:date_of_death	AFP_ENG_20090602.0660	2004-XX-XX
+SF13_ENG_050	per:spouse	APW_ENG_20090607.0186	Kim Jong Il
+SF13_ENG_050	per:title	AFP_ENG_20100926.0189	dancer
+SF13_ENG_051	org:alternate_names	XIN_ENG_20101028.0157	ECC
+SF13_ENG_051	org:alternate_names	XIN_ENG_20100415.0134	Election Complained Commission
+SF13_ENG_051	org:alternate_names	XIN_ENG_20101016.0040	Electoral Complaints Commission
+SF13_ENG_051	org:alternate_names	AFP_ENG_20090926.0131	Electoral_Complaints_Commission
+SF13_ENG_051	org:country_of_headquarters	XIN_ENG_20100417.0089	Afghanistan
+SF13_ENG_051	org:number_of_employees_members	XIN_ENG_20091101.0079	5
+SF13_ENG_051	org:top_members_employees	AFP_ENG_20101125.0170	Ahmad Zia Rafat
+SF13_ENG_051	org:top_members_employees	AFP_ENG_20101125.0209	Aman Tajali
+SF13_ENG_051	org:top_members_employees	XIN_ENG_20090825.0102	Grant Kippen
+SF13_ENG_051	org:top_members_employees	LTW_ENG_20090828.0093	Mahgul Yamam
+SF13_ENG_052	org:alternate_names	APW_ENG_20090729.0487	ETA
+SF13_ENG_052	org:country_of_headquarters	XIN_ENG_20100210.0084	Spain
+SF13_ENG_052	org:number_of_employees_members	AFP_ENG_20100317.0295	150
+SF13_ENG_052	org:subsidiaries	AFP_ENG_20100127.0289	Batasuna
+SF13_ENG_052	org:top_members_employees	AFP_ENG_20090819.0325	Aitzol Etxaburu
+SF13_ENG_052	org:top_members_employees	AFP_ENG_20100520.0487	Arkaitz Aguirregabiria del Barrio
+SF13_ENG_052	org:top_members_employees	AFP_ENG_20100928.0246	Franciso Javier Lopez Pena
+SF13_ENG_052	org:top_members_employees	AFP_ENG_20100414.0410	Javier Lopez Pena
+SF13_ENG_052	org:top_members_employees	AFP_ENG_20100302.0071	Jose Miguel Benaran Ordenana
+SF13_ENG_052	org:top_members_employees	XIN_ENG_20100906.0246	Mikel Karrera Sarobe
+SF13_ENG_053	org:alternate_names	APW_ENG_20100909.0897	Steelworkers
+SF13_ENG_053	org:alternate_names	XIN_ENG_20090717.0415	"The United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union"
+SF13_ENG_053	org:alternate_names	XIN_ENG_20090618.0178	United Steel Workers
+SF13_ENG_053	org:alternate_names	NYT_ENG_20090922.0152	United Steelworkers
+SF13_ENG_053	org:alternate_names	WPB_ENG_20101015.0052	United Steelworkers Union
+SF13_ENG_053	org:alternate_names	AFP_ENG_20090624.0709	USW
+SF13_ENG_053	org:alternate_names	eng-NG-31-142161-10037893	USWA
+SF13_ENG_053	org:country_of_headquarters	NYT_ENG_20090807.0135	United States
+SF13_ENG_053	org:subsidiaries	APW_ENG_20090615.0830	Local 1005
+SF13_ENG_053	org:subsidiaries	NYT_ENG_20101022.0090	Local 1660
+SF13_ENG_053	org:subsidiaries	NYT_ENG_20100224.0100	Local 2604
+SF13_ENG_053	org:subsidiaries	NYT_ENG_20100114.0024	Local 6500
+SF13_ENG_053	org:subsidiaries	NYT_ENG_20100808.0113	Local 7-669
+SF13_ENG_053	org:subsidiaries	APW_ENG_20101109.0750	Local No. 6992
+SF13_ENG_053	org:top_members_employees	eng-NG-31-142161-10037893	Leo Gerard
+SF13_ENG_053	org:top_members_employees	APW_ENG_20090830.0043	Wayne Ranick
+SF13_ENG_054	org:alternate_names	AFP_ENG_20101221.0453	INBS
+SF13_ENG_054	org:alternate_names	APW_ENG_20101116.0752	Irish Nationwide
+SF13_ENG_054	org:city_of_headquarters	APW_ENG_20100930.0575	Dublin
+SF13_ENG_054	org:country_of_headquarters	APW_ENG_20101001.0004	Ireland
+SF13_ENG_054	org:top_members_employees	APW_ENG_20090611.0502	Gerry McGinn
+SF13_ENG_054	org:top_members_employees	APW_ENG_20090611.0502	Michael Fingleton
+SF13_ENG_054	org:website	APW_ENG_20090611.0502	http://www.iniom.com
+SF13_ENG_055	org:alternate_names	APW_ENG_20100105.0596	River Road
+SF13_ENG_055	org:city_of_headquarters	APW_ENG_20100105.0596	Louisville
+SF13_ENG_055	org:parents	APW_ENG_20100105.0596	Aviva PLC
+SF13_ENG_055	org:stateorprovince_of_headquarters	APW_ENG_20100105.0596	Kentucky
+SF13_ENG_055	org:top_members_employees	NYT_ENG_20100610.0158	Andrew Beck
+SF13_ENG_055	org:website	APW_ENG_20100105.0596	http://www.riverroadam.com
+SF13_ENG_055	org:website	APW_ENG_20100105.0596	http://www.riverroadam.com/
+SF13_ENG_055	org:website	APW_ENG_20100105.0596	www.riverroadam.com
+SF13_ENG_056	org:stateorprovince_of_headquarters	APW_ENG_20100611.1151	Georgia
+SF13_ENG_056	org:top_members_employees	APW_ENG_20100611.1151	Armond Morris
+SF13_ENG_056	org:top_members_employees	NYT_ENG_20090921.0056	Don Koehler
+SF13_ENG_056	org:top_members_employees	APW_ENG_20091112.0319	Don McGough
+SF13_ENG_056	org:website	APW_ENG_20100611.1328	http://www.gapeanuts.com
+SF13_ENG_057	org:alternate_names	NYT_ENG_20090922.0002	A123
+SF13_ENG_057	org:alternate_names	APW_ENG_20091217.0339	A123 Systems
+SF13_ENG_057	org:city_of_headquarters	NYT_ENG_20090922.0002	Watertown
+SF13_ENG_057	org:date_founded	APW_ENG_20091217.0339	2001-XX-XX
+SF13_ENG_057	org:stateorprovince_of_headquarters	LTW_ENG_20091121.0095	Massachusetts
+SF13_ENG_057	org:top_members_employees	APW_ENG_20091217.0339	David Vieau
+SF13_ENG_057	org:top_members_employees	NYT_ENG_20100413.0124	Jason Forcier
+SF13_ENG_057	org:website	APW_ENG_20100914.0008	http://www.a123systems.com
+SF13_ENG_057	org:website	APW_ENG_20100913.0499	http://www.a123systems.com/
+SF13_ENG_057	org:website	APW_ENG_20100913.0499	www.a123systems.com
+SF13_ENG_058	org:alternate_names	WPB_ENG_20100216.0042	Access
+SF13_ENG_058	org:alternate_names	WPB_ENG_20100115.0041	Access Industries Holdings
+SF13_ENG_058	org:city_of_headquarters	APW_ENG_20090612.0855	New York
+SF13_ENG_058	org:date_founded	APW_ENG_20090612.0855	1986-XX-XX
+SF13_ENG_058	org:founded_by	APW_ENG_20090612.0855	Len Blavatnik
+SF13_ENG_058	org:shareholders	APW_ENG_20090619.1036	Len Blavatnik
+SF13_ENG_058	org:stateorprovince_of_headquarters	APW_ENG_20090612.0855	New York
+SF13_ENG_058	org:subsidiaries	WPB_ENG_20100407.0062	Basell
+SF13_ENG_058	org:subsidiaries	NYT_ENG_20091122.0098	LyondellBasell
+SF13_ENG_058	org:top_members_employees	WPB_ENG_20100216.0042	Blavatnik
+SF13_ENG_058	org:top_members_employees	WPB_ENG_20100408.0012	Len Blavatnik
+SF13_ENG_058	org:website	APW_ENG_20090612.0855	http://www.accessindustries.com
+SF13_ENG_058	org:website	APW_ENG_20090612.0855	www.accessindustries.com
+SF13_ENG_059	org:alternate_names	APW_ENG_20090814.0302	British Council of Mortgage Lenders
+SF13_ENG_059	org:alternate_names	eng-NG-31-125822-9072855	CML
+SF13_ENG_059	org:country_of_headquarters	APW_ENG_20090814.0302	Britain
+SF13_ENG_059	org:country_of_headquarters	APW_ENG_20090720.0249	uk
+SF13_ENG_059	org:top_members_employees	eng-NG-31-142147-10016229	Michael Coogan
+SF13_ENG_059	org:website	APW_ENG_20090709.0461	http://www.cml.org.uk
+SF13_ENG_060	org:alternate_names	AFP_ENG_20100219.0170	AAAS
+SF13_ENG_060	org:country_of_headquarters	NYT_ENG_20101103.0305	America
+SF13_ENG_060	org:country_of_headquarters	eng-NG-31-127385-8290453	United States
+SF13_ENG_060	org:stateorprovince_of_headquarters	NYT_ENG_20101217.0109	Washington
+SF13_ENG_060	org:top_members_employees	LTW_ENG_20091213.0028	Alan I. Leshner
+SF13_ENG_060	org:top_members_employees	APW_ENG_20091010.0420	Alan Leshner
+SF13_ENG_060	org:top_members_employees	eng-NG-31-106345-11986075	D.S. Greenberg
+SF13_ENG_060	org:top_members_employees	WPB_ENG_20100708.0012	Emilio Quincy Daddario
+SF13_ENG_060	org:top_members_employees	NYT_ENG_20101227.0033	Holdren
+SF13_ENG_060	org:top_members_employees	WPB_ENG_20100303.0037	Jane Lubchenco
+SF13_ENG_060	org:top_members_employees	NYT_ENG_20101227.0033	John P. Holdren
+SF13_ENG_060	org:top_members_employees	NYT_ENG_20100429.0167	Mary Good
+SF13_ENG_060	org:top_members_employees	AFP_ENG_20100217.0598	Peter Agre
+SF13_ENG_060	org:top_members_employees	AFP_ENG_20091210.0666	Peter C. Agre
+SF13_ENG_060	org:top_members_employees	eng-NG-31-142700-10087964	Peter Raven
+SF13_ENG_060	org:website	APW_ENG_20100221.0525	http://www.aaas.org
+SF13_ENG_061	org:alternate_names	AFP_ENG_20090811.0469	IHG
+SF13_ENG_061	org:alternate_names	APW_ENG_20090713.1089	InterContinental
+SF13_ENG_061	org:alternate_names	CNA_ENG_20101019.0014	Intercontinental Hotels
+SF13_ENG_061	org:alternate_names	APW_ENG_20100810.0277	InterContinental Hotels Group PLC
+SF13_ENG_061	org:members	AFP_ENG_20100216.0577	Crowne Plaza
+SF13_ENG_061	org:members	AFP_ENG_20100810.0490	Holiday Inn
+SF13_ENG_061	org:subsidiaries	APW_ENG_20090713.1089	Candlewood Suites
+SF13_ENG_061	org:subsidiaries	AFP_ENG_20100511.0424	Crowne Plaza
+SF13_ENG_061	org:subsidiaries	NYT_ENG_20101011.0159	Holiday Inn
+SF13_ENG_061	org:subsidiaries	APW_ENG_20090713.1089	Holiday Inn Express
+SF13_ENG_061	org:subsidiaries	APW_ENG_20090713.1089	Holiday Inn Worldwide
+SF13_ENG_061	org:subsidiaries	APW_ENG_20090713.1089	Hotel Indigo
+SF13_ENG_061	org:subsidiaries	APW_ENG_20101109.0398	InterContinental
+SF13_ENG_061	org:subsidiaries	APW_ENG_20090713.1089	Staybridge Suites
+SF13_ENG_061	org:top_members_employees	NYT_ENG_20100408.0163	Andrew Cosslett
+SF13_ENG_061	org:top_members_employees	APW_ENG_20090713.1089	Caroline Sanfilippo
+SF13_ENG_061	org:top_members_employees	NYT_ENG_20091201.0036	Don Berg
+SF13_ENG_062	org:alternate_names	NYT_ENG_20100304.0144	U.S. High Speed Rail
+SF13_ENG_062	org:city_of_headquarters	NYT_ENG_20090709.0108	Washington
+SF13_ENG_062	org:country_of_headquarters	APW_ENG_20100202.0015	U.S.
+SF13_ENG_062	org:stateorprovince_of_headquarters	NYT_ENG_20090709.0108	Washington
+SF13_ENG_062	org:top_members_employees	WPB_ENG_20100427.0001	Andy Kunz
+SF13_ENG_062	org:top_members_employees	XIN_ENG_20100615.0302	Thomas A. Hart
+SF13_ENG_062	org:website	APW_ENG_20100202.0006	http://www.ushsr.com
+SF13_ENG_063	org:alternate_names	APW_ENG_20100127.0022	BNSF
+SF13_ENG_063	org:alternate_names	APW_ENG_20100211.1009	Burlington
+SF13_ENG_063	org:alternate_names	APW_ENG_20091103.0608	Burlington Northern Santa Fe
+SF13_ENG_063	org:city_of_headquarters	APW_ENG_20100211.1009	Fort Worth
+SF13_ENG_063	org:country_of_headquarters	APW_ENG_20100211.1009	U.S.
+SF13_ENG_063	org:country_of_headquarters	WPB_ENG_20100930.0045	United States
+SF13_ENG_063	org:country_of_headquarters	AFP_ENG_20091103.0317	US
+SF13_ENG_063	org:parents	APW_ENG_20100120.0918	Berkshire
+SF13_ENG_063	org:parents	APW_ENG_20100212.1309	Berkshire Hathaway Inc.
+SF13_ENG_063	org:shareholders	APW_ENG_20091103.0719	Berkshire Hathaway
+SF13_ENG_063	org:shareholders	APW_ENG_20091103.0608	Berkshire Hathaway Inc.
+SF13_ENG_063	org:stateorprovince_of_headquarters	NYT_ENG_20091105.0066	Texas
+SF13_ENG_063	org:top_members_employees	WPB_ENG_20100214.0009	Matt Rose
+SF13_ENG_063	org:top_members_employees	NYT_ENG_20090723.0123	Robert D. Krebs
+SF13_ENG_063	org:website	APW_ENG_20091120.0155	http://www.bnsf.com
+SF13_ENG_063	org:website	APW_ENG_20100212.1180	http:\\www.bnsf.com
+SF13_ENG_063	org:website	APW_ENG_20100212.1308	www.bnsf.com
+SF13_ENG_064	org:alternate_names	XIN_ENG_20100609.0223	SIPRI
+SF13_ENG_064	org:city_of_headquarters	XIN_ENG_20100602.0239	Stockholm
+SF13_ENG_064	org:country_of_headquarters	APW_ENG_20100122.0331	Sweden
+SF13_ENG_064	org:date_founded	XIN_ENG_20090608.0245	1966-XX-XX
+SF13_ENG_064	org:top_members_employees	LTW_ENG_20091203.0012	Bates Gill
+SF13_ENG_064	org:website	APW_ENG_20100203.0315	http://www.sipri.org/
+SF13_ENG_064	org:website	APW_ENG_20100203.0315	http:\\www.sipri.org\
+SF13_ENG_064	org:website	AFP_ENG_20100314.0243	www.sipri.org
+SF13_ENG_065	org:city_of_headquarters	WPB_ENG_20100907.0088	Bristow
+SF13_ENG_065	org:stateorprovince_of_headquarters	WPB_ENG_20100804.0060	Virginia
+SF13_ENG_065	org:website	APW_ENG_20100805.0047	http://www.osbva.org
+SF13_ENG_065	org:website	APW_ENG_20100808.0239	http://www.osbva.org/
+SF13_ENG_066	org:alternate_names	XIN_ENG_20100916.0153	Nigerian Police Force
+SF13_ENG_066	org:alternate_names	XIN_ENG_20100909.0136	NPF
+SF13_ENG_066	org:country_of_headquarters	AFP_ENG_20100817.0185	Nigeria
+SF13_ENG_066	org:number_of_employees_members	XIN_ENG_20101107.0122	377000
+SF13_ENG_066	org:top_members_employees	XIN_ENG_20100916.0153	Hafiz Ringim
+SF13_ENG_066	org:top_members_employees	eng-NG-31-138596-9810074	Mike Okiro
+SF13_ENG_066	org:top_members_employees	AFP_ENG_20090801.0203	Ogbonnaya Onovo
+SF13_ENG_066	org:website	APW_ENG_20100817.0427	http://www.npf.gov.ng
+SF13_ENG_067	org:alternate_names	eng-NG-31-137652-8622184	PLoS
+SF13_ENG_067	org:city_of_headquarters	WPB_ENG_20100402.0031	San Francisco
+SF13_ENG_067	org:country_of_headquarters	AFP_ENG_20090820.0096	US
+SF13_ENG_067	org:top_members_employees	AFP_ENG_20090820.0096	Harold Varmus
+SF13_ENG_067	org:website	APW_ENG_20100324.0001	http://www.plos.org
+SF13_ENG_067	org:website	eng-NG-31-137652-8622184	http://www.plos.org/
+SF13_ENG_067	org:website	APW_ENG_20100324.0001	www.plos.org
+SF13_ENG_068	org:alternate_names	NYT_ENG_20100330.0049	ITA
+SF13_ENG_068	org:stateorprovince_of_headquarters	WPB_ENG_20100421.0003	Washington
+SF13_ENG_068	org:top_members_employees	APW_ENG_20100119.0822	Dan Humiston
+SF13_ENG_068	org:top_members_employees	WPB_ENG_20100421.0003	John Overstreet
+SF13_ENG_068	org:website	APW_ENG_20100422.1133	http://www.theita.com
+SF13_ENG_068	org:website	APW_ENG_20100422.1142	http:\\www.theita.com
+SF13_ENG_068	org:website	APW_ENG_20100422.1142	www.theita.com
+SF13_ENG_069	org:alternate_names	XIN_ENG_20090729.0242	IARC
+SF13_ENG_069	org:city_of_headquarters	APW_ENG_20090728.1294	Lyon
+SF13_ENG_069	org:country_of_headquarters	eng-NG-31-108589-8994630	France
+SF13_ENG_069	org:member_of	eng-NG-31-147907-10554827	World Health Organization
+SF13_ENG_069	org:parents	eng-NG-31-126855-12059358	World Health Organisation
+SF13_ENG_069	org:parents	APW_ENG_20090729.0945	World Health Organization
+SF13_ENG_069	org:top_members_employees	WPB_ENG_20100517.0069	Christopher Wild
+SF13_ENG_069	org:top_members_employees	eng-NG-31-106365-8896264	Peter Boyle
+SF13_ENG_069	org:top_members_employees	eng-NG-31-147907-10554827	Vincent Cogliano
+SF13_ENG_069	org:website	APW_ENG_20100516.0591	http://www.iarc.fr/
+SF13_ENG_069	org:website	APW_ENG_20100516.0591	http:\\www.iarc.fr\
+SF13_ENG_069	org:website	APW_ENG_20100325.1232	www.iarc.fr
+SF13_ENG_070	org:alternate_names	APW_ENG_20101028.0695	CFMT
+SF13_ENG_070	org:alternate_names	APW_ENG_20101217.0186	Community Relief Foundation of Middle Tennessee
+SF13_ENG_070	org:city_of_headquarters	eng-NG-31-137627-9799541	Nashville
+SF13_ENG_070	org:stateorprovince_of_headquarters	AFP_ENG_20100507.0062	Tennessee
+SF13_ENG_070	org:website	APW_ENG_20100519.0048	http://www.cfmt.org
+SF13_ENG_070	org:website	APW_ENG_20100519.0048	www.cfmt.org
+SF13_ENG_071	org:alternate_names	AFP_ENG_20090803.0286	SETE
+SF13_ENG_071	org:country_of_headquarters	APW_ENG_20090714.0494	Greece
+SF13_ENG_071	org:top_members_employees	AFP_ENG_20100311.0597	George Drakopoulos
+SF13_ENG_071	org:top_members_employees	XIN_ENG_20100421.0238	Nikos Aggelopoulos
+SF13_ENG_071	org:website	APW_ENG_20090714.0494	http://www.sete.gr/
+SF13_ENG_071	org:website	APW_ENG_20090714.0494	http:\\www.sete.gr\
+SF13_ENG_071	org:website	APW_ENG_20090714.0494	www.sete.gr
+SF13_ENG_072	org:alternate_names	APW_ENG_20100914.1024	Moody's
+SF13_ENG_072	org:founded_by	WPB_ENG_20100603.0017	John Moody
+SF13_ENG_072	org:members	NYT_ENG_20100507.0001	Moody's Analytics
+SF13_ENG_072	org:shareholders	APW_ENG_20100423.0057	Berkshire Hathaway Inc.
+SF13_ENG_072	org:shareholders	AFP_ENG_20100602.0385	Warren Buffett
+SF13_ENG_072	org:shareholders	NYT_ENG_20100602.0090	Warren E. Buffett
+SF13_ENG_072	org:stateorprovince_of_headquarters	WPB_ENG_20100602.0063	New York
+SF13_ENG_072	org:subsidiaries	NYT_ENG_20100831.0179	Moody 's Investors Service
+SF13_ENG_072	org:subsidiaries	NYT_ENG_20100507.0001	Moody's Analytics
+SF13_ENG_072	org:subsidiaries	NYT_ENG_20100831.0179	Moody's Investors Service
+SF13_ENG_072	org:top_members_employees	AFP_ENG_20091117.0186	Arnaud Mares
+SF13_ENG_072	org:top_members_employees	APW_ENG_20100602.0695	Eric Kolchinsky
+SF13_ENG_072	org:top_members_employees	APW_ENG_20090617.1375	Jean-Francois Tremblay
+SF13_ENG_072	org:top_members_employees	APW_ENG_20100930.0351	Kathrin Muehlbronner
+SF13_ENG_072	org:top_members_employees	APW_ENG_20101011.0346	Ken Chan
+SF13_ENG_072	org:top_members_employees	WPB_ENG_20100602.0063	Raymond McDaniel
+SF13_ENG_072	org:top_members_employees	NYT_ENG_20100602.0221	Raymond W. McDaniel Jr
+SF13_ENG_072	org:top_members_employees	NYT_ENG_20100531.0087	Raymond W. McDaniel Jr.
+SF13_ENG_072	org:top_members_employees	AFP_ENG_20101005.0295	Sarah Carlson
+SF13_ENG_072	org:top_members_employees	XIN_ENG_20100422.0103	Tadashi Usui
+SF13_ENG_072	org:top_members_employees	APW_ENG_20090821.0813	William Black
+SF13_ENG_073	org:alternate_names	APW_ENG_20091021.0395	GIP
+SF13_ENG_073	org:country_of_headquarters	AFP_ENG_20091021.0636	US
+SF13_ENG_073	org:shareholders	NYT_ENG_20091021.0073	Credit Suisse
+SF13_ENG_073	org:stateorprovince_of_headquarters	APW_ENG_20091021.0395	New York
+SF13_ENG_073	org:subsidiaries	APW_ENG_20091021.0307	London City Airport
+SF13_ENG_073	org:website	APW_ENG_20091021.0307	http://www.global-infra.com
+SF13_ENG_073	org:website	APW_ENG_20091021.0395	www.global-infra.com
+SF13_ENG_074	org:alternate_names	APW_ENG_20091027.0119	SouthGobi Energy Resources Ltd.
+SF13_ENG_074	org:country_of_headquarters	AFP_ENG_20101013.0345	Canada
+SF13_ENG_074	org:parents	AFP_ENG_20091027.0474	Ivanhoe Mines
+SF13_ENG_074	org:shareholders	APW_ENG_20091027.0119	China Investment Corp
+SF13_ENG_074	org:shareholders	APW_ENG_20091027.0119	Ivanhoe Mines Ltd.
+SF13_ENG_074	org:website	APW_ENG_20091027.0235	http://www.southgobi.com
+SF13_ENG_074	org:website	APW_ENG_20091027.0235	www.southgobi.com
+SF13_ENG_075	org:alternate_names	APW_ENG_20090904.1006	Champalimaud
+SF13_ENG_075	org:country_of_headquarters	APW_ENG_20090904.1007	Portugal
+SF13_ENG_075	org:date_founded	APW_ENG_20100611.1122	2004-XX-XX
+SF13_ENG_075	org:top_members_employees	AFP_ENG_20101005.0319	Leonor Beleza
+SF13_ENG_075	org:website	APW_ENG_20100611.1121	http://www.fchampalimaud.org/
+SF13_ENG_075	org:website	APW_ENG_20100611.1121	www.fchampalimaud.org
+SF13_ENG_076	org:alternate_names	AFP_ENG_20090622.0548	SBA
+SF13_ENG_076	org:city_of_headquarters	WPB_ENG_20100414.0029	Basel
+SF13_ENG_076	org:country_of_headquarters	AFP_ENG_20091227.0358	Swiss
+SF13_ENG_076	org:country_of_headquarters	APW_ENG_20101031.0351	Switzerland
+SF13_ENG_076	org:top_members_employees	APW_ENG_20101201.0758	Claude-Alain Margelisch
+SF13_ENG_076	org:top_members_employees	APW_ENG_20101031.0351	Patrick Odier
+SF13_ENG_076	org:top_members_employees	APW_ENG_20090622.0207	Pierre Mirabaud
+SF13_ENG_076	org:top_members_employees	NYT_ENG_20090602.0031	Urs P. Roth
+SF13_ENG_076	org:top_members_employees	AFP_ENG_20091008.0518	Urs Roth
+SF13_ENG_076	org:website	APW_ENG_20090622.0207	http://www.swissbanking.org
+SF13_ENG_076	org:website	APW_ENG_20090622.0207	www.swissbanking.org
+SF13_ENG_077	org:alternate_names	eng-NG-31-141913-8673932	NEI
+SF13_ENG_077	org:city_of_headquarters	NYT_ENG_20091109.0126	Washington
+SF13_ENG_077	org:country_of_headquarters	eng-NG-31-141913-8673424	U.S.
+SF13_ENG_077	org:stateorprovince_of_headquarters	NYT_ENG_20091109.0126	Washington
+SF13_ENG_077	org:top_members_employees	NYT_ENG_20101116.0053	Alex Flint
+SF13_ENG_077	org:top_members_employees	APW_ENG_20091025.0353	Marvin Fertel
+SF13_ENG_077	org:top_members_employees	APW_ENG_20101019.0002	Richard Myers
+SF13_ENG_077	org:website	APW_ENG_20100131.0229	http://www.nei.org
+SF13_ENG_077	org:website	APW_ENG_20090617.0001	http://www.nei.org/
+SF13_ENG_078	org:alternate_names	AFP_ENG_20091218.0249	Thomas More Law Centre
+SF13_ENG_078	org:city_of_headquarters	APW_ENG_20100528.1421	Ann Arbor
+SF13_ENG_078	org:political_religious_affiliation	NYT_ENG_20100519.0188	Christian
+SF13_ENG_078	org:stateorprovince_of_headquarters	eng-NG-31-126847-9166256	Michigan
+SF13_ENG_078	org:top_members_employees	eng-NG-31-126841-9160750	Richard Thompson
+SF13_ENG_078	org:website	APW_ENG_20100528.1421	http://www.thomasmore.org
+SF13_ENG_079	org:alternate_names	XIN_ENG_20090818.0204	SIWI
+SF13_ENG_079	org:city_of_headquarters	APW_ENG_20090821.0523	Stockholm
+SF13_ENG_079	org:top_members_employees	APW_ENG_20090821.0523	Anders Berntell
+SF13_ENG_079	org:top_members_employees	XIN_ENG_20100901.0226	Anders Bertil
+SF13_ENG_079	org:website	APW_ENG_20090821.0637	http://www.siwi.org
+SF13_ENG_079	org:website	APW_ENG_20090821.0637	www.siwi.org
+SF13_ENG_080	org:alternate_names	XIN_ENG_20100909.0207	IWMI
+SF13_ENG_080	org:country_of_headquarters	XIN_ENG_20100909.0207	Sri Lanka
+SF13_ENG_080	org:member_of	eng-NG-31-110705-9049626	Consultative Group on International Agricultural Research
+SF13_ENG_080	org:top_members_employees	APW_ENG_20090818.0013	Colin Chartres
+SF13_ENG_080	org:top_members_employees	WPB_ENG_20100331.0062	David Molden
+SF13_ENG_080	org:website	APW_ENG_20090818.0013	http://www.iwmi.cgiar.org
+SF13_ENG_080	org:website	APW_ENG_20090818.0013	www.iwmi.cgiar.org
+SF13_ENG_081	org:alternate_names	WPB_ENG_20100927.0098	D.C. Opera
+SF13_ENG_081	org:alternate_names	NYT_ENG_20101207.0099	Opera Society of Washington
+SF13_ENG_081	org:alternate_names	WPB_ENG_20100927.0098	Washington Opera
+SF13_ENG_081	org:alternate_names	WPB_ENG_20100129.0037	WNO
+SF13_ENG_081	org:country_of_headquarters	AFP_ENG_20091124.0733	United States
+SF13_ENG_081	org:top_members_employees	APW_ENG_20100927.0836	Domingo
+SF13_ENG_081	org:top_members_employees	APW_ENG_20100927.0836	Kenneth Feinberg
+SF13_ENG_081	org:top_members_employees	NYT_ENG_20100928.0050	Kenneth R. Feinberg
+SF13_ENG_081	org:top_members_employees	NYT_ENG_20090715.0030	Mark J. Weinstein
+SF13_ENG_081	org:top_members_employees	WPB_ENG_20100423.0034	Pl cido Domingo
+SF13_ENG_081	org:top_members_employees	APW_ENG_20100920.0802	Placido Domingo
+SF13_ENG_081	org:website	APW_ENG_20100927.0836	http://www.dc-opera.org/
+SF13_ENG_082	org:city_of_headquarters	APW_ENG_20101129.0034	Alexandria
+SF13_ENG_082	org:country_of_headquarters	APW_ENG_20100413.0045	U.S.
+SF13_ENG_082	org:stateorprovince_of_headquarters	APW_ENG_20101129.0034	Virginia
+SF13_ENG_082	org:top_members_employees	APW_ENG_20101226.0005	Chuck Johnson
+SF13_ENG_082	org:top_members_employees	NYT_ENG_20100119.0105	Mary F. Robinson
+SF13_ENG_082	org:top_members_employees	APW_ENG_20100121.0035	Mary Robinson
+SF13_ENG_082	org:top_members_employees	eng-NG-31-142688-8721412	Thomas Atwood
+SF13_ENG_082	org:website	APW_ENG_20100202.0009	http://www.adoptioncouncil.org
+SF13_ENG_082	org:website	APW_ENG_20100202.0009	www.adoptioncouncil.org
+SF13_ENG_083	org:alternate_names	APW_ENG_20100415.0680	JCICS
+SF13_ENG_083	org:top_members_employees	APW_ENG_20091217.1277	Thomas DiFilipo
+SF13_ENG_083	org:top_members_employees	APW_ENG_20100728.0005	Tom DeFilipo
+SF13_ENG_083	org:top_members_employees	APW_ENG_20100121.0035	Tom Difilipo
+SF13_ENG_083	org:website	APW_ENG_20100415.0680	http://www.jcics.org/
+SF13_ENG_083	org:website	APW_ENG_20100415.0680	www.jcics.org
+SF13_ENG_084	org:alternate_names	NYT_ENG_20101120.0104	Bipartisan Center
+SF13_ENG_084	org:alternate_names	NYT_ENG_20101202.0105	Bipartisan Policy
+SF13_ENG_084	org:alternate_names	NYT_ENG_20091223.0005	Bipartisan Policy Group
+SF13_ENG_084	org:alternate_names	XIN_ENG_20100216.0159	BPC
+SF13_ENG_084	org:date_founded	NYT_ENG_20100826.0058	2007
+SF13_ENG_084	org:date_founded	AFP_ENG_20100214.0535	2007-XX-XX
+SF13_ENG_084	org:founded_by	NYT_ENG_20100826.0058	Bob Dole
+SF13_ENG_084	org:founded_by	AFP_ENG_20100216.0180	George Mitchell
+SF13_ENG_084	org:founded_by	AFP_ENG_20100216.0180	Howard Baker
+SF13_ENG_084	org:founded_by	AFP_ENG_20100216.0180	Tom Daschle
+SF13_ENG_084	org:subsidiaries	WPB_ENG_20100930.0044	National Commission on Energy Policy
+SF13_ENG_084	org:top_members_employees	APW_ENG_20100126.1287	Alice Rivlin
+SF13_ENG_084	org:top_members_employees	WPB_ENG_20101227.0021	Charles Konigsberg
+SF13_ENG_084	org:top_members_employees	AFP_ENG_20100214.0535	Eileen McMenamin
+SF13_ENG_084	org:top_members_employees	AFP_ENG_20100214.0535	George Mitchell
+SF13_ENG_084	org:top_members_employees	AFP_ENG_20100214.0535	Howard Baker
+SF13_ENG_084	org:top_members_employees	APW_ENG_20100827.0023	Jason Grumet
+SF13_ENG_084	org:top_members_employees	NYT_ENG_20100609.0086	Jason S. Grumet
+SF13_ENG_084	org:top_members_employees	NYT_ENG_20101229.0034	Paul Bledsoe
+SF13_ENG_084	org:top_members_employees	WPB_ENG_20101129.0036	Pete Domenici
+SF13_ENG_084	org:top_members_employees	AFP_ENG_20100214.0535	Tom Daschle
+SF13_ENG_084	org:website	APW_ENG_20100827.0023	http://www.bipartisanpolicy.org/
+SF13_ENG_084	org:website	APW_ENG_20100910.0695	http:\\www.bipartisanpolicy.org\
+SF13_ENG_085	org:alternate_names	XIN_ENG_20091116.0447	CBRC
+SF13_ENG_085	org:alternate_names	AFP_ENG_20100120.0749	Commission
+SF13_ENG_085	org:country_of_headquarters	XIN_ENG_20100423.0371	China
+SF13_ENG_085	org:country_of_headquarters	AFP_ENG_20091116.0284	Chinese
+SF13_ENG_085	org:parents	XIN_ENG_20091130.0398	China
+SF13_ENG_085	org:stateorprovince_of_headquarters	XIN_ENG_20091119.0143	Beijing
+SF13_ENG_085	org:top_members_employees	XIN_ENG_20090623.0424	Cai Esheng
+SF13_ENG_085	org:top_members_employees	XIN_ENG_20101102.0434	Jia Kang
+SF13_ENG_085	org:top_members_employees	XIN_ENG_20101102.0399	Jiang Dingzhi
+SF13_ENG_085	org:top_members_employees	AFP_ENG_20091221.0542	Li Fuan
+SF13_ENG_085	org:top_members_employees	XIN_ENG_20091203.0358	Liu
+SF13_ENG_085	org:top_members_employees	XIN_ENG_20091017.0199	Liu Mingkang
+SF13_ENG_085	org:top_members_employees	AFP_ENG_20100120.0589	Liu Minkang
+SF13_ENG_085	org:top_members_employees	AFP_ENG_20091208.0545	Wang Zhaoxing
+SF13_ENG_085	org:top_members_employees	XIN_ENG_20101129.0402	Yan Qingmin
+SF13_ENG_085	org:top_members_employees	XIN_ENG_20100918.0194	Yang Xilun
+SF13_ENG_085	org:website	APW_ENG_20100311.0166	http://www.cbrc.gov.cn
+SF13_ENG_086	org:alternate_names	XIN_ENG_20091208.0430	SASAC
+SF13_ENG_086	org:alternate_names	XIN_ENG_20100320.0178	State Assets Supervision and Administration Commission
+SF13_ENG_086	org:country_of_headquarters	NYT_ENG_20100819.0063	China
+SF13_ENG_086	org:date_founded	WPB_ENG_20101013.0072	2003-XX-XX
+SF13_ENG_086	org:parents	APW_ENG_20090721.0214	Cabinet
+SF13_ENG_086	org:parents	XIN_ENG_20090709.0397	China
+SF13_ENG_086	org:parents	XIN_ENG_20101104.0464	State Council
+SF13_ENG_086	org:subsidiaries	XIN_ENG_20100522.0232	China Mobile
+SF13_ENG_086	org:top_members_employees	XIN_ENG_20100812.0352	Huang Danhua
+SF13_ENG_086	org:top_members_employees	XIN_ENG_20100107.0366	Huang Shuhe
+SF13_ENG_086	org:top_members_employees	XIN_ENG_20100522.0232	Li Rongrong
+SF13_ENG_086	org:top_members_employees	XIN_ENG_20100519.0485	Li Wei
+SF13_ENG_086	org:top_members_employees	XIN_ENG_20101222.0364	Shao Ning
+SF13_ENG_086	org:top_members_employees	XIN_ENG_20101222.0348	Wang Yong
+SF13_ENG_086	org:website	APW_ENG_20090920.0104	http://www.sasac.gov.cn
+SF13_ENG_086	org:website	APW_ENG_20090907.0491	http:\\www.sasac.gov.cn
+SF13_ENG_087	org:alternate_names	AFP_ENG_20090625.0518	ALBA
+SF13_ENG_087	org:alternate_names	XIN_ENG_20100420.0279	Bolivarian Alliance for the Americas
+SF13_ENG_087	org:date_founded	AFP_ENG_20090624.0021	2004
+SF13_ENG_087	org:date_founded	AFP_ENG_20090624.0021	2004-XX-XX
+SF13_ENG_087	org:founded_by	APW_ENG_20091215.0069	Chavez
+SF13_ENG_087	org:founded_by	AFP_ENG_20090625.0518	Cuba
+SF13_ENG_087	org:founded_by	AFP_ENG_20090629.0110	Fidel Castro
+SF13_ENG_087	org:founded_by	AFP_ENG_20090629.0110	Hugo Chavez
+SF13_ENG_087	org:founded_by	XIN_ENG_20091016.0186	Venezuela
+SF13_ENG_087	org:members	XIN_ENG_20090625.0164	Antigua and Barbuda
+SF13_ENG_087	org:members	AFP_ENG_20090629.0073	Bolivia
+SF13_ENG_087	org:members	AFP_ENG_20090629.0073	Cuba
+SF13_ENG_087	org:members	AFP_ENG_20090629.0073	Dominica
+SF13_ENG_087	org:members	XIN_ENG_20090625.0164	Ecuador
+SF13_ENG_087	org:members	APW_ENG_20091214.0061	Honduras
+SF13_ENG_087	org:members	AFP_ENG_20090603.0624	Nicaragua
+SF13_ENG_087	org:members	XIN_ENG_20090625.0164	Saint Vincent and the Grenadines
+SF13_ENG_087	org:members	eng-NG-31-142161-10036973	Venezuela
+SF13_ENG_087	org:top_members_employees	AFP_ENG_20090624.0021	Hugo Chavez
+SF13_ENG_088	org:alternate_names	WPB_ENG_20100324.0012	Bank Julius Baer & Co.
+SF13_ENG_088	org:alternate_names	WPB_ENG_20100728.0038	Bank Julius Baer Co.
+SF13_ENG_088	org:alternate_names	NYT_ENG_20100118.0190	Julius Baer
+SF13_ENG_088	org:alternate_names	AFP_ENG_20091007.0638	Julius Baer Group
+SF13_ENG_088	org:city_of_headquarters	WPB_ENG_20100728.0038	Basel
+SF13_ENG_088	org:city_of_headquarters	XIN_ENG_20101013.0459	Zurich
+SF13_ENG_088	org:country_of_headquarters	AFP_ENG_20091007.0638	Swiss
+SF13_ENG_088	org:country_of_headquarters	WPB_ENG_20100728.0038	Switzerland
+SF13_ENG_088	org:date_founded	XIN_ENG_20101013.0459	1890-XX-XX
+SF13_ENG_088	org:founded_by	XIN_ENG_20101013.0459	Julius Baer
+SF13_ENG_088	org:top_members_employees	NYT_ENG_20091007.0166	Boris Collardi
+SF13_ENG_088	org:top_members_employees	NYT_ENG_20090820.0133	Frank Gut
+SF13_ENG_088	org:top_members_employees	NYT_ENG_20100118.0190	Raymond J. Baer
+SF13_ENG_089	org:alternate_names	AFP_ENG_20100521.0001	ROE
+SF13_ENG_089	org:alternate_names	eng-NG-31-128245-9254243	RosOboronExport
+SF13_ENG_089	org:country_of_headquarters	XIN_ENG_20101028.0325	Russia
+SF13_ENG_089	org:country_of_headquarters	AFP_ENG_20090702.0361	Russian
+SF13_ENG_089	org:country_of_headquarters	XIN_ENG_20101028.0325	Russian Federation
+SF13_ENG_089	org:date_founded	XIN_ENG_20101103.0350	11/4/2000
+SF13_ENG_089	org:founded_by	XIN_ENG_20101103.0350	Vladimir Putin
+SF13_ENG_089	org:parents	XIN_ENG_20101028.0325	Russia
+SF13_ENG_089	org:top_members_employees	XIN_ENG_20100721.0268	Alexander Mikheyev
+SF13_ENG_089	org:top_members_employees	XIN_ENG_20101028.0325	Anatoli Isaikin
+SF13_ENG_089	org:top_members_employees	APW_ENG_20100521.1183	Anatoly Isaikin
+SF13_ENG_089	org:top_members_employees	AFP_ENG_20090621.0015	Anatoly Isaykin
+SF13_ENG_089	org:top_members_employees	eng-NG-31-113099-9051701	Sergei Chemezov
+SF13_ENG_089	org:top_members_employees	eng-NG-31-142154-8689105	Sergey Chemezov
+SF13_ENG_089	org:top_members_employees	eng-NG-31-142161-10037583	Serguei Ladiguin
+SF13_ENG_089	org:top_members_employees	XIN_ENG_20100526.0295	Valeri Varlamov
+SF13_ENG_090	org:alternate_names	XIN_ENG_20101223.0009	ECO
+SF13_ENG_090	org:alternate_names	AFP_ENG_20101222.0433	Economic Cooperation Organisation
+SF13_ENG_090	org:founded_by	XIN_ENG_20101223.0038	Iran
+SF13_ENG_090	org:founded_by	XIN_ENG_20101223.0038	Pakistan
+SF13_ENG_090	org:founded_by	XIN_ENG_20101223.0038	Turkey
+SF13_ENG_090	org:members	XIN_ENG_20101222.0100	Afghanistan
+SF13_ENG_090	org:members	XIN_ENG_20101222.0100	Azerbaijan
+SF13_ENG_090	org:members	eng-NG-31-149627-10596806	Iran
+SF13_ENG_090	org:members	XIN_ENG_20101222.0100	Kazakhstan
+SF13_ENG_090	org:members	XIN_ENG_20101222.0100	Kyrgyzstan
+SF13_ENG_090	org:members	XIN_ENG_20101222.0100	Pakistan
+SF13_ENG_090	org:members	XIN_ENG_20101222.0100	Tajikistan
+SF13_ENG_090	org:members	XIN_ENG_20101222.0100	Turkey
+SF13_ENG_090	org:members	XIN_ENG_20101222.0100	Turkmenistan
+SF13_ENG_090	org:members	XIN_ENG_20101222.0100	Uzbekistan
+SF13_ENG_091	org:alternate_names	APW_ENG_20090609.0480	Arcandor AG
+SF13_ENG_091	org:alternate_names	NYT_ENG_20090825.0007	KarstadtQuelle
+SF13_ENG_091	org:city_of_headquarters	AFP_ENG_20090618.0420	Essen
+SF13_ENG_091	org:country_of_headquarters	AFP_ENG_20100309.0559	German
+SF13_ENG_091	org:country_of_headquarters	APW_ENG_20090609.0480	Germany
+SF13_ENG_091	org:date_founded	AFP_ENG_20090608.0256	1881-XX-XX
+SF13_ENG_091	org:number_of_employees_members	AFP_ENG_20090603.0148	"50,000"
+SF13_ENG_091	org:shareholders	AFP_ENG_20090607.0349	Karl-Gerhard Eick
+SF13_ENG_091	org:shareholders	APW_ENG_20090609.0420	Madeleine Schickedanz
+SF13_ENG_091	org:shareholders	AFP_ENG_20090617.0358	Oppenheim
+SF13_ENG_091	org:shareholders	AFP_ENG_20090617.0358	Sal Oppenheim
+SF13_ENG_091	org:subsidiaries	AFP_ENG_20090607.0262	KaDeWe
+SF13_ENG_091	org:subsidiaries	AFP_ENG_20090608.0506	Kardstadt
+SF13_ENG_091	org:subsidiaries	AFP_ENG_20090610.0515	Karstadt
+SF13_ENG_091	org:subsidiaries	APW_ENG_20090609.0624	Karstadt Warenhaus GmbH
+SF13_ENG_091	org:subsidiaries	AFP_ENG_20090813.0154	Primondo
+SF13_ENG_091	org:subsidiaries	AFP_ENG_20090630.0301	Quelle
+SF13_ENG_091	org:subsidiaries	APW_ENG_20090630.0287	Quelle GmbH
+SF13_ENG_091	org:top_members_employees	APW_ENG_20090603.0864	Karl-Gerhard Eick
+SF13_ENG_091	org:top_members_employees	NYT_ENG_20090829.0009	Middelhoff
+SF13_ENG_091	org:top_members_employees	NYT_ENG_20090825.0007	Thomas Middelhoff
+SF13_ENG_091	org:top_members_employees	AFP_ENG_20090612.0385	Thomas Middlehoff
+SF13_ENG_092	org:alternate_names	AFP_ENG_20091106.0600	Escada AG
+SF13_ENG_092	org:founded_by	AFP_ENG_20091106.0400	Wolfgang Ley
+SF13_ENG_092	org:number_of_employees_members	AFP_ENG_20091106.0600	2300
+SF13_ENG_092	org:shareholders	AFP_ENG_20091106.0600	Megha Mittal
+SF13_ENG_092	org:subsidiaries	AFP_ENG_20090711.0252	Primera
+SF13_ENG_092	org:top_members_employees	AFP_ENG_20091106.0436	Bruno Saelzer
+SF13_ENG_092	org:top_members_employees	AFP_ENG_20091106.0400	Megha Mittal
+SF13_ENG_093	org:alternate_names	eng-NG-31-142102-8683152	Saudi Oger Ltd
+SF13_ENG_093	org:alternate_names	eng-NG-31-142102-10001145	Saudi Oger Ltd.
+SF13_ENG_093	org:country_of_headquarters	AFP_ENG_20090627.0162	Saudi
+SF13_ENG_093	org:country_of_headquarters	AFP_ENG_20090608.0756	Saudi Arabia
+SF13_ENG_093	org:number_of_employees_members	AFP_ENG_20090608.0503	35000
+SF13_ENG_093	org:shareholders	AFP_ENG_20090627.0162	Rafiq Hariri
+SF13_ENG_093	org:top_members_employees	AFP_ENG_20090627.0218	Hariri
+SF13_ENG_093	org:top_members_employees	AFP_ENG_20091109.0161	Saad Hariri
+SF13_ENG_094	org:alternate_names	WPB_ENG_20100101.0003	Rapiscan
+SF13_ENG_094	org:city_of_headquarters	WPB_ENG_20100908.0041	Torrance
+SF13_ENG_094	org:country_of_headquarters	AFP_ENG_20091231.0350	US
+SF13_ENG_094	org:parents	AFP_ENG_20091231.0350	OSI Systems
+SF13_ENG_094	org:parents	APW_ENG_20091229.0030	OSI Systems Inc
+SF13_ENG_094	org:parents	APW_ENG_20091229.0030	OSI Systems Inc.
+SF13_ENG_094	org:shareholders	APW_ENG_20091229.0030	OSI Systems Inc
+SF13_ENG_094	org:stateorprovince_of_headquarters	NYT_ENG_20100626.0021	Calif.
+SF13_ENG_094	org:stateorprovince_of_headquarters	WPB_ENG_20101223.0048	California
+SF13_ENG_094	org:top_members_employees	WPB_ENG_20101225.0012	Peter Kant
+SF13_ENG_094	org:top_members_employees	APW_ENG_20100105.0814	Terry Whittock
+SF13_ENG_095	org:alternate_names	WPB_ENG_20100831.0021	Attenti
+SF13_ENG_095	org:alternate_names	APW_ENG_20100831.0643	Attenti Holdings SA
+SF13_ENG_095	org:city_of_headquarters	WPB_ENG_20100831.0021	Tel Aviv
+SF13_ENG_095	org:country_of_headquarters	WPB_ENG_20100831.0021	Israel
+SF13_ENG_095	org:country_of_headquarters	WPB_ENG_20100831.0021	Israeli
+SF13_ENG_095	org:number_of_employees_members	APW_ENG_20100831.0471	340
+SF13_ENG_096	org:alternate_names	APW_ENG_20090901.1284	Freedom Communications Holdings Inc.
+SF13_ENG_096	org:alternate_names	APW_ENG_20090601.1190	Freedom Communications Inc.
+SF13_ENG_096	org:city_of_headquarters	APW_ENG_20090831.0066	Irvine
+SF13_ENG_096	org:country_of_headquarters	AFP_ENG_20091102.0066	United States
+SF13_ENG_096	org:date_founded	APW_ENG_20090831.0047	1930-XX-XX
+SF13_ENG_096	org:date_founded	APW_ENG_20090831.0066	19XX-XX-XX
+SF13_ENG_096	org:founded_by	APW_ENG_20090831.0066	R.C. Hoiles
+SF13_ENG_096	org:stateorprovince_of_headquarters	APW_ENG_20090831.0047	California
+SF13_ENG_096	org:subsidiaries	APW_ENG_20090831.0066	Orange County Register
+SF13_ENG_096	org:subsidiaries	APW_ENG_20090617.0838	"The Orange County Register,"
+SF13_ENG_096	org:top_members_employees	NYT_ENG_20090901.0199	Burl Osborne
+SF13_ENG_096	org:top_members_employees	WPB_ENG_20100209.0052	Scott Flanders
+SF13_ENG_096	org:top_members_employees	APW_ENG_20090601.1190	Scott N. Flanders
+SF13_ENG_097	org:alternate_names	AFP_ENG_20101111.0030	STX Finland Cruise
+SF13_ENG_097	org:alternate_names	APW_ENG_20091117.0560	STX Finland OY
+SF13_ENG_097	org:country_of_headquarters	APW_ENG_20091110.0789	Finland
+SF13_ENG_097	org:country_of_headquarters	APW_ENG_20091110.0789	Finnish
+SF13_ENG_097	org:member_of	AFP_ENG_20091013.0676	STX
+SF13_ENG_097	org:member_of	APW_ENG_20101025.0228	STX Europe Group
+SF13_ENG_097	org:number_of_employees_members	AFP_ENG_20101103.0162	"3,000"
+SF13_ENG_097	org:parents	AFP_ENG_20091013.0676	STX
+SF13_ENG_097	org:parents	APW_ENG_20091208.0873	STX Europe Group
+SF13_ENG_097	org:top_members_employees	AFP_ENG_20101025.0255	Juha Heikinheimo
+SF13_ENG_097	org:top_members_employees	AFP_ENG_20091028.0239	Martin Landtman
+SF13_ENG_097	org:website	APW_ENG_20101025.0228	http://www.stxeurope.com
+SF13_ENG_097	org:website	APW_ENG_20091208.0872	www.stxeurope.com
+SF13_ENG_098	org:alternate_names	NYT_ENG_20100303.0191	EMD Millipore
+SF13_ENG_098	org:alternate_names	APW_ENG_20101026.0210	Millipore
+SF13_ENG_098	org:city_of_headquarters	eng-NG-31-127451-8307108	Billerica
+SF13_ENG_098	org:country_of_headquarters	APW_ENG_20100428.0466	U.S.
+SF13_ENG_098	org:country_of_headquarters	NYT_ENG_20100303.0191	US
+SF13_ENG_098	org:date_founded	NYT_ENG_20100223.0026	1954-XX-XX
+SF13_ENG_098	org:number_of_employees_members	NYT_ENG_20100223.0026	"5,900"
+SF13_ENG_098	org:number_of_employees_members	NYT_ENG_20100224.0190	"6,100"
+SF13_ENG_098	org:parents	APW_ENG_20100729.0363	Merck
+SF13_ENG_098	org:parents	APW_ENG_20100729.0363	Merck Group
+SF13_ENG_098	org:parents	NYT_ENG_20101213.0197	Merck KGaA
+SF13_ENG_098	org:parents	APW_ENG_20101026.0210	Merck Millipore
+SF13_ENG_098	org:stateorprovince_of_headquarters	eng-NG-31-127451-8307108	Mass.
+SF13_ENG_098	org:stateorprovince_of_headquarters	NYT_ENG_20100223.0032	Massachusetts
+SF13_ENG_098	org:top_members_employees	NYT_ENG_20100303.0191	Martin D. Madaus
+SF13_ENG_099	org:alternate_names	AFP_ENG_20091216.0465	DCN
+SF13_ENG_099	org:city_of_headquarters	WPB_ENG_20100611.0053	Paris
+SF13_ENG_099	org:country_of_headquarters	APW_ENG_20090917.0189	France
+SF13_ENG_099	org:country_of_headquarters	APW_ENG_20090917.0189	French
+SF13_ENG_099	org:number_of_employees_members	APW_ENG_20090917.0189	12000
+SF13_ENG_099	org:parents	AFP_ENG_20100720.0466	Thales
+SF13_ENG_099	org:shareholders	AFP_ENG_20100720.0466	Thales
+SF13_ENG_099	org:subsidiaries	AFP_ENG_20100601.0205	Armaris
+SF13_ENG_099	org:top_members_employees	AFP_ENG_20100504.0096	Patrick Boissier
+SF13_ENG_100	org:alternate_names	NYT_ENG_20100205.0016	Galleon
+SF13_ENG_100	org:alternate_names	APW_ENG_20101004.0919	Galleon Fund
+SF13_ENG_100	org:alternate_names	APW_ENG_20091016.1192	Galleon Group LLP
+SF13_ENG_100	org:country_of_headquarters	XIN_ENG_20091020.0265	U.S.
+SF13_ENG_100	org:date_founded	APW_ENG_20091221.0817	1996-XX-XX
+SF13_ENG_100	org:founded_by	NYT_ENG_20091211.0031	Gary Rosenbach
+SF13_ENG_100	org:founded_by	AFP_ENG_20091022.0093	Raj Rajaratnam
+SF13_ENG_100	org:number_of_employees_members	APW_ENG_20091029.1262	125
+SF13_ENG_100	org:stateorprovince_of_headquarters	NYT_ENG_20101129.0186	New York
+SF13_ENG_100	org:top_members_employees	NYT_ENG_20091029.0045	Raj Rajaratnam

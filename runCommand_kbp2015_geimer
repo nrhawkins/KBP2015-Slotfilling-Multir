@@ -1,0 +1,5 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBP2015MultirExtractor 
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/geimer.xml 0 new
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/relDocs_kbp2015_geimer runOutput_geimer round2 0 0"
+

@@ -1,0 +1,24 @@
+Extraction [arg1=Diamondback Capital Management	401	431, arg2=Stamford	435	443, rel=org:city_of_headquarters, score=1.229029025E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101122.0141, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Diamondback Capital Management	401	431, arg2=Conn.	445	450, rel=org:stateorprovince_of_headquarters, score=3.64552131E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101122.0141, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=SAC Capital Advisors	480	500, arg2=Conn.	517	522, rel=org:stateorprovince_of_headquarters, score=5.25952542E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101122.0141, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=SAC Capital Advisors	480	500, arg2=Steven A. Cohen	563	578, rel=org:founded_by, score=6.392985210000001E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20101122.0141, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_100	org:subsidiaries	UWashington_2	NIL
+SF13_ENG_100	org:alternate_names	UWashington_2	NIL
+SF13_ENG_100	org:date_founded	UWashington_2	NIL
+SF13_ENG_100	org:website	UWashington_2	NIL
+SF13_ENG_100	org:country_of_headquarters	UWashington_2	NIL
+SF13_ENG_100	org:number_of_employees_members	UWashington_2	NIL
+SF13_ENG_100	org:date_dissolved	UWashington_2	NIL
+SF13_ENG_100	org:founded_by	UWashington_2	NIL
+SF13_ENG_100	org:political_religious_affiliation	UWashington_2	NIL
+SF13_ENG_100	org:shareholders	UWashington_2	NIL
+SF13_ENG_100	org:city_of_headquarters	UWashington_2	NIL
+SF13_ENG_100	org:member_of	UWashington_2	NIL
+SF13_ENG_100	org:top_members_employees	UWashington_2	NIL
+SF13_ENG_100	org:parents	UWashington_2	NIL
+SF13_ENG_100	org:members	UWashington_2	NIL
+SF13_ENG_100	org:stateorprovince_of_headquarters	UWashington_2	NIL

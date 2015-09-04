@@ -1,0 +1,513 @@
+Extraction [arg1=Delta Dore	1179	1189, arg2=Brazilian	1120	1129, rel=/common/topic/alias, score=449409.7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081124.0221.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Brazilian coast to assess
+damage to two upper spreaders on Delta Dore
+Extraction [arg1=EU	583	585, arg2=Bulgarian	685	694, rel=/common/topic/alias, score=719249.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0055.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = EU, but also relations
+within the Black Sea, the Caucasus and the Mediterranean," the
+visibly pleased Bulgarian
+Extraction [arg1=EU	2253	2255, arg2=Polish	2148	2154, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0055.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Polish
+counterpart Lech Kaczynski to discuss the Treaty of Lisbon, which
+has already been ratified by 20 EU
+Extraction [arg1=EU	2486	2488, arg2=Irish	2607	2612, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0055.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = EU
+presidency, the Polish president declined to sign the treaty,
+arguing that it was "irrelevant" after its rejection by Irish
+Extraction [arg1=Royal Malaysian Navy	293	313, arg2=French	197	203, rel=/common/topic/alias, score=111407.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071023.0322.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French firm DCNS and Spain's Navantia, the Tunku
+Abdul Rahman will be formally delivered to the Royal Malaysian
+Navy
+Extraction [arg1=Royal Malaysian Navy	383	403, arg2=French	218	224, rel=/common/topic/alias, score=174002.59999999998, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071023.0329.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French company DCNS and Spain's
+Navantia and named after the leader of Malaysia's independence,
+Tunku Abdul Rahman, the submarine is expected to be delivered to
+the Royal Malaysian Navy
+Extraction [arg1=China Petroleum & Chemical	1326	1356, arg2=Iranian	1426	1433, rel=/common/topic/alias, score=546999.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070815.1291.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = China Petroleum &amp; Chemical,
+which has been negotiating a multimillion dollar deal to explore
+an Iranian
+Extraction [arg1=Daimler	2014	2021, arg2=Spartan	1939	1946, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080201.0464.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spartan from Italy's Alenia Aeronautica, as
+well as armoured vehicles from Daimler
+Extraction [arg1=Chrysler	2023	2031, arg2=Spartan	1939	1946, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080201.0464.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spartan from Italy's Alenia Aeronautica, as
+well as armoured vehicles from Daimler- Chrysler
+Extraction [arg1=Vendee Globe	99	111, arg2=French	0	6, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French skipper Vincent Riou, of PRB, is aiming to become the
+first skipper to win two consecutive  Vendee Globe
+Extraction [arg1=Gitana Eighty	1888	1901, arg2=Names	1848	1853, rel=/common/topic/alias, score=6217.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Names such as Desjoyeaux, Loick Peyron (Gitana Eighty
+Extraction [arg1=Barcelona	2008	2017, arg2=Names	1848	1853, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Names such as Desjoyeaux, Loick Peyron (Gitana Eighty), Roland
+Jourdain (Veolia), Jean Le Cam (VM Materiaux) and Jean-Pierre
+Dick (Paprec-Virbac), the reigning Barcelona
+Extraction [arg1=FRA\/Veolia Environnement	3388	3412, arg2=American	3843	3851, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = FRA/Veolia Environnement), Jean Le Cam
+(FRA/VM Materiaux), Armel Le Cleac'h (FRA/Brit Air), Jonny Malbon
+(GBR/Artemis), Loick Peyron (FRA/Gitana Eighty), Vincent Riou
+(FRA/PRB), Norbert Sedlacek (AUT/Nauticsport- Kapsch), Bernard
+Stamm (SUI/Cheminees Poujoulat), Marc Thiercelin (FRA/DCNS),
+Brian Thompson (GBR/Bharain Team-Pindar), Alex Thomson (GBR/Hugo
+Boss), Dominique Wavre (SUI/Temenos), Steve White (GBR/Spirit Of
+Weymouth), Rich Wilson (USA/Great American
+Extraction [arg1=FRA\/Veolia Environnement	3388	3412, arg2=Roland Jourdain	3371	3386, rel=org:founded_by, score=3673893.5999999996, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Roland Jourdain (FRA/Veolia Environnement
+Extraction [arg1=Defense	170	177, arg2=Belgian	54	61, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian
+frigates and a minesweeper, but deferred plans to buy four new
+NATO-standard French corvettes for its navy, Defence
+Extraction [arg1=NATO	662	666, arg2=Belgian	598	605, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian frigate in 2005, its first
+military ship to comply with NATO
+Extraction [arg1=Textron	1986	1993, arg2=Bulgarian	2019	2028, rel=/common/topic/alias, score=193640.09999999998, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Textron was chosen to supply the Bulgarian
+Extraction [arg1=Textron	2206	2213, arg2=Bulgarian	2019	2028, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Bulgarian land
+forces with seven new armoured vehicles for 14 million leva (7.0
+million euros), scheduled for delivery by the end of the year,"
+Bliznakov said after signing the deal with Textron
+Extraction [arg1=DCNS	1437	1441, arg2=Spanish	1450	1457, rel=/common/topic/alias, score=495658.7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071025.0432.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = DCNS and its
+Spanish
+Extraction [arg1=Motorola Inc.	2127	2140, arg2=Treo	2011	2015, rel=/common/topic/alias, score=319885.30000000005, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070305.1255.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Treo smart phone, has a loyal customer base
+but faces tough competition from cell phone makers, including
+Nokia and Motorola Inc.
+Extraction [arg1=Dassault	1363	1371, arg2=Russian Sukhoi	1389	1403, rel=/common/topic/alias, score=232585.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080125.0247.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Dassault's Rafale and the
+Russian Sukhoi
+Extraction [arg1=China Petroleum & Chemical	1326	1356, arg2=Iranian	1426	1433, rel=/common/topic/alias, score=546999.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070815.1263.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = China Petroleum &amp; Chemical,
+which has been negotiating a multimillion dollar deal to explore
+an Iranian
+Extraction [arg1=Galleon Group	4913	4926, arg2=Gary Rosenbach	4878	4892, rel=org:founded_by, score=7.56794127E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20070117.0295.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Gary Rosenbach, the
+founder of the Galleon Group
+Extraction [arg1=American Football League	5044	5068, arg2=Titans	4971	4977, rel=/common/topic/alias, score=944848.8999999999, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20070117.0295.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Titans, which was also the nickname of the original New
+York team in the American Football League
+Extraction [arg1=HDW	186	189, arg2=Britain-based	207	220, rel=/common/topic/alias, score=130921.5, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080722.0407.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = HDW and its partner, Britain-based
+Extraction [arg1=Navantia SA	482	493, arg2=Spain	474	479, rel=org:country_of_headquarters, score=2.2408170329999995E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080722.0407.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spain's Navantia SA
+Extraction [arg1=Leerink Swann & amp ; Co.	2111	2138, arg2=Boston	2142	2148, rel=org:city_of_headquarters, score=8.74883888E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080218.0097.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Leerink Swann &amp;amp; Co. in Boston
+Extraction [arg1=NATO	150	154, arg2=Belgian	76	83, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080730.0473.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian frigates and a minesweeper to help bring the
+country's navy up to NATO
+Extraction [arg1=NATO	939	943, arg2=Western	1074	1081, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080730.0473.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = NATO
+in 2004 but lack of funding hampered the small Balkan state's
+efforts to bring its military forces up to the standards set by
+the Western
+Extraction [arg1=EU	583	585, arg2=Bulgarian	685	694, rel=/common/topic/alias, score=719249.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0058.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = EU, but also relations
+within the Black Sea, the Caucasus and the Mediterranean," the
+visibly pleased Bulgarian
+Extraction [arg1=Navantia SA	324	335, arg2=Spain	316	321, rel=org:country_of_headquarters, score=2.3721808179999995E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spain's
+Navantia SA
+Extraction [arg1=Deutsche Werft GmbH	197	216, arg2=Kiel-based	171	181, rel=/common/topic/alias, score=184765.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Kiel-based Howaldtswerke-
+Deutsche Werft GmbH
+Extraction [arg1=Marine Force International	251	277, arg2=British	234	241, rel=/common/topic/alias, score=184765.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = British partner, Marine
+Force International
+Extraction [arg1=Navantia SA	324	335, arg2=British	234	241, rel=/common/topic/alias, score=299978.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = British partner, Marine
+Force International, were selected over France's DCNS and Spain's
+Navantia SA
+Extraction [arg1=Vendee Globe	76	88, arg2=French	0	6, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081126.0340.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French skipper Jeremie Beyou became the fifth competitor to pull
+out of the Vendee Globe
+Extraction [arg1=Groupe Bel	967	977, arg2=French	872	878, rel=/common/topic/alias, score=533420.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081126.0340.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French
+port of Les Sables d'Olonne on November 9 are Alex Thomson (Hugo
+Boss), Kito de Pavant (Groupe Bel
+Extraction [arg1=Equifax Inc.	2216	2228, arg2=Atlanta-based	2234	2247, rel=/common/topic/alias, score=870736.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20081027.0069.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Equifax Inc., the Atlanta-based
+Extraction [arg1=Congress	3188	3196, arg2=Friedman	3174	3182, rel=org:top_members_employees, score=9195616.1, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20081027.0069.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Friedman said Congress
+Extraction [arg1=Boston Scientific	4449	4466, arg2=Natick	4487	4493, rel=org:city_of_headquarters, score=2669014.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20081027.0069.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Boston Scientific spokesman, said the Natick
+Extraction [arg1=SEC	392	395, arg2=Hong Kong-chartered	429	448, rel=/common/topic/alias, score=69878.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070226.1428.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = SEC alleged
+that Blue Bottle Ltd., a Hong Kong-chartered
+Extraction [arg1=SEC	709	712, arg2=SEC	821	824, rel=org:members, score=1.77414782E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070226.1428.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = SEC's request for a
+temporary restraining order against Blue Bottle and an asset
+freeze, said Kenneth Lench, an SEC
+Extraction [arg1=Defense	170	177, arg2=Belgian	54	61, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0412.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian
+frigates and a minesweeper, but deferred plans to buy four new
+NATO-standard French corvettes for its navy, Defence
+Extraction [arg1=NATO	662	666, arg2=Belgian	598	605, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0412.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian frigate in 2005, its first
+military ship to comply with NATO
+Extraction [arg1=Southern Ocean Marine	853	874, arg2=Tauranga	887	895, rel=org:city_of_headquarters, score=4.40175539E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081111.0323.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Southern Ocean Marine shipyard in Tauranga
+Extraction [arg1=Southern Ocean Marine	853	874, arg2=Bruce Farr-designed Open	812	836, rel=/common/topic/alias, score=796434.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081111.0323.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Bruce Farr-designed Open 60
+built at the Southern Ocean Marine
+Extraction [arg1=Vendee Globe	4	16, arg2=French	136	142, rel=/common/topic/alias, score=156842.50000000006, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081201.0240.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Vendee Globe entered its fourth week Monday with Sebastien
+Josse's BT in command of the solo round the world yacht race from
+fellow French
+Extraction [arg1=Fondation Ocean Vital	1615	1636, arg2=Frenchman	1588	1597, rel=/common/topic/alias, score=69878.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081201.0240.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Frenchman Raphael Dinelli (Fondation Ocean Vital
+Extraction [arg1=Thales	24	30, arg2=French	0	6, rel=/common/topic/alias, score=19967.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French electronics firm Thales
+Extraction [arg1=Thales	24	30, arg2=French	36	42, rel=/common/topic/alias, score=811359.6, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Thales, the French
+Extraction [arg1=DCNS	63	67, arg2=French	0	6, rel=/common/topic/alias, score=69878.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French electronics firm Thales, the French naval defence group
+DCNS
+Extraction [arg1=Finmeccanica	72	84, arg2=French	0	6, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French electronics firm Thales, the French naval defence group
+DCNS and Finmeccanica
+Extraction [arg1=Thales	701	707, arg2=Italian	799	806, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Thales and 49
+percent by Finmeccanica, will concentrate on sonar research and
+development for the Italian
+Extraction [arg1=Delta Dore	1179	1189, arg2=Brazilian	1120	1129, rel=/common/topic/alias, score=449409.7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081124.0221.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Brazilian coast to assess
+damage to two upper spreaders on Delta Dore
+Extraction [arg1=EU	583	585, arg2=Bulgarian	685	694, rel=/common/topic/alias, score=719249.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0055.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = EU, but also relations
+within the Black Sea, the Caucasus and the Mediterranean," the
+visibly pleased Bulgarian
+Extraction [arg1=EU	2253	2255, arg2=Polish	2148	2154, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0055.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Polish
+counterpart Lech Kaczynski to discuss the Treaty of Lisbon, which
+has already been ratified by 20 EU
+Extraction [arg1=EU	2486	2488, arg2=Irish	2607	2612, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0055.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = EU
+presidency, the Polish president declined to sign the treaty,
+arguing that it was "irrelevant" after its rejection by Irish
+Extraction [arg1=Royal Malaysian Navy	293	313, arg2=French	197	203, rel=/common/topic/alias, score=111407.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071023.0322.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French firm DCNS and Spain's Navantia, the Tunku
+Abdul Rahman will be formally delivered to the Royal Malaysian
+Navy
+Extraction [arg1=Royal Malaysian Navy	383	403, arg2=French	218	224, rel=/common/topic/alias, score=174002.59999999998, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071023.0329.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French company DCNS and Spain's
+Navantia and named after the leader of Malaysia's independence,
+Tunku Abdul Rahman, the submarine is expected to be delivered to
+the Royal Malaysian Navy
+Extraction [arg1=China Petroleum & Chemical	1326	1356, arg2=Iranian	1426	1433, rel=/common/topic/alias, score=546999.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070815.1291.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = China Petroleum &amp; Chemical,
+which has been negotiating a multimillion dollar deal to explore
+an Iranian
+Extraction [arg1=Daimler	2014	2021, arg2=Spartan	1939	1946, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080201.0464.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spartan from Italy's Alenia Aeronautica, as
+well as armoured vehicles from Daimler
+Extraction [arg1=Chrysler	2023	2031, arg2=Spartan	1939	1946, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080201.0464.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spartan from Italy's Alenia Aeronautica, as
+well as armoured vehicles from Daimler- Chrysler
+Extraction [arg1=Vendee Globe	99	111, arg2=French	0	6, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French skipper Vincent Riou, of PRB, is aiming to become the
+first skipper to win two consecutive  Vendee Globe
+Extraction [arg1=Gitana Eighty	1888	1901, arg2=Names	1848	1853, rel=/common/topic/alias, score=6217.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Names such as Desjoyeaux, Loick Peyron (Gitana Eighty
+Extraction [arg1=Barcelona	2008	2017, arg2=Names	1848	1853, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Names such as Desjoyeaux, Loick Peyron (Gitana Eighty), Roland
+Jourdain (Veolia), Jean Le Cam (VM Materiaux) and Jean-Pierre
+Dick (Paprec-Virbac), the reigning Barcelona
+Extraction [arg1=FRA\/Veolia Environnement	3388	3412, arg2=American	3843	3851, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = FRA/Veolia Environnement), Jean Le Cam
+(FRA/VM Materiaux), Armel Le Cleac'h (FRA/Brit Air), Jonny Malbon
+(GBR/Artemis), Loick Peyron (FRA/Gitana Eighty), Vincent Riou
+(FRA/PRB), Norbert Sedlacek (AUT/Nauticsport- Kapsch), Bernard
+Stamm (SUI/Cheminees Poujoulat), Marc Thiercelin (FRA/DCNS),
+Brian Thompson (GBR/Bharain Team-Pindar), Alex Thomson (GBR/Hugo
+Boss), Dominique Wavre (SUI/Temenos), Steve White (GBR/Spirit Of
+Weymouth), Rich Wilson (USA/Great American
+Extraction [arg1=FRA\/Veolia Environnement	3388	3412, arg2=Roland Jourdain	3371	3386, rel=org:founded_by, score=3673893.5999999996, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Roland Jourdain (FRA/Veolia Environnement
+Extraction [arg1=Defense	170	177, arg2=Belgian	54	61, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian
+frigates and a minesweeper, but deferred plans to buy four new
+NATO-standard French corvettes for its navy, Defence
+Extraction [arg1=NATO	662	666, arg2=Belgian	598	605, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian frigate in 2005, its first
+military ship to comply with NATO
+Extraction [arg1=Textron	1986	1993, arg2=Bulgarian	2019	2028, rel=/common/topic/alias, score=193640.09999999998, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Textron was chosen to supply the Bulgarian
+Extraction [arg1=Textron	2206	2213, arg2=Bulgarian	2019	2028, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Bulgarian land
+forces with seven new armoured vehicles for 14 million leva (7.0
+million euros), scheduled for delivery by the end of the year,"
+Bliznakov said after signing the deal with Textron
+Extraction [arg1=DCNS	1437	1441, arg2=Spanish	1450	1457, rel=/common/topic/alias, score=495658.7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071025.0432.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = DCNS and its
+Spanish
+Extraction [arg1=Motorola Inc.	2127	2140, arg2=Treo	2011	2015, rel=/common/topic/alias, score=319885.30000000005, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070305.1255.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Treo smart phone, has a loyal customer base
+but faces tough competition from cell phone makers, including
+Nokia and Motorola Inc.
+Extraction [arg1=Dassault	1363	1371, arg2=Russian Sukhoi	1389	1403, rel=/common/topic/alias, score=232585.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080125.0247.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Dassault's Rafale and the
+Russian Sukhoi
+Extraction [arg1=China Petroleum & Chemical	1326	1356, arg2=Iranian	1426	1433, rel=/common/topic/alias, score=546999.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070815.1263.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = China Petroleum &amp; Chemical,
+which has been negotiating a multimillion dollar deal to explore
+an Iranian
+Extraction [arg1=Galleon Group	4913	4926, arg2=Gary Rosenbach	4878	4892, rel=org:founded_by, score=7.56794127E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20070117.0295.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Gary Rosenbach, the
+founder of the Galleon Group
+Extraction [arg1=American Football League	5044	5068, arg2=Titans	4971	4977, rel=/common/topic/alias, score=944848.8999999999, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20070117.0295.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Titans, which was also the nickname of the original New
+York team in the American Football League
+Extraction [arg1=HDW	186	189, arg2=Britain-based	207	220, rel=/common/topic/alias, score=130921.5, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080722.0407.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = HDW and its partner, Britain-based
+Extraction [arg1=Navantia SA	482	493, arg2=Spain	474	479, rel=org:country_of_headquarters, score=2.2408170329999995E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080722.0407.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spain's Navantia SA
+Extraction [arg1=Leerink Swann & amp ; Co.	2111	2138, arg2=Boston	2142	2148, rel=org:city_of_headquarters, score=8.74883888E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080218.0097.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Leerink Swann &amp;amp; Co. in Boston
+Extraction [arg1=NATO	150	154, arg2=Belgian	76	83, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080730.0473.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian frigates and a minesweeper to help bring the
+country's navy up to NATO
+Extraction [arg1=NATO	939	943, arg2=Western	1074	1081, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080730.0473.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = NATO
+in 2004 but lack of funding hampered the small Balkan state's
+efforts to bring its military forces up to the standards set by
+the Western
+Extraction [arg1=EU	583	585, arg2=Bulgarian	685	694, rel=/common/topic/alias, score=719249.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0058.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = EU, but also relations
+within the Black Sea, the Caucasus and the Mediterranean," the
+visibly pleased Bulgarian
+Extraction [arg1=Navantia SA	324	335, arg2=Spain	316	321, rel=org:country_of_headquarters, score=2.3721808179999995E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spain's
+Navantia SA
+Extraction [arg1=Deutsche Werft GmbH	197	216, arg2=Kiel-based	171	181, rel=/common/topic/alias, score=184765.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Kiel-based Howaldtswerke-
+Deutsche Werft GmbH
+Extraction [arg1=Marine Force International	251	277, arg2=British	234	241, rel=/common/topic/alias, score=184765.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = British partner, Marine
+Force International
+Extraction [arg1=Navantia SA	324	335, arg2=British	234	241, rel=/common/topic/alias, score=299978.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = British partner, Marine
+Force International, were selected over France's DCNS and Spain's
+Navantia SA
+Extraction [arg1=Vendee Globe	76	88, arg2=French	0	6, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081126.0340.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French skipper Jeremie Beyou became the fifth competitor to pull
+out of the Vendee Globe
+Extraction [arg1=Groupe Bel	967	977, arg2=French	872	878, rel=/common/topic/alias, score=533420.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081126.0340.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French
+port of Les Sables d'Olonne on November 9 are Alex Thomson (Hugo
+Boss), Kito de Pavant (Groupe Bel
+Extraction [arg1=Equifax Inc.	2216	2228, arg2=Atlanta-based	2234	2247, rel=/common/topic/alias, score=870736.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20081027.0069.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Equifax Inc., the Atlanta-based
+Extraction [arg1=Congress	3188	3196, arg2=Friedman	3174	3182, rel=org:top_members_employees, score=9195616.1, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20081027.0069.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Friedman said Congress
+Extraction [arg1=Boston Scientific	4449	4466, arg2=Natick	4487	4493, rel=org:city_of_headquarters, score=2669014.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20081027.0069.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Boston Scientific spokesman, said the Natick
+Extraction [arg1=SEC	392	395, arg2=Hong Kong-chartered	429	448, rel=/common/topic/alias, score=69878.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070226.1428.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = SEC alleged
+that Blue Bottle Ltd., a Hong Kong-chartered
+Extraction [arg1=SEC	709	712, arg2=SEC	821	824, rel=org:members, score=1.77414782E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070226.1428.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = SEC's request for a
+temporary restraining order against Blue Bottle and an asset
+freeze, said Kenneth Lench, an SEC
+Extraction [arg1=Defense	170	177, arg2=Belgian	54	61, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0412.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian
+frigates and a minesweeper, but deferred plans to buy four new
+NATO-standard French corvettes for its navy, Defence
+Extraction [arg1=NATO	662	666, arg2=Belgian	598	605, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0412.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian frigate in 2005, its first
+military ship to comply with NATO
+Extraction [arg1=Southern Ocean Marine	853	874, arg2=Tauranga	887	895, rel=org:city_of_headquarters, score=4.40175539E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081111.0323.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Southern Ocean Marine shipyard in Tauranga
+Extraction [arg1=Southern Ocean Marine	853	874, arg2=Bruce Farr-designed Open	812	836, rel=/common/topic/alias, score=796434.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081111.0323.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Bruce Farr-designed Open 60
+built at the Southern Ocean Marine
+Extraction [arg1=Vendee Globe	4	16, arg2=French	136	142, rel=/common/topic/alias, score=156842.50000000006, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081201.0240.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Vendee Globe entered its fourth week Monday with Sebastien
+Josse's BT in command of the solo round the world yacht race from
+fellow French
+Extraction [arg1=Fondation Ocean Vital	1615	1636, arg2=Frenchman	1588	1597, rel=/common/topic/alias, score=69878.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081201.0240.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Frenchman Raphael Dinelli (Fondation Ocean Vital
+Extraction [arg1=Thales	24	30, arg2=French	0	6, rel=/common/topic/alias, score=19967.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French electronics firm Thales
+Extraction [arg1=Thales	24	30, arg2=French	36	42, rel=/common/topic/alias, score=811359.6, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Thales, the French
+Extraction [arg1=DCNS	63	67, arg2=French	0	6, rel=/common/topic/alias, score=69878.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French electronics firm Thales, the French naval defence group
+DCNS
+Extraction [arg1=Finmeccanica	72	84, arg2=French	0	6, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French electronics firm Thales, the French naval defence group
+DCNS and Finmeccanica
+Extraction [arg1=Thales	701	707, arg2=Italian	799	806, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Thales and 49
+percent by Finmeccanica, will concentrate on sonar research and
+development for the Italian
+Extraction [arg1=Delta Dore	1179	1189, arg2=Brazilian	1120	1129, rel=/common/topic/alias, score=449409.7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081124.0221.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Brazilian coast to assess
+damage to two upper spreaders on Delta Dore
+Extraction [arg1=EU	583	585, arg2=Bulgarian	685	694, rel=/common/topic/alias, score=719249.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0055.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = EU, but also relations
+within the Black Sea, the Caucasus and the Mediterranean," the
+visibly pleased Bulgarian
+Extraction [arg1=EU	2253	2255, arg2=Polish	2148	2154, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0055.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Polish
+counterpart Lech Kaczynski to discuss the Treaty of Lisbon, which
+has already been ratified by 20 EU
+Extraction [arg1=EU	2486	2488, arg2=Irish	2607	2612, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0055.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = EU
+presidency, the Polish president declined to sign the treaty,
+arguing that it was "irrelevant" after its rejection by Irish
+Extraction [arg1=Royal Malaysian Navy	293	313, arg2=French	197	203, rel=/common/topic/alias, score=111407.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071023.0322.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French firm DCNS and Spain's Navantia, the Tunku
+Abdul Rahman will be formally delivered to the Royal Malaysian
+Navy
+Extraction [arg1=Royal Malaysian Navy	383	403, arg2=French	218	224, rel=/common/topic/alias, score=174002.59999999998, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071023.0329.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French company DCNS and Spain's
+Navantia and named after the leader of Malaysia's independence,
+Tunku Abdul Rahman, the submarine is expected to be delivered to
+the Royal Malaysian Navy
+Extraction [arg1=China Petroleum & Chemical	1326	1356, arg2=Iranian	1426	1433, rel=/common/topic/alias, score=546999.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070815.1291.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = China Petroleum &amp; Chemical,
+which has been negotiating a multimillion dollar deal to explore
+an Iranian
+Extraction [arg1=Daimler	2014	2021, arg2=Spartan	1939	1946, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080201.0464.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spartan from Italy's Alenia Aeronautica, as
+well as armoured vehicles from Daimler
+Extraction [arg1=Chrysler	2023	2031, arg2=Spartan	1939	1946, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080201.0464.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spartan from Italy's Alenia Aeronautica, as
+well as armoured vehicles from Daimler- Chrysler
+Extraction [arg1=Vendee Globe	99	111, arg2=French	0	6, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French skipper Vincent Riou, of PRB, is aiming to become the
+first skipper to win two consecutive  Vendee Globe
+Extraction [arg1=Gitana Eighty	1888	1901, arg2=Names	1848	1853, rel=/common/topic/alias, score=6217.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Names such as Desjoyeaux, Loick Peyron (Gitana Eighty
+Extraction [arg1=Barcelona	2008	2017, arg2=Names	1848	1853, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Names such as Desjoyeaux, Loick Peyron (Gitana Eighty), Roland
+Jourdain (Veolia), Jean Le Cam (VM Materiaux) and Jean-Pierre
+Dick (Paprec-Virbac), the reigning Barcelona
+Extraction [arg1=FRA\/Veolia Environnement	3388	3412, arg2=American	3843	3851, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = FRA/Veolia Environnement), Jean Le Cam
+(FRA/VM Materiaux), Armel Le Cleac'h (FRA/Brit Air), Jonny Malbon
+(GBR/Artemis), Loick Peyron (FRA/Gitana Eighty), Vincent Riou
+(FRA/PRB), Norbert Sedlacek (AUT/Nauticsport- Kapsch), Bernard
+Stamm (SUI/Cheminees Poujoulat), Marc Thiercelin (FRA/DCNS),
+Brian Thompson (GBR/Bharain Team-Pindar), Alex Thomson (GBR/Hugo
+Boss), Dominique Wavre (SUI/Temenos), Steve White (GBR/Spirit Of
+Weymouth), Rich Wilson (USA/Great American
+Extraction [arg1=FRA\/Veolia Environnement	3388	3412, arg2=Roland Jourdain	3371	3386, rel=org:founded_by, score=3673893.5999999996, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081106.5006.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Roland Jourdain (FRA/Veolia Environnement
+Extraction [arg1=Defense	170	177, arg2=Belgian	54	61, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian
+frigates and a minesweeper, but deferred plans to buy four new
+NATO-standard French corvettes for its navy, Defence
+Extraction [arg1=NATO	662	666, arg2=Belgian	598	605, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian frigate in 2005, its first
+military ship to comply with NATO
+Extraction [arg1=Textron	1986	1993, arg2=Bulgarian	2019	2028, rel=/common/topic/alias, score=193640.09999999998, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Textron was chosen to supply the Bulgarian
+Extraction [arg1=Textron	2206	2213, arg2=Bulgarian	2019	2028, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0311.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Bulgarian land
+forces with seven new armoured vehicles for 14 million leva (7.0
+million euros), scheduled for delivery by the end of the year,"
+Bliznakov said after signing the deal with Textron
+Extraction [arg1=DCNS	1437	1441, arg2=Spanish	1450	1457, rel=/common/topic/alias, score=495658.7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20071025.0432.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = DCNS and its
+Spanish
+Extraction [arg1=Motorola Inc.	2127	2140, arg2=Treo	2011	2015, rel=/common/topic/alias, score=319885.30000000005, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070305.1255.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Treo smart phone, has a loyal customer base
+but faces tough competition from cell phone makers, including
+Nokia and Motorola Inc.
+Extraction [arg1=Dassault	1363	1371, arg2=Russian Sukhoi	1389	1403, rel=/common/topic/alias, score=232585.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080125.0247.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Dassault's Rafale and the
+Russian Sukhoi
+Extraction [arg1=China Petroleum & Chemical	1326	1356, arg2=Iranian	1426	1433, rel=/common/topic/alias, score=546999.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070815.1263.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = China Petroleum &amp; Chemical,
+which has been negotiating a multimillion dollar deal to explore
+an Iranian
+Extraction [arg1=Galleon Group	4913	4926, arg2=Gary Rosenbach	4878	4892, rel=org:founded_by, score=7.56794127E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20070117.0295.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Gary Rosenbach, the
+founder of the Galleon Group
+Extraction [arg1=American Football League	5044	5068, arg2=Titans	4971	4977, rel=/common/topic/alias, score=944848.8999999999, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20070117.0295.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Titans, which was also the nickname of the original New
+York team in the American Football League
+Extraction [arg1=HDW	186	189, arg2=Britain-based	207	220, rel=/common/topic/alias, score=130921.5, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080722.0407.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = HDW and its partner, Britain-based
+Extraction [arg1=Navantia SA	482	493, arg2=Spain	474	479, rel=org:country_of_headquarters, score=2.2408170329999995E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080722.0407.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spain's Navantia SA
+Extraction [arg1=Leerink Swann & amp ; Co.	2111	2138, arg2=Boston	2142	2148, rel=org:city_of_headquarters, score=8.74883888E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20080218.0097.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Leerink Swann &amp;amp; Co. in Boston
+Extraction [arg1=NATO	150	154, arg2=Belgian	76	83, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080730.0473.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian frigates and a minesweeper to help bring the
+country's navy up to NATO
+Extraction [arg1=NATO	939	943, arg2=Western	1074	1081, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20080730.0473.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = NATO
+in 2004 but lack of funding hampered the small Balkan state's
+efforts to bring its military forces up to the standards set by
+the Western
+Extraction [arg1=EU	583	585, arg2=Bulgarian	685	694, rel=/common/topic/alias, score=719249.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20080705.0058.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = EU, but also relations
+within the Black Sea, the Caucasus and the Mediterranean," the
+visibly pleased Bulgarian
+Extraction [arg1=Navantia SA	324	335, arg2=Spain	316	321, rel=org:country_of_headquarters, score=2.3721808179999995E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Spain's
+Navantia SA
+Extraction [arg1=Deutsche Werft GmbH	197	216, arg2=Kiel-based	171	181, rel=/common/topic/alias, score=184765.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Kiel-based Howaldtswerke-
+Deutsche Werft GmbH
+Extraction [arg1=Marine Force International	251	277, arg2=British	234	241, rel=/common/topic/alias, score=184765.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = British partner, Marine
+Force International
+Extraction [arg1=Navantia SA	324	335, arg2=British	234	241, rel=/common/topic/alias, score=299978.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20080722.0633.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = British partner, Marine
+Force International, were selected over France's DCNS and Spain's
+Navantia SA
+Extraction [arg1=Vendee Globe	76	88, arg2=French	0	6, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081126.0340.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French skipper Jeremie Beyou became the fifth competitor to pull
+out of the Vendee Globe
+Extraction [arg1=Groupe Bel	967	977, arg2=French	872	878, rel=/common/topic/alias, score=533420.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081126.0340.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French
+port of Les Sables d'Olonne on November 9 are Alex Thomson (Hugo
+Boss), Kito de Pavant (Groupe Bel
+Extraction [arg1=Equifax Inc.	2216	2228, arg2=Atlanta-based	2234	2247, rel=/common/topic/alias, score=870736.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20081027.0069.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Equifax Inc., the Atlanta-based
+Extraction [arg1=Congress	3188	3196, arg2=Friedman	3174	3182, rel=org:top_members_employees, score=9195616.1, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20081027.0069.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Friedman said Congress
+Extraction [arg1=Boston Scientific	4449	4466, arg2=Natick	4487	4493, rel=org:city_of_headquarters, score=2669014.0, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20081027.0069.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Boston Scientific spokesman, said the Natick
+Extraction [arg1=SEC	392	395, arg2=Hong Kong-chartered	429	448, rel=/common/topic/alias, score=69878.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070226.1428.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = SEC alleged
+that Blue Bottle Ltd., a Hong Kong-chartered
+Extraction [arg1=SEC	709	712, arg2=SEC	821	824, rel=org:members, score=1.77414782E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20070226.1428.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = SEC's request for a
+temporary restraining order against Blue Bottle and an asset
+freeze, said Kenneth Lench, an SEC
+Extraction [arg1=Defense	170	177, arg2=Belgian	54	61, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0412.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian
+frigates and a minesweeper, but deferred plans to buy four new
+NATO-standard French corvettes for its navy, Defence
+Extraction [arg1=NATO	662	666, arg2=Belgian	598	605, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071207.0412.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Belgian frigate in 2005, its first
+military ship to comply with NATO
+Extraction [arg1=Southern Ocean Marine	853	874, arg2=Tauranga	887	895, rel=org:city_of_headquarters, score=4.40175539E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081111.0323.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Southern Ocean Marine shipyard in Tauranga
+Extraction [arg1=Southern Ocean Marine	853	874, arg2=Bruce Farr-designed Open	812	836, rel=/common/topic/alias, score=796434.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081111.0323.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Bruce Farr-designed Open 60
+built at the Southern Ocean Marine
+Extraction [arg1=Vendee Globe	4	16, arg2=French	136	142, rel=/common/topic/alias, score=156842.50000000006, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081201.0240.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Vendee Globe entered its fourth week Monday with Sebastien
+Josse's BT in command of the solo round the world yacht race from
+fellow French
+Extraction [arg1=Fondation Ocean Vital	1615	1636, arg2=Frenchman	1588	1597, rel=/common/topic/alias, score=69878.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20081201.0240.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Frenchman Raphael Dinelli (Fondation Ocean Vital
+Extraction [arg1=Thales	24	30, arg2=French	0	6, rel=/common/topic/alias, score=19967.9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French electronics firm Thales
+Extraction [arg1=Thales	24	30, arg2=French	36	42, rel=/common/topic/alias, score=811359.6, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Thales, the French
+Extraction [arg1=DCNS	63	67, arg2=French	0	6, rel=/common/topic/alias, score=69878.2, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French electronics firm Thales, the French naval defence group
+DCNS
+Extraction [arg1=Finmeccanica	72	84, arg2=French	0	6, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = French electronics firm Thales, the French naval defence group
+DCNS and Finmeccanica
+Extraction [arg1=Thales	701	707, arg2=Italian	799	806, rel=/common/topic/alias, score=534118.3, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20071130.0269.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+Sentence = Thales and 49
+percent by Finmeccanica, will concentrate on sonar research and
+development for the Italian

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kbpslotfill>
+  <query id="SF13_ENG_001">
+    <name>Ramazan Bashardost</name>
+    <docid>XIN_ENG_20090916.0146</docid>
+    <beg>660</beg>
+    <end>677</end>
+    <enttype>PER</enttype>
+  </query>
+  <query id="SF13_ENG_002">
+    <name>Marc Bolland</name>
+    <docid>AFP_ENG_20100525.0517</docid>
+    <beg>2669</beg>
+    <end>2680</end>
+    <enttype>PER</enttype>
+  </query>
+  <query id="SF13_ENG_003">
+    <name>Stuart Rose</name>
+    <docid>AFP_ENG_20100525.0561</docid>
+    <beg>730</beg>
+    <end>740</end>
+    <enttype>PER</enttype>
+  </query>
+  <query id="SF13_ENG_004">
+    <name>Douglas Flint</name>
+    <docid>APW_ENG_20100927.0149</docid>
+    <beg>659</beg>
+    <end>671</end>
+    <enttype>PER</enttype>
+  </query>
+  <query id="SF13_ENG_005">
+    <name>Tahawwur Hussain Rana</name>
+    <docid>XIN_ENG_20091112.0053</docid>
+    <beg>625</beg>
+    <end>645</end>
+    <enttype>PER</enttype>
+  </query>
+  <query id="SF13_ENG_006">
+    <name>Ali Akbar Khan</name>
+    <docid>NYT_ENG_20090622.0196</docid>
+    <beg>2234</beg>
+    <end>2247</end>
+    <enttype>PER</enttype>
+  </query>
+  <query id="SF13_ENG_007">
+    <name>Mohammed Sayed Tantawi</name>
+    <docid>AFP_ENG_20100319.0277</docid>
+    <beg>1542</beg>
+    <end>1563</end>
+    <enttype>PER</enttype>
+  </query>
+  <query id="SF13_ENG_008">
+    <name>Mathieu Montcourt</name>
+    <docid>APW_ENG_20090707.0407</docid>
+    <beg>80</beg>
+    <end>96</end>
+    <enttype>PER</enttype>
+  </query>
+  <query id="SF13_ENG_009">
+    <name>Anwar Chowdhry</name>
+    <docid>AFP_ENG_20100924.0361</docid>
+    <beg>1509</beg>
+    <end>1522</end>
+    <enttype>PER</enttype>
+  </query>
+  <query id="SF13_ENG_010">
+    <name>Ronnie James Dio</name>
+    <docid>NYT_ENG_20090629.0075</docid>
+    <beg>4016</beg>
+    <end>4031</end>
+    <enttype>PER</enttype>
+  </query>
+  <query id="SF13_ENG_051">
+    <name>Election Complaints Commission</name>
+    <docid>XIN_ENG_20090902.0142</docid>
+    <beg>1204</beg>
+    <end>1233</end>
+    <enttype>ORG</enttype>
+  </query>
+  <query id="SF13_ENG_052">
+    <name>Euskadi Ta Askatasuna</name>
+    <docid>WPB_ENG_20100504.0014</docid>
+    <beg>4294</beg>
+    <end>4314</end>
+    <enttype>ORG</enttype>
+  </query>
+  <query id="SF13_ENG_053">
+    <name>United Steelworkers of America</name>
+    <docid>APW_ENG_20090829.0668</docid>
+    <beg>346</beg>
+    <end>375</end>
+    <enttype>ORG</enttype>
+  </query>
+  <query id="SF13_ENG_054">
+    <name>Irish Nationwide Building Society</name>
+    <docid>AFP_ENG_20101221.0453</docid>
+    <beg>427</beg>
+    <end>459</end>
+    <enttype>ORG</enttype>
+  </query>
+  <query id="SF13_ENG_055">
+    <name>River Road Asset Management</name>
+    <docid>NYT_ENG_20100610.0157</docid>
+    <beg>7226</beg>
+    <end>7252</end>
+    <enttype>ORG</enttype>
+  </query>
+  <query id="SF13_ENG_056">
+    <name>Georgia Peanut Commission</name>
+    <docid>NYT_ENG_20090921.0069</docid>
+    <beg>1051</beg>
+    <end>1075</end>
+    <enttype>ORG</enttype>
+  </query>
+  <query id="SF13_ENG_057">
+    <name>A123 Systems Inc.</name>
+    <docid>APW_ENG_20100115.1226</docid>
+    <beg>1514</beg>
+    <end>1530</end>
+    <enttype>ORG</enttype>
+  </query>
+  <query id="SF13_ENG_058">
+    <name>Access Industries</name>
+    <docid>APW_ENG_20100323.0030</docid>
+    <beg>698</beg>
+    <end>714</end>
+    <enttype>ORG</enttype>
+  </query>
+  <query id="SF13_ENG_059">
+    <name>Council of Mortgage Lenders</name>
+    <docid>APW_ENG_20100521.0432</docid>
+    <beg>290</beg>
+    <end>316</end>
+    <enttype>ORG</enttype>
+  </query>
+  <query id="SF13_ENG_060">
+    <name>American Association for the Advancement of Science</name>
+    <docid>AFP_ENG_20100219.0016</docid>
+    <beg>912</beg>
+    <end>962</end>
+    <enttype>ORG</enttype>
+  </query>
+</kbpslotfill>

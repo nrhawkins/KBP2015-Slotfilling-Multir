@@ -1,0 +1,16 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBP2015MultirExtractor 
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/sandiego.xml 1 new 
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/relDocs_kbp2015_round1 runOutput_sandiego"
+
+
+sbt "run-main
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBP2015MultirExtractor
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/sandiego.xml 1 new
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/relDocs_kbp2015_sandiego runOutput_sandiego"
+
+sbt "run-main
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBP2015MultirExtractor
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/sandiego.xml 0 new
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/relDocs_kbp2015_sandiego runOutput_sandiego_r1 round1 0 0"
+

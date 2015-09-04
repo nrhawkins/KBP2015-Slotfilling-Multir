@@ -1,0 +1,5 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBPMultirExtractor 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/joAnnDavisQuery.xml 0 old 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/joAnnDavisQuery-RelevantDocuments 
+runOutputFE off"

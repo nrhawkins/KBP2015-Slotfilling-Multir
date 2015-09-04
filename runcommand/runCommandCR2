@@ -1,0 +1,6 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunCombineOpenIEMultir 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/tac_2013_kbp_english_regular_slot_filling_evaluation_queries.xml
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/out-July11-OpenIEKBP
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/tac2013_new_runOutput
+runOutputCombine2"

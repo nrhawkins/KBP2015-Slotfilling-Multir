@@ -1,0 +1,139 @@
+Adam Gadahn
+Extraction [arg1=Adam Gadahn	500	511, arg2=Karachi	449	456, rel=/people/deceased_person/place_of_death, score=7.66683746E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100308.0989, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	500	511, arg2=American	529	537, rel=per:origin, score=1.6528811182E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100308.0989, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1502	1513, arg2=Azzam al-Amriki	1529	1544, rel=per:children, score=4.23725862E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090923.0299, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	543	549, arg2=California	571	581, rel=/people/person/place_of_birth, score=6.0091450199999996E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101023.0269, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	1166	1172, arg2=California	1194	1204, rel=/people/person/place_of_birth, score=6.0091450199999996E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101023.0421, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	3225	3231, arg2=Muslim	3007	3013, rel=per:origin, score=1.9089960639999998E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100307.0460, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	240	251, arg2=American-born	257	270, rel=per:origin, score=4.238077839E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100307.0664, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	250	261, arg2=American-born	267	280, rel=per:origin, score=2.431270522E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100307.0655, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1478	1489, arg2=American	1464	1472, rel=per:origin, score=7.618322193E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090821.0116, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1478	1489, arg2=Californian	1505	1516, rel=per:origin, score=7.733446600999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090821.0116, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	960	966, arg2=Azzam al-Amriki	982	997, rel=/common/topic/alias, score=4.44848603E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090616.0094, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	756	762, arg2=Islam	776	781, rel=per:religion, score=4.363890294E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100307.0226, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1602	1613, arg2=Azzam al-Amriki	1629	1644, rel=/common/topic/alias, score=4.9462261900000006E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090922.1047, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1786	1797, arg2=al-Qaida	1806	1814, rel=per:origin, score=2.933098729E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=WPB_ENG_20100731.0021, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1544	1555, arg2=Azzam al-Amriki	1571	1586, rel=/common/topic/alias, score=4.9462261900000006E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090922.1072, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1463	1474, arg2=American	1449	1457, rel=per:origin, score=7.618322193E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090820.1298, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1463	1474, arg2=Californian	1490	1501, rel=per:origin, score=7.733446600999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090820.1298, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	3779	3790, arg2=Islamist	3826	3834, rel=per:origin, score=9.75613967E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101001.0844, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	498	509, arg2=Karachi	447	454, rel=/people/deceased_person/place_of_death, score=7.66683746E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100309.0006, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	498	509, arg2=American	527	535, rel=per:origin, score=1.6528811182E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100309.0006, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	3212	3218, arg2=Muslim	2994	3000, rel=per:origin, score=1.9089960639999998E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100307.0264, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	144	155, arg2=American-born	161	174, rel=per:origin, score=2.735597801E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100307.0647, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	144	155, arg2=al-Qaida	189	197, rel=per:origin, score=1.961959049E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100307.0647, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	422	433, arg2=American	439	447, rel=per:origin, score=2.381051343E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100307.0800, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1756	1767, arg2=American-born	1772	1785, rel=per:origin, score=2.6322093200000003E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=WPB_ENG_20100420.0057, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	240	251, arg2=American-born	257	270, rel=per:origin, score=4.238077839E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100307.0677, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	214	225, arg2=Azzam	241	246, rel=/common/topic/alias, score=4.69932688E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100307.0331, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	3247	3258, arg2=Islamist	3294	3302, rel=per:origin, score=9.75613967E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101001.0494, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1133	1144, arg2=American	1119	1127, rel=per:origin, score=7.618322193E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090821.0351, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1133	1144, arg2=Californian	1160	1171, rel=per:origin, score=7.733446600999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090821.0351, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Abu Yahiya Gadahn	1046	1063, arg2=Gadahn	1010	1016, rel=per:spouse, score=2.89484071E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=WPB_ENG_20100307.0023, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	1244	1250, arg2=Islam	1265	1270, rel=per:religion, score=2.697216776E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=WPB_ENG_20100307.0023, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	7603	7614, arg2=U.S.-born	7593	7602, rel=per:origin, score=7.657639518999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20091213.0021, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	4584	4595, arg2=Californian	4572	4583, rel=per:origin, score=7.538011963E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100806.0566, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Omar Hammami	4639	4651, arg2=American	4656	4664, rel=per:origin, score=1.2054578095E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100806.0566, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	4438	4449, arg2=al-Qaida	4454	4462, rel=per:origin, score=2.521844964E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=WPB_ENG_20100606.0035, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1195	1206, arg2=California	1210	1220, rel=/people/person/place_of_birth, score=1.984940179E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20100307.0135, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	1962	1968, arg2=Muslims	1975	1982, rel=per:origin, score=1.010771774E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=NYT_ENG_20100307.0135, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1133	1144, arg2=American	1119	1127, rel=per:origin, score=7.618322193E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090821.0512, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	1133	1144, arg2=Californian	1160	1171, rel=per:origin, score=7.733446600999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20090821.0512, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	1385	1391, arg2=California	1416	1426, rel=/people/person/place_of_birth, score=8.27082013E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100620.0333, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	1728	1734, arg2=California	1759	1769, rel=/people/person/place_of_birth, score=8.27082013E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20091212.0229, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	4392	4403, arg2=Islamist	4439	4447, rel=per:origin, score=9.75613967E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101002.0603, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Adam Gadahn	2055	2066, arg2=Islamist	2102	2110, rel=per:origin, score=9.75613967E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101001.0405, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Gadahn	1166	1172, arg2=California	1194	1204, rel=/people/person/place_of_birth, score=6.0091450199999996E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101023.0554, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_012	per:spouse	UWashington_3	WPB_ENG_20100307.0023:1010-1063	Gadahn	WPB_ENG_20100307.0023:1010-1016	2.89484071E7
+SF13_ENG_012	per:religion	UWashington_3	APW_ENG_20100307.0226:756-781	Islam	APW_ENG_20100307.0226:776-781	4.363890294E8
+SF13_ENG_012	per:city_of_death	UWashington_3	APW_ENG_20100309.0006:447-509	Karachi	APW_ENG_20100309.0006:447-454	7.66683746E7
+SF13_ENG_012	per:other_family	UWashington_3	NIL
+SF13_ENG_012	per:countries_of_residence	UWashington_3	NIL
+SF13_ENG_012	per:country_of_death	UWashington_3	NIL
+SF13_ENG_012	per:stateorprovince_of_birth	UWashington_3	NYT_ENG_20100307.0135:1195-1220	California	NYT_ENG_20100307.0135:1210-1220	1.984940179E8
+SF13_ENG_012	per:title	UWashington_3	NIL
+SF13_ENG_012	per:children	UWashington_3	APW_ENG_20090923.0299:1502-1544	Azzam al-Amriki	APW_ENG_20090923.0299:1529-1544	4.23725862E7
+SF13_ENG_012	per:origin	UWashington_3	APW_ENG_20100309.0006:498-535	American	APW_ENG_20100309.0006:527-535	1.6528811182E9
+SF13_ENG_012	per:city_of_birth	UWashington_3	NIL
+SF13_ENG_012	per:date_of_death	UWashington_3	NIL
+SF13_ENG_012	per:age	UWashington_3	NIL
+SF13_ENG_012	per:cities_of_residence	UWashington_3	NIL
+SF13_ENG_012	per:employee_or_member_of	UWashington_3	NIL
+SF13_ENG_012	per:stateorprovince_of_death	UWashington_3	NIL
+SF13_ENG_012	per:cause_of_death	UWashington_3	NIL
+SF13_ENG_012	per:alternate_names	UWashington_3	APW_ENG_20090922.1072:1544-1586	Azzam al-Amriki	APW_ENG_20090922.1072:1571-1586	4.9462261900000006E7
+SF13_ENG_012	per:charges	UWashington_3	NIL
+SF13_ENG_012	per:country_of_birth	UWashington_3	NIL
+SF13_ENG_012	per:schools_attended	UWashington_3	NIL
+SF13_ENG_012	per:parents	UWashington_3	NIL
+SF13_ENG_012	per:date_of_birth	UWashington_3	NIL
+SF13_ENG_012	per:statesorprovinces_of_residence	UWashington_3	NIL
+SF13_ENG_012	per:siblings	UWashington_3	NIL
+Stockholm International Peace Research Institute
+Extraction [arg1=Stockholm International Peace Research Institute	418	466, arg2=United States	170	183, rel=org:country_of_headquarters, score=2.638652373E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20101110.0244, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=Stockholm International Peace Research Institute	385	433, arg2=SIPRI	438	443, rel=/common/topic/alias, score=1.465146076E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100601.1195, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Extraction [arg1=SIPRI	1662	1667, arg2=U.S.	1734	1738, rel=org:country_of_headquarters, score=4.807752210000001E7, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20100601.1195, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+SF13_ENG_064	org:subsidiaries	UWashington_3	NIL
+SF13_ENG_064	org:alternate_names	UWashington_3	APW_ENG_20100601.1195:385-443	SIPRI	APW_ENG_20100601.1195:438-443	1.465146076E8
+SF13_ENG_064	org:date_founded	UWashington_3	NIL
+SF13_ENG_064	org:website	UWashington_3	NIL
+SF13_ENG_064	org:country_of_headquarters	UWashington_3	XIN_ENG_20101110.0244:170-466	United States	XIN_ENG_20101110.0244:170-183	2.638652373E8
+SF13_ENG_064	org:number_of_employees_members	UWashington_3	NIL
+SF13_ENG_064	org:date_dissolved	UWashington_3	NIL
+SF13_ENG_064	org:founded_by	UWashington_3	NIL
+SF13_ENG_064	org:political_religious_affiliation	UWashington_3	NIL
+SF13_ENG_064	org:shareholders	UWashington_3	NIL
+SF13_ENG_064	org:city_of_headquarters	UWashington_3	NIL
+SF13_ENG_064	org:member_of	UWashington_3	NIL
+SF13_ENG_064	org:top_members_employees	UWashington_3	NIL
+SF13_ENG_064	org:parents	UWashington_3	NIL
+SF13_ENG_064	org:members	UWashington_3	NIL
+SF13_ENG_064	org:stateorprovince_of_headquarters	UWashington_3	NIL

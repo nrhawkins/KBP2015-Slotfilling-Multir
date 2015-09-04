@@ -1,0 +1,6 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBPMultirExtractor 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/dateQuery2014.xml 0 new 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/dateQuery_relDocs 
+dateQuery_runOutput dateQuery_modelTrace"
+

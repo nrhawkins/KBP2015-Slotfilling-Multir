@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kbpslotfill>
+  <query id="SF13_ENG_098">
+    <name>Millipore Corp.</name> 
+    <docid>XIN_ENG_20101026.0239</docid>
+    <beg>848</beg> 
+    <end>862</end> 
+    <enttype>ORG</enttype>   
+    <nodeid>NIL</nodeid>
+  </query>
+  <query id="SF13_ENG_099">
+    <name>DCNS</name>
+    <docid>XIN_ENG_20100504.0193</docid>
+    <beg>1504</beg>
+    <end>1507</end>
+    <enttype>ORG</enttype>
+    <nodeid>NIL</nodeid>
+  </query>
+  <query id="SF13_ENG_100">
+    <name>Galleon Group</name>
+    <docid>XIN_ENG_20091019.0276</docid>
+    <beg>856</beg> 
+    <end>868</end> 
+    <enttype>ORG</enttype>
+    <nodeid>NIL</nodeid>
+  </query>
+</kbpslotfill>
+

@@ -1,0 +1,59 @@
+Extraction [arg1=Jo Ann Davis	375	387, arg2=U.S.	365	369, rel=per:origin, score=7.562034418000001E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071222.0076.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Sentence = U.S.
+Rep. Jo Ann Davis
+
+Extraction [arg1=Jo Ann Davis	27	39, arg2=U.S.	17	21, rel=per:origin, score=7.729319619000001E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=LTW_ENG_20071007.0033.LDC2009T13, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null]
+
+Sentence = U.S. Rep. Jo Ann Davis
+
+SF_ENG_004	per:spouse	UWashington_1	NIL
+SF_ENG_004	per:religion	UWashington_1	NIL
+SF_ENG_004	per:city_of_death	UWashington_1	NIL
+SF_ENG_004	per:other_family	UWashington_1	NIL
+SF_ENG_004	per:countries_of_residence	UWashington_1	NIL
+SF_ENG_004	per:country_of_death	UWashington_1	NIL
+SF_ENG_004	per:stateorprovince_of_birth	UWashington_1	NIL
+SF_ENG_004	per:title	UWashington_1	NIL
+SF_ENG_004	per:children	UWashington_1	NIL
+SF_ENG_004	per:origin	UWashington_1	LTW_ENG_20071007.0033.LDC2009T13:17-39	U.S.	LTW_ENG_20071007.0033.LDC2009T13:17-21	7.729319619000001E8
+SF_ENG_004	per:city_of_birth	UWashington_1	NIL
+SF_ENG_004	per:date_of_death	UWashington_1	NIL
+SF_ENG_004	per:age	UWashington_1	NIL
+SF_ENG_004	per:cities_of_residence	UWashington_1	NIL
+SF_ENG_004	per:employee_or_member_of	UWashington_1	NIL
+SF_ENG_004	per:stateorprovince_of_death	UWashington_1	NIL
+SF_ENG_004	per:cause_of_death	UWashington_1	NIL
+SF_ENG_004	per:alternate_names	UWashington_1	NIL
+SF_ENG_004	per:charges	UWashington_1	NIL
+SF_ENG_004	per:country_of_birth	UWashington_1	NIL
+SF_ENG_004	per:schools_attended	UWashington_1	NIL
+SF_ENG_004	per:parents	UWashington_1	NIL
+SF_ENG_004	per:date_of_birth	UWashington_1	NIL
+SF_ENG_004	per:statesorprovinces_of_residence	UWashington_1	NIL
+SF_ENG_004	per:siblings	UWashington_1	NIL
+SF_ENG_003	per:spouse	UWashington_1	NIL
+SF_ENG_003	per:religion	UWashington_1	NIL
+SF_ENG_003	per:city_of_death	UWashington_1	NIL
+SF_ENG_003	per:other_family	UWashington_1	NIL
+SF_ENG_003	per:countries_of_residence	UWashington_1	NIL
+SF_ENG_003	per:country_of_death	UWashington_1	NIL
+SF_ENG_003	per:stateorprovince_of_birth	UWashington_1	NIL
+SF_ENG_003	per:title	UWashington_1	NIL
+SF_ENG_003	per:children	UWashington_1	NIL
+SF_ENG_003	per:origin	UWashington_1	NIL
+SF_ENG_003	per:city_of_birth	UWashington_1	NIL
+SF_ENG_003	per:date_of_death	UWashington_1	NIL
+SF_ENG_003	per:age	UWashington_1	NIL
+SF_ENG_003	per:cities_of_residence	UWashington_1	NIL
+SF_ENG_003	per:employee_or_member_of	UWashington_1	NIL
+SF_ENG_003	per:stateorprovince_of_death	UWashington_1	NIL
+SF_ENG_003	per:cause_of_death	UWashington_1	NIL
+SF_ENG_003	per:alternate_names	UWashington_1	NIL
+SF_ENG_003	per:charges	UWashington_1	NIL
+SF_ENG_003	per:country_of_birth	UWashington_1	NIL
+SF_ENG_003	per:schools_attended	UWashington_1	NIL
+SF_ENG_003	per:parents	UWashington_1	NIL
+SF_ENG_003	per:date_of_birth	UWashington_1	NIL
+SF_ENG_003	per:statesorprovinces_of_residence	UWashington_1	NIL
+SF_ENG_003	per:siblings	UWashington_1	NIL

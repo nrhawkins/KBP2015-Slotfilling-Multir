@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kbpslotfill>
+<query id="SF14_ENG_044">
+    <name>Terry Jupp</name>
+    <enttype>PER</enttype>
+    <docid>APW_ENG_20100901.0584</docid>
+    <beg>356</beg>
+    <end>365</end>
+  </query>
+<query id="SF14_ENG_079">
+    <name>Alessi</name>
+    <enttype>ORG</enttype>
+    <docid>NYT_ENG_20090615.0053</docid>
+    <beg>5093</beg>
+    <end>5098</end>
+</query>
+<query id="SF14_ENG_084">
+    <name>Greenberg Smoked Turkey</name>
+    <enttype>ORG</enttype>
+    <docid>NYT_ENG_20101109.0074</docid>
+    <beg>1989</beg>
+    <end>2011</end>
+</query>
+<query id="SF14_ENG_069">
+    <name>Zirh</name>
+    <enttype>ORG</enttype>
+    <docid>APW_ENG_20091120.1033</docid>
+    <beg>1183</beg>
+    <end>1186</end>
+  </query>
+</kbpslotfill>

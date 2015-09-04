@@ -1,0 +1,76 @@
+Amanda Knox
+
+Extraction [arg1=Amanda Knox	252	263, arg2=American	243	251, rel=per:origin, score=2.1695504703E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100416.0259, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], American Amanda Knox
+
+Extraction [arg1=Meredith Kercher	342	358, arg2=British	326	333, rel=per:origin, score=1.9271054168000002E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100416.0259, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], British student
+Meredith Kercher
+
+Extraction [arg1=Raffael Sollecito	635	652, arg2=Italian	657	664, rel=per:origin, score=2.4064345170000002E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100416.0259, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Raffael Sollecito, an Italian
+
+Extraction [arg1=Rudy Guede	920	930, arg2=Ivorian	912	919, rel=per:origin, score=6.294312821999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100416.0259, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Ivorian Rudy Guede
+
+SF14_ENG_049 Extraction [arg1=Amanda Knox	252	263, arg2=American	243	251, rel=per:origin, score=2.1695504703E9, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100416.0259, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], American Amanda Knox
+
+SF14_ENG_049 Extraction [arg1=Raffael Sollecito	635	652, arg2=Italian	657	664, rel=per:origin, score=2.4064345170000002E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=AFP_ENG_20100416.0259, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Raffael Sollecito, an Italian
+
+Extraction [arg1=Curt Knox	1033	1042, arg2=Amanda Knox	1044	1055, rel=per:children, score=1.0933271749999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101108.0474, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Curt Knox, Amanda Knox
+
+Extraction [arg1=Amanda Knox	1044	1055, arg2=Curt Knox	1033	1042, rel=per:parents, score=1.380026926E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101108.0474, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Curt Knox, Amanda Knox
+
+SF14_ENG_049 Extraction [arg1=Curt Knox	1033	1042, arg2=Amanda Knox	1044	1055, rel=per:children, score=1.0933271749999999E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101108.0474, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Curt Knox, Amanda Knox
+
+SF14_ENG_049 Extraction [arg1=Amanda Knox	1044	1055, arg2=Curt Knox	1033	1042, rel=per:parents, score=1.380026926E8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=APW_ENG_20101108.0474, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Curt Knox, Amanda Knox
+
+SF14_ENG_049	per:spouse	UWashington3	NIL
+SF14_ENG_049	per:religion	UWashington3	NIL
+SF14_ENG_049	per:city_of_death	UWashington3	NIL
+SF14_ENG_049	per:other_family	UWashington3	NIL
+SF14_ENG_049	per:countries_of_residence	UWashington3	NIL
+SF14_ENG_049	per:country_of_death	UWashington3	NIL
+SF14_ENG_049	per:stateorprovince_of_birth	UWashington3	NIL
+SF14_ENG_049	per:title	UWashington3	NIL
+SF14_ENG_049	per:children	UWashington3	APW_ENG_20101108.0474:1033-1055	Amanda Knox	APW_ENG_20101108.0474:1044-1055	1.0933271749999999E8
+SF14_ENG_049	per:origin	UWashington3	AFP_ENG_20100416.0259:243-263	American	AFP_ENG_20100416.0259:243-251	2.1695504703E9
+SF14_ENG_049	per:city_of_birth	UWashington3	NIL
+SF14_ENG_049	per:date_of_death	UWashington3	NIL
+SF14_ENG_049	per:age	UWashington3	NIL
+SF14_ENG_049	per:cities_of_residence	UWashington3	NIL
+SF14_ENG_049	per:employee_or_member_of	UWashington3	NIL
+SF14_ENG_049	per:stateorprovince_of_death	UWashington3	NIL
+SF14_ENG_049	per:cause_of_death	UWashington3	NIL
+SF14_ENG_049	per:alternate_names	UWashington3	NIL
+SF14_ENG_049	per:charges	UWashington3	NIL
+SF14_ENG_049	per:country_of_birth	UWashington3	NIL
+SF14_ENG_049	per:schools_attended	UWashington3	NIL
+SF14_ENG_049	per:parents	UWashington3	APW_ENG_20101108.0474:1033-1055	Curt Knox	APW_ENG_20101108.0474:1033-1042	1.380026926E8
+SF14_ENG_049	per:date_of_birth	UWashington3	NIL
+SF14_ENG_049	per:statesorprovinces_of_residence	UWashington3	NIL
+SF14_ENG_049	per:siblings	UWashington3	NIL
+Third Guard Division
+
+Extraction [arg1=Xinhua	157	163, arg2=Chinese	202	209, rel=/common/topic/alias, score=171434.6, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20090728.0389, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Xinhua)
+</DATELINE>
+<TEXT>
+<P>
+More than 100 Chinese
+
+Extraction [arg1=Chinese People 's Liberation Army	342	374, arg2=Chinese	202	209, rel=/common/topic/alias, score=389456.8, arg1Link=null, arg2Link=null, arg1BestMention=null, arg2BestMention=null, docName=XIN_ENG_20090728.0389, sentNum=null, arg1BestMentionSentNum=null, arg2BestMentionSentNum=null], Chinese and foreign journalists were invited to visit a military
+base on the outskirts of Beijing Tuesday for an inside view of life in the
+Chinese People's Liberation Army
+
+SF14_ENG_085	org:subsidiaries	UWashington3	NIL
+SF14_ENG_085	org:alternate_names	UWashington3	NIL
+SF14_ENG_085	org:date_founded	UWashington3	NIL
+SF14_ENG_085	org:website	UWashington3	NIL
+SF14_ENG_085	org:country_of_headquarters	UWashington3	NIL
+SF14_ENG_085	org:number_of_employees_members	UWashington3	NIL
+SF14_ENG_085	org:date_dissolved	UWashington3	NIL
+SF14_ENG_085	org:founded_by	UWashington3	NIL
+SF14_ENG_085	org:political_religious_affiliation	UWashington3	NIL
+SF14_ENG_085	org:shareholders	UWashington3	NIL
+SF14_ENG_085	org:city_of_headquarters	UWashington3	NIL
+SF14_ENG_085	org:member_of	UWashington3	NIL
+SF14_ENG_085	org:top_members_employees	UWashington3	NIL
+SF14_ENG_085	org:parents	UWashington3	NIL
+SF14_ENG_085	org:members	UWashington3	NIL
+SF14_ENG_085	org:stateorprovince_of_headquarters	UWashington3	NIL

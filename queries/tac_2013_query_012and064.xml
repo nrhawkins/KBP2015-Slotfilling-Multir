@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kbpslotfill>
+  <query id="SF13_ENG_012">
+    <name>Adam Gadahn</name>
+    <docid>APW_ENG_20100307.0647</docid>
+    <beg>144</beg>
+    <end>154</end>
+    <enttype>PER</enttype>
+    <nodeid>NIL</nodeid>
+  </query>
+  <query id="SF13_ENG_064">
+    <name>Stockholm International Peace Research Institute</name>
+    <docid>XIN_ENG_20100616.0320</docid>
+    <beg>1219</beg>
+    <end>1266</end>
+    <enttype>ORG</enttype>
+    <nodeid>NIL</nodeid>
+  </query>
+</kbpslotfill>
